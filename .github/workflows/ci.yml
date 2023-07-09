@@ -1,14 +1,11 @@
 name: ci
 
 on:
-    push:
-        branches:
-            - main
     schedule:
         - cron: '30 0,18 * * *'
 
 jobs:
-    autogreen:
+    update-readme:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
@@ -47,7 +44,7 @@ jobs:
                   else
                     echo "No changes detected"
                   fi
-                  
+
             - name: Push changes
               uses: ad-m/github-push-action@master
               if: ${{ steps.commit-files.outputs.hasChange == 'true' }}
