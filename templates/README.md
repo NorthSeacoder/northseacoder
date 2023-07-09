@@ -6,7 +6,14 @@
 ## 项目参考
 - [front-end-rss](https://github.com/ChanceYu/front-end-rss);
 
+- [CaoMeiYouRen](https://github.com/CaoMeiYouRen/CaoMeiYouRen);
+
+- [auto-green](https://github.com/justjavac/auto-green);
 ##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
+
+[![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
+
 
 :alarm_clock: 更新时间: <%= obj.currentDate %>，:rocket: 更新条数: +<%= obj.newData.length %>， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
