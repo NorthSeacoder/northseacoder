@@ -17,14 +17,15 @@
     },
     "scripts": {
         "start": "esno index.ts",
-        "cz": "cz"
+        "cz": "git add . && cz",
+        "cl": "conventional-changelog -p angular -i CHANGELOG.md -s"
     },
     "devDependencies": {
         "@types/fs-extra": "^11.0.1",
         "@types/node": "^20.4.1",
         "@types/query-string": "^6.3.0",
         "commitizen": "^4.3.0",
-        "cz-conventional-changelog": "^3.3.0"
+        "conventional-changelog-cli": "^3.0.0"
     },
     "config": {
         "commitizen": {
