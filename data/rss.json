@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Node-Weekly",
+        "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml"
+    },
+    {
+        "title": "JavaScript-Weekly",
+        "rss": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
+    },
+    {
+        "title": "Frontend-Focus",
+        "rss": "https://cprss.s3.amazonaws.com/frontendfoc.us.xml"
+    },
+
+    {
+        "title": "React-Status",
+        "rss": "https://cprss.s3.amazonaws.com/react.statuscode.com.xml"
+    },
+
+    {
+        "title": "淘系前端团队",
+        "rss": "https://fed.taobao.org/atom.xml"
+    },
+    {
+        "title": "张鑫旭-鑫空间-鑫生活",
+        "rss": "https://www.zhangxinxu.com/wordpress/feed/"
+    },
+    {
+        "title": "阮一峰的网络日志",
+        "rss": "http://www.ruanyifeng.com/blog/atom.xml"
+    }
+]
