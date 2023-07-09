@@ -1,4 +1,4 @@
-<div align="center"><img width="100" src="/assets/rss.gif" /><h1></h1>
+<div align="center"><img width="100" src="https://avatars.githubusercontent.com/u/30330837?s=400&u=1cd6e7c560308a159cf25295d652e375924ddf7e&v=4" style="border-radius: 50%;" /><h1></h1>
 每天定时抓取感兴趣的前端技术文章，并推送到 GitHub 方便查看
 
 </div>
@@ -6,9 +6,16 @@
 ## 项目参考
 - [front-end-rss](https://github.com/ChanceYu/front-end-rss);
 
-##
+- [CaoMeiYouRen](https://github.com/CaoMeiYouRen/CaoMeiYouRen);
 
-:alarm_clock: 更新时间: 2023-07-09 14:43:55，:rocket: 更新条数: +49， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+- [auto-green](https://github.com/justjavac/auto-green);
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
+
+[![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
+
+
+:alarm_clock: 更新时间: 2023-07-09 08:13:40，:rocket: 更新条数: +46， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,7 +25,8 @@
 - [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [DecoHack---独立开发者的灵感周刊](#decohack---独立开发者的灵感周刊)  
 
 ## 文章链接
 
@@ -119,15 +127,15 @@
 </summary>
 
 
-- [2023-06-30-CSS-sin/cos等数学三角函数简介与应用](https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/) ![](/assets/new.png)  
+- [2023-06-29-CSS-sin/cos等数学三角函数简介与应用](https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/) ![](/assets/new.png)  
 - [2023-06-18-我使用CSS模拟个假的数字loading效果](https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/) ![](/assets/new.png)  
 - [2023-06-05-使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/) ![](/assets/new.png)  
 - [2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/) ![](/assets/new.png)  
-- [2023-05-31-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/) ![](/assets/new.png)  
+- [2023-05-30-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/) ![](/assets/new.png)  
 - [2023-05-21-JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/) ![](/assets/new.png)  
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/) ![](/assets/new.png)  
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/) ![](/assets/new.png)  
-- [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/) ![](/assets/new.png)  
+- [2023-03-23-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/) ![](/assets/new.png)  
 - [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/) ![](/assets/new.png)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
@@ -140,10 +148,18 @@
 </summary>
 
 
-- [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) ![](/assets/new.png)  
-- [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) ![](/assets/new.png)  
-- [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) ![](/assets/new.png)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
+
+<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="decohack---独立开发者的灵感周刊">
+ DecoHack---独立开发者的灵感周刊
+</summary>
+
+
+- [......【查看更多】......](/details/DecoHack - 独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
 </details>
