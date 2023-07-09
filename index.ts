@@ -75,7 +75,7 @@ const tasks = rssJson.map(async (rssItem, rssIndex) => {
 });
 await Promise.all(tasks);
 if (newData.length) {
-    // fs.outputJsonSync(LINKS_PATH, linksJson)
+    fs.outputJsonSync(LINKS_PATH, linksJson)
     await writemd(newData, linksJson)
   } else {
     logSuccess('无需更新')
