@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-09 08:13:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-09 16:32:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -22,3 +22,6 @@
 - [2020-08-20-什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc) 
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/) 
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/) 
+- [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
+- [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
+- [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 

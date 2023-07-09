@@ -20,7 +20,7 @@
 
 <% _.each(e.items.slice(0,20), function(item){ var itemTitle = obj.formatTitle(item.title); %>
 - [【<%= item.rssTitle %>】<%= itemTitle %>](<%= item.link %>)<% }) %>
-- [......【查看更多】......](/details/tags/<%= e.filename %>.md)
+- [......【查看更多】......](/category/tags/<%= e.filename %>.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>

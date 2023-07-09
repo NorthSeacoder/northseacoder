@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-09 08:13:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-09 16:32:31。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -39,7 +39,7 @@
 
 
 - [【React-Status】Creating-videos-with-React-gets-even-better](https://react.statuscode.com/issues/346)
-- [......【查看更多】......](/details/tags/react.md)
+- [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -55,7 +55,7 @@
 
 
 
-- [......【查看更多】......](/details/tags/vue.md)
+- [......【查看更多】......](/category/tags/vue.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -71,7 +71,7 @@
 
 
 
-- [......【查看更多】......](/details/tags/typescript.md)
+- [......【查看更多】......](/category/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -88,7 +88,7 @@
 
 
 - [【淘系前端团队】All-in-one：项目级-monorepo-策略最佳实践](https://fed.taobao.org/blog/taofed/do71ct/uihagy)
-- [......【查看更多】......](/details/tags/pack-build.md)
+- [......【查看更多】......](/category/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -107,7 +107,7 @@
 - [【Node-Weekly】Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493)
 - [【Node-Weekly】Why-Node-permissions-are-experimental-for-now](https://nodeweekly.com/issues/492)
 - [【Node-Weekly】Getting-under-Node's-skin](https://nodeweekly.com/issues/491)
-- [......【查看更多】......](/details/tags/nodejs.md)
+- [......【查看更多】......](/category/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -123,7 +123,7 @@
 
 
 
-- [......【查看更多】......](/details/tags/miniprogram.md)
+- [......【查看更多】......](/category/tags/miniprogram.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -139,7 +139,7 @@
 
 
 
-- [......【查看更多】......](/details/tags/dev-mobile.md)
+- [......【查看更多】......](/category/tags/dev-mobile.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -155,7 +155,7 @@
 
 
 
-- [......【查看更多】......](/details/tags/dev-game.md)
+- [......【查看更多】......](/category/tags/dev-game.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -180,7 +180,7 @@
 - [【张鑫旭-鑫空间-鑫生活】使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/)
 - [【张鑫旭-鑫空间-鑫生活】JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/)
 - [【张鑫旭-鑫空间-鑫生活】瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)
-- [......【查看更多】......](/details/tags/javascript.md)
+- [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -204,7 +204,7 @@
 - [【张鑫旭-鑫空间-鑫生活】使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/)
 - [【张鑫旭-鑫空间-鑫生活】CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)
-- [......【查看更多】......](/details/tags/css.md)
+- [......【查看更多】......](/category/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -220,7 +220,7 @@
 
 
 
-- [......【查看更多】......](/details/tags/html.md)
+- [......【查看更多】......](/category/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -239,7 +239,7 @@
 - [【Frontend-Focus】A-beautiful-primer-on-SVG-paths](https://frontendfoc.us/issues/600)
 - [【淘系前端团队】服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
 - [【淘系前端团队】用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx)
-- [......【查看更多】......](/details/tags/canvas-image.md)
+- [......【查看更多】......](/category/tags/canvas-image.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -255,7 +255,7 @@
 
 
 
-- [......【查看更多】......](/details/tags/audio-video.md)
+- [......【查看更多】......](/category/tags/audio-video.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -272,7 +272,7 @@
 
 
 - [【淘系前端团队】VS-Code-是如何优化启动性能的？](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
-- [......【查看更多】......](/details/tags/optimization.md)
+- [......【查看更多】......](/category/tags/optimization.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -290,7 +290,7 @@
 
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
 - [【淘系前端团队】CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag)
-- [......【查看更多】......](/details/tags/browser.md)
+- [......【查看更多】......](/category/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -307,7 +307,7 @@
 
 
 - [【淘系前端团队】如何在应用架构中设计微前端方案---icestark](https://fed.taobao.org/blog/taofed/do71ct/xgmaz3)
-- [......【查看更多】......](/details/tags/front-end-advanced.md)
+- [......【查看更多】......](/category/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -323,7 +323,7 @@
 
 
 
-- [......【查看更多】......](/details/tags/server.md)
+- [......【查看更多】......](/category/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -339,7 +339,7 @@
 
 
 
-- [......【查看更多】......](/details/tags/git-svn.md)
+- [......【查看更多】......](/category/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -355,7 +355,7 @@
 
 
 
-- [......【查看更多】......](/details/tags/job-interview.md)
+- [......【查看更多】......](/category/tags/job-interview.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>
@@ -386,7 +386,10 @@
 - [【淘系前端团队】什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc)
 - [【张鑫旭-鑫空间-鑫生活】使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)
 - [【张鑫旭-鑫空间-鑫生活】AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)
-- [......【查看更多】......](/details/tags/other.md)
+- [【阮一峰的网络日志】科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)
+- [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
 </details>

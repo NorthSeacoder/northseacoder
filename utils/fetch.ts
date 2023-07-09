@@ -27,7 +27,8 @@ const fetchFeed = async (rss: string) => {
             logSuccess('成功 RSS: ' + rss);
             return feed;
         }
-    } catch (e) {}
+    } catch (e) {
+    }
 
     logWarn('失败 RSS: ' + rss);
     return true;
