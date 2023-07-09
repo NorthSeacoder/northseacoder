@@ -1,4 +1,4 @@
-<div align="center"><img width="100" src="/assets/rss.gif" /><h1></h1>
+<div align="center"><img width="100" src="https://avatars.githubusercontent.com/u/30330837?s=400&u=1cd6e7c560308a159cf25295d652e375924ddf7e&v=4" style="border-radius: 50%;" /><h1></h1>
 每天定时抓取感兴趣的前端技术文章，并推送到 GitHub 方便查看
 
 </div>
