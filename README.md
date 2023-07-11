@@ -15,18 +15,18 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-07-09 16:32:31，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-11 18:36:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
-- [DecoHack---独立开发者的灵感周刊](#decohack---独立开发者的灵感周刊)  
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
 ## 文章链接
 
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-07-11-Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494) ![](/assets/new.png)  
 - [2023-07-04-Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493)  
 - [2023-06-27-Why-Node-permissions-are-experimental-for-now](https://nodeweekly.com/issues/492)  
 - [2023-06-20-Getting-under-Node's-skin](https://nodeweekly.com/issues/491)  
@@ -148,17 +149,17 @@
 </summary>
 
 
-- [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) ![](/assets/new.png)  
-- [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) ![](/assets/new.png)  
-- [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) ![](/assets/new.png)  
+- [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)  
+- [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)  
+- [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)  
 - [......【查看更多】......](/category/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
 </details>
 
 <details open>
-<summary id="decohack---独立开发者的灵感周刊">
- DecoHack---独立开发者的灵感周刊
+<summary id="decohack-独立开发者的灵感周刊">
+ DecoHack-独立开发者的灵感周刊
 </summary>
 
 
