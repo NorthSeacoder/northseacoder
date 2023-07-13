@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-12 18:37:05。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-13 18:37:07。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -372,6 +372,7 @@
 
 
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
 - [【Frontend-Focus】Behind-the-curtain-of-Wikipedia's-redesign](https://frontendfoc.us/issues/599)
 - [【React-Status】Bad-boolean-advice](https://react.statuscode.com/issues/345)
@@ -390,7 +391,6 @@
 - [【张鑫旭-鑫空间-鑫生活】使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)
 - [【张鑫旭-鑫空间-鑫生活】AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)
-- [【阮一峰的网络日志】科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

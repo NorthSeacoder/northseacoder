@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-07-12 18:37:05，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-13 18:37:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -52,6 +52,7 @@
 </summary>
 
 
+- [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647) ![](/assets/new.png)  
 - [2023-07-06-CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646)  
 - [2023-06-29-This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)  
 - [2023-06-22-Svelte-4-released](https://javascriptweekly.com/issues/644)  
@@ -67,7 +68,7 @@
 </summary>
 
 
-- [2023-07-12-A-is-for-aspect-ratio,-B-is-for-border..](https://frontendfoc.us/issues/601) ![](/assets/new.png)  
+- [2023-07-12-A-is-for-aspect-ratio,-B-is-for-border..](https://frontendfoc.us/issues/601)  
 - [2023-07-05-A-beautiful-primer-on-SVG-paths](https://frontendfoc.us/issues/600)  
 - [2023-06-28-Behind-the-curtain-of-Wikipedia's-redesign](https://frontendfoc.us/issues/599)  
 - [2023-06-21-How-do-you-use-CSS?](https://frontendfoc.us/issues/598)  
@@ -83,7 +84,7 @@
 </summary>
 
 
-- [2023-07-12-Demystifying-React-Server-Components](https://react.statuscode.com/issues/347) ![](/assets/new.png)  
+- [2023-07-12-Demystifying-React-Server-Components](https://react.statuscode.com/issues/347)  
 - [2023-07-05-Creating-videos-with-React-gets-even-better](https://react.statuscode.com/issues/346)  
 - [2023-06-28-Bad-boolean-advice](https://react.statuscode.com/issues/345)  
 - [2023-06-21-The-most-'admired-and-desired'-Web-technology](https://react.statuscode.com/issues/344)  
