@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-20 18:34:18。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-25 18:33:05。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -106,6 +106,7 @@
 
 
 
+- [【Node-Weekly】The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496)
 - [【Node-Weekly】Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493)
 - [【Node-Weekly】Why-Node-permissions-are-experimental-for-now](https://nodeweekly.com/issues/492)
 - [【Node-Weekly】Getting-under-Node's-skin](https://nodeweekly.com/issues/491)
@@ -393,7 +394,7 @@
 - [【淘系前端团队】入职一年多的一些思考](https://fed.taobao.org/blog/taofed/do71ct/sxz5ap)
 - [【淘系前端团队】阿里实习-90-天：从实习生的视角谈谈个人成长](https://fed.taobao.org/blog/taofed/do71ct/acbnym)
 - [【淘系前端团队】什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc)
-- [【张鑫旭-鑫空间-鑫生活】使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)
+- [【张鑫旭-鑫空间-鑫生活】5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
