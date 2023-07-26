@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-25 18:33:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-26 18:32:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -9,6 +9,7 @@
 - [2023-07-11-Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494) 
 - [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647) 
 - [2023-06-22-Svelte-4-released](https://javascriptweekly.com/issues/644) 
+- [2023-07-26-Arc-reaches-1.0](https://frontendfoc.us/issues/603) 
 - [2023-07-19-Just-how-bloated-is-your-site?](https://frontendfoc.us/issues/602) 
 - [2023-06-28-Behind-the-curtain-of-Wikipedia's-redesign](https://frontendfoc.us/issues/599) 
 - [2023-06-28-Bad-boolean-advice](https://react.statuscode.com/issues/345) 

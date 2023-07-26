@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-07-25 18:33:05，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-26 18:32:49，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2023-07-25-The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496) ![](/assets/new.png)  
+- [2023-07-25-The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496)  
 - [2023-07-18-Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)  
 - [2023-07-11-Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)  
 - [2023-07-04-Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493)  
@@ -71,6 +71,7 @@
 </summary>
 
 
+- [2023-07-26-Arc-reaches-1.0](https://frontendfoc.us/issues/603) ![](/assets/new.png)  
 - [2023-07-19-Just-how-bloated-is-your-site?](https://frontendfoc.us/issues/602)  
 - [2023-07-12-A-is-for-aspect-ratio,-B-is-for-border..](https://frontendfoc.us/issues/601)  
 - [2023-07-05-A-beautiful-primer-on-SVG-paths](https://frontendfoc.us/issues/600)  
@@ -88,6 +89,7 @@
 </summary>
 
 
+- [2023-07-26-Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349) ![](/assets/new.png)  
 - [2023-07-19-Ways-that-React-18-improves-performance](https://react.statuscode.com/issues/348)  
 - [2023-07-12-Demystifying-React-Server-Components](https://react.statuscode.com/issues/347)  
 - [2023-07-05-Creating-videos-with-React-gets-even-better](https://react.statuscode.com/issues/346)  
@@ -136,7 +138,7 @@
 </summary>
 
 
-- [2023-07-25-5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/) ![](/assets/new.png)  
+- [2023-07-25-5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/)  
 - [2023-07-20-CSS高宽不等图片固定比例布局的三重进化](https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/)  
 - [2023-06-29-CSS-sin/cos等数学三角函数简介与应用](https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/)  
 - [2023-06-18-我使用CSS模拟个假的数字loading效果](https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/)  
