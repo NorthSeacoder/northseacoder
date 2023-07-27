@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-26 18:32:49。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-27 18:32:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -378,6 +378,7 @@
 
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
 - [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
 - [【Frontend-Focus】Arc-reaches-1.0](https://frontendfoc.us/issues/603)
@@ -395,7 +396,6 @@
 - [【淘系前端团队】我的前端成长之路：-在阿里七年，我的成长和迷茫](https://fed.taobao.org/blog/taofed/do71ct/ttpk5r)
 - [【淘系前端团队】入职一年多的一些思考](https://fed.taobao.org/blog/taofed/do71ct/sxz5ap)
 - [【淘系前端团队】阿里实习-90-天：从实习生的视角谈谈个人成长](https://fed.taobao.org/blog/taofed/do71ct/acbnym)
-- [【淘系前端团队】什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
