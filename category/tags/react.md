@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-01 18:32:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-02 18:32:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-08-02-Figuring-out-if-you-should-use-React-Server-Components](https://react.statuscode.com/issues/350) 
 - [2023-07-19-Ways-that-React-18-improves-performance](https://react.statuscode.com/issues/348) 
 - [2023-07-12-Demystifying-React-Server-Components](https://react.statuscode.com/issues/347) 
 - [2023-07-05-Creating-videos-with-React-gets-even-better](https://react.statuscode.com/issues/346) 

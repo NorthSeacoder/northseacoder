@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-01 18:32:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-02 18:32:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -11,6 +11,7 @@
 - [2023-07-06-CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646) 
 - [2023-06-29-This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645) 
 - [2023-06-15-11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643) 
+- [2023-08-02-Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604) 
 - [2023-06-14-A-Million.js-to-one](https://react.statuscode.com/issues/343) 
 - [2020-09-11-淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el) 
 - [2020-09-01-JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la) 
