@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-08-02 18:32:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-08-03 18:32:50。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -176,6 +176,7 @@
 
 
 
+- [【JavaScript-Weekly】Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)
 - [【JavaScript-Weekly】The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)
 - [【JavaScript-Weekly】CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646)
 - [【JavaScript-Weekly】This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)

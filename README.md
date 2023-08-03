@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-08-02 18:32:56，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-03 18:32:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -55,6 +55,7 @@
 </summary>
 
 
+- [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650) ![](/assets/new.png)  
 - [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649)  
 - [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)  
 - [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647)  
@@ -73,7 +74,7 @@
 </summary>
 
 
-- [2023-08-02-Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604) ![](/assets/new.png)  
+- [2023-08-02-Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604)  
 - [2023-07-26-Arc-reaches-1.0](https://frontendfoc.us/issues/603)  
 - [2023-07-19-Just-how-bloated-is-your-site?](https://frontendfoc.us/issues/602)  
 - [2023-07-12-A-is-for-aspect-ratio,-B-is-for-border..](https://frontendfoc.us/issues/601)  
@@ -92,7 +93,7 @@
 </summary>
 
 
-- [2023-08-02-Figuring-out-if-you-should-use-React-Server-Components](https://react.statuscode.com/issues/350) ![](/assets/new.png)  
+- [2023-08-02-Figuring-out-if-you-should-use-React-Server-Components](https://react.statuscode.com/issues/350)  
 - [2023-07-26-Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349)  
 - [2023-07-19-Ways-that-React-18-improves-performance](https://react.statuscode.com/issues/348)  
 - [2023-07-12-Demystifying-React-Server-Components](https://react.statuscode.com/issues/347)  
