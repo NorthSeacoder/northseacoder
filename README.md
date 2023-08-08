@@ -15,12 +15,12 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-08-03 18:32:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-08 18:33:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-08-08-Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498) ![](/assets/new.png)  
 - [2023-08-01-Opening-up-the-Node.js-toolbox](https://nodeweekly.com/issues/497)  
 - [2023-07-25-The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496)  
 - [2023-07-18-Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)  
@@ -55,7 +56,7 @@
 </summary>
 
 
-- [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650) ![](/assets/new.png)  
+- [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)  
 - [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649)  
 - [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)  
 - [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647)  
