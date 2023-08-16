@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-08-09 18:35:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-16 18:33:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2023-08-16-Official-docs-on-using-TypeScript-with-React](https://react.statuscode.com/issues/352) 
 - [2023-08-09-✨-Reacting-with-the-Stars](https://react.statuscode.com/issues/351) 
 - [2023-08-02-Figuring-out-if-you-should-use-React-Server-Components](https://react.statuscode.com/issues/350) 
 - [2023-07-26-Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349) 

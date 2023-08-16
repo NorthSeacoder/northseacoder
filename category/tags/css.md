@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-10 18:33:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-16 18:33:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-08-16-Using-CSS-to-test-your-refresh-rate.](https://frontendfoc.us/issues/606) 
 - [2023-07-12-A-is-for-aspect-ratio,-B-is-for-border..](https://frontendfoc.us/issues/601) 
 - [2023-06-21-How-do-you-use-CSS?](https://frontendfoc.us/issues/598) 
 - [2023-06-14-The-gotchas-of-CSS-nesting](https://frontendfoc.us/issues/597) 
