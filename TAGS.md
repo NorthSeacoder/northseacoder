@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-08-16 18:33:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-08-17 18:33:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -389,6 +389,7 @@
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)
 - [【JavaScript-Weekly】Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651)
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
 - [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
@@ -405,7 +406,6 @@
 - [【淘系前端团队】Pick-阿里巴巴前端练习生计划，成为专业前端人！](https://fed.taobao.org/blog/taofed/do71ct/fiayw0)
 - [【淘系前端团队】4982亿背后的前端技术—2020天猫双11前端体系大揭秘](https://fed.taobao.org/blog/taofed/do71ct/egg54e)
 - [【淘系前端团队】10-个你可能还不知道-VS-Code-使用技巧](https://fed.taobao.org/blog/taofed/do71ct/eonv5x)
-- [【淘系前端团队】我的前端成长之路：-在阿里七年，我的成长和迷茫](https://fed.taobao.org/blog/taofed/do71ct/ttpk5r)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

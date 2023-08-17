@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-08-16 18:33:09，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-17 18:33:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -56,6 +56,7 @@
 </summary>
 
 
+- [2023-08-17-We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652) ![](/assets/new.png)  
 - [2023-08-10-Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651)  
 - [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)  
 - [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649)  
@@ -76,7 +77,7 @@
 </summary>
 
 
-- [2023-08-16-Using-CSS-to-test-your-refresh-rate.](https://frontendfoc.us/issues/606) ![](/assets/new.png)  
+- [2023-08-16-Using-CSS-to-test-your-refresh-rate.](https://frontendfoc.us/issues/606)  
 - [2023-08-09-An-HTML-element-reunion](https://frontendfoc.us/issues/605)  
 - [2023-08-02-Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604)  
 - [2023-07-26-Arc-reaches-1.0](https://frontendfoc.us/issues/603)  
@@ -97,7 +98,7 @@
 </summary>
 
 
-- [2023-08-16-Official-docs-on-using-TypeScript-with-React](https://react.statuscode.com/issues/352) ![](/assets/new.png)  
+- [2023-08-16-Official-docs-on-using-TypeScript-with-React](https://react.statuscode.com/issues/352)  
 - [2023-08-09-✨-Reacting-with-the-Stars](https://react.statuscode.com/issues/351)  
 - [2023-08-02-Figuring-out-if-you-should-use-React-Server-Components](https://react.statuscode.com/issues/350)  
 - [2023-07-26-Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349)  
