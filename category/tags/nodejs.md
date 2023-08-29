@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-27 18:33:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-29 18:33:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-08-29-.env-support-coming-to-Node](https://nodeweekly.com/issues/499) 
 - [2023-08-01-Opening-up-the-Node.js-toolbox](https://nodeweekly.com/issues/497) 
 - [2023-07-25-The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496) 
 - [2023-07-04-Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493) 
