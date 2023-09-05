@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-08-30 18:33:24。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-09-05 18:33:25。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -109,6 +109,7 @@
 
 
 
+- [【Node-Weekly】Node-v20.6.0-released-with-.env-support](https://nodeweekly.com/issues/500)
 - [【Node-Weekly】.env-support-coming-to-Node](https://nodeweekly.com/issues/499)
 - [【Node-Weekly】Opening-up-the-Node.js-toolbox](https://nodeweekly.com/issues/497)
 - [【Node-Weekly】The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496)
@@ -257,6 +258,7 @@
 - [【Frontend-Focus】A-beautiful-primer-on-SVG-paths](https://frontendfoc.us/issues/600)
 - [【淘系前端团队】服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
 - [【淘系前端团队】用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx)
+- [【张鑫旭-鑫空间-鑫生活】做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/)
 - [......【查看更多】......](/category/tags/canvas-image.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
