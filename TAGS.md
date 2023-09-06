@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-09-05 18:33:25。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-09-06 18:33:26。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -38,6 +38,7 @@
 
 
 
+- [【React-Status】Explaining-why-React-re-renders](https://react.statuscode.com/issues/353)
 - [【React-Status】Official-docs-on-using-TypeScript-with-React](https://react.statuscode.com/issues/352)
 - [【React-Status】✨-Reacting-with-the-Stars](https://react.statuscode.com/issues/351)
 - [【React-Status】Figuring-out-if-you-should-use-React-Server-Components](https://react.statuscode.com/issues/350)
@@ -327,6 +328,7 @@
 
 
 
+- [【Frontend-Focus】Astro-3.0-released,-and-RIP-to-a-Web-hero](https://frontendfoc.us/issues/608)
 - [【淘系前端团队】如何在应用架构中设计微前端方案---icestark](https://fed.taobao.org/blog/taofed/do71ct/xgmaz3)
 - [......【查看更多】......](/category/tags/front-end-advanced.md)
 
