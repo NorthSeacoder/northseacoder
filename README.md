@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-09-07 18:33:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-12 18:33:13，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-09-12-You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501) ![](/assets/new.png)  
 - [2023-09-05-Node-v20.6.0-released-with-.env-support](https://nodeweekly.com/issues/500)  
 - [2023-08-29-.env-support-coming-to-Node](https://nodeweekly.com/issues/499)  
 - [2023-08-08-Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)  
@@ -58,7 +59,7 @@
 </summary>
 
 
-- [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653) ![](/assets/new.png)  
+- [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)  
 - [2023-08-17-We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)  
 - [2023-08-10-Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651)  
 - [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)  
@@ -156,6 +157,7 @@
 </summary>
 
 
+- [2023-09-12-Tips：form元素reset后input不触发change事件处理](https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/) ![](/assets/new.png)  
 - [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/)  
 - [2023-08-30-一言难尽的registerProtocolHandler方法](https://www.zhangxinxu.com/wordpress/2023/08/js-registerprotocolhandler/)  
 - [2023-08-29-Web-referrer策略详解与防盗链图片的显示](https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/)  
