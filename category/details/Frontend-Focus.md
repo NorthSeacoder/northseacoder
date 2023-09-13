@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-09-06 18:33:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-13 18:33:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2023-09-13-Being-lazy-in-the-right-places](https://frontendfoc.us/issues/609) 
 - [2023-09-06-Astro-3.0-released,-and-RIP-to-a-Web-hero](https://frontendfoc.us/issues/608) 
 - [2023-08-30-Here's-why-you-shouldn't-make-viewport-assumptions](https://frontendfoc.us/issues/607) 
 - [2023-08-16-Using-CSS-to-test-your-refresh-rate.](https://frontendfoc.us/issues/606) 
