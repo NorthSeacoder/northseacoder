@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-13 18:33:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-14 18:33:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654) 
 - [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650) 
 - [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648) 
 - [2023-07-06-CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646) 
