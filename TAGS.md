@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-09-15 18:33:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-09-17 18:33:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -194,6 +194,7 @@
 - [【React-Status】A-Million.js-to-one](https://react.statuscode.com/issues/343)
 - [【淘系前端团队】淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el)
 - [【淘系前端团队】JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la)
+- [【张鑫旭-鑫空间-鑫生活】又get到了，JS复制图片到剪切板](https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/)
 - [【张鑫旭-鑫空间-鑫生活】Tips：form元素reset后input不触发change事件处理](https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/)
 - [【张鑫旭-鑫空间-鑫生活】使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/)
 - [【张鑫旭-鑫空间-鑫生活】JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/)

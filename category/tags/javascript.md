@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-15 18:33:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-17 18:33:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -17,6 +17,7 @@
 - [2023-06-14-A-Million.js-to-one](https://react.statuscode.com/issues/343) 
 - [2020-09-11-淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el) 
 - [2020-09-01-JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la) 
+- [2023-09-17-又get到了，JS复制图片到剪切板](https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/) 
 - [2023-09-12-Tips：form元素reset后input不触发change事件处理](https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/) 
 - [2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/) 
 - [2023-05-21-JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/) 
