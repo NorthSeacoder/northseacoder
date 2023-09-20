@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-19 18:35:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-20 18:35:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -8,5 +8,6 @@
 
 
 - [2023-06-13-Let's-get-debugging](https://nodeweekly.com/issues/490) 
+- [2023-09-20-Safari-17-is-here](https://frontendfoc.us/issues/610) 
 - [2023-08-30-Here's-why-you-shouldn't-make-viewport-assumptions](https://frontendfoc.us/issues/607) 
 - [2020-12-02-CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag) 
