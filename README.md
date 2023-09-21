@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-09-20 18:35:03，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-21 18:33:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -60,6 +60,7 @@
 </summary>
 
 
+- [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655) ![](/assets/new.png)  
 - [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)  
 - [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)  
 - [2023-08-17-We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)  
@@ -83,7 +84,7 @@
 </summary>
 
 
-- [2023-09-20-Safari-17-is-here](https://frontendfoc.us/issues/610) ![](/assets/new.png)  
+- [2023-09-20-Safari-17-is-here](https://frontendfoc.us/issues/610)  
 - [2023-09-13-Being-lazy-in-the-right-places](https://frontendfoc.us/issues/609)  
 - [2023-09-06-Astro-3.0-released,-and-RIP-to-a-Web-hero](https://frontendfoc.us/issues/608)  
 - [2023-08-30-Here's-why-you-shouldn't-make-viewport-assumptions](https://frontendfoc.us/issues/607)  
@@ -108,7 +109,7 @@
 </summary>
 
 
-- [2023-09-20-Getting-AI-to-build-your-React-components](https://react.statuscode.com/issues/355) ![](/assets/new.png)  
+- [2023-09-20-Getting-AI-to-build-your-React-components](https://react.statuscode.com/issues/355)  
 - [2023-09-13-React-Server-Components-explained](https://react.statuscode.com/issues/354)  
 - [2023-09-06-Explaining-why-React-re-renders](https://react.statuscode.com/issues/353)  
 - [2023-08-16-Official-docs-on-using-TypeScript-with-React](https://react.statuscode.com/issues/352)  
