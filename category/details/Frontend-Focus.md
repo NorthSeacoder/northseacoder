@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-09-20 18:35:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-27 18:34:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2023-09-27-What-do-you-think-about-HTML-in-2023?](https://frontendfoc.us/issues/611) 
 - [2023-09-20-Safari-17-is-here](https://frontendfoc.us/issues/610) 
 - [2023-09-13-Being-lazy-in-the-right-places](https://frontendfoc.us/issues/609) 
 - [2023-09-06-Astro-3.0-released,-and-RIP-to-a-Web-hero](https://frontendfoc.us/issues/608) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-09-20 18:35:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-27 18:34:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2023-09-27-Who-forgot-about-React-Forget](https://react.statuscode.com/issues/356) 
 - [2023-09-20-Getting-AI-to-build-your-React-components](https://react.statuscode.com/issues/355) 
 - [2023-09-13-React-Server-Components-explained](https://react.statuscode.com/issues/354) 
 - [2023-09-06-Explaining-why-React-re-renders](https://react.statuscode.com/issues/353) 
