@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-09-27 18:34:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-09-28 18:34:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -323,6 +323,7 @@
 
 
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
+- [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
 - [【Frontend-Focus】Safari-17-is-here](https://frontendfoc.us/issues/610)
 - [【Frontend-Focus】Here's-why-you-shouldn't-make-viewport-assumptions](https://frontendfoc.us/issues/607)
 - [【淘系前端团队】CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag)
