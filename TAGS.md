@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-09-28 18:34:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-10-03 18:35:51。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -117,6 +117,7 @@
 
 
 
+- [【Node-Weekly】Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504)
 - [【Node-Weekly】Does-Node-need-a-mascot-of-its-own?](https://nodeweekly.com/issues/502)
 - [【Node-Weekly】Node-v20.6.0-released-with-.env-support](https://nodeweekly.com/issues/500)
 - [【Node-Weekly】.env-support-coming-to-Node](https://nodeweekly.com/issues/499)

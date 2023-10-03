@@ -15,12 +15,12 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-09-28 18:34:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-03 18:35:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-10-03-Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504) ![](/assets/new.png)  
 - [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503)  
 - [2023-09-19-Does-Node-need-a-mascot-of-its-own?](https://nodeweekly.com/issues/502)  
 - [2023-09-12-You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)  
@@ -61,7 +62,7 @@
 </summary>
 
 
-- [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656) ![](/assets/new.png)  
+- [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
 - [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)  
 - [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)  
