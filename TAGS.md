@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-10-03 18:35:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-10-04 18:35:19。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -197,6 +197,7 @@
 - [【JavaScript-Weekly】This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)
 - [【JavaScript-Weekly】11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)
 - [【Frontend-Focus】Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604)
+- [【React-Status】Next.js-vs-Remix](https://react.statuscode.com/issues/357)
 - [【React-Status】A-Million.js-to-one](https://react.statuscode.com/issues/343)
 - [【淘系前端团队】淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el)
 - [【淘系前端团队】JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la)
@@ -417,6 +418,7 @@
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
 - [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
+- [【Frontend-Focus】How-Photoshop-uses-browser-tech-to-the-limits](https://frontendfoc.us/issues/612)
 - [【Frontend-Focus】Being-lazy-in-the-right-places](https://frontendfoc.us/issues/609)
 - [【Frontend-Focus】Arc-reaches-1.0](https://frontendfoc.us/issues/603)
 - [【Frontend-Focus】Just-how-bloated-is-your-site?](https://frontendfoc.us/issues/602)
@@ -428,7 +430,6 @@
 - [【淘系前端团队】前端智能化实践—-P2C-从需求文档生成代码](https://fed.taobao.org/blog/taofed/do71ct/ffeogu)
 - [【淘系前端团队】舒文：浅谈阿里前端的多样化](https://fed.taobao.org/blog/taofed/do71ct/krg5m9)
 - [【淘系前端团队】Pick-阿里巴巴前端练习生计划，成为专业前端人！](https://fed.taobao.org/blog/taofed/do71ct/fiayw0)
-- [【淘系前端团队】4982亿背后的前端技术—2020天猫双11前端体系大揭秘](https://fed.taobao.org/blog/taofed/do71ct/egg54e)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
