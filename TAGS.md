@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-10-04 18:35:19。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-10-05 18:34:43。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -190,6 +190,7 @@
 
 
 
+- [【JavaScript-Weekly】Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)
 - [【JavaScript-Weekly】JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)
 - [【JavaScript-Weekly】Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)
 - [【JavaScript-Weekly】The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)

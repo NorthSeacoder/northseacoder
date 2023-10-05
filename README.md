@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-10-04 18:35:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-05 18:34:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -62,6 +62,7 @@
 </summary>
 
 
+- [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657) ![](/assets/new.png)  
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
 - [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)  
@@ -87,7 +88,7 @@
 </summary>
 
 
-- [2023-10-04-How-Photoshop-uses-browser-tech-to-the-limits](https://frontendfoc.us/issues/612) ![](/assets/new.png)  
+- [2023-10-04-How-Photoshop-uses-browser-tech-to-the-limits](https://frontendfoc.us/issues/612)  
 - [2023-09-27-What-do-you-think-about-HTML-in-2023?](https://frontendfoc.us/issues/611)  
 - [2023-09-20-Safari-17-is-here](https://frontendfoc.us/issues/610)  
 - [2023-09-13-Being-lazy-in-the-right-places](https://frontendfoc.us/issues/609)  
@@ -114,7 +115,7 @@
 </summary>
 
 
-- [2023-10-04-Next.js-vs-Remix](https://react.statuscode.com/issues/357) ![](/assets/new.png)  
+- [2023-10-04-Next.js-vs-Remix](https://react.statuscode.com/issues/357)  
 - [2023-09-27-Who-forgot-about-React-Forget](https://react.statuscode.com/issues/356)  
 - [2023-09-20-Getting-AI-to-build-your-React-components](https://react.statuscode.com/issues/355)  
 - [2023-09-13-React-Server-Components-explained](https://react.statuscode.com/issues/354)  
