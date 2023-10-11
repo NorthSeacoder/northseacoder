@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-10-10 18:34:14，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-11 18:35:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2023-10-10-Testing-perfection-for-Node?](https://nodeweekly.com/issues/505) ![](/assets/new.png)  
+- [2023-10-10-Testing-perfection-for-Node?](https://nodeweekly.com/issues/505)  
 - [2023-10-03-Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504)  
 - [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503)  
 - [2023-09-19-Does-Node-need-a-mascot-of-its-own?](https://nodeweekly.com/issues/502)  
@@ -89,6 +89,7 @@
 </summary>
 
 
+- [2023-10-11-Some-Tailwind-CSS-best-practices](https://frontendfoc.us/issues/613) ![](/assets/new.png)  
 - [2023-10-04-How-Photoshop-uses-browser-tech-to-the-limits](https://frontendfoc.us/issues/612)  
 - [2023-09-27-What-do-you-think-about-HTML-in-2023?](https://frontendfoc.us/issues/611)  
 - [2023-09-20-Safari-17-is-here](https://frontendfoc.us/issues/610)  
@@ -173,7 +174,7 @@
 </summary>
 
 
-- [2023-10-10-纯JS实现多个音频的拼接或者合并](https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/) ![](/assets/new.png)  
+- [2023-10-10-纯JS实现多个音频的拼接或者合并](https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/)  
 - [2023-10-09-JS改变AudioBuffer音量并下载为新audio音频](https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/)  
 - [2023-09-17-又get到了，JS复制图片到剪切板](https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/)  
 - [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/)  

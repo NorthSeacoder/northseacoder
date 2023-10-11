@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-10-10 18:34:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-10-11 18:35:03。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -226,6 +226,7 @@
 
 
 
+- [【Frontend-Focus】Some-Tailwind-CSS-best-practices](https://frontendfoc.us/issues/613)
 - [【Frontend-Focus】Using-CSS-to-test-your-refresh-rate.](https://frontendfoc.us/issues/606)
 - [【Frontend-Focus】A-is-for-aspect-ratio,-B-is-for-border..](https://frontendfoc.us/issues/601)
 - [【Frontend-Focus】How-do-you-use-CSS?](https://frontendfoc.us/issues/598)
