@@ -15,13 +15,13 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-10-11 18:35:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-12 18:35:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -63,6 +63,7 @@
 </summary>
 
 
+- [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658) ![](/assets/new.png)  
 - [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)  
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
@@ -89,7 +90,7 @@
 </summary>
 
 
-- [2023-10-11-Some-Tailwind-CSS-best-practices](https://frontendfoc.us/issues/613) ![](/assets/new.png)  
+- [2023-10-11-Some-Tailwind-CSS-best-practices](https://frontendfoc.us/issues/613)  
 - [2023-10-04-How-Photoshop-uses-browser-tech-to-the-limits](https://frontendfoc.us/issues/612)  
 - [2023-09-27-What-do-you-think-about-HTML-in-2023?](https://frontendfoc.us/issues/611)  
 - [2023-09-20-Safari-17-is-here](https://frontendfoc.us/issues/610)  

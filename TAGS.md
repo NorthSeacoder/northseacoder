@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-10-11 18:35:03。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-10-12 18:35:02。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -191,6 +191,7 @@
 
 
 
+- [【JavaScript-Weekly】Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658)
 - [【JavaScript-Weekly】Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)
 - [【JavaScript-Weekly】JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)
 - [【JavaScript-Weekly】Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)
