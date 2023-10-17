@@ -15,12 +15,12 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-10-12 18:35:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-17 18:35:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506) ![](/assets/new.png)  
 - [2023-10-10-Testing-perfection-for-Node?](https://nodeweekly.com/issues/505)  
 - [2023-10-03-Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504)  
 - [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503)  
@@ -63,7 +64,7 @@
 </summary>
 
 
-- [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658) ![](/assets/new.png)  
+- [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658)  
 - [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)  
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
