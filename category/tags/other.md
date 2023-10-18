@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-10-17 18:35:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-18 18:35:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -18,6 +18,7 @@
 - [2023-07-26-Arc-reaches-1.0](https://frontendfoc.us/issues/603) 
 - [2023-07-19-Just-how-bloated-is-your-site?](https://frontendfoc.us/issues/602) 
 - [2023-06-28-Behind-the-curtain-of-Wikipedia's-redesign](https://frontendfoc.us/issues/599) 
+- [2023-10-18-TanStack-Query-v5-released](https://react.statuscode.com/issues/358) 
 - [2023-06-28-Bad-boolean-advice](https://react.statuscode.com/issues/345) 
 - [2023-06-21-The-most-'admired-and-desired'-Web-technology](https://react.statuscode.com/issues/344) 
 - [2021-06-23-业务系统的稳定性建设](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0) 

@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-10-17 18:35:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-18 18:35:18，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506) ![](/assets/new.png)  
+- [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506)  
 - [2023-10-10-Testing-perfection-for-Node?](https://nodeweekly.com/issues/505)  
 - [2023-10-03-Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504)  
 - [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503)  
@@ -91,6 +91,7 @@
 </summary>
 
 
+- [2023-10-18-Test-how-many-HTML-tags-you-know](https://frontendfoc.us/issues/614) ![](/assets/new.png)  
 - [2023-10-11-Some-Tailwind-CSS-best-practices](https://frontendfoc.us/issues/613)  
 - [2023-10-04-How-Photoshop-uses-browser-tech-to-the-limits](https://frontendfoc.us/issues/612)  
 - [2023-09-27-What-do-you-think-about-HTML-in-2023?](https://frontendfoc.us/issues/611)  
@@ -119,6 +120,7 @@
 </summary>
 
 
+- [2023-10-18-TanStack-Query-v5-released](https://react.statuscode.com/issues/358) ![](/assets/new.png)  
 - [2023-10-04-Next.js-vs-Remix](https://react.statuscode.com/issues/357)  
 - [2023-09-27-Who-forgot-about-React-Forget](https://react.statuscode.com/issues/356)  
 - [2023-09-20-Getting-AI-to-build-your-React-components](https://react.statuscode.com/issues/355)  

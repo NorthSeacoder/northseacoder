@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-10-17 18:35:33。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-10-18 18:35:18。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -256,6 +256,7 @@
 
 
 
+- [【Frontend-Focus】Test-how-many-HTML-tags-you-know](https://frontendfoc.us/issues/614)
 - [【Frontend-Focus】What-do-you-think-about-HTML-in-2023?](https://frontendfoc.us/issues/611)
 - [【Frontend-Focus】An-HTML-element-reunion](https://frontendfoc.us/issues/605)
 - [【React-Status】Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349)
@@ -430,13 +431,13 @@
 - [【Frontend-Focus】Arc-reaches-1.0](https://frontendfoc.us/issues/603)
 - [【Frontend-Focus】Just-how-bloated-is-your-site?](https://frontendfoc.us/issues/602)
 - [【Frontend-Focus】Behind-the-curtain-of-Wikipedia's-redesign](https://frontendfoc.us/issues/599)
+- [【React-Status】TanStack-Query-v5-released](https://react.statuscode.com/issues/358)
 - [【React-Status】Bad-boolean-advice](https://react.statuscode.com/issues/345)
 - [【React-Status】The-most-'admired-and-desired'-Web-technology](https://react.statuscode.com/issues/344)
 - [【淘系前端团队】业务系统的稳定性建设](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 - [【淘系前端团队】2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7)
 - [【淘系前端团队】前端智能化实践—-P2C-从需求文档生成代码](https://fed.taobao.org/blog/taofed/do71ct/ffeogu)
 - [【淘系前端团队】舒文：浅谈阿里前端的多样化](https://fed.taobao.org/blog/taofed/do71ct/krg5m9)
-- [【淘系前端团队】Pick-阿里巴巴前端练习生计划，成为专业前端人！](https://fed.taobao.org/blog/taofed/do71ct/fiayw0)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
