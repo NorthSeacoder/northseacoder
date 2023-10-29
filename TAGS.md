@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-10-26 18:33:42。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-10-29 18:33:02。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -317,6 +317,7 @@
 
 
 - [【淘系前端团队】VS-Code-是如何优化启动性能的？](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
+- [【张鑫旭-鑫空间-鑫生活】聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/)
 - [......【查看更多】......](/category/tags/optimization.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
