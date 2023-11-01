@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-10-31 18:33:46。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-01 18:34:12。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -205,6 +205,7 @@
 - [【JavaScript-Weekly】This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)
 - [【JavaScript-Weekly】11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)
 - [【Frontend-Focus】Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604)
+- [【React-Status】Next.js-14-and-Docusaurus-3.0](https://react.statuscode.com/issues/360)
 - [【React-Status】Next.js-vs-Remix](https://react.statuscode.com/issues/357)
 - [【React-Status】A-Million.js-to-one](https://react.statuscode.com/issues/343)
 - [【淘系前端团队】淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el)
@@ -213,7 +214,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS改变AudioBuffer音量并下载为新audio音频](https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/)
 - [【张鑫旭-鑫空间-鑫生活】又get到了，JS复制图片到剪切板](https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/)
 - [【张鑫旭-鑫空间-鑫生活】Tips：form元素reset后input不触发change事件处理](https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/)
-- [【张鑫旭-鑫空间-鑫生活】使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -258,6 +258,7 @@
 
 
 
+- [【Frontend-Focus】None-of-the-top-100-sites-uses-fully-conformant-HTML?](https://frontendfoc.us/issues/616)
 - [【Frontend-Focus】Test-how-many-HTML-tags-you-know](https://frontendfoc.us/issues/614)
 - [【Frontend-Focus】What-do-you-think-about-HTML-in-2023?](https://frontendfoc.us/issues/611)
 - [【Frontend-Focus】An-HTML-element-reunion](https://frontendfoc.us/issues/605)
