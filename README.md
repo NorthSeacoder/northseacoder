@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-11-07 18:33:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-08 18:33:51，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509) ![](/assets/new.png)  
+- [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509)  
 - [2023-10-31-ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508)  
 - [2023-10-24-Taking-Node-to-the-JVM](https://nodeweekly.com/issues/507)  
 - [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506)  
@@ -97,6 +97,7 @@
 </summary>
 
 
+- [2023-11-08-Another-way-to-split-your-select-elements](https://frontendfoc.us/issues/617) ![](/assets/new.png)  
 - [2023-11-01-None-of-the-top-100-sites-uses-fully-conformant-HTML?](https://frontendfoc.us/issues/616)  
 - [2023-10-25-When-a-hundred-developers-code-the-same-layout](https://frontendfoc.us/issues/615)  
 - [2023-10-18-Test-how-many-HTML-tags-you-know](https://frontendfoc.us/issues/614)  
@@ -116,7 +117,6 @@
 - [2023-07-05-A-beautiful-primer-on-SVG-paths](https://frontendfoc.us/issues/600)  
 - [2023-06-28-Behind-the-curtain-of-Wikipedia's-redesign](https://frontendfoc.us/issues/599)  
 - [2023-06-21-How-do-you-use-CSS?](https://frontendfoc.us/issues/598)  
-- [2023-06-14-The-gotchas-of-CSS-nesting](https://frontendfoc.us/issues/597)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -128,6 +128,7 @@
 </summary>
 
 
+- [2023-11-08-Say-hello-to-source-maps-in-prod](https://react.statuscode.com/issues/361) ![](/assets/new.png)  
 - [2023-11-01-Next.js-14-and-Docusaurus-3.0](https://react.statuscode.com/issues/360)  
 - [2023-10-25-Server-Actions-fly-the-nest](https://react.statuscode.com/issues/359)  
 - [2023-10-18-TanStack-Query-v5-released](https://react.statuscode.com/issues/358)  

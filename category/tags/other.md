@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-07 18:33:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-08 18:33:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -14,6 +14,7 @@
 - [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649) 
 - [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647) 
 - [2023-06-22-Svelte-4-released](https://javascriptweekly.com/issues/644) 
+- [2023-11-08-Another-way-to-split-your-select-elements](https://frontendfoc.us/issues/617) 
 - [2023-10-25-When-a-hundred-developers-code-the-same-layout](https://frontendfoc.us/issues/615) 
 - [2023-10-04-How-Photoshop-uses-browser-tech-to-the-limits](https://frontendfoc.us/issues/612) 
 - [2023-09-13-Being-lazy-in-the-right-places](https://frontendfoc.us/issues/609) 
