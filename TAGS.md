@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-08 18:33:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-09 18:33:39。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -427,6 +427,7 @@
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】Angular-is-back](https://javascriptweekly.com/issues/662)
 - [【JavaScript-Weekly】We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)
 - [【JavaScript-Weekly】Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651)
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
@@ -442,7 +443,6 @@
 - [【React-Status】TanStack-Query-v5-released](https://react.statuscode.com/issues/358)
 - [【React-Status】Bad-boolean-advice](https://react.statuscode.com/issues/345)
 - [【React-Status】The-most-'admired-and-desired'-Web-technology](https://react.statuscode.com/issues/344)
-- [【淘系前端团队】业务系统的稳定性建设](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
