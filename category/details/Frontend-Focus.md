@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-11-08 18:33:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-15 18:33:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2023-11-15-A-new-metric-for-interaction-responsiveness-in-2024](https://frontendfoc.us/issues/618) 
 - [2023-11-08-Another-way-to-split-your-select-elements](https://frontendfoc.us/issues/617) 
 - [2023-11-01-None-of-the-top-100-sites-uses-fully-conformant-HTML?](https://frontendfoc.us/issues/616) 
 - [2023-10-25-When-a-hundred-developers-code-the-same-layout](https://frontendfoc.us/issues/615) 

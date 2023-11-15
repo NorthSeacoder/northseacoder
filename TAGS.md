@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-14 18:32:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-15 18:33:15。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -38,6 +38,7 @@
 
 
 
+- [【React-Status】Why-one-team-moved-back-to-React-from-Preact](https://react.statuscode.com/issues/362)
 - [【React-Status】Who-forgot-about-React-Forget](https://react.statuscode.com/issues/356)
 - [【React-Status】Getting-AI-to-build-your-React-components](https://react.statuscode.com/issues/355)
 - [【React-Status】React-Server-Components-explained](https://react.statuscode.com/issues/354)
@@ -433,6 +434,7 @@
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
 - [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
+- [【Frontend-Focus】A-new-metric-for-interaction-responsiveness-in-2024](https://frontendfoc.us/issues/618)
 - [【Frontend-Focus】Another-way-to-split-your-select-elements](https://frontendfoc.us/issues/617)
 - [【Frontend-Focus】When-a-hundred-developers-code-the-same-layout](https://frontendfoc.us/issues/615)
 - [【Frontend-Focus】How-Photoshop-uses-browser-tech-to-the-limits](https://frontendfoc.us/issues/612)
@@ -442,7 +444,6 @@
 - [【Frontend-Focus】Behind-the-curtain-of-Wikipedia's-redesign](https://frontendfoc.us/issues/599)
 - [【React-Status】TanStack-Query-v5-released](https://react.statuscode.com/issues/358)
 - [【React-Status】Bad-boolean-advice](https://react.statuscode.com/issues/345)
-- [【React-Status】The-most-'admired-and-desired'-Web-technology](https://react.statuscode.com/issues/344)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
