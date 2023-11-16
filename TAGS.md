@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-15 18:33:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-16 18:34:55。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -118,6 +118,7 @@
 
 
 
+- [【Node-Weekly】Milo:-A-new-HTTP-parser-for-Node?](https://nodeweekly.com/issues/510)
 - [【Node-Weekly】ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508)
 - [【Node-Weekly】Taking-Node-to-the-JVM](https://nodeweekly.com/issues/507)
 - [【Node-Weekly】Node.js-21-released](https://nodeweekly.com/issues/506)
@@ -428,6 +429,7 @@
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663)
 - [【JavaScript-Weekly】Angular-is-back](https://javascriptweekly.com/issues/662)
 - [【JavaScript-Weekly】We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)
 - [【JavaScript-Weekly】Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651)
@@ -443,7 +445,6 @@
 - [【Frontend-Focus】Just-how-bloated-is-your-site?](https://frontendfoc.us/issues/602)
 - [【Frontend-Focus】Behind-the-curtain-of-Wikipedia's-redesign](https://frontendfoc.us/issues/599)
 - [【React-Status】TanStack-Query-v5-released](https://react.statuscode.com/issues/358)
-- [【React-Status】Bad-boolean-advice](https://react.statuscode.com/issues/345)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

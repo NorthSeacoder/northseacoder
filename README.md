@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-11-15 18:33:15，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-16 18:34:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-11-14-Milo:-A-new-HTTP-parser-for-Node?](https://nodeweekly.com/issues/510) ![](/assets/new.png)  
 - [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509)  
 - [2023-10-31-ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508)  
 - [2023-10-24-Taking-Node-to-the-JVM](https://nodeweekly.com/issues/507)  
@@ -55,7 +56,6 @@
 - [2023-07-04-Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493)  
 - [2023-06-27-Why-Node-permissions-are-experimental-for-now](https://nodeweekly.com/issues/492)  
 - [2023-06-20-Getting-under-Node's-skin](https://nodeweekly.com/issues/491)  
-- [2023-06-13-Let's-get-debugging](https://nodeweekly.com/issues/490)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2023-11-16-Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663) ![](/assets/new.png)  
 - [2023-11-09-Angular-is-back](https://javascriptweekly.com/issues/662)  
 - [2023-11-02-Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)  
 - [2023-10-26-Web-Components-forever?](https://javascriptweekly.com/issues/660)  
@@ -86,7 +87,6 @@
 - [2023-07-06-CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646)  
 - [2023-06-29-This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)  
 - [2023-06-22-Svelte-4-released](https://javascriptweekly.com/issues/644)  
-- [2023-06-15-11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2023-11-15-A-new-metric-for-interaction-responsiveness-in-2024](https://frontendfoc.us/issues/618) ![](/assets/new.png)  
+- [2023-11-15-A-new-metric-for-interaction-responsiveness-in-2024](https://frontendfoc.us/issues/618)  
 - [2023-11-08-Another-way-to-split-your-select-elements](https://frontendfoc.us/issues/617)  
 - [2023-11-01-None-of-the-top-100-sites-uses-fully-conformant-HTML?](https://frontendfoc.us/issues/616)  
 - [2023-10-25-When-a-hundred-developers-code-the-same-layout](https://frontendfoc.us/issues/615)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2023-11-15-Why-one-team-moved-back-to-React-from-Preact](https://react.statuscode.com/issues/362) ![](/assets/new.png)  
+- [2023-11-15-Why-one-team-moved-back-to-React-from-Preact](https://react.statuscode.com/issues/362)  
 - [2023-11-08-Say-hello-to-source-maps-in-prod](https://react.statuscode.com/issues/361)  
 - [2023-11-01-Next.js-14-and-Docusaurus-3.0](https://react.statuscode.com/issues/360)  
 - [2023-10-25-Server-Actions-fly-the-nest](https://react.statuscode.com/issues/359)  
