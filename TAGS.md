@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-21 18:36:06。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-22 18:34:02。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -209,6 +209,7 @@
 - [【JavaScript-Weekly】This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)
 - [【JavaScript-Weekly】11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)
 - [【Frontend-Focus】Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604)
+- [【React-Status】AWS-Amplify-loves-Next.js-too](https://react.statuscode.com/issues/363)
 - [【React-Status】Say-hello-to-source-maps-in-prod](https://react.statuscode.com/issues/361)
 - [【React-Status】Next.js-14-and-Docusaurus-3.0](https://react.statuscode.com/issues/360)
 - [【React-Status】Next.js-vs-Remix](https://react.statuscode.com/issues/357)
@@ -216,7 +217,6 @@
 - [【淘系前端团队】淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el)
 - [【淘系前端团队】JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la)
 - [【张鑫旭-鑫空间-鑫生活】cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用](https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/)
-- [【张鑫旭-鑫空间-鑫生活】剪映APP的视频特效如何在Web中JS实现](https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -233,6 +233,7 @@
 
 
 
+- [【Frontend-Focus】An-interactive-guide-to-CSS-Grid](https://frontendfoc.us/issues/619)
 - [【Frontend-Focus】Some-Tailwind-CSS-best-practices](https://frontendfoc.us/issues/613)
 - [【Frontend-Focus】Using-CSS-to-test-your-refresh-rate.](https://frontendfoc.us/issues/606)
 - [【Frontend-Focus】A-is-for-aspect-ratio,-B-is-for-border..](https://frontendfoc.us/issues/601)

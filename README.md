@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-11-21 18:36:06，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-22 18:34:02，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2023-11-21-AWS-Lambda-gets-a-Node-20-LTS-runtime](https://nodeweekly.com/issues/511) ![](/assets/new.png)  
+- [2023-11-21-AWS-Lambda-gets-a-Node-20-LTS-runtime](https://nodeweekly.com/issues/511)  
 - [2023-11-14-Milo:-A-new-HTTP-parser-for-Node?](https://nodeweekly.com/issues/510)  
 - [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509)  
 - [2023-10-31-ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2023-11-22-An-interactive-guide-to-CSS-Grid](https://frontendfoc.us/issues/619) ![](/assets/new.png)  
 - [2023-11-15-A-new-metric-for-interaction-responsiveness-in-2024](https://frontendfoc.us/issues/618)  
 - [2023-11-08-Another-way-to-split-your-select-elements](https://frontendfoc.us/issues/617)  
 - [2023-11-01-None-of-the-top-100-sites-uses-fully-conformant-HTML?](https://frontendfoc.us/issues/616)  
@@ -117,7 +118,6 @@
 - [2023-07-19-Just-how-bloated-is-your-site?](https://frontendfoc.us/issues/602)  
 - [2023-07-12-A-is-for-aspect-ratio,-B-is-for-border..](https://frontendfoc.us/issues/601)  
 - [2023-07-05-A-beautiful-primer-on-SVG-paths](https://frontendfoc.us/issues/600)  
-- [2023-06-28-Behind-the-curtain-of-Wikipedia's-redesign](https://frontendfoc.us/issues/599)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2023-11-22-AWS-Amplify-loves-Next.js-too](https://react.statuscode.com/issues/363) ![](/assets/new.png)  
 - [2023-11-15-Why-one-team-moved-back-to-React-from-Preact](https://react.statuscode.com/issues/362)  
 - [2023-11-08-Say-hello-to-source-maps-in-prod](https://react.statuscode.com/issues/361)  
 - [2023-11-01-Next.js-14-and-Docusaurus-3.0](https://react.statuscode.com/issues/360)  
@@ -148,7 +149,6 @@
 - [2023-07-05-Creating-videos-with-React-gets-even-better](https://react.statuscode.com/issues/346)  
 - [2023-06-28-Bad-boolean-advice](https://react.statuscode.com/issues/345)  
 - [2023-06-21-The-most-'admired-and-desired'-Web-technology](https://react.statuscode.com/issues/344)  
-- [2023-06-14-A-Million.js-to-one](https://react.statuscode.com/issues/343)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-11-21-cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用](https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/) ![](/assets/new.png)  
+- [2023-11-21-cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用](https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/)  
 - [2023-11-19-剪映APP的视频特效如何在Web中JS实现](https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/)  
 - [2023-11-14-mp4box.js加WebCodecs-解码MP4视频帧并渲染](https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/)  
 - [2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/)  
