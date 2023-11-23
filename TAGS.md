@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-22 18:34:02。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-23 18:33:33。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -197,6 +197,7 @@
 
 
 
+- [【JavaScript-Weekly】The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)
 - [【JavaScript-Weekly】Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)
 - [【JavaScript-Weekly】Web-Components-forever?](https://javascriptweekly.com/issues/660)
 - [【JavaScript-Weekly】Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659)
@@ -216,7 +217,6 @@
 - [【React-Status】A-Million.js-to-one](https://react.statuscode.com/issues/343)
 - [【淘系前端团队】淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el)
 - [【淘系前端团队】JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la)
-- [【张鑫旭-鑫空间-鑫生活】cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用](https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
