@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-28 18:35:00。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-29 18:32:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -210,13 +210,13 @@
 - [【JavaScript-Weekly】This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)
 - [【JavaScript-Weekly】11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)
 - [【Frontend-Focus】Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604)
+- [【React-Status】AWS-vs-Vercel-for-hosting-Next.js-apps](https://react.statuscode.com/issues/364)
 - [【React-Status】AWS-Amplify-loves-Next.js-too](https://react.statuscode.com/issues/363)
 - [【React-Status】Say-hello-to-source-maps-in-prod](https://react.statuscode.com/issues/361)
 - [【React-Status】Next.js-14-and-Docusaurus-3.0](https://react.statuscode.com/issues/360)
 - [【React-Status】Next.js-vs-Remix](https://react.statuscode.com/issues/357)
 - [【React-Status】A-Million.js-to-one](https://react.statuscode.com/issues/343)
 - [【淘系前端团队】淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el)
-- [【淘系前端团队】JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -262,6 +262,7 @@
 
 
 
+- [【Frontend-Focus】HTML-hacks-that-shaped-the-Web](https://frontendfoc.us/issues/620)
 - [【Frontend-Focus】None-of-the-top-100-sites-uses-fully-conformant-HTML?](https://frontendfoc.us/issues/616)
 - [【Frontend-Focus】Test-how-many-HTML-tags-you-know](https://frontendfoc.us/issues/614)
 - [【Frontend-Focus】What-do-you-think-about-HTML-in-2023?](https://frontendfoc.us/issues/611)
