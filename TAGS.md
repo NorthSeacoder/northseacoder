@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-29 18:32:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-30 18:34:36。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -433,6 +433,7 @@
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665)
 - [【JavaScript-Weekly】Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663)
 - [【JavaScript-Weekly】Angular-is-back](https://javascriptweekly.com/issues/662)
 - [【JavaScript-Weekly】We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)
@@ -447,7 +448,6 @@
 - [【Frontend-Focus】Being-lazy-in-the-right-places](https://frontendfoc.us/issues/609)
 - [【Frontend-Focus】Arc-reaches-1.0](https://frontendfoc.us/issues/603)
 - [【Frontend-Focus】Just-how-bloated-is-your-site?](https://frontendfoc.us/issues/602)
-- [【Frontend-Focus】Behind-the-curtain-of-Wikipedia's-redesign](https://frontendfoc.us/issues/599)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
