@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-12-05 18:33:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-06 18:34:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -12,6 +12,7 @@
 - [2023-10-18-Test-how-many-HTML-tags-you-know](https://frontendfoc.us/issues/614) 
 - [2023-09-27-What-do-you-think-about-HTML-in-2023?](https://frontendfoc.us/issues/611) 
 - [2023-08-09-An-HTML-element-reunion](https://frontendfoc.us/issues/605) 
+- [2023-12-06-Meta-opens-up-Facebook's-styling-solution](https://react.statuscode.com/issues/365) 
 - [2023-07-26-Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349) 
 - [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/) 
 - [2023-08-10-查漏补缺，我仍未知道的HTML-nonce和popover属性](https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/) 

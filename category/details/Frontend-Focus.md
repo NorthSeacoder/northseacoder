@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-11-29 18:32:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-06 18:34:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2023-12-06-Should-web-perf-tools-report-carbon-emissions?](https://frontendfoc.us/issues/621) 
 - [2023-11-29-HTML-hacks-that-shaped-the-Web](https://frontendfoc.us/issues/620) 
 - [2023-11-22-An-interactive-guide-to-CSS-Grid](https://frontendfoc.us/issues/619) 
 - [2023-11-15-A-new-metric-for-interaction-responsiveness-in-2024](https://frontendfoc.us/issues/618) 
