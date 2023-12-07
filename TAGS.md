@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-12-06 18:34:48。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-12-07 18:34:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -198,6 +198,7 @@
 
 
 
+- [【JavaScript-Weekly】Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)
 - [【JavaScript-Weekly】The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)
 - [【JavaScript-Weekly】Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)
 - [【JavaScript-Weekly】Web-Components-forever?](https://javascriptweekly.com/issues/660)
@@ -217,7 +218,6 @@
 - [【React-Status】Next.js-14-and-Docusaurus-3.0](https://react.statuscode.com/issues/360)
 - [【React-Status】Next.js-vs-Remix](https://react.statuscode.com/issues/357)
 - [【React-Status】A-Million.js-to-one](https://react.statuscode.com/issues/343)
-- [【淘系前端团队】淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
