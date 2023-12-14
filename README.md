@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-12-13 18:33:29，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-14 18:35:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667) ![](/assets/new.png)  
 - [2023-12-07-Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)  
 - [2023-11-30-Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665)  
 - [2023-11-23-The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)  
@@ -86,7 +87,6 @@
 - [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)  
 - [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649)  
 - [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)  
-- [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2023-12-13-2023-was-kind-to-CSS-and-the-web-platform](https://frontendfoc.us/issues/622) ![](/assets/new.png)  
+- [2023-12-13-2023-was-kind-to-CSS-and-the-web-platform](https://frontendfoc.us/issues/622)  
 - [2023-12-06-Should-web-perf-tools-report-carbon-emissions?](https://frontendfoc.us/issues/621)  
 - [2023-11-29-HTML-hacks-that-shaped-the-Web](https://frontendfoc.us/issues/620)  
 - [2023-11-22-An-interactive-guide-to-CSS-Grid](https://frontendfoc.us/issues/619)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2023-12-13-Storybook-gets-on-board-with-RSCs](https://react.statuscode.com/issues/366) ![](/assets/new.png)  
+- [2023-12-13-Storybook-gets-on-board-with-RSCs](https://react.statuscode.com/issues/366)  
 - [2023-12-06-Meta-opens-up-Facebook's-styling-solution](https://react.statuscode.com/issues/365)  
 - [2023-11-29-AWS-vs-Vercel-for-hosting-Next.js-apps](https://react.statuscode.com/issues/364)  
 - [2023-11-22-AWS-Amplify-loves-Next.js-too](https://react.statuscode.com/issues/363)  
