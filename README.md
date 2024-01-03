@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2023-12-28 18:33:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-03 18:34:08，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2024-01-03-A-look-back-at-2023-in-frontend-development](https://frontendfoc.us/issues/624) ![](/assets/new.png)  
 - [2023-12-20-:has-has-broad-browser-backing](https://frontendfoc.us/issues/623)  
 - [2023-12-13-2023-was-kind-to-CSS-and-the-web-platform](https://frontendfoc.us/issues/622)  
 - [2023-12-06-Should-web-perf-tools-report-carbon-emissions?](https://frontendfoc.us/issues/621)  
@@ -117,7 +118,6 @@
 - [2023-08-30-Here's-why-you-shouldn't-make-viewport-assumptions](https://frontendfoc.us/issues/607)  
 - [2023-08-16-Using-CSS-to-test-your-refresh-rate.](https://frontendfoc.us/issues/606)  
 - [2023-08-09-An-HTML-element-reunion](https://frontendfoc.us/issues/605)  
-- [2023-08-02-Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2024-01-03-What-powers-a-modern-React-based-blog-in-2024](https://react.statuscode.com/issues/368) ![](/assets/new.png)  
 - [2023-12-20-The-top-React-articles-of-2023](https://react.statuscode.com/issues/367)  
 - [2023-12-13-Storybook-gets-on-board-with-RSCs](https://react.statuscode.com/issues/366)  
 - [2023-12-06-Meta-opens-up-Facebook's-styling-solution](https://react.statuscode.com/issues/365)  
@@ -148,7 +149,6 @@
 - [2023-08-09-✨-Reacting-with-the-Stars](https://react.statuscode.com/issues/351)  
 - [2023-08-02-Figuring-out-if-you-should-use-React-Server-Components](https://react.statuscode.com/issues/350)  
 - [2023-07-26-Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349)  
-- [2023-07-19-Ways-that-React-18-improves-performance](https://react.statuscode.com/issues/348)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/) ![](/assets/new.png)  
+- [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/)  
 - [2023-12-25-JS实现图片相似度的判断](https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/)  
 - [2023-12-24-使用JS提取视频中的音频资源](https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/)  
 - [2023-11-28-本地MP3封面图、时长等信息的JS读取](https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/)  

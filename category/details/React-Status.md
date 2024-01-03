@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-12-20 18:33:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-03 18:34:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2024-01-03-What-powers-a-modern-React-based-blog-in-2024](https://react.statuscode.com/issues/368) 
 - [2023-12-20-The-top-React-articles-of-2023](https://react.statuscode.com/issues/367) 
 - [2023-12-13-Storybook-gets-on-board-with-RSCs](https://react.statuscode.com/issues/366) 
 - [2023-12-06-Meta-opens-up-Facebook's-styling-solution](https://react.statuscode.com/issues/365) 
