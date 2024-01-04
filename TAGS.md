@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-03 18:34:08。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-04 18:34:41。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -202,6 +202,7 @@
 
 
 
+- [【JavaScript-Weekly】JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)
 - [【JavaScript-Weekly】Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)
 - [【JavaScript-Weekly】JS-Runtime-Royale](https://javascriptweekly.com/issues/667)
 - [【JavaScript-Weekly】Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)
@@ -221,7 +222,6 @@
 - [【React-Status】AWS-vs-Vercel-for-hosting-Next.js-apps](https://react.statuscode.com/issues/364)
 - [【React-Status】AWS-Amplify-loves-Next.js-too](https://react.statuscode.com/issues/363)
 - [【React-Status】Say-hello-to-source-maps-in-prod](https://react.statuscode.com/issues/361)
-- [【React-Status】Next.js-14-and-Docusaurus-3.0](https://react.statuscode.com/issues/360)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

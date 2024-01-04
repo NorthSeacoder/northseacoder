@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-01-03 18:34:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-04 18:34:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-01-04-JavaScript's-rising-stars](https://javascriptweekly.com/issues/669) 
 - [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668) 
 - [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667) 
 - [2023-12-07-Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666) 
