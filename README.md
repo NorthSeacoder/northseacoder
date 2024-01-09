@@ -15,12 +15,12 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-01-04 18:34:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-09 18:32:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2024-01-09-The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516) ![](/assets/new.png)  
 - [2023-12-19-The-ten-top-Node-Weekly-links-of-2023](https://nodeweekly.com/issues/515)  
 - [2023-12-12-V8's-garbage-collection-and-three-JIT-compilers](https://nodeweekly.com/issues/514)  
 - [2023-12-05-100,000-stars-within-reach-for-Node](https://nodeweekly.com/issues/513)  
@@ -55,7 +56,6 @@
 - [2023-08-29-.env-support-coming-to-Node](https://nodeweekly.com/issues/499)  
 - [2023-08-08-Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)  
 - [2023-08-01-Opening-up-the-Node.js-toolbox](https://nodeweekly.com/issues/497)  
-- [2023-07-25-The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2024-01-04-JavaScript's-rising-stars](https://javascriptweekly.com/issues/669) ![](/assets/new.png)  
+- [2024-01-04-JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)  
 - [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)  
 - [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667)  
 - [2023-12-07-Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)  
