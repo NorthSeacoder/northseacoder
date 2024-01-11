@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-10 18:34:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-11 18:33:51。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -203,6 +203,7 @@
 
 
 
+- [【JavaScript-Weekly】Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)
 - [【JavaScript-Weekly】JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)
 - [【JavaScript-Weekly】Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)
 - [【JavaScript-Weekly】JS-Runtime-Royale](https://javascriptweekly.com/issues/667)
@@ -222,7 +223,6 @@
 - [【Frontend-Focus】Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604)
 - [【React-Status】The-joy-of-full-stack,-AI-first-Next.js](https://react.statuscode.com/issues/369)
 - [【React-Status】AWS-vs-Vercel-for-hosting-Next.js-apps](https://react.statuscode.com/issues/364)
-- [【React-Status】AWS-Amplify-loves-Next.js-too](https://react.statuscode.com/issues/363)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

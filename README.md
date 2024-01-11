@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-01-10 18:34:37，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-11 18:33:51，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670) ![](/assets/new.png)  
 - [2024-01-04-JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)  
 - [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)  
 - [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667)  
@@ -86,7 +87,6 @@
 - [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)  
 - [2023-08-17-We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)  
 - [2023-08-10-Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651)  
-- [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-01-10-The-100-top-CodePens-of-2023](https://frontendfoc.us/issues/625) ![](/assets/new.png)  
+- [2024-01-10-The-100-top-CodePens-of-2023](https://frontendfoc.us/issues/625)  
 - [2024-01-03-A-look-back-at-2023-in-frontend-development](https://frontendfoc.us/issues/624)  
 - [2023-12-20-:has-has-broad-browser-backing](https://frontendfoc.us/issues/623)  
 - [2023-12-13-2023-was-kind-to-CSS-and-the-web-platform](https://frontendfoc.us/issues/622)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2024-01-10-The-joy-of-full-stack,-AI-first-Next.js](https://react.statuscode.com/issues/369) ![](/assets/new.png)  
+- [2024-01-10-The-joy-of-full-stack,-AI-first-Next.js](https://react.statuscode.com/issues/369)  
 - [2024-01-03-What-powers-a-modern-React-based-blog-in-2024](https://react.statuscode.com/issues/368)  
 - [2023-12-20-The-top-React-articles-of-2023](https://react.statuscode.com/issues/367)  
 - [2023-12-13-Storybook-gets-on-board-with-RSCs](https://react.statuscode.com/issues/366)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/) ![](/assets/new.png)  
 - [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/)  
 - [2023-12-25-JS实现图片相似度的判断](https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/)  
 - [2023-12-24-使用JS提取视频中的音频资源](https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/)  
@@ -210,7 +211,6 @@
 - [2023-08-27-狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/)  
 - [2023-08-10-查漏补缺，我仍未知道的HTML-nonce和popover属性](https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/)  
 - [2023-07-31-HTML-kbd、var、samp元素你使用过没？](https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/)  
-- [2023-07-25-5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
