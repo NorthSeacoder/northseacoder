@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-15 18:34:04。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-16 18:34:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -101,6 +101,7 @@
 
 
 
+- [【Node-Weekly】npm-by-the-numbers](https://nodeweekly.com/issues/517)
 - [【Node-Weekly】The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)
 - [【Node-Weekly】Polyfills-gone-rogue](https://nodeweekly.com/issues/503)
 - [【Node-Weekly】You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)
