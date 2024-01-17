@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-01-16 18:34:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-17 18:34:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-01-17-React-Server-Components-does-not-require-a-server](https://react.statuscode.com/issues/370) 
 - [2024-01-03-What-powers-a-modern-React-based-blog-in-2024](https://react.statuscode.com/issues/368) 
 - [2023-12-20-The-top-React-articles-of-2023](https://react.statuscode.com/issues/367) 
 - [2023-11-15-Why-one-team-moved-back-to-React-from-Preact](https://react.statuscode.com/issues/362) 
