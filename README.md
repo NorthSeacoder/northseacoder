@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-01-18 18:35:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-21 18:33:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671) ![](/assets/new.png)  
+- [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)  
 - [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)  
 - [2024-01-04-JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)  
 - [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2024-01-21-CSS-@scope他来了](https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/) ![](/assets/new.png)  
 - [2024-01-15-使用JS快速获取video视频任意位置的缩略图](https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/)  
 - [2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/)  
 - [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/)  
@@ -210,7 +211,6 @@
 - [2023-08-30-一言难尽的registerProtocolHandler方法](https://www.zhangxinxu.com/wordpress/2023/08/js-registerprotocolhandler/)  
 - [2023-08-29-Web-referrer策略详解与防盗链图片的显示](https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/)  
 - [2023-08-27-狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/)  
-- [2023-08-10-查漏补缺，我仍未知道的HTML-nonce和popover属性](https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
