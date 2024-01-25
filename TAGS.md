@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-24 18:34:34。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-25 18:36:03。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -206,6 +206,7 @@
 
 
 
+- [【JavaScript-Weekly】Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)
 - [【JavaScript-Weekly】Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)
 - [【JavaScript-Weekly】Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)
 - [【JavaScript-Weekly】JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)
@@ -225,7 +226,6 @@
 - [【JavaScript-Weekly】This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)
 - [【JavaScript-Weekly】11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)
 - [【Frontend-Focus】Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604)
-- [【React-Status】The-joy-of-full-stack,-AI-first-Next.js](https://react.statuscode.com/issues/369)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
