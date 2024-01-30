@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-01-23 18:35:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-30 18:32:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519) 
 - [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518) 
 - [2024-01-16-npm-by-the-numbers](https://nodeweekly.com/issues/517) 
 - [2024-01-09-The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516) 
