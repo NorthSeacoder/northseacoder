@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-01-24 18:34:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-31 18:32:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2024-01-31-Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628) 
 - [2024-01-24-12-modern-CSS-one-line-upgrades](https://frontendfoc.us/issues/627) 
 - [2024-01-17-Five-CSS-snippets-you-need-to-know](https://frontendfoc.us/issues/626) 
 - [2024-01-10-The-100-top-CodePens-of-2023](https://frontendfoc.us/issues/625) 

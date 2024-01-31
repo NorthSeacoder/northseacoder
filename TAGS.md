@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-30 18:32:41。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-31 18:32:46。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -282,6 +282,7 @@
 - [【Frontend-Focus】An-HTML-element-reunion](https://frontendfoc.us/issues/605)
 - [【React-Status】Meta-opens-up-Facebook's-styling-solution](https://react.statuscode.com/issues/365)
 - [【React-Status】Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349)
+- [【张鑫旭-鑫空间-鑫生活】HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/)
 - [【张鑫旭-鑫空间-鑫生活】查漏补缺，我仍未知道的HTML-nonce和popover属性](https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-kbd、var、samp元素你使用过没？](https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/)
@@ -458,11 +459,11 @@
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
 - [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
+- [【Frontend-Focus】Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628)
 - [【Frontend-Focus】The-100-top-CodePens-of-2023](https://frontendfoc.us/issues/625)
 - [【Frontend-Focus】A-look-back-at-2023-in-frontend-development](https://frontendfoc.us/issues/624)
 - [【Frontend-Focus】:has-has-broad-browser-backing](https://frontendfoc.us/issues/623)
 - [【Frontend-Focus】Should-web-perf-tools-report-carbon-emissions?](https://frontendfoc.us/issues/621)
-- [【Frontend-Focus】A-new-metric-for-interaction-responsiveness-in-2024](https://frontendfoc.us/issues/618)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
