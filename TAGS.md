@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-31 18:32:46。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-02-01 18:33:42。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -38,6 +38,7 @@
 
 
 
+- [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
 - [【React-Status】How-to-start-a-React-project-in-2024](https://react.statuscode.com/issues/371)
 - [【React-Status】React-Server-Components-does-not-require-a-server](https://react.statuscode.com/issues/370)
 - [【React-Status】What-powers-a-modern-React-based-blog-in-2024](https://react.statuscode.com/issues/368)

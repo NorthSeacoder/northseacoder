@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-01-31 18:32:46，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-01 18:33:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) ![](/assets/new.png)  
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)  
 - [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)  
 - [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)  
@@ -86,7 +87,6 @@
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
 - [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)  
-- [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-01-31-Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628) ![](/assets/new.png)  
+- [2024-01-31-Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628)  
 - [2024-01-24-12-modern-CSS-one-line-upgrades](https://frontendfoc.us/issues/627)  
 - [2024-01-17-Five-CSS-snippets-you-need-to-know](https://frontendfoc.us/issues/626)  
 - [2024-01-10-The-100-top-CodePens-of-2023](https://frontendfoc.us/issues/625)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2024-01-31-How-Vercel-builds-Vercel-with-Vercel](https://react.statuscode.com/issues/372) ![](/assets/new.png)  
+- [2024-01-31-How-Vercel-builds-Vercel-with-Vercel](https://react.statuscode.com/issues/372)  
 - [2024-01-24-How-to-start-a-React-project-in-2024](https://react.statuscode.com/issues/371)  
 - [2024-01-17-React-Server-Components-does-not-require-a-server](https://react.statuscode.com/issues/370)  
 - [2024-01-10-The-joy-of-full-stack,-AI-first-Next.js](https://react.statuscode.com/issues/369)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2024-01-31-HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/) ![](/assets/new.png)  
+- [2024-01-31-HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/)  
 - [2024-01-21-CSS-@scope他来了](https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/)  
 - [2024-01-15-使用JS快速获取video视频任意位置的缩略图](https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/)  
 - [2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/)  
