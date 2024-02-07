@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-02-06 18:33:02。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-02-07 18:32:54。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -461,10 +461,10 @@
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
 - [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
+- [【Frontend-Focus】Browsers-buddy-up-for-Interop-2024](https://frontendfoc.us/issues/629)
 - [【Frontend-Focus】Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628)
 - [【Frontend-Focus】The-100-top-CodePens-of-2023](https://frontendfoc.us/issues/625)
 - [【Frontend-Focus】A-look-back-at-2023-in-frontend-development](https://frontendfoc.us/issues/624)
-- [【Frontend-Focus】:has-has-broad-browser-backing](https://frontendfoc.us/issues/623)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

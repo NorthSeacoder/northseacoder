@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-02-06 18:33:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-07 18:32:54，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520) ![](/assets/new.png)  
+- [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520)  
 - [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519)  
 - [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518)  
 - [2024-01-16-npm-by-the-numbers](https://nodeweekly.com/issues/517)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2024-02-07-Browsers-buddy-up-for-Interop-2024](https://frontendfoc.us/issues/629) ![](/assets/new.png)  
 - [2024-01-31-Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628)  
 - [2024-01-24-12-modern-CSS-one-line-upgrades](https://frontendfoc.us/issues/627)  
 - [2024-01-17-Five-CSS-snippets-you-need-to-know](https://frontendfoc.us/issues/626)  
@@ -117,7 +118,6 @@
 - [2023-10-04-How-Photoshop-uses-browser-tech-to-the-limits](https://frontendfoc.us/issues/612)  
 - [2023-09-27-What-do-you-think-about-HTML-in-2023?](https://frontendfoc.us/issues/611)  
 - [2023-09-20-Safari-17-is-here](https://frontendfoc.us/issues/610)  
-- [2023-09-13-Being-lazy-in-the-right-places](https://frontendfoc.us/issues/609)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2024-02-07-Remix-vs-Next.js](https://react.statuscode.com/issues/373) ![](/assets/new.png)  
 - [2024-01-31-How-Vercel-builds-Vercel-with-Vercel](https://react.statuscode.com/issues/372)  
 - [2024-01-24-How-to-start-a-React-project-in-2024](https://react.statuscode.com/issues/371)  
 - [2024-01-17-React-Server-Components-does-not-require-a-server](https://react.statuscode.com/issues/370)  
@@ -148,7 +149,6 @@
 - [2023-09-27-Who-forgot-about-React-Forget](https://react.statuscode.com/issues/356)  
 - [2023-09-20-Getting-AI-to-build-your-React-components](https://react.statuscode.com/issues/355)  
 - [2023-09-13-React-Server-Components-explained](https://react.statuscode.com/issues/354)  
-- [2023-09-06-Explaining-why-React-re-renders](https://react.statuscode.com/issues/353)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
