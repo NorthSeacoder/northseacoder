@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-02-07 18:32:54，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-08 18:33:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2024-02-08-Gorillas](https://javascriptweekly.com/issues/674) ![](/assets/new.png)  
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)  
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)  
 - [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)  
@@ -86,7 +87,6 @@
 - [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)  
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
-- [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-02-07-Browsers-buddy-up-for-Interop-2024](https://frontendfoc.us/issues/629) ![](/assets/new.png)  
+- [2024-02-07-Browsers-buddy-up-for-Interop-2024](https://frontendfoc.us/issues/629)  
 - [2024-01-31-Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628)  
 - [2024-01-24-12-modern-CSS-one-line-upgrades](https://frontendfoc.us/issues/627)  
 - [2024-01-17-Five-CSS-snippets-you-need-to-know](https://frontendfoc.us/issues/626)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2024-02-07-Remix-vs-Next.js](https://react.statuscode.com/issues/373) ![](/assets/new.png)  
+- [2024-02-07-Remix-vs-Next.js](https://react.statuscode.com/issues/373)  
 - [2024-01-31-How-Vercel-builds-Vercel-with-Vercel](https://react.statuscode.com/issues/372)  
 - [2024-01-24-How-to-start-a-React-project-in-2024](https://react.statuscode.com/issues/371)  
 - [2024-01-17-React-Server-Components-does-not-require-a-server](https://react.statuscode.com/issues/370)  

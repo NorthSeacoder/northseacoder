@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-02-07 18:32:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-02-08 18:33:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -453,6 +453,7 @@
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】Gorillas](https://javascriptweekly.com/issues/674)
 - [【JavaScript-Weekly】Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665)
 - [【JavaScript-Weekly】Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663)
 - [【JavaScript-Weekly】Angular-is-back](https://javascriptweekly.com/issues/662)
@@ -464,7 +465,6 @@
 - [【Frontend-Focus】Browsers-buddy-up-for-Interop-2024](https://frontendfoc.us/issues/629)
 - [【Frontend-Focus】Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628)
 - [【Frontend-Focus】The-100-top-CodePens-of-2023](https://frontendfoc.us/issues/625)
-- [【Frontend-Focus】A-look-back-at-2023-in-frontend-development](https://frontendfoc.us/issues/624)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
