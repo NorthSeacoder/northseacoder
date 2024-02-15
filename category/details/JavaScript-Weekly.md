@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-02-08 18:33:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-15 18:33:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675) 
 - [2024-02-08-Gorillas](https://javascriptweekly.com/issues/674) 
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) 
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672) 

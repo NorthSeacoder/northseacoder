@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-14 18:34:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-15 18:33:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675) 
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672) 
 - [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671) 
 - [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670) 
