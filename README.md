@@ -15,12 +15,12 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-02-15 18:33:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-20 18:33:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2024-02-20-To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521) ![](/assets/new.png)  
 - [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520)  
 - [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519)  
 - [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518)  
@@ -55,7 +56,6 @@
 - [2023-10-03-Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504)  
 - [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503)  
 - [2023-09-19-Does-Node-need-a-mascot-of-its-own?](https://nodeweekly.com/issues/502)  
-- [2023-09-12-You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675) ![](/assets/new.png)  
+- [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)  
 - [2024-02-08-Gorillas](https://javascriptweekly.com/issues/674)  
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)  
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)  
