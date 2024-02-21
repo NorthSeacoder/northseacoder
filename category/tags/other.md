@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-20 18:33:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-21 18:33:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -22,6 +22,7 @@
 - [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649) 
 - [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647) 
 - [2023-06-22-Svelte-4-released](https://javascriptweekly.com/issues/644) 
+- [2024-02-21-Just-what-*is*-the-best-way-to-center-a-div?](https://frontendfoc.us/issues/631) 
 - [2024-02-07-Browsers-buddy-up-for-Interop-2024](https://frontendfoc.us/issues/629) 
 - [2024-01-31-Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628) 
 - [2024-01-10-The-100-top-CodePens-of-2023](https://frontendfoc.us/issues/625) 

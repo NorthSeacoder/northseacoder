@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-02-07 18:32:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-21 18:33:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2024-02-21-React-19-is-on-the-horizon](https://react.statuscode.com/issues/374) 
 - [2024-02-07-Remix-vs-Next.js](https://react.statuscode.com/issues/373) 
 - [2024-01-31-How-Vercel-builds-Vercel-with-Vercel](https://react.statuscode.com/issues/372) 
 - [2024-01-24-How-to-start-a-React-project-in-2024](https://react.statuscode.com/issues/371) 

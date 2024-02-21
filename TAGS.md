@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-02-20 18:33:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-02-21 18:33:08。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -39,6 +39,7 @@
 
 
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】React-19-is-on-the-horizon](https://react.statuscode.com/issues/374)
 - [【React-Status】How-to-start-a-React-project-in-2024](https://react.statuscode.com/issues/371)
 - [【React-Status】React-Server-Components-does-not-require-a-server](https://react.statuscode.com/issues/370)
 - [【React-Status】What-powers-a-modern-React-based-blog-in-2024](https://react.statuscode.com/issues/368)
@@ -464,9 +465,9 @@
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
 - [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
+- [【Frontend-Focus】Just-what-*is*-the-best-way-to-center-a-div?](https://frontendfoc.us/issues/631)
 - [【Frontend-Focus】Browsers-buddy-up-for-Interop-2024](https://frontendfoc.us/issues/629)
 - [【Frontend-Focus】Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628)
-- [【Frontend-Focus】The-100-top-CodePens-of-2023](https://frontendfoc.us/issues/625)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
