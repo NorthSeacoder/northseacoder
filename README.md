@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-02-21 18:33:08，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-22 18:33:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2024-02-22-A-big-update-for-ECharts](https://javascriptweekly.com/issues/676) ![](/assets/new.png)  
 - [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)  
 - [2024-02-08-Gorillas](https://javascriptweekly.com/issues/674)  
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)  
@@ -86,7 +87,6 @@
 - [2023-10-19-Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659)  
 - [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658)  
 - [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)  
-- [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-02-21-Just-what-*is*-the-best-way-to-center-a-div?](https://frontendfoc.us/issues/631) ![](/assets/new.png)  
+- [2024-02-21-Just-what-*is*-the-best-way-to-center-a-div?](https://frontendfoc.us/issues/631)  
 - [2024-02-14-💔-Apple-and-PWAs:-It's-not-me,-it's-EU..](https://frontendfoc.us/issues/630)  
 - [2024-02-07-Browsers-buddy-up-for-Interop-2024](https://frontendfoc.us/issues/629)  
 - [2024-01-31-Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2024-02-21-React-19-is-on-the-horizon](https://react.statuscode.com/issues/374) ![](/assets/new.png)  
+- [2024-02-21-React-19-is-on-the-horizon](https://react.statuscode.com/issues/374)  
 - [2024-02-07-Remix-vs-Next.js](https://react.statuscode.com/issues/373)  
 - [2024-01-31-How-Vercel-builds-Vercel-with-Vercel](https://react.statuscode.com/issues/372)  
 - [2024-01-24-How-to-start-a-React-project-in-2024](https://react.statuscode.com/issues/371)  
