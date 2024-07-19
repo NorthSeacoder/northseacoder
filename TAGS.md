@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-02-22 18:33:02。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-19 23:07:40。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -39,6 +39,10 @@
 
 
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】Why-use-Redux-in-2024?](https://react.statuscode.com/issues/393)
+- [【React-Status】React-Compiler-won't-always-save-you](https://react.statuscode.com/issues/392)
+- [【React-Status】How-the-NYT-got-a-performance-boost-from-React-18](https://react.statuscode.com/issues/391)
+- [【React-Status】Slack's-AI-powered-React-testing-tool-migration](https://react.statuscode.com/issues/390)
 - [【React-Status】React-19-is-on-the-horizon](https://react.statuscode.com/issues/374)
 - [【React-Status】How-to-start-a-React-project-in-2024](https://react.statuscode.com/issues/371)
 - [【React-Status】React-Server-Components-does-not-require-a-server](https://react.statuscode.com/issues/370)
@@ -54,7 +58,6 @@
 - [【React-Status】Figuring-out-if-you-should-use-React-Server-Components](https://react.statuscode.com/issues/350)
 - [【React-Status】Ways-that-React-18-improves-performance](https://react.statuscode.com/issues/348)
 - [【React-Status】Demystifying-React-Server-Components](https://react.statuscode.com/issues/347)
-- [【React-Status】Creating-videos-with-React-gets-even-better](https://react.statuscode.com/issues/346)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -110,6 +113,7 @@
 - [【Node-Weekly】The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)
 - [【Node-Weekly】Polyfills-gone-rogue](https://nodeweekly.com/issues/503)
 - [【Node-Weekly】You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)
+- [【JavaScript-Weekly】Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696)
 - [【淘系前端团队】All-in-one：项目级-monorepo-策略最佳实践](https://fed.taobao.org/blog/taofed/do71ct/uihagy)
 - [......【查看更多】......](/category/tags/pack-build.md)
 
@@ -127,6 +131,8 @@
 
 
 
+- [【Node-Weekly】Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539)
+- [【Node-Weekly】Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537)
 - [【Node-Weekly】The-ten-top-Node-Weekly-links-of-2023](https://nodeweekly.com/issues/515)
 - [【Node-Weekly】V8's-garbage-collection-and-three-JIT-compilers](https://nodeweekly.com/issues/514)
 - [【Node-Weekly】100,000-stars-within-reach-for-Node](https://nodeweekly.com/issues/513)
@@ -161,6 +167,7 @@
 
 
 
+- [【淘系前端团队】2020年，该如何选择小程序框架](https://fed.taobao.org/blog/taofed/do71ct/sz7x0q)
 - [......【查看更多】......](/category/tags/miniprogram.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -210,6 +217,9 @@
 
 
 
+- [【JavaScript-Weekly】Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697)
+- [【JavaScript-Weekly】Breaking-a-promise](https://javascriptweekly.com/issues/695)
+- [【JavaScript-Weekly】Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)
 - [【JavaScript-Weekly】TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)
 - [【JavaScript-Weekly】Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)
 - [【JavaScript-Weekly】Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)
@@ -227,9 +237,6 @@
 - [【JavaScript-Weekly】JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)
 - [【JavaScript-Weekly】Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)
 - [【JavaScript-Weekly】The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)
-- [【JavaScript-Weekly】CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646)
-- [【JavaScript-Weekly】This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)
-- [【JavaScript-Weekly】11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -246,6 +253,7 @@
 
 
 
+- [【Frontend-Focus】A-CSS-'if'-function-isn't-here-yet,-but-what-can-we-do-today?](https://frontendfoc.us/issues/649)
 - [【Frontend-Focus】12-modern-CSS-one-line-upgrades](https://frontendfoc.us/issues/627)
 - [【Frontend-Focus】Five-CSS-snippets-you-need-to-know](https://frontendfoc.us/issues/626)
 - [【Frontend-Focus】2023-was-kind-to-CSS-and-the-web-platform](https://frontendfoc.us/issues/622)
@@ -255,14 +263,16 @@
 - [【Frontend-Focus】A-is-for-aspect-ratio,-B-is-for-border..](https://frontendfoc.us/issues/601)
 - [【Frontend-Focus】How-do-you-use-CSS?](https://frontendfoc.us/issues/598)
 - [【Frontend-Focus】The-gotchas-of-CSS-nesting](https://frontendfoc.us/issues/597)
+- [【淘系前端团队】你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993)
 - [【淘系前端团队】Midway-Serverless-发布-2.0，一体化让前端研发再次提效](https://fed.taobao.org/blog/taofed/do71ct/mvd9lw)
+- [【张鑫旭-鑫空间-鑫生活】今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/)
+- [【张鑫旭-鑫空间-鑫生活】了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/)
+- [【张鑫旭-鑫空间-鑫生活】如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/)
+- [【张鑫旭-鑫空间-鑫生活】CSS-transition-behavior让display-none也有动画效果](https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/)
+- [【张鑫旭-鑫空间-鑫生活】不使用font-weight等CSS实现文字变瘦或变胖效果](https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-@scope他来了](https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/)
 - [【张鑫旭-鑫空间-鑫生活】CSS高宽不等图片固定比例布局的三重进化](https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-sin/cos等数学三角函数简介与应用](https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/)
-- [【张鑫旭-鑫空间-鑫生活】我使用CSS模拟个假的数字loading效果](https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/)
-- [【张鑫旭-鑫空间-鑫生活】使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/)
-- [【张鑫旭-鑫空间-鑫生活】CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/)
-- [【张鑫旭-鑫空间-鑫生活】CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)
 - [......【查看更多】......](/category/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -307,6 +317,7 @@
 
 
 - [【Frontend-Focus】A-beautiful-primer-on-SVG-paths](https://frontendfoc.us/issues/600)
+- [【淘系前端团队】一起来玩玩WebGL--第二弹](https://fed.taobao.org/blog/taofed/do71ct/ghlebo)
 - [【淘系前端团队】服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
 - [【淘系前端团队】用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx)
 - [【张鑫旭-鑫空间-鑫生活】做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/)
@@ -382,6 +393,7 @@
 
 
 
+- [【Node-Weekly】Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)
 - [【Frontend-Focus】Astro-3.0-released,-and-RIP-to-a-Web-hero](https://frontendfoc.us/issues/608)
 - [【淘系前端团队】如何在应用架构中设计微前端方案---icestark](https://fed.taobao.org/blog/taofed/do71ct/xgmaz3)
 - [......【查看更多】......](/category/tags/front-end-advanced.md)
@@ -448,6 +460,7 @@
 
 
 
+- [【Node-Weekly】Taming-event-loop-lag](https://nodeweekly.com/issues/538)
 - [【Node-Weekly】An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520)
 - [【Node-Weekly】Adonis-v6](https://nodeweekly.com/issues/519)
 - [【Node-Weekly】Neural-network-chess](https://nodeweekly.com/issues/518)
@@ -466,8 +479,7 @@
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
 - [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
-- [【Frontend-Focus】Just-what-*is*-the-best-way-to-center-a-div?](https://frontendfoc.us/issues/631)
-- [【Frontend-Focus】Browsers-buddy-up-for-Interop-2024](https://frontendfoc.us/issues/629)
+- [【Frontend-Focus】All-the-selectors-you-need](https://frontendfoc.us/issues/652)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

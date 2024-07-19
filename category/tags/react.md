@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-22 18:33:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-19 23:07:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -8,6 +8,10 @@
 
 
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) 
+- [2024-07-17-Why-use-Redux-in-2024?](https://react.statuscode.com/issues/393) 
+- [2024-07-10-React-Compiler-won't-always-save-you](https://react.statuscode.com/issues/392) 
+- [2024-07-03-How-the-NYT-got-a-performance-boost-from-React-18](https://react.statuscode.com/issues/391) 
+- [2024-06-26-Slack's-AI-powered-React-testing-tool-migration](https://react.statuscode.com/issues/390) 
 - [2024-02-21-React-19-is-on-the-horizon](https://react.statuscode.com/issues/374) 
 - [2024-01-24-How-to-start-a-React-project-in-2024](https://react.statuscode.com/issues/371) 
 - [2024-01-17-React-Server-Components-does-not-require-a-server](https://react.statuscode.com/issues/370) 
@@ -24,3 +28,4 @@
 - [2023-07-19-Ways-that-React-18-improves-performance](https://react.statuscode.com/issues/348) 
 - [2023-07-12-Demystifying-React-Server-Components](https://react.statuscode.com/issues/347) 
 - [2023-07-05-Creating-videos-with-React-gets-even-better](https://react.statuscode.com/issues/346) 
+- [2020-07-15-基于-React-打造高自由度的-IDE-布局系统](https://fed.taobao.org/blog/taofed/do71ct/hlxur7) 

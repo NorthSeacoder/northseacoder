@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-02-22 18:33:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-19 23:07:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2024-07-02-Taming-event-loop-lag](https://nodeweekly.com/issues/538) 
 - [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520) 
 - [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519) 
 - [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518) 
@@ -23,6 +24,9 @@
 - [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649) 
 - [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647) 
 - [2023-06-22-Svelte-4-released](https://javascriptweekly.com/issues/644) 
+- [2024-07-17-All-the-selectors-you-need](https://frontendfoc.us/issues/652) 
+- [2024-07-10-Exploring-the-magic-of-clip-path](https://frontendfoc.us/issues/651) 
+- [2024-07-03-A-new-browser-engine-enters-the-ring](https://frontendfoc.us/issues/650) 
 - [2024-02-21-Just-what-*is*-the-best-way-to-center-a-div?](https://frontendfoc.us/issues/631) 
 - [2024-02-07-Browsers-buddy-up-for-Interop-2024](https://frontendfoc.us/issues/629) 
 - [2024-01-31-Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628) 
@@ -42,6 +46,12 @@
 - [2023-10-18-TanStack-Query-v5-released](https://react.statuscode.com/issues/358) 
 - [2023-06-28-Bad-boolean-advice](https://react.statuscode.com/issues/345) 
 - [2023-06-21-The-most-'admired-and-desired'-Web-technology](https://react.statuscode.com/issues/344) 
+- [2020-08-16-淘系运营工作台前端体系](https://fed.taobao.org/blog/taofed/do71ct/oyf9hm) 
+- [2020-08-10-我在阿里收获的N个成长](https://fed.taobao.org/blog/taofed/do71ct/reqhle) 
+- [2020-08-01-可折叠Web可能会给我们带来的变化](https://fed.taobao.org/blog/taofed/do71ct/zbxacs) 
+- [2020-07-29-业务前端如何突破困境](https://fed.taobao.org/blog/taofed/do71ct/front-end-problems) 
+- [2020-07-21-现在开始：用你的Mac训练和部署一个图片分类模型](https://fed.taobao.org/blog/taofed/do71ct/gwrk8n) 
+- [2020-07-09-频道业务黑科技--行业魔方](https://fed.taobao.org/blog/taofed/do71ct/qsv9lg) 
 - [2021-06-23-业务系统的稳定性建设](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0) 
 - [2021-02-10-2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7) 
 - [2020-12-31-前端智能化实践—-P2C-从需求文档生成代码](https://fed.taobao.org/blog/taofed/do71ct/ffeogu) 
@@ -53,12 +63,17 @@
 - [2020-08-27-入职一年多的一些思考](https://fed.taobao.org/blog/taofed/do71ct/sxz5ap) 
 - [2020-08-21-阿里实习-90-天：从实习生的视角谈谈个人成长](https://fed.taobao.org/blog/taofed/do71ct/acbnym) 
 - [2020-08-20-什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc) 
+- [2024-06-11-聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/) 
+- [2024-05-20-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/) 
 - [2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/) 
 - [2023-08-30-一言难尽的registerProtocolHandler方法](https://www.zhangxinxu.com/wordpress/2023/08/js-registerprotocolhandler/) 
 - [2023-08-29-Web-referrer策略详解与防盗链图片的显示](https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/) 
 - [2023-07-25-5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/) 
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/) 
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/) 
+- [2024-07-19-科技爱好者周刊（第-309-期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html) 
+- [2024-07-12-科技爱好者周刊（第-308-期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html) 
+- [2024-07-05-科技爱好者周刊（第-307-期）：不要看重-Product-Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html) 
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 

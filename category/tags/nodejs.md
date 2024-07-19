@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-22 18:33:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-19 23:07:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,8 @@
 
 
 
+- [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539) 
+- [2024-06-25-Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537) 
 - [2023-12-19-The-ten-top-Node-Weekly-links-of-2023](https://nodeweekly.com/issues/515) 
 - [2023-12-12-V8's-garbage-collection-and-three-JIT-compilers](https://nodeweekly.com/issues/514) 
 - [2023-12-05-100,000-stars-within-reach-for-Node](https://nodeweekly.com/issues/513) 
@@ -25,3 +27,4 @@
 - [2023-07-04-Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493) 
 - [2023-06-27-Why-Node-permissions-are-experimental-for-now](https://nodeweekly.com/issues/492) 
 - [2023-06-20-Getting-under-Node's-skin](https://nodeweekly.com/issues/491) 
+- [2024-04-22-node环境中使用fluent-ffmpeg每隔一秒视频截图](https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/) 

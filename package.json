@@ -6,12 +6,12 @@
     "license": "MIT",
     "type": "module",
     "dependencies": {
-        "async": "^3.2.4",
+        "async": "^3.2.5",
         "chalk": "^5.3.0",
-        "dayjs": "^1.11.9",
-        "esno": "^0.16.3",
-        "fs-extra": "^11.1.1",
-        "query-string": "^8.1.0",
+        "dayjs": "^1.11.12",
+        "esno": "^4.7.0",
+        "fs-extra": "^11.2.0",
+        "query-string": "^9.0.0",
         "rss-parser": "^3.13.0",
         "underscore": "^1.13.6"
     },
@@ -21,11 +21,10 @@
         "cl": "conventional-changelog -p angular -i CHANGELOG.md -s"
     },
     "devDependencies": {
-        "@types/fs-extra": "^11.0.1",
-        "@types/node": "^20.4.1",
-        "@types/query-string": "^6.3.0",
+        "@types/fs-extra": "^11.0.4",
+        "@types/node": "^20.14.11",
         "commitizen": "^4.3.0",
-        "conventional-changelog-cli": "^3.0.0"
+        "conventional-changelog-cli": "^5.0.0"
     },
     "config": {
         "commitizen": {

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-22 18:33:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-19 23:07:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,9 @@
 
 
 
+- [2024-07-18-Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697) 
+- [2024-07-04-Breaking-a-promise](https://javascriptweekly.com/issues/695) 
+- [2024-06-27-Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694) 
 - [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675) 
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672) 
 - [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671) 
@@ -38,6 +41,8 @@
 - [2023-06-14-A-Million.js-to-one](https://react.statuscode.com/issues/343) 
 - [2020-09-11-淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el) 
 - [2020-09-01-JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la) 
+- [2024-06-27-告别JS浮层，全新的CSS-Anchor-Positioning锚点定位API](https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/) 
+- [2024-05-30-记一次技术交流，feMerge滤镜复制任意DOM元素样式](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/) 
 - [2024-01-15-使用JS快速获取video视频任意位置的缩略图](https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/) 
 - [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/) 
 - [2023-12-25-JS实现图片相似度的判断](https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/) 
