@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-23 18:37:07。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-24 18:40:39。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -39,6 +39,7 @@
 
 
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】What-the-React-community-is-doing-and-thinking](https://react.statuscode.com/issues/394)
 - [【React-Status】Why-use-Redux-in-2024?](https://react.statuscode.com/issues/393)
 - [【React-Status】React-Compiler-won't-always-save-you](https://react.statuscode.com/issues/392)
 - [【React-Status】How-the-NYT-got-a-performance-boost-from-React-18](https://react.statuscode.com/issues/391)
@@ -57,7 +58,6 @@
 - [【React-Status】✨-Reacting-with-the-Stars](https://react.statuscode.com/issues/351)
 - [【React-Status】Figuring-out-if-you-should-use-React-Server-Components](https://react.statuscode.com/issues/350)
 - [【React-Status】Ways-that-React-18-improves-performance](https://react.statuscode.com/issues/348)
-- [【React-Status】Demystifying-React-Server-Components](https://react.statuscode.com/issues/347)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -374,6 +374,7 @@
 
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
 - [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
+- [【Frontend-Focus】How-to-build-complex-Chrome-extensions](https://frontendfoc.us/issues/653)
 - [【Frontend-Focus】Safari-17-is-here](https://frontendfoc.us/issues/610)
 - [【Frontend-Focus】Here's-why-you-shouldn't-make-viewport-assumptions](https://frontendfoc.us/issues/607)
 - [【React-Status】Storybook-gets-on-board-with-RSCs](https://react.statuscode.com/issues/366)
