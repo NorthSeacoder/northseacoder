@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-07-24 18:40:39，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-25 18:37:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2024-07-25-What's-new-for-us-in-ECMAScript-2024](https://javascriptweekly.com/issues/698) ![](/assets/new.png)  
 - [2024-07-18-Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697)  
 - [2024-07-11-Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696)  
 - [2024-07-04-Breaking-a-promise](https://javascriptweekly.com/issues/695)  
@@ -86,7 +87,6 @@
 - [2023-11-23-The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)  
 - [2023-11-16-Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663)  
 - [2023-11-09-Angular-is-back](https://javascriptweekly.com/issues/662)  
-- [2023-11-02-Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-07-24-How-to-build-complex-Chrome-extensions](https://frontendfoc.us/issues/653) ![](/assets/new.png)  
+- [2024-07-24-How-to-build-complex-Chrome-extensions](https://frontendfoc.us/issues/653)  
 - [2024-07-17-All-the-selectors-you-need](https://frontendfoc.us/issues/652)  
 - [2024-07-10-Exploring-the-magic-of-clip-path](https://frontendfoc.us/issues/651)  
 - [2024-07-03-A-new-browser-engine-enters-the-ring](https://frontendfoc.us/issues/650)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2024-07-24-What-the-React-community-is-doing-and-thinking](https://react.statuscode.com/issues/394) ![](/assets/new.png)  
+- [2024-07-24-What-the-React-community-is-doing-and-thinking](https://react.statuscode.com/issues/394)  
 - [2024-07-17-Why-use-Redux-in-2024?](https://react.statuscode.com/issues/393)  
 - [2024-07-10-React-Compiler-won't-always-save-you](https://react.statuscode.com/issues/392)  
 - [2024-07-03-How-the-NYT-got-a-performance-boost-from-React-18](https://react.statuscode.com/issues/391)  
