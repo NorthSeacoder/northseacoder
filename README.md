@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-07-30 18:38:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-31 18:39:07，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542) ![](/assets/new.png)  
+- [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
 - [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
 - [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)  
 - [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2024-07-31-W3C-doubles-down:-'Third-party-cookies-have-to-go'](https://frontendfoc.us/issues/654) ![](/assets/new.png)  
 - [2024-07-24-How-to-build-complex-Chrome-extensions](https://frontendfoc.us/issues/653)  
 - [2024-07-17-All-the-selectors-you-need](https://frontendfoc.us/issues/652)  
 - [2024-07-10-Exploring-the-magic-of-clip-path](https://frontendfoc.us/issues/651)  
@@ -117,7 +118,6 @@
 - [2023-11-29-HTML-hacks-that-shaped-the-Web](https://frontendfoc.us/issues/620)  
 - [2023-11-22-An-interactive-guide-to-CSS-Grid](https://frontendfoc.us/issues/619)  
 - [2023-11-15-A-new-metric-for-interaction-responsiveness-in-2024](https://frontendfoc.us/issues/618)  
-- [2023-11-08-Another-way-to-split-your-select-elements](https://frontendfoc.us/issues/617)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2024-07-31-The-React-Conf-2024-talks](https://react.statuscode.com/issues/395) ![](/assets/new.png)  
 - [2024-07-24-What-the-React-community-is-doing-and-thinking](https://react.statuscode.com/issues/394)  
 - [2024-07-17-Why-use-Redux-in-2024?](https://react.statuscode.com/issues/393)  
 - [2024-07-10-React-Compiler-won't-always-save-you](https://react.statuscode.com/issues/392)  
@@ -148,7 +149,6 @@
 - [2023-11-22-AWS-Amplify-loves-Next.js-too](https://react.statuscode.com/issues/363)  
 - [2023-11-15-Why-one-team-moved-back-to-React-from-Preact](https://react.statuscode.com/issues/362)  
 - [2023-11-08-Say-hello-to-source-maps-in-prod](https://react.statuscode.com/issues/361)  
-- [2023-11-01-Next.js-14-and-Docusaurus-3.0](https://react.statuscode.com/issues/360)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

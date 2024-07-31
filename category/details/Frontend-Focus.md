@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-07-24 18:40:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-31 18:39:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2024-07-31-W3C-doubles-down:-'Third-party-cookies-have-to-go'](https://frontendfoc.us/issues/654) 
 - [2024-07-24-How-to-build-complex-Chrome-extensions](https://frontendfoc.us/issues/653) 
 - [2024-07-17-All-the-selectors-you-need](https://frontendfoc.us/issues/652) 
 - [2024-07-10-Exploring-the-magic-of-clip-path](https://frontendfoc.us/issues/651) 

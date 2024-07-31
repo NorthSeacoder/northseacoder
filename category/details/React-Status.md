@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-07-24 18:40:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-31 18:39:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2024-07-31-The-React-Conf-2024-talks](https://react.statuscode.com/issues/395) 
 - [2024-07-24-What-the-React-community-is-doing-and-thinking](https://react.statuscode.com/issues/394) 
 - [2024-07-17-Why-use-Redux-in-2024?](https://react.statuscode.com/issues/393) 
 - [2024-07-10-React-Compiler-won't-always-save-you](https://react.statuscode.com/issues/392) 
