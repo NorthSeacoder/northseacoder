@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-04 18:36:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-05 01:47:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -77,6 +77,7 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2024-08-05-Web3-开发与远程工作利器，快速掌握新兴工具-–-独立产品灵感周刊-DecoHack-#064](https://decohack.com/decohack-064-chuangyi-gongju-ditu-web3-yuancheng/) 
 - [2024-07-29-提升X/Twitter影响力的AI工具与新潮推荐-–-独立产品灵感周刊-DecoHack-#063](https://decohack.com/decohack-063-ai-shequ-shuqing-gongju/) 
 - [2024-07-21-AI图表工具与创意大文件共享-–-独立产品灵感周刊-DecoHack-#062](https://decohack.com/decohack-062-dawenji-jilu-gongju-ai/) 
 - [2024-07-15-开源书签导航与LoFi音乐广播网站推荐-–-独立产品灵感周刊-DecoHack-#061](https://decohack.com/decohack-061-shuqian-daohang-youtube-pindao/) 
