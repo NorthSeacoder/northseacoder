@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-05 01:47:29。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-06 18:39:50。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -132,6 +132,7 @@
 
 
 
+- [【Node-Weekly】Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)
 - [【Node-Weekly】Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)
 - [【Node-Weekly】Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539)
 - [【Node-Weekly】Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537)
@@ -151,7 +152,6 @@
 - [【Node-Weekly】Opening-up-the-Node.js-toolbox](https://nodeweekly.com/issues/497)
 - [【Node-Weekly】The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496)
 - [【Node-Weekly】Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493)
-- [【Node-Weekly】Why-Node-permissions-are-experimental-for-now](https://nodeweekly.com/issues/492)
 - [......【查看更多】......](/category/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

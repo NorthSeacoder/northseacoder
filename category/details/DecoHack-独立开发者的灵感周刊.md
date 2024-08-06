@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-08-05 01:47:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-06 18:39:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## DecoHack-独立开发者的灵感周刊
 
 
 
 
+- [2024-08-06-ProductHunt榜单-8月5日](https://decohack.com/producthunt-daily-24-08-05/) 
 - [2024-08-05-Web3-开发与远程工作利器，快速掌握新兴工具-–-独立产品灵感周刊-DecoHack-#064](https://decohack.com/decohack-064-chuangyi-gongju-ditu-web3-yuancheng/) 
 - [2024-07-29-提升X/Twitter影响力的AI工具与新潮推荐-–-独立产品灵感周刊-DecoHack-#063](https://decohack.com/decohack-063-ai-shequ-shuqing-gongju/) 
 - [2024-07-21-AI图表工具与创意大文件共享-–-独立产品灵感周刊-DecoHack-#062](https://decohack.com/decohack-062-dawenji-jilu-gongju-ai/) 

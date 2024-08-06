@@ -15,11 +15,11 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-08-05 01:47:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-06 18:39:50，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543) ![](/assets/new.png)  
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
 - [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
 - [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)  
@@ -55,7 +56,6 @@
 - [2023-11-21-AWS-Lambda-gets-a-Node-20-LTS-runtime](https://nodeweekly.com/issues/511)  
 - [2023-11-14-Milo:-A-new-HTTP-parser-for-Node?](https://nodeweekly.com/issues/510)  
 - [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509)  
-- [2023-10-31-ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-08-05-Web3-开发与远程工作利器，快速掌握新兴工具-–-独立产品灵感周刊-DecoHack-#064](https://decohack.com/decohack-064-chuangyi-gongju-ditu-web3-yuancheng/) ![](/assets/new.png)  
+- [2024-08-06-ProductHunt榜单-8月5日](https://decohack.com/producthunt-daily-24-08-05/) ![](/assets/new.png)  
+- [2024-08-05-Web3-开发与远程工作利器，快速掌握新兴工具-–-独立产品灵感周刊-DecoHack-#064](https://decohack.com/decohack-064-chuangyi-gongju-ditu-web3-yuancheng/)  
 - [2024-07-29-提升X/Twitter影响力的AI工具与新潮推荐-–-独立产品灵感周刊-DecoHack-#063](https://decohack.com/decohack-063-ai-shequ-shuqing-gongju/)  
 - [2024-07-21-AI图表工具与创意大文件共享-–-独立产品灵感周刊-DecoHack-#062](https://decohack.com/decohack-062-dawenji-jilu-gongju-ai/)  
 - [2024-07-15-开源书签导航与LoFi音乐广播网站推荐-–-独立产品灵感周刊-DecoHack-#061](https://decohack.com/decohack-061-shuqian-daohang-youtube-pindao/)  
@@ -258,7 +259,6 @@
 - [2024-07-29-小众独立产品推荐-–-独立产品灵感周刊-DecoHack-#063](https://decohack.com/small-business-independent-products-recommendation-decohack-063/)  
 - [2024-07-21-本周独立产品精选推荐-–-独立产品灵感周刊-DecoHack-#062](https://decohack.com/top-independent-product-picks-this-week-decohack-062/)  
 - [2024-07-15-2024-年你需要知道的免费-API-独立产品灵感周刊-DecoHack-#061](https://decohack.com/2024-%e5%b9%b4%e4%bd%a0%e9%9c%80%e8%a6%81%e7%9f%a5%e9%81%93%e7%9a%84%e5%85%8d%e8%b4%b9-api-%e7%8b%ac%e7%ab%8b%e4%ba%a7%e5%93%81%e7%81%b5%e6%84%9f%e5%91%a8%e5%88%8a-decohack-061/)  
-- [2024-06-03-发现有趣创意和免费工具-独立产品灵感周刊-DecoHack-#060](https://decohack.com/%e5%8f%91%e7%8e%b0%e6%9c%89%e8%b6%a3%e5%88%9b%e6%84%8f%e5%92%8c%e5%85%8d%e8%b4%b9%e5%b7%a5%e5%85%b7-%e7%8b%ac%e7%ab%8b%e4%ba%a7%e5%93%81%e7%81%b5%e6%84%9f%e5%91%a8%e5%88%8a-decohack-060/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
