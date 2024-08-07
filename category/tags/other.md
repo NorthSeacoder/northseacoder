@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-07 01:46:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-07 18:39:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -77,6 +77,12 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2024-08-07-PH今日热榜-|-2024-08-07](https://decohack.com/producthunt-daily-24-08-07/) 
+- [2024-08-06-PH今日热榜-|-2024-08-06](https://decohack.com/producthunt-daily-24-08-06/) 
+- [2024-08-04-PH今日热榜-|-2024-08-04](https://decohack.com/producthunt-daily-24-08-04/) 
+- [2024-08-03-PH今日热榜-|-2024-08-03](https://decohack.com/producthunt-daily-24-08-03/) 
+- [2024-08-02-PH今日热榜-|-2024-08-02](https://decohack.com/producthunt-daily-24-08-02/) 
+- [2024-08-01-PH今日热榜-|-2024-08-01](https://decohack.com/producthunt-daily-24-08-01/) 
 - [2024-08-07-Product-Hunt-Daily-–-2024-08-07](https://decohack.com/product-hunt-daily-2024-08-07/) 
 - [2024-08-06-ProductHunt榜单-8月5日](https://decohack.com/producthunt-daily-24-08-05/) 
 - [2024-08-05-Web3-开发与远程工作利器，快速掌握新兴工具-–-独立产品灵感周刊-DecoHack-#064](https://decohack.com/decohack-064-chuangyi-gongju-ditu-web3-yuancheng/) 
