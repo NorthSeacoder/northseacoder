@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-08-08 18:40:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-09 18:39:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-08-08-PH今日热榜-|-2024-08-08](https://decohack.com/producthunt-daily-24-08-08/) ![](/assets/new.png)  
+- [2024-08-09-PH今日热榜-|-2024-08-09](https://decohack.com/producthunt-daily-24-08-09/) ![](/assets/new.png)  
+- [2024-08-08-PH今日热榜-|-2024-08-08](https://decohack.com/producthunt-daily-24-08-08/)  
 - [2024-08-07-PH今日热榜-|-2024-08-07](https://decohack.com/producthunt-daily-24-08-07/)  
 - [2024-08-06-PH今日热榜-|-2024-08-06](https://decohack.com/producthunt-daily-24-08-06/)  
 - [2024-08-04-PH今日热榜-|-2024-08-04](https://decohack.com/producthunt-daily-24-08-04/)  
@@ -258,7 +259,6 @@
 - [2023-12-25-轻松阅读英文内容-终极翻译工具和插件推荐](https://decohack.com/yingyu-xuexi-fanyi-gongju/)  
 - [2023-12-17-AI绘图工具与时间管理创新-–-独立产品灵感周刊-DecoHack-#057](https://decohack.com/decohack-057-ai-gongju-shijian-guanli-dulikaifa/)  
 - [2023-12-11-AI助力设计与开发：Twitter工具、个人品牌神器-–-独立产品灵感周刊-DecoHack-#056](https://decohack.com/decohack-056-ai-gongju-pinpaijianshe-dulikaifa/)  
-- [2023-11-06-出海项目与习惯追踪APP推荐-–-独立产品灵感周刊-DecoHack-#055](https://decohack.com/decohack-055-dulikaifa-xiguanzhuizong-kaoyuanxiangmu/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
