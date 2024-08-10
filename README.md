@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-08-09 18:39:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-10 18:37:08，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2024-08-10-页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/) ![](/assets/new.png)  
 - [2024-07-28-独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/)  
 - [2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/)  
 - [2024-07-18-今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/)  
@@ -210,7 +211,6 @@
 - [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/)  
 - [2023-12-25-JS实现图片相似度的判断](https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/)  
 - [2023-12-24-使用JS提取视频中的音频资源](https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/)  
-- [2023-11-28-本地MP3封面图、时长等信息的JS读取](https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-08-09-PH今日热榜-|-2024-08-09](https://decohack.com/producthunt-daily-24-08-09/) ![](/assets/new.png)  
+- [2024-08-10-PH今日热榜-|-2024-08-10](https://decohack.com/producthunt-daily-24-08-10/) ![](/assets/new.png)  
+- [2024-08-09-PH今日热榜-|-2024-08-09](https://decohack.com/producthunt-daily-24-08-09/)  
 - [2024-08-08-PH今日热榜-|-2024-08-08](https://decohack.com/producthunt-daily-24-08-08/)  
 - [2024-08-07-PH今日热榜-|-2024-08-07](https://decohack.com/producthunt-daily-24-08-07/)  
 - [2024-08-06-PH今日热榜-|-2024-08-06](https://decohack.com/producthunt-daily-24-08-06/)  
@@ -258,7 +259,6 @@
 - [2024-05-20-餐厅工作体验与地图真实比例工具推荐-–-独立产品灵感周刊-DecoHack-#058](https://decohack.com/decohack-060-chushi-dianping-ditu/)  
 - [2023-12-25-轻松阅读英文内容-终极翻译工具和插件推荐](https://decohack.com/yingyu-xuexi-fanyi-gongju/)  
 - [2023-12-17-AI绘图工具与时间管理创新-–-独立产品灵感周刊-DecoHack-#057](https://decohack.com/decohack-057-ai-gongju-shijian-guanli-dulikaifa/)  
-- [2023-12-11-AI助力设计与开发：Twitter工具、个人品牌神器-–-独立产品灵感周刊-DecoHack-#056](https://decohack.com/decohack-056-ai-gongju-pinpaijianshe-dulikaifa/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
