@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-08-11 18:39:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-12 18:40:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-08-11-PH今日热榜-|-2024-08-11](https://decohack.com/producthunt-daily-24-08-11/) ![](/assets/new.png)  
+- [2024-08-11-PH今日热榜-|-2024-08-12](https://decohack.com/producthunt-daily-24-08-12/) ![](/assets/new.png)  
+- [2024-08-11-PH今日热榜-|-2024-08-11](https://decohack.com/producthunt-daily-24-08-11/)  
 - [2024-08-10-PH今日热榜-|-2024-08-10](https://decohack.com/producthunt-daily-24-08-10/)  
 - [2024-08-09-PH今日热榜-|-2024-08-09](https://decohack.com/producthunt-daily-24-08-09/)  
 - [2024-08-08-PH今日热榜-|-2024-08-08](https://decohack.com/producthunt-daily-24-08-08/)  
@@ -258,7 +259,6 @@
 - [2024-06-03-免费工具合集：翻转文本、猫咪白噪音等-–-独立产品灵感周刊-DecoHack-#060](https://decohack.com/decohack-060-maomi-baizaoyin-gongju/)  
 - [2024-05-27-月入31k美元的Autoshorts及7款实用工具推荐-–-独立产品灵感周刊-DecoHack-#059](https://decohack.com/decohack-059-duanshipin-gongju/)  
 - [2024-05-20-餐厅工作体验与地图真实比例工具推荐-–-独立产品灵感周刊-DecoHack-#058](https://decohack.com/decohack-060-chushi-dianping-ditu/)  
-- [2023-12-25-轻松阅读英文内容-终极翻译工具和插件推荐](https://decohack.com/yingyu-xuexi-fanyi-gongju/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
