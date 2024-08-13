@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-08-12 18:40:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-13 18:39:49，:rocket: 更新条数: +14， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -239,26 +239,26 @@
 </summary>
 
 
-- [2024-08-11-PH今日热榜-|-2024-08-12](https://decohack.com/producthunt-daily-24-08-12/) ![](/assets/new.png)  
+- [2024-08-13-PH今日热榜-|-2024-08-12](https://decohack.com/producthunt-daily-24-08-12-2/) ![](/assets/new.png)  
+- [2024-08-13-独立产品灵感周刊-DecoHack-#065-–-新奇工具：从地形可视化到网红营销](https://decohack.com/decohack-065-dixing-yinying-tiktok-gongju/) ![](/assets/new.png)  
+- [2024-08-11-PH今日热榜-|-2024-08-11](https://decohack.com/producthunt-daily-24-08-11-2/) ![](/assets/new.png)  
+- [2024-08-11-PH今日热榜-|-2024-08-10](https://decohack.com/producthunt-daily-24-08-10-2/) ![](/assets/new.png)  
+- [2024-08-10-PH今日热榜-|-2024-08-09](https://decohack.com/producthunt-daily-24-08-09-2/) ![](/assets/new.png)  
+- [2024-08-09-PH今日热榜-|-2024-08-08](https://decohack.com/producthunt-daily-24-08-08-2/) ![](/assets/new.png)  
+- [2024-08-08-PH今日热榜-|-2024-08-07](https://decohack.com/producthunt-daily-24-08-07-2/) ![](/assets/new.png)  
+- [2024-08-07-PH今日热榜-|-2024-08-06](https://decohack.com/producthunt-daily-24-08-06-2/) ![](/assets/new.png)  
+- [2024-08-06-PH今日热榜-|-2024-08-05](https://decohack.com/producthunt-daily-24-08-05-2/) ![](/assets/new.png)  
+- [2024-08-05-PH今日热榜-|-2024-08-04](https://decohack.com/producthunt-daily-24-08-04-2/) ![](/assets/new.png)  
+- [2024-08-04-PH今日热榜-|-2024-08-03](https://decohack.com/producthunt-daily-24-08-03-2/) ![](/assets/new.png)  
+- [2024-08-03-PH今日热榜-|-2024-08-02](https://decohack.com/producthunt-daily-24-08-02-2/) ![](/assets/new.png)  
+- [2024-08-02-PH今日热榜-|-2024-08-01](https://decohack.com/producthunt-daily-24-08-01-2/) ![](/assets/new.png)  
+- [2024-08-01-PH今日热榜-|-2024-07-31](https://decohack.com/producthunt-daily-24-07-31/) ![](/assets/new.png)  
+- [2024-08-11-PH今日热榜-|-2024-08-12](https://decohack.com/producthunt-daily-24-08-12/)  
 - [2024-08-11-PH今日热榜-|-2024-08-11](https://decohack.com/producthunt-daily-24-08-11/)  
 - [2024-08-10-PH今日热榜-|-2024-08-10](https://decohack.com/producthunt-daily-24-08-10/)  
 - [2024-08-09-PH今日热榜-|-2024-08-09](https://decohack.com/producthunt-daily-24-08-09/)  
 - [2024-08-08-PH今日热榜-|-2024-08-08](https://decohack.com/producthunt-daily-24-08-08/)  
 - [2024-08-07-PH今日热榜-|-2024-08-07](https://decohack.com/producthunt-daily-24-08-07/)  
-- [2024-08-06-PH今日热榜-|-2024-08-06](https://decohack.com/producthunt-daily-24-08-06/)  
-- [2024-08-04-PH今日热榜-|-2024-08-04](https://decohack.com/producthunt-daily-24-08-04/)  
-- [2024-08-03-PH今日热榜-|-2024-08-03](https://decohack.com/producthunt-daily-24-08-03/)  
-- [2024-08-02-PH今日热榜-|-2024-08-02](https://decohack.com/producthunt-daily-24-08-02/)  
-- [2024-08-01-PH今日热榜-|-2024-08-01](https://decohack.com/producthunt-daily-24-08-01/)  
-- [2024-08-07-Product-Hunt-Daily-–-2024-08-07](https://decohack.com/product-hunt-daily-2024-08-07/)  
-- [2024-08-06-ProductHunt榜单-8月5日](https://decohack.com/producthunt-daily-24-08-05/)  
-- [2024-08-05-Web3-开发与远程工作利器，快速掌握新兴工具-–-独立产品灵感周刊-DecoHack-#064](https://decohack.com/decohack-064-chuangyi-gongju-ditu-web3-yuancheng/)  
-- [2024-07-29-提升X/Twitter影响力的AI工具与新潮推荐-–-独立产品灵感周刊-DecoHack-#063](https://decohack.com/decohack-063-ai-shequ-shuqing-gongju/)  
-- [2024-07-21-AI图表工具与创意大文件共享-–-独立产品灵感周刊-DecoHack-#062](https://decohack.com/decohack-062-dawenji-jilu-gongju-ai/)  
-- [2024-07-15-开源书签导航与LoFi音乐广播网站推荐-–-独立产品灵感周刊-DecoHack-#061](https://decohack.com/decohack-061-shuqian-daohang-youtube-pindao/)  
-- [2024-06-03-免费工具合集：翻转文本、猫咪白噪音等-–-独立产品灵感周刊-DecoHack-#060](https://decohack.com/decohack-060-maomi-baizaoyin-gongju/)  
-- [2024-05-27-月入31k美元的Autoshorts及7款实用工具推荐-–-独立产品灵感周刊-DecoHack-#059](https://decohack.com/decohack-059-duanshipin-gongju/)  
-- [2024-05-20-餐厅工作体验与地图真实比例工具推荐-–-独立产品灵感周刊-DecoHack-#058](https://decohack.com/decohack-060-chushi-dianping-ditu/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
