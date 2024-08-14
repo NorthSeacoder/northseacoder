@@ -15,13 +15,13 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-08-13 18:39:49，:rocket: 更新条数: +14， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-14 18:39:14，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2024-08-14-Should-you-'over-engineer'-your-CSS?](https://frontendfoc.us/issues/656) ![](/assets/new.png)  
 - [2024-08-07-Ready-to-talk-CSS5?](https://frontendfoc.us/issues/655)  
 - [2024-07-31-W3C-doubles-down:-'Third-party-cookies-have-to-go'](https://frontendfoc.us/issues/654)  
 - [2024-07-24-How-to-build-complex-Chrome-extensions](https://frontendfoc.us/issues/653)  
@@ -117,7 +118,6 @@
 - [2023-12-13-2023-was-kind-to-CSS-and-the-web-platform](https://frontendfoc.us/issues/622)  
 - [2023-12-06-Should-web-perf-tools-report-carbon-emissions?](https://frontendfoc.us/issues/621)  
 - [2023-11-29-HTML-hacks-that-shaped-the-Web](https://frontendfoc.us/issues/620)  
-- [2023-11-22-An-interactive-guide-to-CSS-Grid](https://frontendfoc.us/issues/619)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,26 +239,26 @@
 </summary>
 
 
-- [2024-08-13-PH今日热榜-|-2024-08-12](https://decohack.com/producthunt-daily-24-08-12-2/) ![](/assets/new.png)  
-- [2024-08-13-独立产品灵感周刊-DecoHack-#065-–-新奇工具：从地形可视化到网红营销](https://decohack.com/decohack-065-dixing-yinying-tiktok-gongju/) ![](/assets/new.png)  
-- [2024-08-11-PH今日热榜-|-2024-08-11](https://decohack.com/producthunt-daily-24-08-11-2/) ![](/assets/new.png)  
-- [2024-08-11-PH今日热榜-|-2024-08-10](https://decohack.com/producthunt-daily-24-08-10-2/) ![](/assets/new.png)  
-- [2024-08-10-PH今日热榜-|-2024-08-09](https://decohack.com/producthunt-daily-24-08-09-2/) ![](/assets/new.png)  
-- [2024-08-09-PH今日热榜-|-2024-08-08](https://decohack.com/producthunt-daily-24-08-08-2/) ![](/assets/new.png)  
-- [2024-08-08-PH今日热榜-|-2024-08-07](https://decohack.com/producthunt-daily-24-08-07-2/) ![](/assets/new.png)  
-- [2024-08-07-PH今日热榜-|-2024-08-06](https://decohack.com/producthunt-daily-24-08-06-2/) ![](/assets/new.png)  
-- [2024-08-06-PH今日热榜-|-2024-08-05](https://decohack.com/producthunt-daily-24-08-05-2/) ![](/assets/new.png)  
-- [2024-08-05-PH今日热榜-|-2024-08-04](https://decohack.com/producthunt-daily-24-08-04-2/) ![](/assets/new.png)  
-- [2024-08-04-PH今日热榜-|-2024-08-03](https://decohack.com/producthunt-daily-24-08-03-2/) ![](/assets/new.png)  
-- [2024-08-03-PH今日热榜-|-2024-08-02](https://decohack.com/producthunt-daily-24-08-02-2/) ![](/assets/new.png)  
-- [2024-08-02-PH今日热榜-|-2024-08-01](https://decohack.com/producthunt-daily-24-08-01-2/) ![](/assets/new.png)  
-- [2024-08-01-PH今日热榜-|-2024-07-31](https://decohack.com/producthunt-daily-24-07-31/) ![](/assets/new.png)  
+- [2024-08-14-PH今日热榜-|-2024-08-13](https://decohack.com/producthunt-daily-24-08-13/) ![](/assets/new.png)  
+- [2024-08-13-PH今日热榜-|-2024-08-12](https://decohack.com/producthunt-daily-24-08-12-2/)  
+- [2024-08-13-独立产品灵感周刊-DecoHack-#065-–-新奇工具：从地形可视化到网红营销](https://decohack.com/decohack-065-dixing-yinying-tiktok-gongju/)  
+- [2024-08-11-PH今日热榜-|-2024-08-11](https://decohack.com/producthunt-daily-24-08-11-2/)  
+- [2024-08-11-PH今日热榜-|-2024-08-10](https://decohack.com/producthunt-daily-24-08-10-2/)  
+- [2024-08-10-PH今日热榜-|-2024-08-09](https://decohack.com/producthunt-daily-24-08-09-2/)  
+- [2024-08-09-PH今日热榜-|-2024-08-08](https://decohack.com/producthunt-daily-24-08-08-2/)  
+- [2024-08-08-PH今日热榜-|-2024-08-07](https://decohack.com/producthunt-daily-24-08-07-2/)  
+- [2024-08-07-PH今日热榜-|-2024-08-06](https://decohack.com/producthunt-daily-24-08-06-2/)  
+- [2024-08-06-PH今日热榜-|-2024-08-05](https://decohack.com/producthunt-daily-24-08-05-2/)  
+- [2024-08-05-PH今日热榜-|-2024-08-04](https://decohack.com/producthunt-daily-24-08-04-2/)  
+- [2024-08-04-PH今日热榜-|-2024-08-03](https://decohack.com/producthunt-daily-24-08-03-2/)  
+- [2024-08-03-PH今日热榜-|-2024-08-02](https://decohack.com/producthunt-daily-24-08-02-2/)  
+- [2024-08-02-PH今日热榜-|-2024-08-01](https://decohack.com/producthunt-daily-24-08-01-2/)  
+- [2024-08-01-PH今日热榜-|-2024-07-31](https://decohack.com/producthunt-daily-24-07-31/)  
 - [2024-08-11-PH今日热榜-|-2024-08-12](https://decohack.com/producthunt-daily-24-08-12/)  
 - [2024-08-11-PH今日热榜-|-2024-08-11](https://decohack.com/producthunt-daily-24-08-11/)  
 - [2024-08-10-PH今日热榜-|-2024-08-10](https://decohack.com/producthunt-daily-24-08-10/)  
 - [2024-08-09-PH今日热榜-|-2024-08-09](https://decohack.com/producthunt-daily-24-08-09/)  
 - [2024-08-08-PH今日热榜-|-2024-08-08](https://decohack.com/producthunt-daily-24-08-08/)  
-- [2024-08-07-PH今日热榜-|-2024-08-07](https://decohack.com/producthunt-daily-24-08-07/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
