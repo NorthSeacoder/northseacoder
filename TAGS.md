@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-19 18:39:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-20 18:39:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -133,6 +133,7 @@
 
 
 
+- [【Node-Weekly】Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544)
 - [【Node-Weekly】Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)
 - [【Node-Weekly】Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)
 - [【Node-Weekly】Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539)
@@ -152,7 +153,6 @@
 - [【Node-Weekly】.env-support-coming-to-Node](https://nodeweekly.com/issues/499)
 - [【Node-Weekly】Opening-up-the-Node.js-toolbox](https://nodeweekly.com/issues/497)
 - [【Node-Weekly】The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496)
-- [【Node-Weekly】Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493)
 - [......【查看更多】......](/category/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
