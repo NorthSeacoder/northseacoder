@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-08-22 18:39:35，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-23 18:39:07，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701) ![](/assets/new.png)  
+- [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701)  
 - [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700)  
 - [2024-08-01-How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699)  
 - [2024-07-25-What's-new-for-us-in-ECMAScript-2024](https://javascriptweekly.com/issues/698)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2024-08-23-不能落后，好好缕缕CSS滚动动画](https://www.zhangxinxu.com/wordpress/2024/08/css-scroll-timeline/) ![](/assets/new.png)  
 - [2024-08-10-页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/)  
 - [2024-07-28-独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/)  
 - [2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/)  
@@ -210,7 +211,6 @@
 - [2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/)  
 - [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/)  
 - [2023-12-25-JS实现图片相似度的判断](https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/)  
-- [2023-12-24-使用JS提取视频中的音频资源](https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,8 +239,9 @@
 </summary>
 
 
-- [2024-08-22-PH今日热榜-|-2024-08-22](https://decohack.com/producthunt-daily-24-08-22/) ![](/assets/new.png)  
-- [2024-08-21-PH今日热榜-|-2024-08-21](https://decohack.com/producthunt-daily-24-08-21/) ![](/assets/new.png)  
+- [2024-08-23-PH今日热榜-|-2024-08-23](https://decohack.com/producthunt-daily-24-08-23/) ![](/assets/new.png)  
+- [2024-08-22-PH今日热榜-|-2024-08-22](https://decohack.com/producthunt-daily-24-08-22/)  
+- [2024-08-21-PH今日热榜-|-2024-08-21](https://decohack.com/producthunt-daily-24-08-21/)  
 - [2024-08-21-PH今日热榜-|-2024-08-20](https://decohack.com/producthunt-daily-24-08-20/)  
 - [2024-08-20-PH今日热榜-|-2024-08-19](https://decohack.com/producthunt-daily-24-08-19/)  
 - [2024-08-19-PH今日热榜-|-2024-08-18](https://decohack.com/producthunt-daily-24-08-18/)  
@@ -258,7 +259,6 @@
 - [2024-08-08-PH今日热榜-|-2024-08-07](https://decohack.com/producthunt-daily-24-08-07-2/)  
 - [2024-08-07-PH今日热榜-|-2024-08-06](https://decohack.com/producthunt-daily-24-08-06-2/)  
 - [2024-08-06-PH今日热榜-|-2024-08-05](https://decohack.com/producthunt-daily-24-08-05-2/)  
-- [2024-08-05-PH今日热榜-|-2024-08-04](https://decohack.com/producthunt-daily-24-08-04-2/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
