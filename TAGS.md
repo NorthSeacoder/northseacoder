@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-26 18:39:31。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-27 18:39:59。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -90,6 +90,7 @@
 
 
 
+- [【Node-Weekly】Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545)
 - [【Node-Weekly】Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)
 - [【JavaScript-Weekly】Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)
 - [【JavaScript-Weekly】TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)
