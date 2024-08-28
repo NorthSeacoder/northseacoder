@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-08-14 18:39:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-28 18:39:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2024-08-28-Making-your-page-faster-before-it-even-loads](https://frontendfoc.us/issues/657) 
 - [2024-08-14-Should-you-'over-engineer'-your-CSS?](https://frontendfoc.us/issues/656) 
 - [2024-08-07-Ready-to-talk-CSS5?](https://frontendfoc.us/issues/655) 
 - [2024-07-31-W3C-doubles-down:-'Third-party-cookies-have-to-go'](https://frontendfoc.us/issues/654) 

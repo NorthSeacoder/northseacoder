@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-27 18:39:59。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-28 18:39:49。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -39,6 +39,7 @@
 
 
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】The-interface-segregation-principle-in-React](https://react.statuscode.com/issues/397)
 - [【React-Status】React-as-a-full-stack-framework?](https://react.statuscode.com/issues/396)
 - [【React-Status】The-React-Conf-2024-talks](https://react.statuscode.com/issues/395)
 - [【React-Status】What-the-React-community-is-doing-and-thinking](https://react.statuscode.com/issues/394)
@@ -57,7 +58,6 @@
 - [【React-Status】React-Server-Components-explained](https://react.statuscode.com/issues/354)
 - [【React-Status】Explaining-why-React-re-renders](https://react.statuscode.com/issues/353)
 - [【React-Status】Official-docs-on-using-TypeScript-with-React](https://react.statuscode.com/issues/352)
-- [【React-Status】✨-Reacting-with-the-Stars](https://react.statuscode.com/issues/351)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -401,6 +401,7 @@
 
 
 - [【Node-Weekly】Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)
+- [【Frontend-Focus】Making-your-page-faster-before-it-even-loads](https://frontendfoc.us/issues/657)
 - [【Frontend-Focus】Astro-3.0-released,-and-RIP-to-a-Web-hero](https://frontendfoc.us/issues/608)
 - [【淘系前端团队】如何在应用架构中设计微前端方案---icestark](https://fed.taobao.org/blog/taofed/do71ct/xgmaz3)
 - [【DecoHack-独立开发者的灵感周刊】独立产品灵感周刊-DecoHack-#065-–-新奇工具：从地形可视化到网红营销](https://decohack.com/decohack-065-dixing-yinying-tiktok-gongju/)

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-08-21 18:39:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-28 18:39:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2024-08-28-The-interface-segregation-principle-in-React](https://react.statuscode.com/issues/397) 
 - [2024-08-21-React-as-a-full-stack-framework?](https://react.statuscode.com/issues/396) 
 - [2024-07-31-The-React-Conf-2024-talks](https://react.statuscode.com/issues/395) 
 - [2024-07-24-What-the-React-community-is-doing-and-thinking](https://react.statuscode.com/issues/394) 
