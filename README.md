@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-08-28 18:39:49，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-29 18:40:45，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702) ![](/assets/new.png)  
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701)  
 - [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700)  
 - [2024-08-01-How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699)  
@@ -86,7 +87,6 @@
 - [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)  
 - [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667)  
 - [2023-12-07-Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)  
-- [2023-11-30-Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-08-28-Making-your-page-faster-before-it-even-loads](https://frontendfoc.us/issues/657) ![](/assets/new.png)  
+- [2024-08-28-Making-your-page-faster-before-it-even-loads](https://frontendfoc.us/issues/657)  
 - [2024-08-14-Should-you-'over-engineer'-your-CSS?](https://frontendfoc.us/issues/656)  
 - [2024-08-07-Ready-to-talk-CSS5?](https://frontendfoc.us/issues/655)  
 - [2024-07-31-W3C-doubles-down:-'Third-party-cookies-have-to-go'](https://frontendfoc.us/issues/654)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2024-08-28-The-interface-segregation-principle-in-React](https://react.statuscode.com/issues/397) ![](/assets/new.png)  
+- [2024-08-28-The-interface-segregation-principle-in-React](https://react.statuscode.com/issues/397)  
 - [2024-08-21-React-as-a-full-stack-framework?](https://react.statuscode.com/issues/396)  
 - [2024-07-31-The-React-Conf-2024-talks](https://react.statuscode.com/issues/395)  
 - [2024-07-24-What-the-React-community-is-doing-and-thinking](https://react.statuscode.com/issues/394)  
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-08-28-PH今日热榜-|-2024-08-28](https://decohack.com/producthunt-daily-24-08-28/) ![](/assets/new.png)  
+- [2024-08-29-PH今日热榜-|-2024-08-29](https://decohack.com/ph%e4%bb%8a%e6%97%a5%e7%83%ad%e6%a6%9c-2024-08-29/) ![](/assets/new.png)  
+- [2024-08-28-PH今日热榜-|-2024-08-28](https://decohack.com/producthunt-daily-24-08-28/)  
 - [2024-08-27-PH今日热榜-|-2024-08-27](https://decohack.com/producthunt-daily-24-08-27/)  
 - [2024-08-26-PH今日热榜-|-2024-08-26](https://decohack.com/producthunt-daily-24-08-26/)  
 - [2024-08-25-PH今日热榜-|-2024-08-25](https://decohack.com/producthunt-daily-24-08-25/)  
@@ -258,7 +259,6 @@
 - [2024-08-13-PH今日热榜-|-2024-08-12](https://decohack.com/producthunt-daily-24-08-12-2/)  
 - [2024-08-13-独立产品灵感周刊-DecoHack-#065-–-新奇工具：从地形可视化到网红营销](https://decohack.com/decohack-065-dixing-yinying-tiktok-gongju/)  
 - [2024-08-11-PH今日热榜-|-2024-08-11](https://decohack.com/producthunt-daily-24-08-11-2/)  
-- [2024-08-11-PH今日热榜-|-2024-08-10](https://decohack.com/producthunt-daily-24-08-10-2/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
