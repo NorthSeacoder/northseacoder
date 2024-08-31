@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-08-30 18:40:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-31 18:38:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-08-30-PH今日热榜-|-2024-08-30](https://decohack.com/producthunt-daily-24-08-30/) ![](/assets/new.png)  
+- [2024-08-31-PH今日热榜-|-2024-03-31](https://decohack.com/producthunt-daily-24-08-31/) ![](/assets/new.png)  
+- [2024-08-30-PH今日热榜-|-2024-08-30](https://decohack.com/producthunt-daily-24-08-30/)  
 - [2024-08-29-PH今日热榜-|-2024-08-29](https://decohack.com/ph%e4%bb%8a%e6%97%a5%e7%83%ad%e6%a6%9c-2024-08-29/)  
 - [2024-08-28-PH今日热榜-|-2024-08-28](https://decohack.com/producthunt-daily-24-08-28/)  
 - [2024-08-27-PH今日热榜-|-2024-08-27](https://decohack.com/producthunt-daily-24-08-27/)  
@@ -258,7 +259,6 @@
 - [2024-08-15-PH今日热榜-|-2024-08-14](https://decohack.com/producthunt-daily-24-08-14/)  
 - [2024-08-14-PH今日热榜-|-2024-08-13](https://decohack.com/producthunt-daily-24-08-13/)  
 - [2024-08-13-PH今日热榜-|-2024-08-12](https://decohack.com/producthunt-daily-24-08-12-2/)  
-- [2024-08-13-独立产品灵感周刊-DecoHack-#065-–-新奇工具：从地形可视化到网红营销](https://decohack.com/decohack-065-dixing-yinying-tiktok-gongju/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
