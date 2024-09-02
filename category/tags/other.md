@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-01 18:38:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-02 18:40:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -77,6 +77,9 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2024-09-02-独立产品灵感周刊-DecoHack-#066-–-下周苹果发布会要来了](https://decohack.com/decohack-066-productivity-ai/) 
+- [2024-09-02-PH今日热榜-|-2024-09-02](https://decohack.com/producthunt-daily-24-09-02/) 
+- [2024-08-29-PH今日热榜-|-2024-08-29](https://decohack.com/producthunt-daily-24-08-29/) 
 - [2024-09-01-PH今日热榜-|-2024-09-01](https://decohack.com/producthunt-daily-24-09-01/) 
 - [2024-08-31-PH今日热榜-|-2024-03-31](https://decohack.com/producthunt-daily-24-08-31/) 
 - [2024-08-30-PH今日热榜-|-2024-08-30](https://decohack.com/producthunt-daily-24-08-30/) 
