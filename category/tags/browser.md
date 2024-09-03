@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-02 18:40:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-03 18:40:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-09-03-Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546) 
 - [2023-06-13-Let's-get-debugging](https://nodeweekly.com/issues/490) 
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656) 
 - [2024-07-31-W3C-doubles-down:-'Third-party-cookies-have-to-go'](https://frontendfoc.us/issues/654) 
