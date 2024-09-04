@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-09-03 18:40:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-09-04 18:39:25。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -489,7 +489,7 @@
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
 - [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
-- [【Frontend-Focus】All-the-selectors-you-need](https://frontendfoc.us/issues/652)
+- [【Frontend-Focus】Remembering-the-first-decade-of-web-design](https://frontendfoc.us/issues/658)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
