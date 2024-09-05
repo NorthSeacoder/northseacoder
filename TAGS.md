@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-09-04 18:39:25。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-09-05 18:40:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -220,6 +220,7 @@
 
 
 
+- [【JavaScript-Weekly】Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)
 - [【JavaScript-Weekly】JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702)
 - [【JavaScript-Weekly】How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699)
 - [【JavaScript-Weekly】What's-new-for-us-in-ECMAScript-2024](https://javascriptweekly.com/issues/698)
@@ -239,7 +240,6 @@
 - [【JavaScript-Weekly】Web-Components-forever?](https://javascriptweekly.com/issues/660)
 - [【JavaScript-Weekly】Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659)
 - [【JavaScript-Weekly】Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658)
-- [【JavaScript-Weekly】Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
