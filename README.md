@@ -15,12 +15,12 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-09-05 18:40:20，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-06 18:40:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703) ![](/assets/new.png)  
+- [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)  
 - [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702)  
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701)  
 - [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700)  
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-09-05-PH今日热榜-|-2024-09-05](https://decohack.com/producthunt-daily-24-09-05/) ![](/assets/new.png)  
+- [2024-09-06-PH今日热榜-|-2024-09-06](https://decohack.com/producthunt-daily-24-09-062/) ![](/assets/new.png)  
+- [2024-09-05-PH今日热榜-|-2024-09-05](https://decohack.com/producthunt-daily-24-09-05/)  
 - [2024-09-04-PH今日热榜-|-2024-09-04](https://decohack.com/producthunt-daily-24-09-04/)  
 - [2024-09-03-PH今日热榜-|-2024-09-03](https://decohack.com/producthunt-daily-24-09-03/)  
 - [2024-09-02-独立产品灵感周刊-DecoHack-#066-–-下周苹果发布会要来了](https://decohack.com/decohack-066-productivity-ai/)  
@@ -258,7 +259,6 @@
 - [2024-08-22-PH今日热榜-|-2024-08-22](https://decohack.com/producthunt-daily-24-08-22/)  
 - [2024-08-21-PH今日热榜-|-2024-08-21](https://decohack.com/producthunt-daily-24-08-21/)  
 - [2024-08-21-PH今日热榜-|-2024-08-20](https://decohack.com/producthunt-daily-24-08-20/)  
-- [2024-08-20-PH今日热榜-|-2024-08-19](https://decohack.com/producthunt-daily-24-08-19/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
