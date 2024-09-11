@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-09-10 18:41:11，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-11 18:40:57，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2024-09-10-Express.js-5.0](https://nodeweekly.com/issues/547) ![](/assets/new.png)  
+- [2024-09-10-Express.js-5.0](https://nodeweekly.com/issues/547)  
 - [2024-09-03-Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)  
 - [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545)  
 - [2024-08-20-Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2024-09-11-'Release-notes'-for-the-entire-web-platform?](https://frontendfoc.us/issues/659) ![](/assets/new.png)  
 - [2024-09-04-Remembering-the-first-decade-of-web-design](https://frontendfoc.us/issues/658)  
 - [2024-08-28-Making-your-page-faster-before-it-even-loads](https://frontendfoc.us/issues/657)  
 - [2024-08-14-Should-you-'over-engineer'-your-CSS?](https://frontendfoc.us/issues/656)  
@@ -117,7 +118,6 @@
 - [2024-01-10-The-100-top-CodePens-of-2023](https://frontendfoc.us/issues/625)  
 - [2024-01-03-A-look-back-at-2023-in-frontend-development](https://frontendfoc.us/issues/624)  
 - [2023-12-20-:has-has-broad-browser-backing](https://frontendfoc.us/issues/623)  
-- [2023-12-13-2023-was-kind-to-CSS-and-the-web-platform](https://frontendfoc.us/issues/622)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2024-09-11-A-bumper-React-19-feature-roundup](https://react.statuscode.com/issues/399) ![](/assets/new.png)  
 - [2024-09-04-Is-component-testing-the-future-of-UI-testing?](https://react.statuscode.com/issues/398)  
 - [2024-08-28-The-interface-segregation-principle-in-React](https://react.statuscode.com/issues/397)  
 - [2024-08-21-React-as-a-full-stack-framework?](https://react.statuscode.com/issues/396)  
@@ -148,7 +149,6 @@
 - [2023-12-20-The-top-React-articles-of-2023](https://react.statuscode.com/issues/367)  
 - [2023-12-13-Storybook-gets-on-board-with-RSCs](https://react.statuscode.com/issues/366)  
 - [2023-12-06-Meta-opens-up-Facebook's-styling-solution](https://react.statuscode.com/issues/365)  
-- [2023-11-29-AWS-vs-Vercel-for-hosting-Next.js-apps](https://react.statuscode.com/issues/364)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2024-09-11-来了来了，scrollend滚动停止事件也支持了](https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/) ![](/assets/new.png)  
 - [2024-09-08-搞懂SVG中各种Light相关的光源滤镜](https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/)  
 - [2024-08-23-不能落后，好好缕缕CSS滚动动画](https://www.zhangxinxu.com/wordpress/2024/08/css-scroll-timeline/)  
 - [2024-08-10-页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/)  
@@ -210,7 +211,6 @@
 - [2024-01-21-CSS-@scope他来了](https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/)  
 - [2024-01-15-使用JS快速获取video视频任意位置的缩略图](https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/)  
 - [2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/)  
-- [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-09-10-PH今日热榜-|-2024-09-10](https://decohack.com/producthunt-daily-2024-09-10/) ![](/assets/new.png)  
+- [2024-09-11-PH今日热榜-|-2024-09-11](https://decohack.com/producthunt-daily-2024-09-11/) ![](/assets/new.png)  
+- [2024-09-10-PH今日热榜-|-2024-09-10](https://decohack.com/producthunt-daily-2024-09-10/)  
 - [2024-09-09-独立产品灵感周刊-DecoHack-#067-–-摸鱼神器与AI视频创作工具](https://decohack.com/decohack-067-moyushenqi-ai-shengcheng/)  
 - [2024-09-09-PH今日热榜-|-2024-09-09](https://decohack.com/producthunt-daily-2024-09-09/)  
 - [2024-09-08-PH今日热榜-|-2024-09-08](https://decohack.com/producthunt-daily-2024-09-08/)  
@@ -258,7 +259,6 @@
 - [2024-08-28-PH今日热榜-|-2024-08-28](https://decohack.com/producthunt-daily-24-08-28/)  
 - [2024-08-27-PH今日热榜-|-2024-08-27](https://decohack.com/producthunt-daily-24-08-27/)  
 - [2024-08-26-PH今日热榜-|-2024-08-26](https://decohack.com/producthunt-daily-24-08-26/)  
-- [2024-08-25-PH今日热榜-|-2024-08-25](https://decohack.com/producthunt-daily-24-08-25/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-09-10 18:41:11。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-09-11 18:40:57。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -39,6 +39,7 @@
 
 
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】A-bumper-React-19-feature-roundup](https://react.statuscode.com/issues/399)
 - [【React-Status】The-interface-segregation-principle-in-React](https://react.statuscode.com/issues/397)
 - [【React-Status】React-as-a-full-stack-framework?](https://react.statuscode.com/issues/396)
 - [【React-Status】The-React-Conf-2024-talks](https://react.statuscode.com/issues/395)
@@ -57,7 +58,6 @@
 - [【React-Status】Getting-AI-to-build-your-React-components](https://react.statuscode.com/issues/355)
 - [【React-Status】React-Server-Components-explained](https://react.statuscode.com/issues/354)
 - [【React-Status】Explaining-why-React-re-renders](https://react.statuscode.com/issues/353)
-- [【React-Status】Official-docs-on-using-TypeScript-with-React](https://react.statuscode.com/issues/352)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -491,7 +491,7 @@
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
 - [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
-- [【Frontend-Focus】Remembering-the-first-decade-of-web-design](https://frontendfoc.us/issues/658)
+- [【Frontend-Focus】'Release-notes'-for-the-entire-web-platform?](https://frontendfoc.us/issues/659)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

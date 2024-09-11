@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-09-04 18:39:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-11 18:40:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2024-09-11-A-bumper-React-19-feature-roundup](https://react.statuscode.com/issues/399) 
 - [2024-09-04-Is-component-testing-the-future-of-UI-testing?](https://react.statuscode.com/issues/398) 
 - [2024-08-28-The-interface-segregation-principle-in-React](https://react.statuscode.com/issues/397) 
 - [2024-08-21-React-as-a-full-stack-framework?](https://react.statuscode.com/issues/396) 
