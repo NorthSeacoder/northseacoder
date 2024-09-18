@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-09-11 18:40:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-18 18:41:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2024-09-18-New-iOS,-new-macOS,-so-there's-a-new-Safari,-too.](https://frontendfoc.us/issues/660) 
 - [2024-09-11-'Release-notes'-for-the-entire-web-platform?](https://frontendfoc.us/issues/659) 
 - [2024-09-04-Remembering-the-first-decade-of-web-design](https://frontendfoc.us/issues/658) 
 - [2024-08-28-Making-your-page-faster-before-it-even-loads](https://frontendfoc.us/issues/657) 
