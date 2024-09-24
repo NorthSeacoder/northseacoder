@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-09-17 18:42:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-24 18:42:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2024-09-24-Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549) 
 - [2024-09-17-Tough-cookies](https://nodeweekly.com/issues/548) 
 - [2024-09-10-Express.js-5.0](https://nodeweekly.com/issues/547) 
 - [2024-09-03-Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546) 
