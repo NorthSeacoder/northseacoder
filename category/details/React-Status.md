@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-09-18 18:41:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-25 18:42:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2024-09-25-Component-composition-is-great](https://react.statuscode.com/issues/401) 
 - [2024-09-18-A-Next.js-template-for-SaaS-apps](https://react.statuscode.com/issues/400) 
 - [2024-09-11-A-bumper-React-19-feature-roundup](https://react.statuscode.com/issues/399) 
 - [2024-09-04-Is-component-testing-the-future-of-UI-testing?](https://react.statuscode.com/issues/398) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-24 18:42:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-25 18:42:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -36,6 +36,7 @@
 - [2023-06-29-This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645) 
 - [2023-06-15-11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643) 
 - [2023-08-02-Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604) 
+- [2024-09-25-Component-composition-is-great](https://react.statuscode.com/issues/401) 
 - [2024-09-18-A-Next.js-template-for-SaaS-apps](https://react.statuscode.com/issues/400) 
 - [2024-09-04-Is-component-testing-the-future-of-UI-testing?](https://react.statuscode.com/issues/398) 
 - [2024-02-07-Remix-vs-Next.js](https://react.statuscode.com/issues/373) 

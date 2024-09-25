@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-09-24 18:42:55。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-09-25 18:42:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -271,12 +271,12 @@
 - [【Frontend-Focus】The-gotchas-of-CSS-nesting](https://frontendfoc.us/issues/597)
 - [【淘系前端团队】你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993)
 - [【淘系前端团队】Midway-Serverless-发布-2.0，一体化让前端研发再次提效](https://fed.taobao.org/blog/taofed/do71ct/mvd9lw)
+- [【张鑫旭-鑫空间-鑫生活】时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/)
 - [【张鑫旭-鑫空间-鑫生活】好消息，align-content垂直居中也适用普通元素啦](https://www.zhangxinxu.com/wordpress/2024/09/css-align-content/)
 - [【张鑫旭-鑫空间-鑫生活】页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/)
 - [【张鑫旭-鑫空间-鑫生活】今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/)
 - [【张鑫旭-鑫空间-鑫生活】了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/)
 - [【张鑫旭-鑫空间-鑫生活】如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/)
-- [【张鑫旭-鑫空间-鑫生活】CSS-transition-behavior让display-none也有动画效果](https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/)
 - [......【查看更多】......](/category/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -494,7 +494,7 @@
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
 - [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
-- [【Frontend-Focus】'Release-notes'-for-the-entire-web-platform?](https://frontendfoc.us/issues/659)
+- [【Frontend-Focus】Masonry-moves-forward](https://frontendfoc.us/issues/661)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
