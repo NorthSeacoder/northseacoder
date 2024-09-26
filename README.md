@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-09-25 18:42:48，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-26 18:42:16，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706) ![](/assets/new.png)  
 - [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)  
 - [2024-09-12-The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)  
 - [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)  
@@ -86,7 +87,6 @@
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)  
 - [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)  
 - [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)  
-- [2024-01-04-JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-09-25-Masonry-moves-forward](https://frontendfoc.us/issues/661) ![](/assets/new.png)  
+- [2024-09-25-Masonry-moves-forward](https://frontendfoc.us/issues/661)  
 - [2024-09-18-New-iOS,-new-macOS,-so-there's-a-new-Safari,-too.](https://frontendfoc.us/issues/660)  
 - [2024-09-11-'Release-notes'-for-the-entire-web-platform?](https://frontendfoc.us/issues/659)  
 - [2024-09-04-Remembering-the-first-decade-of-web-design](https://frontendfoc.us/issues/658)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2024-09-25-Component-composition-is-great](https://react.statuscode.com/issues/401) ![](/assets/new.png)  
+- [2024-09-25-Component-composition-is-great](https://react.statuscode.com/issues/401)  
 - [2024-09-18-A-Next.js-template-for-SaaS-apps](https://react.statuscode.com/issues/400)  
 - [2024-09-11-A-bumper-React-19-feature-roundup](https://react.statuscode.com/issues/399)  
 - [2024-09-04-Is-component-testing-the-future-of-UI-testing?](https://react.statuscode.com/issues/398)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2024-09-25-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/) ![](/assets/new.png)  
+- [2024-09-25-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/)  
 - [2024-09-19-实用的JS对象分组静态方法Object.groupBy](https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/)  
 - [2024-09-13-好消息，align-content垂直居中也适用普通元素啦](https://www.zhangxinxu.com/wordpress/2024/09/css-align-content/)  
 - [2024-09-11-来了来了，scrollend滚动停止事件也支持了](https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/)  
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-09-25-PH今日热榜-|-2024-09-25](https://decohack.com/producthunt-daily-2024-09-25/) ![](/assets/new.png)  
+- [2024-09-26-PH今日热榜-|-2024-09-26](https://decohack.com/producthunt-daily-2024-09-26/) ![](/assets/new.png)  
+- [2024-09-25-PH今日热榜-|-2024-09-25](https://decohack.com/producthunt-daily-2024-09-25/)  
 - [2024-09-24-PH今日热榜-|-2024-09-24](https://decohack.com/producthunt-daily-2024-09-24/)  
 - [2024-09-23-PH今日热榜-|-2024-09-23](https://decohack.com/producthunt-daily-2024-09-23/)  
 - [2024-09-22-PH今日热榜-|-2024-09-22](https://decohack.com/producthunt-daily-2024-09-22/)  
@@ -258,7 +259,6 @@
 - [2024-09-09-独立产品灵感周刊-DecoHack-#067-–-摸鱼神器与AI视频创作工具](https://decohack.com/decohack-067-moyushenqi-ai-shengcheng/)  
 - [2024-09-09-PH今日热榜-|-2024-09-09](https://decohack.com/producthunt-daily-2024-09-09/)  
 - [2024-09-08-PH今日热榜-|-2024-09-08](https://decohack.com/producthunt-daily-2024-09-08/)  
-- [2024-09-07-PH今日热榜-|-2024-09-07](https://decohack.com/producthunt-daily-2024-09-07/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

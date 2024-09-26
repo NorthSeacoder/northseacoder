@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-25 18:42:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-26 18:42:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -32,5 +32,6 @@
 - [2023-07-04-Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493) 
 - [2023-06-27-Why-Node-permissions-are-experimental-for-now](https://nodeweekly.com/issues/492) 
 - [2023-06-20-Getting-under-Node's-skin](https://nodeweekly.com/issues/491) 
+- [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706) 
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701) 
 - [2024-04-22-node环境中使用fluent-ffmpeg每隔一秒视频截图](https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/) 
