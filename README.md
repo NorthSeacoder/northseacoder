@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-10-02 18:44:33，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-03 18:43:06，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2024-10-03-Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707) ![](/assets/new.png)  
 - [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706)  
 - [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)  
 - [2024-09-12-The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)  
@@ -86,7 +87,6 @@
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)  
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)  
 - [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)  
-- [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-10-02-The-Web-Components-debate](https://frontendfoc.us/issues/662) ![](/assets/new.png)  
+- [2024-10-02-The-Web-Components-debate](https://frontendfoc.us/issues/662)  
 - [2024-09-25-Masonry-moves-forward](https://frontendfoc.us/issues/661)  
 - [2024-09-18-New-iOS,-new-macOS,-so-there's-a-new-Safari,-too.](https://frontendfoc.us/issues/660)  
 - [2024-09-11-'Release-notes'-for-the-entire-web-platform?](https://frontendfoc.us/issues/659)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2024-10-02-An-AI-generated-album-of-React-songs..](https://react.statuscode.com/issues/402) ![](/assets/new.png)  
+- [2024-10-02-An-AI-generated-album-of-React-songs..](https://react.statuscode.com/issues/402)  
 - [2024-09-25-Component-composition-is-great](https://react.statuscode.com/issues/401)  
 - [2024-09-18-A-Next.js-template-for-SaaS-apps](https://react.statuscode.com/issues/400)  
 - [2024-09-11-A-bumper-React-19-feature-roundup](https://react.statuscode.com/issues/399)  
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-10-02-PH今日热榜-|-2024-10-02](https://decohack.com/producthunt-daily-2024-10-02/) ![](/assets/new.png)  
+- [2024-10-03-PH今日热榜-|-2024-10-03](https://decohack.com/producthunt-daily-2024-10-03/) ![](/assets/new.png)  
+- [2024-10-02-PH今日热榜-|-2024-10-02](https://decohack.com/producthunt-daily-2024-10-02/)  
 - [2024-10-01-PH今日热榜-|-2024-10-01](https://decohack.com/producthunt-daily-2024-10-01/)  
 - [2024-09-30-PH今日热榜-|-2024-09-30](https://decohack.com/producthunt-daily-2024-09-30/)  
 - [2024-09-29-PH今日热榜-|-2024-09-29](https://decohack.com/producthunt-daily-2024-09-29/)  
@@ -258,7 +259,6 @@
 - [2024-09-16-PH今日热榜-|-2024-09-16](https://decohack.com/producthunt-daily-2024-09-16/)  
 - [2024-09-15-PH今日热榜-|-2024-09-15](https://decohack.com/producthunt-daily-2024-09-15/)  
 - [2024-09-14-PH今日热榜-|-2024-09-14](https://decohack.com/producthunt-daily-2024-09-14/)  
-- [2024-09-13-PH今日热榜-|-2024-09-13](https://decohack.com/producthunt-daily-2024-09-13/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

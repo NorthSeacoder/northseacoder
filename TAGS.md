@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-02 18:44:33。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-03 18:43:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -484,6 +484,7 @@
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707)
 - [【JavaScript-Weekly】A-big-update-for-ECharts](https://javascriptweekly.com/issues/676)
 - [【JavaScript-Weekly】Gorillas](https://javascriptweekly.com/issues/674)
 - [【JavaScript-Weekly】Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665)
@@ -494,7 +495,6 @@
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
 - [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
-- [【Frontend-Focus】Masonry-moves-forward](https://frontendfoc.us/issues/661)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
