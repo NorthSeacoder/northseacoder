@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-08 18:41:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-09 18:42:44。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -257,6 +257,7 @@
 
 
 
+- [【Frontend-Focus】CSS-nesting-is-getting-better-for-everyone](https://frontendfoc.us/issues/663)
 - [【Frontend-Focus】Should-you-'over-engineer'-your-CSS?](https://frontendfoc.us/issues/656)
 - [【Frontend-Focus】Ready-to-talk-CSS5?](https://frontendfoc.us/issues/655)
 - [【Frontend-Focus】A-CSS-'if'-function-isn't-here-yet,-but-what-can-we-do-today?](https://frontendfoc.us/issues/649)
@@ -276,7 +277,6 @@
 - [【张鑫旭-鑫空间-鑫生活】页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/)
 - [【张鑫旭-鑫空间-鑫生活】今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/)
 - [【张鑫旭-鑫空间-鑫生活】了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/)
-- [【张鑫旭-鑫空间-鑫生活】如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/)
 - [......【查看更多】......](/category/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

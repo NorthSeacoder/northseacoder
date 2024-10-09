@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-08 18:41:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-09 18:42:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-10-09-CSS-nesting-is-getting-better-for-everyone](https://frontendfoc.us/issues/663) 
 - [2024-08-14-Should-you-'over-engineer'-your-CSS?](https://frontendfoc.us/issues/656) 
 - [2024-08-07-Ready-to-talk-CSS5?](https://frontendfoc.us/issues/655) 
 - [2024-06-26-A-CSS-'if'-function-isn't-here-yet,-but-what-can-we-do-today?](https://frontendfoc.us/issues/649) 
