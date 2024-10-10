@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-10-09 18:42:44，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-10 18:43:20，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2024-10-10-A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708) ![](/assets/new.png)  
 - [2024-10-03-Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707)  
 - [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706)  
 - [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)  
@@ -86,7 +87,6 @@
 - [2024-02-08-Gorillas](https://javascriptweekly.com/issues/674)  
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)  
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)  
-- [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-10-09-CSS-nesting-is-getting-better-for-everyone](https://frontendfoc.us/issues/663) ![](/assets/new.png)  
+- [2024-10-09-CSS-nesting-is-getting-better-for-everyone](https://frontendfoc.us/issues/663)  
 - [2024-10-02-The-Web-Components-debate](https://frontendfoc.us/issues/662)  
 - [2024-09-25-Masonry-moves-forward](https://frontendfoc.us/issues/661)  
 - [2024-09-18-New-iOS,-new-macOS,-so-there's-a-new-Safari,-too.](https://frontendfoc.us/issues/660)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2024-10-10-Nice!-Safari也支持CSS-@perporty规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/) ![](/assets/new.png)  
 - [2024-09-25-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/)  
 - [2024-09-19-实用的JS对象分组静态方法Object.groupBy](https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/)  
 - [2024-09-13-好消息，align-content垂直居中也适用普通元素啦](https://www.zhangxinxu.com/wordpress/2024/09/css-align-content/)  
@@ -210,7 +211,6 @@
 - [2024-05-20-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/)  
 - [2024-05-12-不使用font-weight等CSS实现文字变瘦或变胖效果](https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/)  
 - [2024-04-22-node环境中使用fluent-ffmpeg每隔一秒视频截图](https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/)  
-- [2024-01-31-HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-10-09-PH今日热榜-|-2024-10-09](https://decohack.com/producthunt-daily-2024-10-09/) ![](/assets/new.png)  
+- [2024-10-10-PH今日热榜-|-2024-10-10](https://decohack.com/producthunt-daily-2024-10-10/) ![](/assets/new.png)  
+- [2024-10-09-PH今日热榜-|-2024-10-09](https://decohack.com/producthunt-daily-2024-10-09/)  
 - [2024-10-08-PH今日热榜-|-2024-10-08](https://decohack.com/producthunt-daily-2024-10-08/)  
 - [2024-10-07-PH今日热榜-|-2024-10-07](https://decohack.com/producthunt-daily-2024-10-07/)  
 - [2024-10-06-PH今日热榜-|-2024-10-06](https://decohack.com/producthunt-daily-2024-10-06/)  
@@ -258,7 +259,6 @@
 - [2024-09-23-PH今日热榜-|-2024-09-23](https://decohack.com/producthunt-daily-2024-09-23/)  
 - [2024-09-22-PH今日热榜-|-2024-09-22](https://decohack.com/producthunt-daily-2024-09-22/)  
 - [2024-09-21-PH今日热榜-|-2024-09-21](https://decohack.com/producthunt-daily-2024-09-21/)  
-- [2024-09-20-PH今日热榜-|-2024-09-20](https://decohack.com/producthunt-daily-2024-09-20/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

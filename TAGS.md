@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-09 18:42:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-10 18:43:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -221,6 +221,7 @@
 
 
 
+- [【JavaScript-Weekly】A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)
 - [【JavaScript-Weekly】Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)
 - [【JavaScript-Weekly】Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)
 - [【JavaScript-Weekly】JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702)
@@ -240,7 +241,6 @@
 - [【JavaScript-Weekly】The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)
 - [【JavaScript-Weekly】Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)
 - [【JavaScript-Weekly】Web-Components-forever?](https://javascriptweekly.com/issues/660)
-- [【JavaScript-Weekly】Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -272,11 +272,11 @@
 - [【Frontend-Focus】The-gotchas-of-CSS-nesting](https://frontendfoc.us/issues/597)
 - [【淘系前端团队】你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993)
 - [【淘系前端团队】Midway-Serverless-发布-2.0，一体化让前端研发再次提效](https://fed.taobao.org/blog/taofed/do71ct/mvd9lw)
+- [【张鑫旭-鑫空间-鑫生活】Nice!-Safari也支持CSS-@perporty规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/)
 - [【张鑫旭-鑫空间-鑫生活】时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/)
 - [【张鑫旭-鑫空间-鑫生活】好消息，align-content垂直居中也适用普通元素啦](https://www.zhangxinxu.com/wordpress/2024/09/css-align-content/)
 - [【张鑫旭-鑫空间-鑫生活】页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/)
 - [【张鑫旭-鑫空间-鑫生活】今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/)
-- [【张鑫旭-鑫空间-鑫生活】了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/)
 - [......【查看更多】......](/category/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

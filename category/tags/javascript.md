@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-09 18:42:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-10 18:43:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-10-10-A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708) 
 - [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705) 
 - [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703) 
 - [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702) 
