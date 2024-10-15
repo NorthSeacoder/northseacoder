@@ -15,11 +15,11 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-10-14 18:42:49，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-15 18:43:20，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551) ![](/assets/new.png)  
 - [2024-10-01-All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)  
 - [2024-09-24-Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549)  
 - [2024-09-17-Tough-cookies](https://nodeweekly.com/issues/548)  
@@ -55,7 +56,6 @@
 - [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519)  
 - [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518)  
 - [2024-01-16-npm-by-the-numbers](https://nodeweekly.com/issues/517)  
-- [2024-01-09-The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,8 +239,9 @@
 </summary>
 
 
-- [2024-10-14-独立产品灵感周刊-DecoHack-#068-–-汇集1600+创客工具](https://decohack.com/decohack-068-static-site-themes-tools/) ![](/assets/new.png)  
-- [2024-10-14-PH今日热榜-|-2024-10-14](https://decohack.com/producthunt-daily-2024-10-14/) ![](/assets/new.png)  
+- [2024-10-15-PH今日热榜-|-2024-10-15](https://decohack.com/producthunt-daily-2024-10-15/) ![](/assets/new.png)  
+- [2024-10-14-独立产品灵感周刊-DecoHack-#068-–-汇集1600+创客工具](https://decohack.com/decohack-068-static-site-themes-tools/)  
+- [2024-10-14-PH今日热榜-|-2024-10-14](https://decohack.com/producthunt-daily-2024-10-14/)  
 - [2024-10-13-PH今日热榜-|-2024-10-13](https://decohack.com/producthunt-daily-2024-10-13/)  
 - [2024-10-12-PH今日热榜-|-2024-10-12](https://decohack.com/producthunt-daily-2024-10-12/)  
 - [2024-10-11-PH今日热榜-|-2024-10-11](https://decohack.com/producthunt-daily-2024-10-11/)  
@@ -258,7 +259,6 @@
 - [2024-09-29-PH今日热榜-|-2024-09-29](https://decohack.com/producthunt-daily-2024-09-29/)  
 - [2024-09-28-PH今日热榜-|-2024-09-28](https://decohack.com/producthunt-daily-2024-09-28/)  
 - [2024-09-27-PH今日热榜-|-2024-09-27](https://decohack.com/producthunt-daily-2024-09-27/)  
-- [2024-09-26-PH今日热榜-|-2024-09-26](https://decohack.com/producthunt-daily-2024-09-26/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
