@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-10-09 18:42:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-16 18:43:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2024-10-16-What-should-the-web-platform-focus-on-in-2025?](https://frontendfoc.us/issues/664) 
 - [2024-10-09-CSS-nesting-is-getting-better-for-everyone](https://frontendfoc.us/issues/663) 
 - [2024-10-02-The-Web-Components-debate](https://frontendfoc.us/issues/662) 
 - [2024-09-25-Masonry-moves-forward](https://frontendfoc.us/issues/661) 
