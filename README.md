@@ -15,12 +15,12 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-10-17 18:43:02，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-18 18:42:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2024-10-17-JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709) ![](/assets/new.png)  
+- [2024-10-17-JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)  
 - [2024-10-10-A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)  
 - [2024-10-03-Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707)  
 - [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706)  
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-10-17-PH今日热榜-|-2024-10-17](https://decohack.com/producthunt-daily-2024-10-17/) ![](/assets/new.png)  
+- [2024-10-18-PH今日热榜-|-2024-10-18](https://decohack.com/producthunt-daily-2024-10-18/) ![](/assets/new.png)  
+- [2024-10-17-PH今日热榜-|-2024-10-17](https://decohack.com/producthunt-daily-2024-10-17/)  
 - [2024-10-16-PH今日热榜-|-2024-10-16](https://decohack.com/producthunt-daily-2024-10-16/)  
 - [2024-10-15-PH今日热榜-|-2024-10-15](https://decohack.com/producthunt-daily-2024-10-15/)  
 - [2024-10-14-独立产品灵感周刊-DecoHack-#068-–-汇集1600+创客工具](https://decohack.com/decohack-068-static-site-themes-tools/)  
@@ -258,7 +259,6 @@
 - [2024-10-02-PH今日热榜-|-2024-10-02](https://decohack.com/producthunt-daily-2024-10-02/)  
 - [2024-10-01-PH今日热榜-|-2024-10-01](https://decohack.com/producthunt-daily-2024-10-01/)  
 - [2024-09-30-PH今日热榜-|-2024-09-30](https://decohack.com/producthunt-daily-2024-09-30/)  
-- [2024-09-29-PH今日热榜-|-2024-09-29](https://decohack.com/producthunt-daily-2024-09-29/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
