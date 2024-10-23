@@ -15,13 +15,13 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-10-22 18:42:51，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-23 18:42:49，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552) ![](/assets/new.png)  
+- [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)  
 - [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)  
 - [2024-10-01-All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)  
 - [2024-09-24-Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2024-10-23-The-State-of-CSS-2024-results-are-out](https://frontendfoc.us/issues/665) ![](/assets/new.png)  
 - [2024-10-16-What-should-the-web-platform-focus-on-in-2025?](https://frontendfoc.us/issues/664)  
 - [2024-10-09-CSS-nesting-is-getting-better-for-everyone](https://frontendfoc.us/issues/663)  
 - [2024-10-02-The-Web-Components-debate](https://frontendfoc.us/issues/662)  
@@ -117,7 +118,6 @@
 - [2024-02-21-Just-what-*is*-the-best-way-to-center-a-div?](https://frontendfoc.us/issues/631)  
 - [2024-02-14-💔-Apple-and-PWAs:-It's-not-me,-it's-EU..](https://frontendfoc.us/issues/630)  
 - [2024-02-07-Browsers-buddy-up-for-Interop-2024](https://frontendfoc.us/issues/629)  
-- [2024-01-31-Apple's-“painful”-new-alternative-browser-rules](https://frontendfoc.us/issues/628)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-10-22-PH今日热榜-|-2024-10-22](https://decohack.com/producthunt-daily-2024-10-22/) ![](/assets/new.png)  
+- [2024-10-23-PH今日热榜-|-2024-10-23](https://decohack.com/producthunt-daily-2024-10-23/) ![](/assets/new.png)  
+- [2024-10-22-PH今日热榜-|-2024-10-22](https://decohack.com/producthunt-daily-2024-10-22/)  
 - [2024-10-21-PH今日热榜-|-2024-10-21](https://decohack.com/producthunt-daily-2024-10-21/)  
 - [2024-10-20-PH今日热榜-|-2024-10-20](https://decohack.com/producthunt-daily-2024-10-20/)  
 - [2024-10-19-PH今日热榜-|-2024-10-19](https://decohack.com/producthunt-daily-2024-10-19/)  
@@ -258,7 +259,6 @@
 - [2024-10-07-PH今日热榜-|-2024-10-07](https://decohack.com/producthunt-daily-2024-10-07/)  
 - [2024-10-06-PH今日热榜-|-2024-10-06](https://decohack.com/producthunt-daily-2024-10-06/)  
 - [2024-10-05-PH今日热榜-|-2024-10-05](https://decohack.com/producthunt-daily-2024-10-05/)  
-- [2024-10-04-PH今日热榜-|-2024-10-04](https://decohack.com/producthunt-daily-2024-10-04/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
