@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-23 18:42:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-24 18:43:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-10-24-A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710) 
 - [2024-10-17-JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709) 
 - [2024-10-10-A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708) 
 - [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705) 
@@ -52,6 +53,7 @@
 - [2023-06-14-A-Million.js-to-one](https://react.statuscode.com/issues/343) 
 - [2020-09-11-淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el) 
 - [2020-09-01-JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la) 
+- [2024-10-24-Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/) 
 - [2024-09-19-实用的JS对象分组静态方法Object.groupBy](https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/) 
 - [2024-09-11-来了来了，scrollend滚动停止事件也支持了](https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/) 
 - [2024-08-23-不能落后，好好缕缕CSS滚动动画](https://www.zhangxinxu.com/wordpress/2024/08/css-scroll-timeline/) 
