@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-29 18:43:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-30 18:43:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -8,6 +8,7 @@
 
 
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) 
+- [2024-10-30-React-Native-takes-a-giant-leap-forward](https://react.statuscode.com/issues/404) 
 - [2024-10-16-The-parallel-evolution-of-React-and-Web-Components](https://react.statuscode.com/issues/403) 
 - [2024-10-02-An-AI-generated-album-of-React-songs..](https://react.statuscode.com/issues/402) 
 - [2024-09-11-A-bumper-React-19-feature-roundup](https://react.statuscode.com/issues/399) 

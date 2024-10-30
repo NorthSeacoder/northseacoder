@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-10-29 18:43:45，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-30 18:43:24，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2024-10-29-Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553) ![](/assets/new.png)  
+- [2024-10-29-Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)  
 - [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)  
 - [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)  
 - [2024-10-01-All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2024-10-30-Content-aware-components,-and-blazing-fast-tools](https://frontendfoc.us/issues/666) ![](/assets/new.png)  
 - [2024-10-23-The-State-of-CSS-2024-results-are-out](https://frontendfoc.us/issues/665)  
 - [2024-10-16-What-should-the-web-platform-focus-on-in-2025?](https://frontendfoc.us/issues/664)  
 - [2024-10-09-CSS-nesting-is-getting-better-for-everyone](https://frontendfoc.us/issues/663)  
@@ -117,7 +118,6 @@
 - [2024-06-26-A-CSS-'if'-function-isn't-here-yet,-but-what-can-we-do-today?](https://frontendfoc.us/issues/649)  
 - [2024-02-21-Just-what-*is*-the-best-way-to-center-a-div?](https://frontendfoc.us/issues/631)  
 - [2024-02-14-💔-Apple-and-PWAs:-It's-not-me,-it's-EU..](https://frontendfoc.us/issues/630)  
-- [2024-02-07-Browsers-buddy-up-for-Interop-2024](https://frontendfoc.us/issues/629)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2024-10-30-React-Native-takes-a-giant-leap-forward](https://react.statuscode.com/issues/404) ![](/assets/new.png)  
 - [2024-10-16-The-parallel-evolution-of-React-and-Web-Components](https://react.statuscode.com/issues/403)  
 - [2024-10-02-An-AI-generated-album-of-React-songs..](https://react.statuscode.com/issues/402)  
 - [2024-09-25-Component-composition-is-great](https://react.statuscode.com/issues/401)  
@@ -148,7 +149,6 @@
 - [2024-01-31-How-Vercel-builds-Vercel-with-Vercel](https://react.statuscode.com/issues/372)  
 - [2024-01-24-How-to-start-a-React-project-in-2024](https://react.statuscode.com/issues/371)  
 - [2024-01-17-React-Server-Components-does-not-require-a-server](https://react.statuscode.com/issues/370)  
-- [2024-01-10-The-joy-of-full-stack,-AI-first-Next.js](https://react.statuscode.com/issues/369)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-10-29-PH今日热榜-|-2024-10-29](https://decohack.com/producthunt-daily-2024-10-29/) ![](/assets/new.png)  
+- [2024-10-30-PH今日热榜-|-2024-10-30](https://decohack.com/producthunt-daily-2024-10-30/) ![](/assets/new.png)  
+- [2024-10-29-PH今日热榜-|-2024-10-29](https://decohack.com/producthunt-daily-2024-10-29/)  
 - [2024-10-28-PH今日热榜-|-2024-10-28](https://decohack.com/producthunt-daily-2024-10-28/)  
 - [2024-10-27-PH今日热榜-|-2024-10-27](https://decohack.com/producthunt-daily-2024-10-27/)  
 - [2024-10-26-PH今日热榜-|-2024-10-26](https://decohack.com/producthunt-daily-2024-10-26/)  
@@ -258,7 +259,6 @@
 - [2024-10-14-PH今日热榜-|-2024-10-14](https://decohack.com/producthunt-daily-2024-10-14/)  
 - [2024-10-13-PH今日热榜-|-2024-10-13](https://decohack.com/producthunt-daily-2024-10-13/)  
 - [2024-10-12-PH今日热榜-|-2024-10-12](https://decohack.com/producthunt-daily-2024-10-12/)  
-- [2024-10-11-PH今日热榜-|-2024-10-11](https://decohack.com/producthunt-daily-2024-10-11/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
