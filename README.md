@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-10-30 18:43:24，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-31 18:43:25，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711) ![](/assets/new.png)  
 - [2024-10-24-A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)  
 - [2024-10-17-JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)  
 - [2024-10-10-A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)  
@@ -86,7 +87,6 @@
 - [2024-06-27-Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)  
 - [2024-02-22-A-big-update-for-ECharts](https://javascriptweekly.com/issues/676)  
 - [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)  
-- [2024-02-08-Gorillas](https://javascriptweekly.com/issues/674)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-10-30-Content-aware-components,-and-blazing-fast-tools](https://frontendfoc.us/issues/666) ![](/assets/new.png)  
+- [2024-10-30-Content-aware-components,-and-blazing-fast-tools](https://frontendfoc.us/issues/666)  
 - [2024-10-23-The-State-of-CSS-2024-results-are-out](https://frontendfoc.us/issues/665)  
 - [2024-10-16-What-should-the-web-platform-focus-on-in-2025?](https://frontendfoc.us/issues/664)  
 - [2024-10-09-CSS-nesting-is-getting-better-for-everyone](https://frontendfoc.us/issues/663)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2024-10-30-React-Native-takes-a-giant-leap-forward](https://react.statuscode.com/issues/404) ![](/assets/new.png)  
+- [2024-10-30-React-Native-takes-a-giant-leap-forward](https://react.statuscode.com/issues/404)  
 - [2024-10-16-The-parallel-evolution-of-React-and-Web-Components](https://react.statuscode.com/issues/403)  
 - [2024-10-02-An-AI-generated-album-of-React-songs..](https://react.statuscode.com/issues/402)  
 - [2024-09-25-Component-composition-is-great](https://react.statuscode.com/issues/401)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2024-10-31-Pixi.js中ColorMatrixFilter自带滤镜效果一览](https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/) ![](/assets/new.png)  
 - [2024-10-24-Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/)  
 - [2024-10-10-Nice!-Safari也支持CSS-@perporty规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/)  
 - [2024-09-25-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/)  
@@ -210,7 +211,6 @@
 - [2024-06-11-聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/)  
 - [2024-05-30-记一次技术交流，feMerge滤镜复制任意DOM元素样式](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/)  
 - [2024-05-20-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/)  
-- [2024-05-12-不使用font-weight等CSS实现文字变瘦或变胖效果](https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-10-30-PH今日热榜-|-2024-10-30](https://decohack.com/producthunt-daily-2024-10-30/) ![](/assets/new.png)  
+- [2024-10-31-PH今日热榜-|-2024-10-31](https://decohack.com/producthunt-daily-2024-10-31/) ![](/assets/new.png)  
+- [2024-10-30-PH今日热榜-|-2024-10-30](https://decohack.com/producthunt-daily-2024-10-30/)  
 - [2024-10-29-PH今日热榜-|-2024-10-29](https://decohack.com/producthunt-daily-2024-10-29/)  
 - [2024-10-28-PH今日热榜-|-2024-10-28](https://decohack.com/producthunt-daily-2024-10-28/)  
 - [2024-10-27-PH今日热榜-|-2024-10-27](https://decohack.com/producthunt-daily-2024-10-27/)  
@@ -258,7 +259,6 @@
 - [2024-10-14-独立产品灵感周刊-DecoHack-#068-–-汇集1600+创客工具](https://decohack.com/decohack-068-static-site-themes-tools/)  
 - [2024-10-14-PH今日热榜-|-2024-10-14](https://decohack.com/producthunt-daily-2024-10-14/)  
 - [2024-10-13-PH今日热榜-|-2024-10-13](https://decohack.com/producthunt-daily-2024-10-13/)  
-- [2024-10-12-PH今日热榜-|-2024-10-12](https://decohack.com/producthunt-daily-2024-10-12/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
