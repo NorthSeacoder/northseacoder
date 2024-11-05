@@ -15,11 +15,11 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-11-04 18:41:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-05 18:42:23，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2024-11-05-Running-WebAssembly-apps-inside-Node.js](https://nodeweekly.com/issues/554) ![](/assets/new.png)  
 - [2024-10-29-Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)  
 - [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)  
 - [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)  
@@ -55,7 +56,6 @@
 - [2024-06-25-Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537)  
 - [2024-02-20-To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521)  
 - [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520)  
-- [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-11-04-PH今日热榜-|-2024-11-04](https://decohack.com/producthunt-daily-2024-11-04/) ![](/assets/new.png)  
+- [2024-11-05-PH今日热榜-|-2024-11-05](https://decohack.com/producthunt-daily-2024-11-05/) ![](/assets/new.png)  
+- [2024-11-04-PH今日热榜-|-2024-11-04](https://decohack.com/producthunt-daily-2024-11-04/)  
 - [2024-11-03-PH今日热榜-|-2024-11-03](https://decohack.com/producthunt-daily-2024-11-03/)  
 - [2024-11-02-PH今日热榜-|-2024-11-02](https://decohack.com/producthunt-daily-2024-11-02/)  
 - [2024-11-01-PH今日热榜-|-2024-11-01](https://decohack.com/producthunt-daily-2024-11-01/)  
@@ -258,7 +259,6 @@
 - [2024-10-19-PH今日热榜-|-2024-10-19](https://decohack.com/producthunt-daily-2024-10-19/)  
 - [2024-10-18-PH今日热榜-|-2024-10-18](https://decohack.com/producthunt-daily-2024-10-18/)  
 - [2024-10-17-PH今日热榜-|-2024-10-17](https://decohack.com/producthunt-daily-2024-10-17/)  
-- [2024-10-16-PH今日热榜-|-2024-10-16](https://decohack.com/producthunt-daily-2024-10-16/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
