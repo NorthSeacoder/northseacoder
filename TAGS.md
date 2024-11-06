@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-11-05 18:42:23。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-11-06 18:42:24。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -39,6 +39,7 @@
 
 
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】Building-GNOME-apps-with-React](https://react.statuscode.com/issues/405)
 - [【React-Status】React-Native-takes-a-giant-leap-forward](https://react.statuscode.com/issues/404)
 - [【React-Status】The-parallel-evolution-of-React-and-Web-Components](https://react.statuscode.com/issues/403)
 - [【React-Status】An-AI-generated-album-of-React-songs..](https://react.statuscode.com/issues/402)
@@ -57,7 +58,6 @@
 - [【React-Status】What-powers-a-modern-React-based-blog-in-2024](https://react.statuscode.com/issues/368)
 - [【React-Status】The-top-React-articles-of-2023](https://react.statuscode.com/issues/367)
 - [【React-Status】Why-one-team-moved-back-to-React-from-Preact](https://react.statuscode.com/issues/362)
-- [【React-Status】Who-forgot-about-React-Forget](https://react.statuscode.com/issues/356)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -383,6 +383,7 @@
 - [【Node-Weekly】Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
 - [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
+- [【Frontend-Focus】Are-you-using-container-queries-yet?](https://frontendfoc.us/issues/667)
 - [【Frontend-Focus】New-iOS,-new-macOS,-so-there's-a-new-Safari,-too.](https://frontendfoc.us/issues/660)
 - [【Frontend-Focus】W3C-doubles-down:-'Third-party-cookies-have-to-go'](https://frontendfoc.us/issues/654)
 - [【Frontend-Focus】How-to-build-complex-Chrome-extensions](https://frontendfoc.us/issues/653)
