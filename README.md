@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-11-06 18:42:24，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-07 18:41:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2024-11-07-JSConf-is-back](https://javascriptweekly.com/issues/712) ![](/assets/new.png)  
 - [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)  
 - [2024-10-24-A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)  
 - [2024-10-17-JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)  
@@ -86,7 +87,6 @@
 - [2024-07-04-Breaking-a-promise](https://javascriptweekly.com/issues/695)  
 - [2024-06-27-Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)  
 - [2024-02-22-A-big-update-for-ECharts](https://javascriptweekly.com/issues/676)  
-- [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-11-06-Are-you-using-container-queries-yet?](https://frontendfoc.us/issues/667) ![](/assets/new.png)  
+- [2024-11-06-Are-you-using-container-queries-yet?](https://frontendfoc.us/issues/667)  
 - [2024-10-30-Content-aware-components,-and-blazing-fast-tools](https://frontendfoc.us/issues/666)  
 - [2024-10-23-The-State-of-CSS-2024-results-are-out](https://frontendfoc.us/issues/665)  
 - [2024-10-16-What-should-the-web-platform-focus-on-in-2025?](https://frontendfoc.us/issues/664)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2024-11-06-Building-GNOME-apps-with-React](https://react.statuscode.com/issues/405) ![](/assets/new.png)  
+- [2024-11-06-Building-GNOME-apps-with-React](https://react.statuscode.com/issues/405)  
 - [2024-10-30-React-Native-takes-a-giant-leap-forward](https://react.statuscode.com/issues/404)  
 - [2024-10-16-The-parallel-evolution-of-React-and-Web-Components](https://react.statuscode.com/issues/403)  
 - [2024-10-02-An-AI-generated-album-of-React-songs..](https://react.statuscode.com/issues/402)  
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-11-06-PH今日热榜-|-2024-11-06](https://decohack.com/producthunt-daily-2024-11-06/) ![](/assets/new.png)  
+- [2024-11-07-PH今日热榜-|-2024-11-07](https://decohack.com/producthunt-daily-2024-11-07/) ![](/assets/new.png)  
+- [2024-11-06-PH今日热榜-|-2024-11-06](https://decohack.com/producthunt-daily-2024-11-06/)  
 - [2024-11-05-PH今日热榜-|-2024-11-05](https://decohack.com/producthunt-daily-2024-11-05/)  
 - [2024-11-04-PH今日热榜-|-2024-11-04](https://decohack.com/producthunt-daily-2024-11-04/)  
 - [2024-11-03-PH今日热榜-|-2024-11-03](https://decohack.com/producthunt-daily-2024-11-03/)  
@@ -258,7 +259,6 @@
 - [2024-10-21-PH今日热榜-|-2024-10-21](https://decohack.com/producthunt-daily-2024-10-21/)  
 - [2024-10-20-PH今日热榜-|-2024-10-20](https://decohack.com/producthunt-daily-2024-10-20/)  
 - [2024-10-19-PH今日热榜-|-2024-10-19](https://decohack.com/producthunt-daily-2024-10-19/)  
-- [2024-10-18-PH今日热榜-|-2024-10-18](https://decohack.com/producthunt-daily-2024-10-18/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

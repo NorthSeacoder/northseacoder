@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-11-06 18:42:24。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-11-07 18:41:41。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -221,6 +221,7 @@
 
 
 
+- [【JavaScript-Weekly】JSConf-is-back](https://javascriptweekly.com/issues/712)
 - [【JavaScript-Weekly】Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)
 - [【JavaScript-Weekly】A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)
 - [【JavaScript-Weekly】JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)
@@ -240,7 +241,6 @@
 - [【JavaScript-Weekly】JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)
 - [【JavaScript-Weekly】Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)
 - [【JavaScript-Weekly】JS-Runtime-Royale](https://javascriptweekly.com/issues/667)
-- [【JavaScript-Weekly】Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
