@@ -15,12 +15,12 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-11-07 18:41:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-08 18:42:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2024-11-07-JSConf-is-back](https://javascriptweekly.com/issues/712) ![](/assets/new.png)  
+- [2024-11-07-JSConf-is-back](https://javascriptweekly.com/issues/712)  
 - [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)  
 - [2024-10-24-A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)  
 - [2024-10-17-JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)  
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-11-07-PH今日热榜-|-2024-11-07](https://decohack.com/producthunt-daily-2024-11-07/) ![](/assets/new.png)  
+- [2024-11-08-PH今日热榜-|-2024-11-08](https://decohack.com/producthunt-daily-2024-11-08/) ![](/assets/new.png)  
+- [2024-11-07-PH今日热榜-|-2024-11-07](https://decohack.com/producthunt-daily-2024-11-07/)  
 - [2024-11-06-PH今日热榜-|-2024-11-06](https://decohack.com/producthunt-daily-2024-11-06/)  
 - [2024-11-05-PH今日热榜-|-2024-11-05](https://decohack.com/producthunt-daily-2024-11-05/)  
 - [2024-11-04-PH今日热榜-|-2024-11-04](https://decohack.com/producthunt-daily-2024-11-04/)  
@@ -258,7 +259,6 @@
 - [2024-10-22-PH今日热榜-|-2024-10-22](https://decohack.com/producthunt-daily-2024-10-22/)  
 - [2024-10-21-PH今日热榜-|-2024-10-21](https://decohack.com/producthunt-daily-2024-10-21/)  
 - [2024-10-20-PH今日热榜-|-2024-10-20](https://decohack.com/producthunt-daily-2024-10-20/)  
-- [2024-10-19-PH今日热榜-|-2024-10-19](https://decohack.com/producthunt-daily-2024-10-19/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
