@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-11-14 18:44:00，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-15 18:43:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2024-11-14-Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713) ![](/assets/new.png)  
+- [2024-11-14-Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713)  
 - [2024-11-07-JSConf-is-back](https://javascriptweekly.com/issues/712)  
 - [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)  
 - [2024-10-24-A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2024-11-14-这啥?CSS-calc-size和interpolate-size,真学不动了](https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/) ![](/assets/new.png)  
+- [2024-11-14-这啥?CSS-calc-size和interpolate-size,真学不动了](https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/)  
 - [2024-11-10-趁热打铁，SVG-feColorMatrix滤镜gogogo!](https://www.zhangxinxu.com/wordpress/2024/11/svg-fecolormatrix-filter/)  
 - [2024-10-31-Pixi.js中ColorMatrixFilter自带滤镜效果一览](https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/)  
 - [2024-10-24-Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/)  
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-11-14-PH今日热榜-|-2024-11-14](https://decohack.com/producthunt-daily-2024-11-14/) ![](/assets/new.png)  
+- [2024-11-15-PH今日热榜-|-2024-11-15](https://decohack.com/producthunt-daily-2024-11-15/) ![](/assets/new.png)  
+- [2024-11-14-PH今日热榜-|-2024-11-14](https://decohack.com/producthunt-daily-2024-11-14/)  
 - [2024-11-13-PH今日热榜-|-2024-11-13](https://decohack.com/producthunt-daily-2024-11-13/)  
 - [2024-11-12-PH今日热榜-|-2024-11-12](https://decohack.com/producthunt-daily-2024-11-12/)  
 - [2024-11-11-PH今日热榜-|-2024-11-11](https://decohack.com/producthunt-daily-2024-11-11/)  
@@ -258,7 +259,6 @@
 - [2024-10-29-PH今日热榜-|-2024-10-29](https://decohack.com/producthunt-daily-2024-10-29/)  
 - [2024-10-28-PH今日热榜-|-2024-10-28](https://decohack.com/producthunt-daily-2024-10-28/)  
 - [2024-10-27-PH今日热榜-|-2024-10-27](https://decohack.com/producthunt-daily-2024-10-27/)  
-- [2024-10-26-PH今日热榜-|-2024-10-26](https://decohack.com/producthunt-daily-2024-10-26/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
