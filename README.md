@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-11-20 18:44:20，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-21 18:44:30，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714) ![](/assets/new.png)  
 - [2024-11-14-Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713)  
 - [2024-11-07-JSConf-is-back](https://javascriptweekly.com/issues/712)  
 - [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)  
@@ -86,7 +87,6 @@
 - [2024-07-18-Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697)  
 - [2024-07-11-Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696)  
 - [2024-07-04-Breaking-a-promise](https://javascriptweekly.com/issues/695)  
-- [2024-06-27-Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-11-20-Might-Google-be-forced-to-sell-Chrome?](https://frontendfoc.us/issues/669) ![](/assets/new.png)  
+- [2024-11-20-Might-Google-be-forced-to-sell-Chrome?](https://frontendfoc.us/issues/669)  
 - [2024-11-13-CSS-gets-an-official-logo](https://frontendfoc.us/issues/668)  
 - [2024-11-06-Are-you-using-container-queries-yet?](https://frontendfoc.us/issues/667)  
 - [2024-10-30-Content-aware-components,-and-blazing-fast-tools](https://frontendfoc.us/issues/666)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2024-11-20-Quickly-scan-your-app-for-problematic-renders](https://react.statuscode.com/issues/407) ![](/assets/new.png)  
+- [2024-11-20-Quickly-scan-your-app-for-problematic-renders](https://react.statuscode.com/issues/407)  
 - [2024-11-13-Taking-Next.js-15-apps-smoothly-to-production](https://react.statuscode.com/issues/406)  
 - [2024-11-06-Building-GNOME-apps-with-React](https://react.statuscode.com/issues/405)  
 - [2024-10-30-React-Native-takes-a-giant-leap-forward](https://react.statuscode.com/issues/404)  
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-11-20-PH今日热榜-|-2024-11-20](https://decohack.com/producthunt-daily-2024-11-20/) ![](/assets/new.png)  
+- [2024-11-21-PH今日热榜-|-2024-11-21](https://decohack.com/producthunt-daily-2024-11-21/) ![](/assets/new.png)  
+- [2024-11-20-PH今日热榜-|-2024-11-20](https://decohack.com/producthunt-daily-2024-11-20/)  
 - [2024-11-19-PH今日热榜-|-2024-11-19](https://decohack.com/producthunt-daily-2024-11-19/)  
 - [2024-11-18-PH今日热榜-|-2024-11-18](https://decohack.com/producthunt-daily-2024-11-18/)  
 - [2024-11-17-PH今日热榜-|-2024-11-17](https://decohack.com/producthunt-daily-2024-11-17/)  
@@ -258,7 +259,6 @@
 - [2024-11-04-PH今日热榜-|-2024-11-04](https://decohack.com/producthunt-daily-2024-11-04/)  
 - [2024-11-03-PH今日热榜-|-2024-11-03](https://decohack.com/producthunt-daily-2024-11-03/)  
 - [2024-11-02-PH今日热榜-|-2024-11-02](https://decohack.com/producthunt-daily-2024-11-02/)  
-- [2024-11-01-PH今日热榜-|-2024-11-01](https://decohack.com/producthunt-daily-2024-11-01/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

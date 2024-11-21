@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-20 18:44:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-21 18:44:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714) 
 - [2024-11-07-JSConf-is-back](https://javascriptweekly.com/issues/712) 
 - [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711) 
 - [2024-10-24-A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710) 
