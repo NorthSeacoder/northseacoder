@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-11-20 18:44:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-27 18:44:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2024-11-27-Big-releases:-React-Router-7-and-Vite-6](https://react.statuscode.com/issues/408) 
 - [2024-11-20-Quickly-scan-your-app-for-problematic-renders](https://react.statuscode.com/issues/407) 
 - [2024-11-13-Taking-Next.js-15-apps-smoothly-to-production](https://react.statuscode.com/issues/406) 
 - [2024-11-06-Building-GNOME-apps-with-React](https://react.statuscode.com/issues/405) 

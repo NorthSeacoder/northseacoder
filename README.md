@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-11-26 18:44:30，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-27 18:44:59，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557) ![](/assets/new.png)  
+- [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)  
 - [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555)  
 - [2024-11-05-Running-WebAssembly-apps-inside-Node.js](https://nodeweekly.com/issues/554)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2024-11-27-Where-to-draw-the-line-with-browser-support](https://frontendfoc.us/issues/670) ![](/assets/new.png)  
 - [2024-11-20-Might-Google-be-forced-to-sell-Chrome?](https://frontendfoc.us/issues/669)  
 - [2024-11-13-CSS-gets-an-official-logo](https://frontendfoc.us/issues/668)  
 - [2024-11-06-Are-you-using-container-queries-yet?](https://frontendfoc.us/issues/667)  
@@ -117,7 +118,6 @@
 - [2024-07-24-How-to-build-complex-Chrome-extensions](https://frontendfoc.us/issues/653)  
 - [2024-07-17-All-the-selectors-you-need](https://frontendfoc.us/issues/652)  
 - [2024-07-10-Exploring-the-magic-of-clip-path](https://frontendfoc.us/issues/651)  
-- [2024-07-03-A-new-browser-engine-enters-the-ring](https://frontendfoc.us/issues/650)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2024-11-27-Big-releases:-React-Router-7-and-Vite-6](https://react.statuscode.com/issues/408) ![](/assets/new.png)  
 - [2024-11-20-Quickly-scan-your-app-for-problematic-renders](https://react.statuscode.com/issues/407)  
 - [2024-11-13-Taking-Next.js-15-apps-smoothly-to-production](https://react.statuscode.com/issues/406)  
 - [2024-11-06-Building-GNOME-apps-with-React](https://react.statuscode.com/issues/405)  
@@ -148,7 +149,6 @@
 - [2024-07-03-How-the-NYT-got-a-performance-boost-from-React-18](https://react.statuscode.com/issues/391)  
 - [2024-06-26-Slack's-AI-powered-React-testing-tool-migration](https://react.statuscode.com/issues/390)  
 - [2024-02-21-React-19-is-on-the-horizon](https://react.statuscode.com/issues/374)  
-- [2024-02-07-Remix-vs-Next.js](https://react.statuscode.com/issues/373)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-11-26-PH今日热榜-|-2024-11-26](https://decohack.com/producthunt-daily-2024-11-26/) ![](/assets/new.png)  
+- [2024-11-27-PH今日热榜-|-2024-11-27](https://decohack.com/producthunt-daily-2024-11-27/) ![](/assets/new.png)  
+- [2024-11-26-PH今日热榜-|-2024-11-26](https://decohack.com/producthunt-daily-2024-11-26/)  
 - [2024-11-25-PH今日热榜-|-2024-11-25](https://decohack.com/producthunt-daily-2024-11-25/)  
 - [2024-11-24-PH今日热榜-|-2024-11-24](https://decohack.com/producthunt-daily-2024-11-24/)  
 - [2024-11-23-PH今日热榜-|-2024-11-23](https://decohack.com/producthunt-daily-2024-11-23/)  
@@ -258,7 +259,6 @@
 - [2024-11-10-PH今日热榜-|-2024-11-10](https://decohack.com/producthunt-daily-2024-11-10/)  
 - [2024-11-09-PH今日热榜-|-2024-11-09](https://decohack.com/producthunt-daily-2024-11-09/)  
 - [2024-11-08-PH今日热榜-|-2024-11-08](https://decohack.com/producthunt-daily-2024-11-08/)  
-- [2024-11-07-PH今日热榜-|-2024-11-07](https://decohack.com/producthunt-daily-2024-11-07/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
