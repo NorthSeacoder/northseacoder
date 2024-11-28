@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-11-27 18:44:59，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-28 18:44:09，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2024-11-27-Where-to-draw-the-line-with-browser-support](https://frontendfoc.us/issues/670) ![](/assets/new.png)  
+- [2024-11-27-Where-to-draw-the-line-with-browser-support](https://frontendfoc.us/issues/670)  
 - [2024-11-20-Might-Google-be-forced-to-sell-Chrome?](https://frontendfoc.us/issues/669)  
 - [2024-11-13-CSS-gets-an-official-logo](https://frontendfoc.us/issues/668)  
 - [2024-11-06-Are-you-using-container-queries-yet?](https://frontendfoc.us/issues/667)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2024-11-27-Big-releases:-React-Router-7-and-Vite-6](https://react.statuscode.com/issues/408) ![](/assets/new.png)  
+- [2024-11-27-Big-releases:-React-Router-7-and-Vite-6](https://react.statuscode.com/issues/408)  
 - [2024-11-20-Quickly-scan-your-app-for-problematic-renders](https://react.statuscode.com/issues/407)  
 - [2024-11-13-Taking-Next.js-15-apps-smoothly-to-production](https://react.statuscode.com/issues/406)  
 - [2024-11-06-Building-GNOME-apps-with-React](https://react.statuscode.com/issues/405)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2024-11-28-CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/) ![](/assets/new.png)  
 - [2024-11-24-CSS-Grid布局中的subgrid的适用场景](https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/)  
 - [2024-11-17-JS文本选区变化selectionchange事件实践小记](https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/)  
 - [2024-11-14-这啥?CSS-calc-size和interpolate-size,真学不动了](https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/)  
@@ -210,7 +211,6 @@
 - [2024-07-18-今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/)  
 - [2024-07-15-了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/)  
 - [2024-07-04-如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/)  
-- [2024-06-30-CSS-transition-behavior让display-none也有动画效果](https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-11-27-PH今日热榜-|-2024-11-27](https://decohack.com/producthunt-daily-2024-11-27/) ![](/assets/new.png)  
+- [2024-11-28-PH今日热榜-|-2024-11-28](https://decohack.com/producthunt-daily-2024-11-28/) ![](/assets/new.png)  
+- [2024-11-27-PH今日热榜-|-2024-11-27](https://decohack.com/producthunt-daily-2024-11-27/)  
 - [2024-11-26-PH今日热榜-|-2024-11-26](https://decohack.com/producthunt-daily-2024-11-26/)  
 - [2024-11-25-PH今日热榜-|-2024-11-25](https://decohack.com/producthunt-daily-2024-11-25/)  
 - [2024-11-24-PH今日热榜-|-2024-11-24](https://decohack.com/producthunt-daily-2024-11-24/)  
@@ -258,7 +259,6 @@
 - [2024-11-11-PH今日热榜-|-2024-11-11](https://decohack.com/producthunt-daily-2024-11-11/)  
 - [2024-11-10-PH今日热榜-|-2024-11-10](https://decohack.com/producthunt-daily-2024-11-10/)  
 - [2024-11-09-PH今日热榜-|-2024-11-09](https://decohack.com/producthunt-daily-2024-11-09/)  
-- [2024-11-08-PH今日热榜-|-2024-11-08](https://decohack.com/producthunt-daily-2024-11-08/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
