@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-12-03 18:44:20，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-04 18:46:56，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) ![](/assets/new.png)  
+- [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)  
 - [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2024-12-04-A-layered-approach-to-speculation-rules](https://frontendfoc.us/issues/671) ![](/assets/new.png)  
 - [2024-11-27-Where-to-draw-the-line-with-browser-support](https://frontendfoc.us/issues/670)  
 - [2024-11-20-Might-Google-be-forced-to-sell-Chrome?](https://frontendfoc.us/issues/669)  
 - [2024-11-13-CSS-gets-an-official-logo](https://frontendfoc.us/issues/668)  
@@ -117,7 +118,6 @@
 - [2024-07-31-W3C-doubles-down:-'Third-party-cookies-have-to-go'](https://frontendfoc.us/issues/654)  
 - [2024-07-24-How-to-build-complex-Chrome-extensions](https://frontendfoc.us/issues/653)  
 - [2024-07-17-All-the-selectors-you-need](https://frontendfoc.us/issues/652)  
-- [2024-07-10-Exploring-the-magic-of-clip-path](https://frontendfoc.us/issues/651)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2024-12-04-Improving-your-React-app's-responsiveness](https://react.statuscode.com/issues/409) ![](/assets/new.png)  
 - [2024-11-27-Big-releases:-React-Router-7-and-Vite-6](https://react.statuscode.com/issues/408)  
 - [2024-11-20-Quickly-scan-your-app-for-problematic-renders](https://react.statuscode.com/issues/407)  
 - [2024-11-13-Taking-Next.js-15-apps-smoothly-to-production](https://react.statuscode.com/issues/406)  
@@ -148,7 +149,6 @@
 - [2024-07-10-React-Compiler-won't-always-save-you](https://react.statuscode.com/issues/392)  
 - [2024-07-03-How-the-NYT-got-a-performance-boost-from-React-18](https://react.statuscode.com/issues/391)  
 - [2024-06-26-Slack's-AI-powered-React-testing-tool-migration](https://react.statuscode.com/issues/390)  
-- [2024-02-21-React-19-is-on-the-horizon](https://react.statuscode.com/issues/374)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/) ![](/assets/new.png)  
 - [2024-11-28-CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/)  
 - [2024-11-24-CSS-Grid布局中的subgrid的适用场景](https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/)  
 - [2024-11-17-JS文本选区变化selectionchange事件实践小记](https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/)  
@@ -210,7 +211,6 @@
 - [2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/)  
 - [2024-07-18-今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/)  
 - [2024-07-15-了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/)  
-- [2024-07-04-如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-12-03-PH今日热榜-|-2024-12-03](https://decohack.com/producthunt-daily-2024-12-03/) ![](/assets/new.png)  
+- [2024-12-04-PH今日热榜-|-2024-12-04](https://decohack.com/producthunt-daily-2024-12-04/) ![](/assets/new.png)  
+- [2024-12-03-PH今日热榜-|-2024-12-03](https://decohack.com/producthunt-daily-2024-12-03/)  
 - [2024-12-02-PH今日热榜-|-2024-12-02](https://decohack.com/producthunt-daily-2024-12-02/)  
 - [2024-12-01-PH今日热榜-|-2024-12-01](https://decohack.com/producthunt-daily-2024-12-01/)  
 - [2024-11-30-PH今日热榜-|-2024-11-30](https://decohack.com/producthunt-daily-2024-11-30/)  
@@ -258,7 +259,6 @@
 - [2024-11-17-PH今日热榜-|-2024-11-17](https://decohack.com/producthunt-daily-2024-11-17/)  
 - [2024-11-16-PH今日热榜-|-2024-11-16](https://decohack.com/producthunt-daily-2024-11-16/)  
 - [2024-11-15-PH今日热榜-|-2024-11-15](https://decohack.com/producthunt-daily-2024-11-15/)  
-- [2024-11-14-PH今日热榜-|-2024-11-14](https://decohack.com/producthunt-daily-2024-11-14/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

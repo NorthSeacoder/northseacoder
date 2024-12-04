@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-03 18:44:20。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-04 18:46:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -39,6 +39,7 @@
 
 
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】Improving-your-React-app's-responsiveness](https://react.statuscode.com/issues/409)
 - [【React-Status】Big-releases:-React-Router-7-and-Vite-6](https://react.statuscode.com/issues/408)
 - [【React-Status】Building-GNOME-apps-with-React](https://react.statuscode.com/issues/405)
 - [【React-Status】React-Native-takes-a-giant-leap-forward](https://react.statuscode.com/issues/404)
@@ -57,7 +58,6 @@
 - [【React-Status】How-to-start-a-React-project-in-2024](https://react.statuscode.com/issues/371)
 - [【React-Status】React-Server-Components-does-not-require-a-server](https://react.statuscode.com/issues/370)
 - [【React-Status】What-powers-a-modern-React-based-blog-in-2024](https://react.statuscode.com/issues/368)
-- [【React-Status】The-top-React-articles-of-2023](https://react.statuscode.com/issues/367)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -274,9 +274,9 @@
 - [【Frontend-Focus】The-gotchas-of-CSS-nesting](https://frontendfoc.us/issues/597)
 - [【淘系前端团队】你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993)
 - [【淘系前端团队】Midway-Serverless-发布-2.0，一体化让前端研发再次提效](https://fed.taobao.org/blog/taofed/do71ct/mvd9lw)
+- [【张鑫旭-鑫空间-鑫生活】哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/)
 - [【张鑫旭-鑫空间-鑫生活】CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-Grid布局中的subgrid的适用场景](https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/)
-- [【张鑫旭-鑫空间-鑫生活】这啥?CSS-calc-size和interpolate-size,真学不动了](https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/)
 - [......【查看更多】......](/category/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
