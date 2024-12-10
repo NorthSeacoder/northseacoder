@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-09 18:46:42。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-10 18:46:41。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -478,6 +478,7 @@
 
 
 
+- [【Node-Weekly】requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)
 - [【Node-Weekly】Taming-event-loop-lag](https://nodeweekly.com/issues/538)
 - [【Node-Weekly】An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520)
 - [【Node-Weekly】Adonis-v6](https://nodeweekly.com/issues/519)
@@ -497,7 +498,6 @@
 - [【JavaScript-Weekly】We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)
 - [【JavaScript-Weekly】Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651)
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
-- [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
