@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-12-04 18:46:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-11 18:46:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2024-12-11-What-the-data-tell-us-about-the-web-in-2024](https://frontendfoc.us/issues/672) 
 - [2024-12-04-A-layered-approach-to-speculation-rules](https://frontendfoc.us/issues/671) 
 - [2024-11-27-Where-to-draw-the-line-with-browser-support](https://frontendfoc.us/issues/670) 
 - [2024-11-20-Might-Google-be-forced-to-sell-Chrome?](https://frontendfoc.us/issues/669) 

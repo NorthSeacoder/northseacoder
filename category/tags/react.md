@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-10 18:46:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-11 18:46:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -8,6 +8,7 @@
 
 
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) 
+- [2024-12-11-Say-hello-again?-to-React-19](https://react.statuscode.com/issues/410) 
 - [2024-12-04-Improving-your-React-app's-responsiveness](https://react.statuscode.com/issues/409) 
 - [2024-11-27-Big-releases:-React-Router-7-and-Vite-6](https://react.statuscode.com/issues/408) 
 - [2024-11-06-Building-GNOME-apps-with-React](https://react.statuscode.com/issues/405) 
