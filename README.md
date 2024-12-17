@@ -15,11 +15,11 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-12-16 18:45:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-17 18:46:24，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560) ![](/assets/new.png)  
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
@@ -55,7 +56,6 @@
 - [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)  
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
 - [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
-- [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-12-16-PH今日热榜-|-2024-12-16](https://decohack.com/producthunt-daily-2024-12-16/) ![](/assets/new.png)  
+- [2024-12-17-PH今日热榜-|-2024-12-17](https://decohack.com/producthunt-daily-2024-12-17/) ![](/assets/new.png)  
+- [2024-12-16-PH今日热榜-|-2024-12-16](https://decohack.com/producthunt-daily-2024-12-16/)  
 - [2024-12-15-PH今日热榜-|-2024-12-15](https://decohack.com/producthunt-daily-2024-12-15/)  
 - [2024-12-14-PH今日热榜-|-2024-12-14](https://decohack.com/producthunt-daily-2024-12-14/)  
 - [2024-12-13-PH今日热榜-|-2024-12-13](https://decohack.com/producthunt-daily-2024-12-13/)  
@@ -258,7 +259,6 @@
 - [2024-11-30-PH今日热榜-|-2024-11-30](https://decohack.com/producthunt-daily-2024-11-30/)  
 - [2024-11-29-PH今日热榜-|-2024-11-29](https://decohack.com/producthunt-daily-2024-11-29/)  
 - [2024-11-28-PH今日热榜-|-2024-11-28](https://decohack.com/producthunt-daily-2024-11-28/)  
-- [2024-11-27-PH今日热榜-|-2024-11-27](https://decohack.com/producthunt-daily-2024-11-27/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

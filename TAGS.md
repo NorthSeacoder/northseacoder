@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-16 18:45:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-17 18:46:24。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -135,6 +135,7 @@
 
 
 
+- [【Node-Weekly】A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)
 - [【Node-Weekly】A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)
 - [【Node-Weekly】Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)
 - [【Node-Weekly】Node-v23.2-released](https://nodeweekly.com/issues/555)
@@ -154,7 +155,6 @@
 - [【Node-Weekly】V8's-garbage-collection-and-three-JIT-compilers](https://nodeweekly.com/issues/514)
 - [【Node-Weekly】100,000-stars-within-reach-for-Node](https://nodeweekly.com/issues/513)
 - [【Node-Weekly】AWS-Lambda-gets-a-Node-20-LTS-runtime](https://nodeweekly.com/issues/511)
-- [【Node-Weekly】Milo:-A-new-HTTP-parser-for-Node?](https://nodeweekly.com/issues/510)
 - [......【查看更多】......](/category/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
