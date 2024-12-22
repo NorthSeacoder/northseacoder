@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2024-12-21 18:39:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-22 18:39:30，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2024-12-22-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/) ![](/assets/new.png)  
 - [2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/)  
 - [2024-12-05-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/)  
 - [2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/)  
@@ -210,7 +211,6 @@
 - [2024-08-23-不能落后，好好缕缕CSS滚动动画](https://www.zhangxinxu.com/wordpress/2024/08/css-scroll-timeline/)  
 - [2024-08-10-页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/)  
 - [2024-07-28-独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/)  
-- [2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2024-12-21-PH今日热榜-|-2024-12-21](https://decohack.com/producthunt-daily-2024-12-21/) ![](/assets/new.png)  
+- [2024-12-22-PH今日热榜-|-2024-12-22](https://decohack.com/producthunt-daily-2024-12-22/) ![](/assets/new.png)  
+- [2024-12-21-PH今日热榜-|-2024-12-21](https://decohack.com/producthunt-daily-2024-12-21/)  
 - [2024-12-20-PH今日热榜-|-2024-12-20](https://decohack.com/producthunt-daily-2024-12-20/)  
 - [2024-12-19-PH今日热榜-|-2024-12-19](https://decohack.com/producthunt-daily-2024-12-19/)  
 - [2024-12-18-PH今日热榜-|-2024-12-18](https://decohack.com/producthunt-daily-2024-12-18/)  
@@ -258,7 +259,6 @@
 - [2024-12-05-PH今日热榜-|-2024-12-05](https://decohack.com/producthunt-daily-2024-12-05/)  
 - [2024-12-04-PH今日热榜-|-2024-12-04](https://decohack.com/producthunt-daily-2024-12-04/)  
 - [2024-12-03-PH今日热榜-|-2024-12-03](https://decohack.com/producthunt-daily-2024-12-03/)  
-- [2024-12-02-PH今日热榜-|-2024-12-02](https://decohack.com/producthunt-daily-2024-12-02/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
