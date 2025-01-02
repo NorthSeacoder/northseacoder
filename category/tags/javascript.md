@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-01 18:41:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-02 18:42:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -61,6 +61,7 @@
 - [2023-06-14-A-Million.js-to-one](https://react.statuscode.com/issues/343) 
 - [2020-09-11-淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el) 
 - [2020-09-01-JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la) 
+- [2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/) 
 - [2024-12-22-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/) 
 - [2024-12-05-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/) 
 - [2024-11-17-JS文本选区变化selectionchange事件实践小记](https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/) 
