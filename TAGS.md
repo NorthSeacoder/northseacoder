@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-01-06 18:43:24。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-01-07 18:42:50。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -90,6 +90,7 @@
 
 
 
+- [【Node-Weekly】Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)
 - [【Node-Weekly】Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545)
 - [【Node-Weekly】Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)
 - [【JavaScript-Weekly】Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)
