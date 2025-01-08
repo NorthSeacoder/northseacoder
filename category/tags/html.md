@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-07 18:42:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-08 18:42:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-01-08-Frontend-and-HTML-features-to-be-aware-of-in-2025](https://frontendfoc.us/issues/674) 
 - [2023-11-29-HTML-hacks-that-shaped-the-Web](https://frontendfoc.us/issues/620) 
 - [2023-11-01-None-of-the-top-100-sites-uses-fully-conformant-HTML?](https://frontendfoc.us/issues/616) 
 - [2023-10-18-Test-how-many-HTML-tags-you-know](https://frontendfoc.us/issues/614) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-07 18:42:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-08 18:42:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -53,6 +53,7 @@
 - [2023-07-26-Arc-reaches-1.0](https://frontendfoc.us/issues/603) 
 - [2023-07-19-Just-how-bloated-is-your-site?](https://frontendfoc.us/issues/602) 
 - [2023-06-28-Behind-the-curtain-of-Wikipedia's-redesign](https://frontendfoc.us/issues/599) 
+- [2025-01-08-A-fresh-TanStack-start-for-2025](https://react.statuscode.com/issues/412) 
 - [2024-11-20-Quickly-scan-your-app-for-problematic-renders](https://react.statuscode.com/issues/407) 
 - [2024-01-31-How-Vercel-builds-Vercel-with-Vercel](https://react.statuscode.com/issues/372) 
 - [2023-10-18-TanStack-Query-v5-released](https://react.statuscode.com/issues/358) 
@@ -89,6 +90,7 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2025-01-08-PH今日热榜-|-2025-01-08](https://decohack.com/producthunt-daily-2025-01-08/) 
 - [2025-01-07-PH今日热榜-|-2025-01-07](https://decohack.com/producthunt-daily-2025-01-07/) 
 - [2025-01-06-PH今日热榜-|-2025-01-06](https://decohack.com/producthunt-daily-2025-01-06/) 
 - [2025-01-05-PH今日热榜-|-2025-01-05](https://decohack.com/producthunt-daily-2025-01-05/) 

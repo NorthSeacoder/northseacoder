@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-01-07 18:42:50。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-01-08 18:42:57。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -294,6 +294,7 @@
 
 
 
+- [【Frontend-Focus】Frontend-and-HTML-features-to-be-aware-of-in-2025](https://frontendfoc.us/issues/674)
 - [【Frontend-Focus】HTML-hacks-that-shaped-the-Web](https://frontendfoc.us/issues/620)
 - [【Frontend-Focus】None-of-the-top-100-sites-uses-fully-conformant-HTML?](https://frontendfoc.us/issues/616)
 - [【Frontend-Focus】Test-how-many-HTML-tags-you-know](https://frontendfoc.us/issues/614)
