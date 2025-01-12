@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-01-11 18:40:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-01-12 18:40:01。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -416,6 +416,7 @@
 - [【Frontend-Focus】Making-your-page-faster-before-it-even-loads](https://frontendfoc.us/issues/657)
 - [【Frontend-Focus】Astro-3.0-released,-and-RIP-to-a-Web-hero](https://frontendfoc.us/issues/608)
 - [【淘系前端团队】如何在应用架构中设计微前端方案---icestark](https://fed.taobao.org/blog/taofed/do71ct/xgmaz3)
+- [【张鑫旭-鑫空间-鑫生活】Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/)
 - [【DecoHack-独立开发者的灵感周刊】独立产品灵感周刊-DecoHack-#065-–-新奇工具：从地形可视化到网红营销](https://decohack.com/decohack-065-dixing-yinying-tiktok-gongju/)
 - [......【查看更多】......](/category/tags/front-end-advanced.md)
 
