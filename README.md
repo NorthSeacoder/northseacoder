@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-01-12 18:40:01，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-13 18:44:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/) ![](/assets/new.png)  
+- [2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/)  
 - [2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/)  
 - [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/)  
 - [2024-12-22-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/)  
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-01-12-PH今日热榜-|-2025-01-12](https://decohack.com/producthunt-daily-2025-01-12/) ![](/assets/new.png)  
+- [2025-01-13-PH今日热榜-|-2025-01-13](https://decohack.com/producthunt-daily-2025-01-13/) ![](/assets/new.png)  
+- [2025-01-12-PH今日热榜-|-2025-01-12](https://decohack.com/producthunt-daily-2025-01-12/)  
 - [2025-01-11-PH今日热榜-|-2025-01-11](https://decohack.com/producthunt-daily-2025-01-11/)  
 - [2025-01-10-PH今日热榜-|-2025-01-10](https://decohack.com/producthunt-daily-2025-01-10/)  
 - [2025-01-09-PH今日热榜-|-2025-01-09](https://decohack.com/producthunt-daily-2025-01-09/)  
@@ -258,7 +259,6 @@
 - [2024-12-27-PH今日热榜-|-2024-12-27](https://decohack.com/producthunt-daily-2024-12-27/)  
 - [2024-12-25-PH今日热榜-|-2024-12-25](https://decohack.com/producthunt-daily-2024-12-25/)  
 - [2024-12-24-PH今日热榜-|-2024-12-24](https://decohack.com/producthunt-daily-2024-12-24/)  
-- [2024-12-23-PH今日热榜-|-2024-12-23](https://decohack.com/producthunt-daily-2024-12-23/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
