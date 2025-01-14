@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-01-13 18:44:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-01-14 18:41:33。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -136,6 +136,7 @@
 
 
 
+- [【Node-Weekly】2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)
 - [【Node-Weekly】A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)
 - [【Node-Weekly】A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)
 - [【Node-Weekly】Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)
@@ -155,7 +156,6 @@
 - [【Node-Weekly】The-ten-top-Node-Weekly-links-of-2023](https://nodeweekly.com/issues/515)
 - [【Node-Weekly】V8's-garbage-collection-and-three-JIT-compilers](https://nodeweekly.com/issues/514)
 - [【Node-Weekly】100,000-stars-within-reach-for-Node](https://nodeweekly.com/issues/513)
-- [【Node-Weekly】AWS-Lambda-gets-a-Node-20-LTS-runtime](https://nodeweekly.com/issues/511)
 - [......【查看更多】......](/category/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -328,6 +328,7 @@
 - [【淘系前端团队】一起来玩玩WebGL--第二弹](https://fed.taobao.org/blog/taofed/do71ct/ghlebo)
 - [【淘系前端团队】服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
 - [【淘系前端团队】用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx)
+- [【张鑫旭-鑫空间-鑫生活】如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/)
 - [【张鑫旭-鑫空间-鑫生活】趁热打铁，SVG-feColorMatrix滤镜gogogo!](https://www.zhangxinxu.com/wordpress/2024/11/svg-fecolormatrix-filter/)
 - [【张鑫旭-鑫空间-鑫生活】搞懂SVG中各种Light相关的光源滤镜](https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/)
 - [【张鑫旭-鑫空间-鑫生活】做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/)
