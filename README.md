@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-01-14 18:41:33，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-15 18:40:56，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562) ![](/assets/new.png)  
+- [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)  
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)  
 - [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)  
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2025-01-15-Time-to-trim-your-text-with-CSS](https://frontendfoc.us/issues/675) ![](/assets/new.png)  
 - [2025-01-08-Frontend-and-HTML-features-to-be-aware-of-in-2025](https://frontendfoc.us/issues/674)  
 - [2024-12-18-Here's-what-went-down-in-2024](https://frontendfoc.us/issues/673)  
 - [2024-12-11-What-the-data-tell-us-about-the-web-in-2024](https://frontendfoc.us/issues/672)  
@@ -117,7 +118,6 @@
 - [2024-09-04-Remembering-the-first-decade-of-web-design](https://frontendfoc.us/issues/658)  
 - [2024-08-28-Making-your-page-faster-before-it-even-loads](https://frontendfoc.us/issues/657)  
 - [2024-08-14-Should-you-'over-engineer'-your-CSS?](https://frontendfoc.us/issues/656)  
-- [2024-08-07-Ready-to-talk-CSS5?](https://frontendfoc.us/issues/655)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2025-01-15-Fixing-'a-glaring-animation-sized-hole-in-React's-API'](https://react.statuscode.com/issues/413) ![](/assets/new.png)  
 - [2025-01-08-A-fresh-TanStack-start-for-2025](https://react.statuscode.com/issues/412)  
 - [2024-12-18-How-React-fared-in-2024](https://react.statuscode.com/issues/411)  
 - [2024-12-11-Say-hello-again?-to-React-19](https://react.statuscode.com/issues/410)  
@@ -148,7 +149,6 @@
 - [2024-08-21-React-as-a-full-stack-framework?](https://react.statuscode.com/issues/396)  
 - [2024-07-31-The-React-Conf-2024-talks](https://react.statuscode.com/issues/395)  
 - [2024-07-24-What-the-React-community-is-doing-and-thinking](https://react.statuscode.com/issues/394)  
-- [2024-07-17-Why-use-Redux-in-2024?](https://react.statuscode.com/issues/393)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2025-01-14-如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/) ![](/assets/new.png)  
+- [2025-01-14-如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/)  
 - [2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/)  
 - [2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/)  
 - [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/)  
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-01-14-PH今日热榜-|-2025-01-14](https://decohack.com/producthunt-daily-2025-01-14/) ![](/assets/new.png)  
+- [2025-01-15-PH今日热榜-|-2025-01-15](https://decohack.com/producthunt-daily-2025-01-15/) ![](/assets/new.png)  
+- [2025-01-14-PH今日热榜-|-2025-01-14](https://decohack.com/producthunt-daily-2025-01-14/)  
 - [2025-01-13-PH今日热榜-|-2025-01-13](https://decohack.com/producthunt-daily-2025-01-13/)  
 - [2025-01-12-PH今日热榜-|-2025-01-12](https://decohack.com/producthunt-daily-2025-01-12/)  
 - [2025-01-11-PH今日热榜-|-2025-01-11](https://decohack.com/producthunt-daily-2025-01-11/)  
@@ -258,7 +259,6 @@
 - [2024-12-29-PH今日热榜-|-2024-12-29](https://decohack.com/producthunt-daily-2024-12-29/)  
 - [2024-12-28-PH今日热榜-|-2024-12-28](https://decohack.com/producthunt-daily-2024-12-28/)  
 - [2024-12-27-PH今日热榜-|-2024-12-27](https://decohack.com/producthunt-daily-2024-12-27/)  
-- [2024-12-25-PH今日热榜-|-2024-12-25](https://decohack.com/producthunt-daily-2024-12-25/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

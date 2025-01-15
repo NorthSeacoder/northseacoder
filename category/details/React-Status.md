@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-01-08 18:42:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-15 18:40:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2025-01-15-Fixing-'a-glaring-animation-sized-hole-in-React's-API'](https://react.statuscode.com/issues/413) 
 - [2025-01-08-A-fresh-TanStack-start-for-2025](https://react.statuscode.com/issues/412) 
 - [2024-12-18-How-React-fared-in-2024](https://react.statuscode.com/issues/411) 
 - [2024-12-11-Say-hello-again?-to-React-19](https://react.statuscode.com/issues/410) 

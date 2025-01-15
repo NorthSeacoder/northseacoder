@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-01-08 18:42:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-15 18:40:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-01-15-Time-to-trim-your-text-with-CSS](https://frontendfoc.us/issues/675) 
 - [2025-01-08-Frontend-and-HTML-features-to-be-aware-of-in-2025](https://frontendfoc.us/issues/674) 
 - [2024-12-18-Here's-what-went-down-in-2024](https://frontendfoc.us/issues/673) 
 - [2024-12-11-What-the-data-tell-us-about-the-web-in-2024](https://frontendfoc.us/issues/672) 
