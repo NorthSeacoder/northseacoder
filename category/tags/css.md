@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-21 18:42:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-22 18:43:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-01-22-Six-CSS-snippets-you-need-to-know](https://frontendfoc.us/issues/676) 
 - [2025-01-15-Time-to-trim-your-text-with-CSS](https://frontendfoc.us/issues/675) 
 - [2024-11-13-CSS-gets-an-official-logo](https://frontendfoc.us/issues/668) 
 - [2024-10-23-The-State-of-CSS-2024-results-are-out](https://frontendfoc.us/issues/665) 
