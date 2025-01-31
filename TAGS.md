@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-01-30 18:41:26。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-01-31 18:41:12。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -414,6 +414,7 @@
 
 
 - [【Node-Weekly】Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)
+- [【JavaScript-Weekly】A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721)
 - [【Frontend-Focus】Making-your-page-faster-before-it-even-loads](https://frontendfoc.us/issues/657)
 - [【Frontend-Focus】Astro-3.0-released,-and-RIP-to-a-Web-hero](https://frontendfoc.us/issues/608)
 - [【淘系前端团队】如何在应用架构中设计微前端方案---icestark](https://fed.taobao.org/blog/taofed/do71ct/xgmaz3)
