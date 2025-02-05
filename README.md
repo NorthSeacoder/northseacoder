@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-02-04 18:42:08，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-05 18:42:32，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565) ![](/assets/new.png)  
+- [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)  
 - [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564)  
 - [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)  
 - [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2025-02-05-Learning-to-code-with-your-voice](https://frontendfoc.us/issues/678) ![](/assets/new.png)  
 - [2025-01-29-Revisiting-CSS-multi-column-layouts](https://frontendfoc.us/issues/677)  
 - [2025-01-22-Six-CSS-snippets-you-need-to-know](https://frontendfoc.us/issues/676)  
 - [2025-01-15-Time-to-trim-your-text-with-CSS](https://frontendfoc.us/issues/675)  
@@ -117,7 +118,6 @@
 - [2024-09-25-Masonry-moves-forward](https://frontendfoc.us/issues/661)  
 - [2024-09-18-New-iOS,-new-macOS,-so-there's-a-new-Safari,-too.](https://frontendfoc.us/issues/660)  
 - [2024-09-11-'Release-notes'-for-the-entire-web-platform?](https://frontendfoc.us/issues/659)  
-- [2024-09-04-Remembering-the-first-decade-of-web-design](https://frontendfoc.us/issues/658)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2025-02-05-Theo's-victory-over-Create-React-App](https://react.statuscode.com/issues/416) ![](/assets/new.png)  
 - [2025-01-29-Three-ways-to-detect-React-performance-issues](https://react.statuscode.com/issues/415)  
 - [2025-01-22-Terminal-aesthetics-for-React-apps](https://react.statuscode.com/issues/414)  
 - [2025-01-15-Fixing-'a-glaring-animation-sized-hole-in-React's-API'](https://react.statuscode.com/issues/413)  
@@ -148,7 +149,6 @@
 - [2024-09-11-A-bumper-React-19-feature-roundup](https://react.statuscode.com/issues/399)  
 - [2024-09-04-Is-component-testing-the-future-of-UI-testing?](https://react.statuscode.com/issues/398)  
 - [2024-08-28-The-interface-segregation-principle-in-React](https://react.statuscode.com/issues/397)  
-- [2024-08-21-React-as-a-full-stack-framework?](https://react.statuscode.com/issues/396)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-02-04-PH今日热榜-|-2025-02-04](https://decohack.com/producthunt-daily-2025-02-04/) ![](/assets/new.png)  
+- [2025-02-05-PH今日热榜-|-2025-02-05](https://decohack.com/producthunt-daily-2025-02-05/) ![](/assets/new.png)  
+- [2025-02-04-PH今日热榜-|-2025-02-04](https://decohack.com/producthunt-daily-2025-02-04/)  
 - [2025-02-03-PH今日热榜-|-2025-02-03](https://decohack.com/producthunt-daily-2025-02-03/)  
 - [2025-02-02-PH今日热榜-|-2025-02-02](https://decohack.com/producthunt-daily-2025-02-02/)  
 - [2025-02-01-PH今日热榜-|-2025-02-01](https://decohack.com/producthunt-daily-2025-02-01/)  
@@ -258,7 +259,6 @@
 - [2025-01-19-PH今日热榜-|-2025-01-19](https://decohack.com/producthunt-daily-2025-01-19/)  
 - [2025-01-18-PH今日热榜-|-2025-01-18](https://decohack.com/producthunt-daily-2025-01-18/)  
 - [2025-01-17-PH今日热榜-|-2025-01-17](https://decohack.com/producthunt-daily-2025-01-17/)  
-- [2025-01-16-PH今日热榜-|-2025-01-16](https://decohack.com/producthunt-daily-2025-01-16/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
