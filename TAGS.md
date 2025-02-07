@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-02-06 18:42:31。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-02-07 18:42:25。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -224,6 +224,7 @@
 
 
 - [【Node-Weekly】Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)
+- [【JavaScript-Weekly】Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722)
 - [【JavaScript-Weekly】An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)
 - [【JavaScript-Weekly】The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718)
 - [【JavaScript-Weekly】A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)
@@ -242,7 +243,6 @@
 - [【JavaScript-Weekly】Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697)
 - [【JavaScript-Weekly】Breaking-a-promise](https://javascriptweekly.com/issues/695)
 - [【JavaScript-Weekly】Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)
-- [【JavaScript-Weekly】TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
