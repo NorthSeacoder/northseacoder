@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-02-05 18:42:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-12 18:43:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-02-12-15-years-on-from-Responsive-Web-Design](https://frontendfoc.us/issues/679) 
 - [2025-02-05-Learning-to-code-with-your-voice](https://frontendfoc.us/issues/678) 
 - [2025-01-29-Revisiting-CSS-multi-column-layouts](https://frontendfoc.us/issues/677) 
 - [2025-01-22-Six-CSS-snippets-you-need-to-know](https://frontendfoc.us/issues/676) 
