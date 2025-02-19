@@ -15,13 +15,13 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-02-18 18:43:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-19 18:42:53，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2025-02-19-19-Web-features-getting-broader-support-in-2025](https://frontendfoc.us/issues/680) ![](/assets/new.png)  
 - [2025-02-12-15-years-on-from-Responsive-Web-Design](https://frontendfoc.us/issues/679)  
 - [2025-02-05-Learning-to-code-with-your-voice](https://frontendfoc.us/issues/678)  
 - [2025-01-29-Revisiting-CSS-multi-column-layouts](https://frontendfoc.us/issues/677)  
@@ -117,7 +118,6 @@
 - [2024-10-09-CSS-nesting-is-getting-better-for-everyone](https://frontendfoc.us/issues/663)  
 - [2024-10-02-The-Web-Components-debate](https://frontendfoc.us/issues/662)  
 - [2024-09-25-Masonry-moves-forward](https://frontendfoc.us/issues/661)  
-- [2024-09-18-New-iOS,-new-macOS,-so-there's-a-new-Safari,-too.](https://frontendfoc.us/issues/660)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-02-18-PH今日热榜-|-2025-02-18](https://decohack.com/producthunt-daily-2025-02-18/) ![](/assets/new.png)  
+- [2025-02-19-PH今日热榜-|-2025-02-19](https://decohack.com/producthunt-daily-2025-02-19/) ![](/assets/new.png)  
+- [2025-02-18-PH今日热榜-|-2025-02-18](https://decohack.com/producthunt-daily-2025-02-18/)  
 - [2025-02-17-PH今日热榜-|-2025-02-17](https://decohack.com/producthunt-daily-2025-02-17/)  
 - [2025-02-16-PH今日热榜-|-2025-02-16](https://decohack.com/producthunt-daily-2025-02-16/)  
 - [2025-02-15-PH今日热榜-|-2025-02-15](https://decohack.com/producthunt-daily-2025-02-15/)  
@@ -258,7 +259,6 @@
 - [2025-02-02-PH今日热榜-|-2025-02-02](https://decohack.com/producthunt-daily-2025-02-02/)  
 - [2025-02-01-PH今日热榜-|-2025-02-01](https://decohack.com/producthunt-daily-2025-02-01/)  
 - [2025-01-31-PH今日热榜-|-2025-01-31](https://decohack.com/producthunt-daily-2025-01-31/)  
-- [2025-01-30-PH今日热榜-|-2025-01-30](https://decohack.com/producthunt-daily-2025-01-30/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
