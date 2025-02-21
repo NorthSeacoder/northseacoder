@@ -15,18 +15,18 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-02-20 18:43:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-21 18:42:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
+- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
 ## 文章链接
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724) ![](/assets/new.png)  
 - [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)  
 - [2025-02-07-Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722)  
 - [2025-01-31-A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721)  
@@ -86,7 +87,6 @@
 - [2024-10-03-Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707)  
 - [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706)  
 - [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)  
-- [2024-09-12-The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,7 @@
 </summary>
 
 
-- [2025-02-20-PH今日热榜-|-2025-02-20](https://decohack.com/producthunt-daily-2025-02-20/) ![](/assets/new.png)  
+- [2025-02-20-PH今日热榜-|-2025-02-20](https://decohack.com/producthunt-daily-2025-02-20/)  
 - [2025-02-19-PH今日热榜-|-2025-02-19](https://decohack.com/producthunt-daily-2025-02-19/)  
 - [2025-02-18-PH今日热榜-|-2025-02-18](https://decohack.com/producthunt-daily-2025-02-18/)  
 - [2025-02-17-PH今日热榜-|-2025-02-17](https://decohack.com/producthunt-daily-2025-02-17/)  

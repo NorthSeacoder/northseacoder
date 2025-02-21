@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-20 18:43:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-21 18:42:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -16,6 +16,7 @@
 - [2023-08-08-Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498) 
 - [2023-07-18-Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495) 
 - [2023-07-11-Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494) 
+- [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724) 
 - [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723) 
 - [2025-01-24-Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720) 
 - [2024-11-14-Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713) 
