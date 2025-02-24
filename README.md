@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-02-23 18:40:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-24 18:43:46，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/) ![](/assets/new.png)  
 - [2025-02-12-不要搞混了，不是text而是CSS-font-size-adjust属性](https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/)  
 - [2025-02-10-JS-Set新支持了intersection,-union,-difference等方法](https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/)  
 - [2025-02-06-JS-Array数组新的with方法，你知道作用吗？](https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/)  
@@ -210,7 +211,6 @@
 - [2024-11-10-趁热打铁，SVG-feColorMatrix滤镜gogogo!](https://www.zhangxinxu.com/wordpress/2024/11/svg-fecolormatrix-filter/)  
 - [2024-10-31-Pixi.js中ColorMatrixFilter自带滤镜效果一览](https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/)  
 - [2024-10-24-Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/)  
-- [2024-10-10-Nice!-Safari也支持CSS-@perporty规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-02-23-PH今日热榜-|-2025-02-23](https://decohack.com/producthunt-daily-2025-02-23/) ![](/assets/new.png)  
+- [2025-02-24-PH今日热榜-|-2025-02-24](https://decohack.com/producthunt-daily-2025-02-24/) ![](/assets/new.png)  
+- [2025-02-23-PH今日热榜-|-2025-02-23](https://decohack.com/producthunt-daily-2025-02-23/)  
 - [2025-02-22-PH今日热榜-|-2025-02-22](https://decohack.com/producthunt-daily-2025-02-22-6/)  
 - [2025-02-22-PH今日热榜-|-2025-02-22](https://decohack.com/producthunt-daily-2025-02-22-5/)  
 - [2025-02-22-PH今日热榜-|-2025-02-22](https://decohack.com/producthunt-daily-2025-02-22-4/)  
@@ -258,7 +259,6 @@
 - [2025-02-11-PH今日热榜-|-2025-02-11](https://decohack.com/producthunt-daily-2025-02-11/)  
 - [2025-02-10-PH今日热榜-|-2025-02-10](https://decohack.com/producthunt-daily-2025-02-10/)  
 - [2025-02-09-PH今日热榜-|-2025-02-09](https://decohack.com/producthunt-daily-2025-02-09/)  
-- [2025-02-08-PH今日热榜-|-2025-02-08](https://decohack.com/producthunt-daily-2025-02-08/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
