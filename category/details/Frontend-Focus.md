@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-02-26 18:43:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-05 18:45:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-03-05-An-introduction-to-functions-in-CSS](https://frontendfoc.us/issues/682) 
 - [2025-02-26-Can-and-should-an-LLM-write-your-'alt'-text?](https://frontendfoc.us/issues/681) 
 - [2025-02-19-19-Web-features-getting-broader-support-in-2025](https://frontendfoc.us/issues/680) 
 - [2025-02-12-15-years-on-from-Responsive-Web-Design](https://frontendfoc.us/issues/679) 
