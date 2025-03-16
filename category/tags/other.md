@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-15 18:41:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-16 18:42:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -84,6 +84,7 @@
 - [2020-08-27-入职一年多的一些思考](https://fed.taobao.org/blog/taofed/do71ct/sxz5ap) 
 - [2020-08-21-阿里实习-90-天：从实习生的视角谈谈个人成长](https://fed.taobao.org/blog/taofed/do71ct/acbnym) 
 - [2020-08-20-什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc) 
+- [2025-03-16-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/) 
 - [2024-06-11-聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/) 
 - [2024-05-20-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/) 
 - [2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/) 
@@ -98,6 +99,7 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2025-03-16-PH今日热榜-|-2025-03-16](https://decohack.com/producthunt-daily-2025-03-16/) 
 - [2025-03-15-PH今日热榜-|-2025-03-15](https://decohack.com/producthunt-daily-2025-03-15/) 
 - [2025-03-14-PH今日热榜-|-2025-03-14](https://decohack.com/producthunt-daily-2025-03-14/) 
 - [2025-03-13-PH今日热榜-|-2025-03-13](https://decohack.com/producthunt-daily-2025-03-13/) 
