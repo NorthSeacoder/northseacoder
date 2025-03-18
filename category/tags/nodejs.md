@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-17 18:43:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-18 18:45:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570) 
 - [2025-02-25-Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567) 
 - [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564) 
 - [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563) 
