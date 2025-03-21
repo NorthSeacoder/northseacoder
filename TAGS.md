@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-03-20 18:43:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-03-21 18:44:31。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -501,6 +501,7 @@
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】The-Rsdoctor-will-see-you-now](https://javascriptweekly.com/issues/728)
 - [【JavaScript-Weekly】The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724)
 - [【JavaScript-Weekly】It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)
 - [【JavaScript-Weekly】Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720)
@@ -509,7 +510,6 @@
 - [【JavaScript-Weekly】A-big-update-for-ECharts](https://javascriptweekly.com/issues/676)
 - [【JavaScript-Weekly】Gorillas](https://javascriptweekly.com/issues/674)
 - [【JavaScript-Weekly】Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665)
-- [【JavaScript-Weekly】Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
