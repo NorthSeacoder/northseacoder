@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-03-26 18:45:31，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-27 18:45:16，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2025-03-26-Bringing-custom-styling-to-'select'-elements](https://frontendfoc.us/issues/685) ![](/assets/new.png)  
+- [2025-03-26-Bringing-custom-styling-to-'select'-elements](https://frontendfoc.us/issues/685)  
 - [2025-03-19-Are-breadcrumbs-'dead'-in-web-design?](https://frontendfoc.us/issues/684)  
 - [2025-03-12-How-to-dynamically-generate-and-modify-color-in-CSS](https://frontendfoc.us/issues/683)  
 - [2025-03-05-An-introduction-to-functions-in-CSS](https://frontendfoc.us/issues/682)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2025-03-26-A-bad-weekend-for-Next.js](https://react.statuscode.com/issues/422) ![](/assets/new.png)  
+- [2025-03-26-A-bad-weekend-for-Next.js](https://react.statuscode.com/issues/422)  
 - [2025-03-19-React-trends-for-2025](https://react.statuscode.com/issues/421)  
 - [2025-03-12-How-the-NYT-migrated-its-React-testing-approach-in-place](https://react.statuscode.com/issues/420)  
 - [2025-03-05-TanStack-Form-v1.0-released](https://react.statuscode.com/issues/419)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2025-03-27-光速了解script-style-link元素新增的blocking属性](https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/) ![](/assets/new.png)  
 - [2025-03-23-研究下attachInternals方法，可让普通元素有表单特性](https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/)  
 - [2025-03-16-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/)  
 - [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/)  
@@ -210,7 +211,6 @@
 - [2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/)  
 - [2024-11-28-CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/)  
 - [2024-11-24-CSS-Grid布局中的subgrid的适用场景](https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/)  
-- [2024-11-17-JS文本选区变化selectionchange事件实践小记](https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-03-26-PH今日热榜-|-2025-03-26](https://decohack.com/producthunt-daily-2025-03-26/) ![](/assets/new.png)  
+- [2025-03-27-PH今日热榜-|-2025-03-27](https://decohack.com/producthunt-daily-2025-03-27/) ![](/assets/new.png)  
+- [2025-03-26-PH今日热榜-|-2025-03-26](https://decohack.com/producthunt-daily-2025-03-26/)  
 - [2025-03-25-PH今日热榜-|-2025-03-25](https://decohack.com/producthunt-daily-2025-03-25/)  
 - [2025-03-24-PH今日热榜-|-2025-03-24](https://decohack.com/producthunt-daily-2025-03-24/)  
 - [2025-03-23-PH今日热榜-|-2025-03-23](https://decohack.com/producthunt-daily-2025-03-23/)  
@@ -258,7 +259,6 @@
 - [2025-03-10-PH今日热榜-|-2025-03-10](https://decohack.com/producthunt-daily-2025-03-10-4/)  
 - [2025-03-09-PH今日热榜-|-2025-03-09](https://decohack.com/producthunt-daily-2025-03-09/)  
 - [2025-03-08-PH今日热榜-|-2025-03-08](https://decohack.com/producthunt-daily-2025-03-08/)  
-- [2025-03-07-PH今日热榜-|-2025-03-07](https://decohack.com/producthunt-daily-2025-03-07/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
