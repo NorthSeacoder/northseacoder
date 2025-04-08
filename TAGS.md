@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-04-07 18:44:00。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-04-08 18:46:12。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -490,6 +490,7 @@
 
 
 
+- [【Node-Weekly】Three-petabytes-a-month](https://nodeweekly.com/issues/573)
 - [【Node-Weekly】Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566)
 - [【Node-Weekly】requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)
 - [【Node-Weekly】Taming-event-loop-lag](https://nodeweekly.com/issues/538)
@@ -509,7 +510,6 @@
 - [【JavaScript-Weekly】Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713)
 - [【JavaScript-Weekly】Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707)
 - [【JavaScript-Weekly】A-big-update-for-ECharts](https://javascriptweekly.com/issues/676)
-- [【JavaScript-Weekly】Gorillas](https://javascriptweekly.com/issues/674)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
