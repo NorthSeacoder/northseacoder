@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-04-10 18:43:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-11 18:45:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -48,6 +48,7 @@
 - [2023-07-04-Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493) 
 - [2023-06-27-Why-Node-permissions-are-experimental-for-now](https://nodeweekly.com/issues/492) 
 - [2023-06-20-Getting-under-Node's-skin](https://nodeweekly.com/issues/491) 
+- [2025-04-11-Comparing-Tauri-and-Electron](https://javascriptweekly.com/issues/731) 
 - [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716) 
 - [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706) 
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701) 
