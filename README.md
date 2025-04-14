@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-04-13 18:42:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-14 18:46:11，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/) ![](/assets/new.png)  
 - [2025-04-06-JS-EditContext-API-简介](https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/)  
 - [2025-03-27-光速了解script-style-link元素新增的blocking属性](https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/)  
 - [2025-03-23-研究下attachInternals方法，可让普通元素有表单特性](https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/)  
@@ -210,7 +211,6 @@
 - [2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/)  
 - [2024-12-05-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/)  
 - [2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/)  
-- [2024-11-28-CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-04-13-PH今日热榜-|-2025-04-13](https://decohack.com/producthunt-daily-2025-04-13/) ![](/assets/new.png)  
+- [2025-04-14-PH今日热榜-|-2025-04-14](https://decohack.com/producthunt-daily-2025-04-14/) ![](/assets/new.png)  
+- [2025-04-13-PH今日热榜-|-2025-04-13](https://decohack.com/producthunt-daily-2025-04-13/)  
 - [2025-04-12-PH今日热榜-|-2025-04-12](https://decohack.com/producthunt-daily-2025-04-12/)  
 - [2025-04-11-PH今日热榜-|-2025-04-11](https://decohack.com/producthunt-daily-2025-04-11/)  
 - [2025-04-10-PH今日热榜-|-2025-04-10](https://decohack.com/producthunt-daily-2025-04-10/)  
@@ -258,7 +259,6 @@
 - [2025-03-28-PH今日热榜-|-2025-03-28](https://decohack.com/producthunt-daily-2025-03-28/)  
 - [2025-03-27-PH今日热榜-|-2025-03-27](https://decohack.com/producthunt-daily-2025-03-27/)  
 - [2025-03-26-PH今日热榜-|-2025-03-26](https://decohack.com/producthunt-daily-2025-03-26/)  
-- [2025-03-25-PH今日热榜-|-2025-03-25](https://decohack.com/producthunt-daily-2025-03-25/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
