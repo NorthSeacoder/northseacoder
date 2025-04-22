@@ -15,11 +15,11 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-04-21 18:46:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-22 18:46:20，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575) ![](/assets/new.png)  
 - [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)  
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
 - [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572)  
@@ -55,7 +56,6 @@
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)  
-- [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-04-21-PH今日热榜-|-2025-04-21](https://decohack.com/producthunt-daily-2025-04-21/) ![](/assets/new.png)  
+- [2025-04-22-PH今日热榜-|-2025-04-22](https://decohack.com/producthunt-daily-2025-04-22/) ![](/assets/new.png)  
+- [2025-04-21-PH今日热榜-|-2025-04-21](https://decohack.com/producthunt-daily-2025-04-21/)  
 - [2025-04-20-PH今日热榜-|-2025-04-20](https://decohack.com/producthunt-daily-2025-04-20/)  
 - [2025-04-19-PH今日热榜-|-2025-04-19](https://decohack.com/producthunt-daily-2025-04-19/)  
 - [2025-04-18-PH今日热榜-|-2025-04-18](https://decohack.com/producthunt-daily-2025-04-18/)  
@@ -258,7 +259,6 @@
 - [2025-04-05-PH今日热榜-|-2025-04-05](https://decohack.com/producthunt-daily-2025-04-05/)  
 - [2025-04-04-PH今日热榜-|-2025-04-04](https://decohack.com/producthunt-daily-2025-04-04/)  
 - [2025-04-03-PH今日热榜-|-2025-04-03](https://decohack.com/producthunt-daily-2025-04-03/)  
-- [2025-04-02-PH今日热榜-|-2025-04-02](https://decohack.com/producthunt-daily-2025-04-02/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
