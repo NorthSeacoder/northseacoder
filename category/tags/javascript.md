@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-04-22 18:46:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-23 18:48:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -53,6 +53,7 @@
 - [2024-10-30-Content-aware-components,-and-blazing-fast-tools](https://frontendfoc.us/issues/666) 
 - [2024-10-02-The-Web-Components-debate](https://frontendfoc.us/issues/662) 
 - [2023-08-02-Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604) 
+- [2025-04-23-Dan-Abramov's-impossible-components](https://react.statuscode.com/issues/426) 
 - [2025-03-26-A-bad-weekend-for-Next.js](https://react.statuscode.com/issues/422) 
 - [2024-11-13-Taking-Next.js-15-apps-smoothly-to-production](https://react.statuscode.com/issues/406) 
 - [2024-09-25-Component-composition-is-great](https://react.statuscode.com/issues/401) 
