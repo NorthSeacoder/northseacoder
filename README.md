@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-04-23 18:48:24，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-24 18:46:10，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2025-04-23-Chrome's-hand-stays-in-the-cookie-jar](https://frontendfoc.us/issues/689) ![](/assets/new.png)  
+- [2025-04-23-Chrome's-hand-stays-in-the-cookie-jar](https://frontendfoc.us/issues/689)  
 - [2025-04-16-PSA:-Default-styles-for-H1-elements-are-changing](https://frontendfoc.us/issues/688)  
 - [2025-04-09-'An-unprecedented-level-of-polish-to-web-typography'](https://frontendfoc.us/issues/687)  
 - [2025-04-02-Another-option-in-the-masonry-mix](https://frontendfoc.us/issues/686)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2025-04-23-Dan-Abramov's-impossible-components](https://react.statuscode.com/issues/426) ![](/assets/new.png)  
+- [2025-04-23-Dan-Abramov's-impossible-components](https://react.statuscode.com/issues/426)  
 - [2025-04-16-Advanced,-real-world-React-case-studies](https://react.statuscode.com/issues/425)  
 - [2025-04-09-How-React's-reconciliation-algorithm-works](https://react.statuscode.com/issues/424)  
 - [2025-04-02-React-19.1-released](https://react.statuscode.com/issues/423)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/) ![](/assets/new.png)  
 - [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/)  
 - [2025-04-06-JS-EditContext-API-简介](https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/)  
 - [2025-03-27-光速了解script-style-link元素新增的blocking属性](https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/)  
@@ -210,7 +211,6 @@
 - [2024-12-22-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/)  
 - [2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/)  
 - [2024-12-05-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/)  
-- [2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-04-23-PH今日热榜-|-2025-04-23](https://decohack.com/producthunt-daily-2025-04-23/) ![](/assets/new.png)  
+- [2025-04-24-PH今日热榜-|-2025-04-24](https://decohack.com/producthunt-daily-2025-04-24/) ![](/assets/new.png)  
+- [2025-04-23-PH今日热榜-|-2025-04-23](https://decohack.com/producthunt-daily-2025-04-23/)  
 - [2025-04-22-PH今日热榜-|-2025-04-22](https://decohack.com/producthunt-daily-2025-04-22/)  
 - [2025-04-21-PH今日热榜-|-2025-04-21](https://decohack.com/producthunt-daily-2025-04-21/)  
 - [2025-04-20-PH今日热榜-|-2025-04-20](https://decohack.com/producthunt-daily-2025-04-20/)  
@@ -258,7 +259,6 @@
 - [2025-04-07-PH今日热榜-|-2025-04-07](https://decohack.com/producthunt-daily-2025-04-07/)  
 - [2025-04-06-PH今日热榜-|-2025-04-06](https://decohack.com/producthunt-daily-2025-04-06/)  
 - [2025-04-05-PH今日热榜-|-2025-04-05](https://decohack.com/producthunt-daily-2025-04-05/)  
-- [2025-04-04-PH今日热榜-|-2025-04-04](https://decohack.com/producthunt-daily-2025-04-04/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
