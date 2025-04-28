@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-04-27 18:42:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-28 18:46:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -15,6 +15,7 @@
 - [2023-08-09-An-HTML-element-reunion](https://frontendfoc.us/issues/605) 
 - [2023-12-06-Meta-opens-up-Facebook's-styling-solution](https://react.statuscode.com/issues/365) 
 - [2023-07-26-Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349) 
+- [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/) 
 - [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/) 
 - [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/) 
 - [2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/) 
