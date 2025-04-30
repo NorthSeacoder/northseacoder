@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-04-23 18:48:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-30 18:46:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-04-30-32-years-of-an-open-WWW](https://frontendfoc.us/issues/690) 
 - [2025-04-23-Chrome's-hand-stays-in-the-cookie-jar](https://frontendfoc.us/issues/689) 
 - [2025-04-16-PSA:-Default-styles-for-H1-elements-are-changing](https://frontendfoc.us/issues/688) 
 - [2025-04-09-'An-unprecedented-level-of-polish-to-web-typography'](https://frontendfoc.us/issues/687) 

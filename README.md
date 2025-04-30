@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-04-29 18:45:31，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-30 18:46:33，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576) ![](/assets/new.png)  
+- [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576)  
 - [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)  
 - [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)  
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2025-04-30-32-years-of-an-open-WWW](https://frontendfoc.us/issues/690) ![](/assets/new.png)  
 - [2025-04-23-Chrome's-hand-stays-in-the-cookie-jar](https://frontendfoc.us/issues/689)  
 - [2025-04-16-PSA:-Default-styles-for-H1-elements-are-changing](https://frontendfoc.us/issues/688)  
 - [2025-04-09-'An-unprecedented-level-of-polish-to-web-typography'](https://frontendfoc.us/issues/687)  
@@ -117,7 +118,6 @@
 - [2024-12-18-Here's-what-went-down-in-2024](https://frontendfoc.us/issues/673)  
 - [2024-12-11-What-the-data-tell-us-about-the-web-in-2024](https://frontendfoc.us/issues/672)  
 - [2024-12-04-A-layered-approach-to-speculation-rules](https://frontendfoc.us/issues/671)  
-- [2024-11-27-Where-to-draw-the-line-with-browser-support](https://frontendfoc.us/issues/670)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2025-04-30-A-mega-React-Labs-update](https://react.statuscode.com/issues/427) ![](/assets/new.png)  
 - [2025-04-23-Dan-Abramov's-impossible-components](https://react.statuscode.com/issues/426)  
 - [2025-04-16-Advanced,-real-world-React-case-studies](https://react.statuscode.com/issues/425)  
 - [2025-04-09-How-React's-reconciliation-algorithm-works](https://react.statuscode.com/issues/424)  
@@ -148,7 +149,6 @@
 - [2024-12-11-Say-hello-again?-to-React-19](https://react.statuscode.com/issues/410)  
 - [2024-12-04-Improving-your-React-app's-responsiveness](https://react.statuscode.com/issues/409)  
 - [2024-11-27-Big-releases:-React-Router-7-and-Vite-6](https://react.statuscode.com/issues/408)  
-- [2024-11-20-Quickly-scan-your-app-for-problematic-renders](https://react.statuscode.com/issues/407)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/) ![](/assets/new.png)  
+- [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/)  
 - [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)  
 - [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/)  
 - [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/)  
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-04-29-PH今日热榜-|-2025-04-29](https://decohack.com/producthunt-daily-2025-04-29/) ![](/assets/new.png)  
+- [2025-04-30-PH今日热榜-|-2025-04-30](https://decohack.com/producthunt-daily-2025-04-30/) ![](/assets/new.png)  
+- [2025-04-29-PH今日热榜-|-2025-04-29](https://decohack.com/producthunt-daily-2025-04-29/)  
 - [2025-04-28-PH今日热榜-|-2025-04-28](https://decohack.com/producthunt-daily-2025-04-28/)  
 - [2025-04-27-PH今日热榜-|-2025-04-27](https://decohack.com/producthunt-daily-2025-04-27/)  
 - [2025-04-26-PH今日热榜-|-2025-04-26](https://decohack.com/producthunt-daily-2025-04-26/)  
@@ -258,7 +259,6 @@
 - [2025-04-13-PH今日热榜-|-2025-04-13](https://decohack.com/producthunt-daily-2025-04-13/)  
 - [2025-04-12-PH今日热榜-|-2025-04-12](https://decohack.com/producthunt-daily-2025-04-12/)  
 - [2025-04-11-PH今日热榜-|-2025-04-11](https://decohack.com/producthunt-daily-2025-04-11/)  
-- [2025-04-10-PH今日热榜-|-2025-04-10](https://decohack.com/producthunt-daily-2025-04-10/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
