@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-05-11 18:43:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-12 18:47:52，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2025-05-12-CSS-animation-composition可以让动画效果累加](https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/) ![](/assets/new.png)  
 - [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/)  
 - [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)  
 - [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/)  
@@ -210,7 +211,6 @@
 - [2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/)  
 - [2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/)  
 - [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/)  
-- [2024-12-22-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-05-11-PH今日热榜-|-2025-05-11](https://decohack.com/producthunt-daily-2025-05-11/) ![](/assets/new.png)  
+- [2025-05-12-PH今日热榜-|-2025-05-12](https://decohack.com/producthunt-daily-2025-05-12/) ![](/assets/new.png)  
+- [2025-05-11-PH今日热榜-|-2025-05-11](https://decohack.com/producthunt-daily-2025-05-11/)  
 - [2025-05-10-PH今日热榜-|-2025-05-10](https://decohack.com/producthunt-daily-2025-05-10/)  
 - [2025-05-09-PH今日热榜-|-2025-05-09](https://decohack.com/producthunt-daily-2025-05-09/)  
 - [2025-05-08-PH今日热榜-|-2025-05-08](https://decohack.com/producthunt-daily-2025-05-08/)  
@@ -258,7 +259,6 @@
 - [2025-04-25-PH今日热榜-|-2025-04-25](https://decohack.com/producthunt-daily-2025-04-25/)  
 - [2025-04-24-PH今日热榜-|-2025-04-24](https://decohack.com/producthunt-daily-2025-04-24/)  
 - [2025-04-23-PH今日热榜-|-2025-04-23](https://decohack.com/producthunt-daily-2025-04-23/)  
-- [2025-04-22-PH今日热榜-|-2025-04-22](https://decohack.com/producthunt-daily-2025-04-22/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
