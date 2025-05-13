@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-05-12 18:47:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-13 18:47:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578) 
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573) 
 - [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566) 
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559) 
@@ -110,6 +111,7 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2025-05-13-PH今日热榜-|-2025-05-13](https://decohack.com/producthunt-daily-2025-05-13/) 
 - [2025-05-12-PH今日热榜-|-2025-05-12](https://decohack.com/producthunt-daily-2025-05-12/) 
 - [2025-05-11-PH今日热榜-|-2025-05-11](https://decohack.com/producthunt-daily-2025-05-11/) 
 - [2025-05-10-PH今日热榜-|-2025-05-10](https://decohack.com/producthunt-daily-2025-05-10/) 
