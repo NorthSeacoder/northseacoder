@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-05-15 18:47:59。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-05-16 18:46:42。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -505,13 +505,13 @@
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】The-power-of-generators](https://javascriptweekly.com/issues/736)
 - [【JavaScript-Weekly】TC39:-No-to-records-and-tuples,-yes-to-enums](https://javascriptweekly.com/issues/732)
 - [【JavaScript-Weekly】The-tale-of-a-bizarre-bug-encountered-in-Google-Docs](https://javascriptweekly.com/issues/729)
 - [【JavaScript-Weekly】The-Rsdoctor-will-see-you-now](https://javascriptweekly.com/issues/728)
 - [【JavaScript-Weekly】The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724)
 - [【JavaScript-Weekly】It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)
 - [【JavaScript-Weekly】Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720)
-- [【JavaScript-Weekly】Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
