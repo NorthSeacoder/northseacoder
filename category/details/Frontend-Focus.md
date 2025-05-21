@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-05-14 18:46:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-21 18:47:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-05-21-Google-bangs-the-Gemini-drum](https://frontendfoc.us/issues/693) 
 - [2025-05-14-With-Figma-Sites-it's-DIVs-all-the-way-down](https://frontendfoc.us/issues/692) 
 - [2025-05-07-An-objective-look-at-CSS-Carousels](https://frontendfoc.us/issues/691) 
 - [2025-04-30-32-years-of-an-open-WWW](https://frontendfoc.us/issues/690) 
