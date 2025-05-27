@@ -15,18 +15,18 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-05-26 18:45:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-27 18:48:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
+- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
 ## 文章链接
 
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2025-05-27-What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579) ![](/assets/new.png)  
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
 - [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577)  
 - [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576)  
@@ -55,7 +56,6 @@
 - [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)  
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)  
 - [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)  
-- [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,7 @@
 </summary>
 
 
-- [2025-05-26-PH今日热榜-|-2025-05-26](https://decohack.com/producthunt-daily-2025-05-26/) ![](/assets/new.png)  
+- [2025-05-26-PH今日热榜-|-2025-05-26](https://decohack.com/producthunt-daily-2025-05-26/)  
 - [2025-05-25-PH今日热榜-|-2025-05-25](https://decohack.com/producthunt-daily-2025-05-25/)  
 - [2025-05-24-PH今日热榜-|-2025-05-24](https://decohack.com/producthunt-daily-2025-05-24/)  
 - [2025-05-23-PH今日热榜-|-2025-05-23](https://decohack.com/producthunt-daily-2025-05-23/)  
