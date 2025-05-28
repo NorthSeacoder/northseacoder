@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-05-28 02:21:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-28 18:47:03，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2025-05-28-Writing-for-AI,-the-new-SEO?](https://frontendfoc.us/issues/694) ![](/assets/new.png)  
 - [2025-05-21-Google-bangs-the-Gemini-drum](https://frontendfoc.us/issues/693)  
 - [2025-05-14-With-Figma-Sites-it's-DIVs-all-the-way-down](https://frontendfoc.us/issues/692)  
 - [2025-05-07-An-objective-look-at-CSS-Carousels](https://frontendfoc.us/issues/691)  
@@ -117,7 +118,6 @@
 - [2025-01-29-Revisiting-CSS-multi-column-layouts](https://frontendfoc.us/issues/677)  
 - [2025-01-22-Six-CSS-snippets-you-need-to-know](https://frontendfoc.us/issues/676)  
 - [2025-01-15-Time-to-trim-your-text-with-CSS](https://frontendfoc.us/issues/675)  
-- [2025-01-08-Frontend-and-HTML-features-to-be-aware-of-in-2025](https://frontendfoc.us/issues/674)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2025-05-28-Core-React-concepts-explained-visually](https://react.statuscode.com/issues/430) ![](/assets/new.png)  
 - [2025-05-14-Now-React-can-make-circuit-boards-too](https://react.statuscode.com/issues/429)  
 - [2025-05-07-Comparing-React-Server-Components-with-Astro's-islands](https://react.statuscode.com/issues/428)  
 - [2025-04-30-A-mega-React-Labs-update](https://react.statuscode.com/issues/427)  
@@ -148,7 +149,6 @@
 - [2025-01-15-Fixing-'a-glaring-animation-sized-hole-in-React's-API'](https://react.statuscode.com/issues/413)  
 - [2025-01-08-A-fresh-TanStack-start-for-2025](https://react.statuscode.com/issues/412)  
 - [2024-12-18-How-React-fared-in-2024](https://react.statuscode.com/issues/411)  
-- [2024-12-11-Say-hello-again?-to-React-19](https://react.statuscode.com/issues/410)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/) ![](/assets/new.png)  
 - [2025-05-22-你知道吗，输入框的value值也能直接返回数值类型](https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/)  
 - [2025-05-12-CSS-animation-composition可以让动画效果累加](https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/)  
 - [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/)  
@@ -210,7 +211,6 @@
 - [2025-01-22-JS原生的深拷贝API-structuredClone函数简介](https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/)  
 - [2025-01-14-如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/)  
 - [2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/)  
-- [2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,9 @@
 </summary>
 
 
-- [2025-05-28-PH今日热榜-|-2025-05-28](https://decohack.com/producthunt-daily-2025-05-28/) ![](/assets/new.png)  
+- [2025-05-28-PH今日热榜-|-2025-05-28](https://decohack.com/producthunt-daily-2025-05-28-2/) ![](/assets/new.png)  
+- [2025-05-26-PH今日热榜-|-2025-05-27](https://decohack.com/producthunt-daily-2025-05-27/) ![](/assets/new.png)  
+- [2025-05-28-PH今日热榜-|-2025-05-28](https://decohack.com/producthunt-daily-2025-05-28/)  
 - [2025-05-26-PH今日热榜-|-2025-05-26](https://decohack.com/producthunt-daily-2025-05-26/)  
 - [2025-05-25-PH今日热榜-|-2025-05-25](https://decohack.com/producthunt-daily-2025-05-25/)  
 - [2025-05-24-PH今日热榜-|-2025-05-24](https://decohack.com/producthunt-daily-2025-05-24/)  
@@ -257,8 +259,6 @@
 - [2025-05-12-PH今日热榜-|-2025-05-12](https://decohack.com/producthunt-daily-2025-05-12/)  
 - [2025-05-11-PH今日热榜-|-2025-05-11](https://decohack.com/producthunt-daily-2025-05-11/)  
 - [2025-05-10-PH今日热榜-|-2025-05-10](https://decohack.com/producthunt-daily-2025-05-10/)  
-- [2025-05-09-PH今日热榜-|-2025-05-09](https://decohack.com/producthunt-daily-2025-05-09/)  
-- [2025-05-08-PH今日热榜-|-2025-05-08](https://decohack.com/producthunt-daily-2025-05-08/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

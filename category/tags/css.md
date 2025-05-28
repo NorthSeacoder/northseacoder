@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-05-28 02:21:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-28 18:47:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -29,6 +29,7 @@
 - [2023-06-14-The-gotchas-of-CSS-nesting](https://frontendfoc.us/issues/597) 
 - [2020-07-20-你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993) 
 - [2021-03-09-Midway-Serverless-发布-2.0，一体化让前端研发再次提效](https://fed.taobao.org/blog/taofed/do71ct/mvd9lw) 
+- [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/) 
 - [2025-05-12-CSS-animation-composition可以让动画效果累加](https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/) 
 - [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/) 
 - [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/) 
