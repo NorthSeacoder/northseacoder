@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-05-29 18:48:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-30 18:47:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -18,6 +18,7 @@
 - [2023-08-08-Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498) 
 - [2023-07-18-Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495) 
 - [2023-07-11-Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494) 
+- [2025-05-30-How-Remix-is-shaking-things-up](https://javascriptweekly.com/issues/738) 
 - [2025-05-16-The-power-of-generators](https://javascriptweekly.com/issues/736) 
 - [2025-04-18-TC39:-No-to-records-and-tuples,-yes-to-enums](https://javascriptweekly.com/issues/732) 
 - [2025-03-28-The-tale-of-a-bizarre-bug-encountered-in-Google-Docs](https://javascriptweekly.com/issues/729) 
@@ -115,6 +116,7 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2025-05-30-PH今日热榜-|-2025-05-30](https://decohack.com/producthunt-daily-2025-05-30/) 
 - [2025-05-29-PH今日热榜-|-2025-05-29](https://decohack.com/producthunt-daily-2025-05-29/) 
 - [2025-05-28-PH今日热榜-|-2025-05-28](https://decohack.com/producthunt-daily-2025-05-28-2/) 
 - [2025-05-26-PH今日热榜-|-2025-05-27](https://decohack.com/producthunt-daily-2025-05-27/) 
