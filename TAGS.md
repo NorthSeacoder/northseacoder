@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-06-10 18:48:52。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-06-11 18:49:30。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -395,6 +395,7 @@
 - [【Node-Weekly】Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
 - [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
+- [【Frontend-Focus】Safari-jumps-to-26](https://frontendfoc.us/issues/696)
 - [【Frontend-Focus】Chrome's-hand-stays-in-the-cookie-jar](https://frontendfoc.us/issues/689)
 - [【Frontend-Focus】19-Web-features-getting-broader-support-in-2025](https://frontendfoc.us/issues/680)
 - [【Frontend-Focus】Might-Google-be-forced-to-sell-Chrome?](https://frontendfoc.us/issues/669)

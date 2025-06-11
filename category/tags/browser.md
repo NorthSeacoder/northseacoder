@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-06-10 18:48:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-11 18:49:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -11,6 +11,7 @@
 - [2024-09-03-Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546) 
 - [2023-06-13-Let's-get-debugging](https://nodeweekly.com/issues/490) 
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656) 
+- [2025-06-11-Safari-jumps-to-26](https://frontendfoc.us/issues/696) 
 - [2025-04-23-Chrome's-hand-stays-in-the-cookie-jar](https://frontendfoc.us/issues/689) 
 - [2025-02-19-19-Web-features-getting-broader-support-in-2025](https://frontendfoc.us/issues/680) 
 - [2024-11-20-Might-Google-be-forced-to-sell-Chrome?](https://frontendfoc.us/issues/669) 
