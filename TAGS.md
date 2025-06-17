@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-06-16 18:49:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-06-17 18:49:51。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -90,6 +90,7 @@
 
 
 
+- [【Node-Weekly】One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)
 - [【Node-Weekly】TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)
 - [【Node-Weekly】A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)
 - [【Node-Weekly】Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)
