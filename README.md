@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-06-17 18:49:51，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-18 18:49:29，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582) ![](/assets/new.png)  
+- [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)  
 - [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)  
 - [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
 - [2025-05-27-What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2025-06-18-You're-not-a-frontend-dev-until-you've....](https://frontendfoc.us/issues/697) ![](/assets/new.png)  
 - [2025-06-11-Safari-jumps-to-26](https://frontendfoc.us/issues/696)  
 - [2025-06-04-CSS-'if'-functions-start-to-roll-out](https://frontendfoc.us/issues/695)  
 - [2025-05-28-Writing-for-AI,-the-new-SEO?](https://frontendfoc.us/issues/694)  
@@ -117,7 +118,6 @@
 - [2025-02-19-19-Web-features-getting-broader-support-in-2025](https://frontendfoc.us/issues/680)  
 - [2025-02-12-15-years-on-from-Responsive-Web-Design](https://frontendfoc.us/issues/679)  
 - [2025-02-05-Learning-to-code-with-your-voice](https://frontendfoc.us/issues/678)  
-- [2025-01-29-Revisiting-CSS-multi-column-layouts](https://frontendfoc.us/issues/677)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2025-06-18-The-state-of-React-in-2025](https://react.statuscode.com/issues/432) ![](/assets/new.png)  
 - [2025-06-11-Dan-Abramov-continues-to-flesh-out-RSCs](https://react.statuscode.com/issues/431)  
 - [2025-05-28-Core-React-concepts-explained-visually](https://react.statuscode.com/issues/430)  
 - [2025-05-14-Now-React-can-make-circuit-boards-too](https://react.statuscode.com/issues/429)  
@@ -148,7 +149,6 @@
 - [2025-01-29-Three-ways-to-detect-React-performance-issues](https://react.statuscode.com/issues/415)  
 - [2025-01-22-Terminal-aesthetics-for-React-apps](https://react.statuscode.com/issues/414)  
 - [2025-01-15-Fixing-'a-glaring-animation-sized-hole-in-React's-API'](https://react.statuscode.com/issues/413)  
-- [2025-01-08-A-fresh-TanStack-start-for-2025](https://react.statuscode.com/issues/412)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/) ![](/assets/new.png)  
 - [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)  
 - [2025-06-04-JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/)  
 - [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/)  
@@ -210,7 +211,6 @@
 - [2025-02-12-不要搞混了，不是text而是CSS-font-size-adjust属性](https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/)  
 - [2025-02-10-JS-Set新支持了intersection,-union,-difference等方法](https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/)  
 - [2025-02-06-JS-Array数组新的with方法，你知道作用吗？](https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/)  
-- [2025-01-22-JS原生的深拷贝API-structuredClone函数简介](https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-06-17-PH今日热榜-|-2025-06-17](https://decohack.com/producthunt-daily-2025-06-17/) ![](/assets/new.png)  
+- [2025-06-18-PH今日热榜-|-2025-06-18](https://decohack.com/producthunt-daily-2025-06-18/) ![](/assets/new.png)  
+- [2025-06-17-PH今日热榜-|-2025-06-17](https://decohack.com/producthunt-daily-2025-06-17/)  
 - [2025-06-16-PH今日热榜-|-2025-06-16](https://decohack.com/producthunt-daily-2025-06-16/)  
 - [2025-06-15-PH今日热榜-|-2025-06-15](https://decohack.com/producthunt-daily-2025-06-15/)  
 - [2025-06-14-PH今日热榜-|-2025-06-14](https://decohack.com/producthunt-daily-2025-06-14/)  
@@ -258,7 +259,6 @@
 - [2025-06-01-PH今日热榜-|-2025-06-01](https://decohack.com/producthunt-daily-2025-06-01/)  
 - [2025-05-31-PH今日热榜-|-2025-05-31](https://decohack.com/producthunt-daily-2025-05-31/)  
 - [2025-05-30-PH今日热榜-|-2025-05-30](https://decohack.com/producthunt-daily-2025-05-30/)  
-- [2025-05-29-PH今日热榜-|-2025-05-29](https://decohack.com/producthunt-daily-2025-05-29/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

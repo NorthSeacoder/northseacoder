@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-06-17 18:49:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-06-18 18:49:29。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -39,6 +39,7 @@
 
 
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】The-state-of-React-in-2025](https://react.statuscode.com/issues/432)
 - [【React-Status】Core-React-concepts-explained-visually](https://react.statuscode.com/issues/430)
 - [【React-Status】Now-React-can-make-circuit-boards-too](https://react.statuscode.com/issues/429)
 - [【React-Status】Comparing-React-Server-Components-with-Astro's-islands](https://react.statuscode.com/issues/428)
@@ -57,7 +58,6 @@
 - [【React-Status】How-React-fared-in-2024](https://react.statuscode.com/issues/411)
 - [【React-Status】Say-hello-again?-to-React-19](https://react.statuscode.com/issues/410)
 - [【React-Status】Improving-your-React-app's-responsiveness](https://react.statuscode.com/issues/409)
-- [【React-Status】Big-releases:-React-Router-7-and-Vite-6](https://react.statuscode.com/issues/408)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-06-11 18:49:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-18 18:49:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-06-18-You're-not-a-frontend-dev-until-you've....](https://frontendfoc.us/issues/697) 
 - [2025-06-11-Safari-jumps-to-26](https://frontendfoc.us/issues/696) 
 - [2025-06-04-CSS-'if'-functions-start-to-roll-out](https://frontendfoc.us/issues/695) 
 - [2025-05-28-Writing-for-AI,-the-new-SEO?](https://frontendfoc.us/issues/694) 

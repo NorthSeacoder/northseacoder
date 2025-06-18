@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-06-11 18:49:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-18 18:49:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2025-06-18-The-state-of-React-in-2025](https://react.statuscode.com/issues/432) 
 - [2025-06-11-Dan-Abramov-continues-to-flesh-out-RSCs](https://react.statuscode.com/issues/431) 
 - [2025-05-28-Core-React-concepts-explained-visually](https://react.statuscode.com/issues/430) 
 - [2025-05-14-Now-React-can-make-circuit-boards-too](https://react.statuscode.com/issues/429) 
