@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-06-19 18:47:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-20 18:48:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -8,6 +8,7 @@
 
 
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557) 
+- [2025-06-20-Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741) 
 - [2025-05-23-A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737) 
 - [2025-04-25-Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733) 
 - [2025-04-04-The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730) 

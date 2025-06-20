@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-06-19 18:47:49。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-06-20 18:48:14。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -228,6 +228,7 @@
 
 
 - [【Node-Weekly】Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)
+- [【JavaScript-Weekly】Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)
 - [【JavaScript-Weekly】A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737)
 - [【JavaScript-Weekly】Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)
 - [【JavaScript-Weekly】The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730)
@@ -246,7 +247,6 @@
 - [【JavaScript-Weekly】A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)
 - [【JavaScript-Weekly】Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)
 - [【JavaScript-Weekly】Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)
-- [【JavaScript-Weekly】JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
