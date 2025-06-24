@@ -15,11 +15,11 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-06-23 18:49:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-24 18:49:46，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583) ![](/assets/new.png)  
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)  
 - [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)  
 - [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
@@ -55,7 +56,6 @@
 - [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566)  
 - [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)  
 - [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564)  
-- [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -239,7 +239,8 @@
 </summary>
 
 
-- [2025-06-23-PH今日热榜-|-2025-06-23](https://decohack.com/producthunt-daily-2025-06-23/) ![](/assets/new.png)  
+- [2025-06-24-PH今日热榜-|-2025-06-24](https://decohack.com/producthunt-daily-2025-06-24/) ![](/assets/new.png)  
+- [2025-06-23-PH今日热榜-|-2025-06-23](https://decohack.com/producthunt-daily-2025-06-23/)  
 - [2025-06-22-PH今日热榜-|-2025-06-22](https://decohack.com/producthunt-daily-2025-06-22/)  
 - [2025-06-21-PH今日热榜-|-2025-06-21](https://decohack.com/producthunt-daily-2025-06-21/)  
 - [2025-06-20-PH今日热榜-|-2025-06-20](https://decohack.com/producthunt-daily-2025-06-20/)  
@@ -258,7 +259,6 @@
 - [2025-06-07-PH今日热榜-|-2025-06-07](https://decohack.com/producthunt-daily-2025-06-07/)  
 - [2025-06-06-PH今日热榜-|-2025-06-06](https://decohack.com/producthunt-daily-2025-06-06/)  
 - [2025-06-05-PH今日热榜-|-2025-06-05](https://decohack.com/producthunt-daily-2025-06-05/)  
-- [2025-06-04-PH今日热榜-|-2025-06-04](https://decohack.com/producthunt-daily-2025-06-04/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
