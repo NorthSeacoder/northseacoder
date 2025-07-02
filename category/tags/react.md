@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-01 18:48:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-02 18:49:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -8,6 +8,7 @@
 
 
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) 
+- [2025-07-02-The-React/Rust-full-stack-option](https://react.statuscode.com/issues/434) 
 - [2025-06-18-The-state-of-React-in-2025](https://react.statuscode.com/issues/432) 
 - [2025-05-28-Core-React-concepts-explained-visually](https://react.statuscode.com/issues/430) 
 - [2025-05-14-Now-React-can-make-circuit-boards-too](https://react.statuscode.com/issues/429) 

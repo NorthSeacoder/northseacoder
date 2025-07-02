@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-01 18:48:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-02 18:49:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -41,6 +41,7 @@
 - [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649) 
 - [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647) 
 - [2023-06-22-Svelte-4-released](https://javascriptweekly.com/issues/644) 
+- [2025-07-02-All-the-colors-of-the-web](https://frontendfoc.us/issues/699) 
 - [2025-06-18-You're-not-a-frontend-dev-until-you've....](https://frontendfoc.us/issues/697) 
 - [2025-05-21-Google-bangs-the-Gemini-drum](https://frontendfoc.us/issues/693) 
 - [2025-05-14-With-Figma-Sites-it's-DIVs-all-the-way-down](https://frontendfoc.us/issues/692) 
@@ -123,6 +124,7 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2025-07-02-PH今日热榜-|-2025-07-02](https://decohack.com/producthunt-daily-2025-07-02/) 
 - [2025-07-01-PH今日热榜-|-2025-07-01](https://decohack.com/producthunt-daily-2025-07-01/) 
 - [2025-06-30-PH今日热榜-|-2025-06-30](https://decohack.com/producthunt-daily-2025-06-30/) 
 - [2025-06-29-PH今日热榜-|-2025-06-29](https://decohack.com/producthunt-daily-2025-06-29/) 
