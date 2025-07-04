@@ -15,18 +15,18 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-07-04 02:24:45，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-04 18:47:44，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
-- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2025-07-04-The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743) ![](/assets/new.png)  
 - [2025-06-27-Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742)  
 - [2025-06-20-Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)  
 - [2025-06-13-Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740)  
@@ -86,7 +87,6 @@
 - [2025-03-07-The-current-state-of-JavaScript-on-the-Web](https://javascriptweekly.com/issues/726)  
 - [2025-02-28-Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725)  
 - [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724)  
-- [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2025-07-04-好诶，select下拉框元素支持样式完全自定义啦！](https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/) ![](/assets/new.png)  
 - [2025-06-30-CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/)  
 - [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/)  
 - [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)  
@@ -210,7 +211,6 @@
 - [2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/)  
 - [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)  
 - [2025-02-12-不要搞混了，不是text而是CSS-font-size-adjust属性](https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/)  
-- [2025-02-10-JS-Set新支持了intersection,-union,-difference等方法](https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -222,9 +222,9 @@
 </summary>
 
 
-- [2025-07-04-科技爱好者周刊（第-355-期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) ![](/assets/new.png)  
-- [2025-06-27-科技爱好者周刊（第-354-期）：8000mAh-手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) ![](/assets/new.png)  
-- [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) ![](/assets/new.png)  
+- [2025-07-04-科技爱好者周刊（第-355-期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)  
+- [2025-06-27-科技爱好者周刊（第-354-期）：8000mAh-手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)  
+- [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)  
 - [2024-07-19-科技爱好者周刊（第-309-期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)  
 - [2024-07-12-科技爱好者周刊（第-308-期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)  
 - [2024-07-05-科技爱好者周刊（第-307-期）：不要看重-Product-Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)  
@@ -242,6 +242,7 @@
 </summary>
 
 
+- [2025-07-04-PH今日热榜-|-2025-07-04](https://decohack.com/producthunt-daily-2025-07-04/) ![](/assets/new.png)  
 - [2025-07-03-PH今日热榜-|-2025-07-03](https://decohack.com/producthunt-daily-2025-07-03/)  
 - [2025-07-02-PH今日热榜-|-2025-07-02](https://decohack.com/producthunt-daily-2025-07-02/)  
 - [2025-07-01-PH今日热榜-|-2025-07-01](https://decohack.com/producthunt-daily-2025-07-01/)  
@@ -261,7 +262,6 @@
 - [2025-06-17-PH今日热榜-|-2025-06-17](https://decohack.com/producthunt-daily-2025-06-17/)  
 - [2025-06-16-PH今日热榜-|-2025-06-16](https://decohack.com/producthunt-daily-2025-06-16/)  
 - [2025-06-15-PH今日热榜-|-2025-06-15](https://decohack.com/producthunt-daily-2025-06-15/)  
-- [2025-06-14-PH今日热榜-|-2025-06-14](https://decohack.com/producthunt-daily-2025-06-14/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
