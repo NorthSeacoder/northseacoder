@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-07-03 18:48:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-04 02:24:45，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,8 +25,8 @@
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
-- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
 ## 文章链接
 
@@ -222,6 +222,9 @@
 </summary>
 
 
+- [2025-07-04-科技爱好者周刊（第-355-期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) ![](/assets/new.png)  
+- [2025-06-27-科技爱好者周刊（第-354-期）：8000mAh-手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) ![](/assets/new.png)  
+- [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) ![](/assets/new.png)  
 - [2024-07-19-科技爱好者周刊（第-309-期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)  
 - [2024-07-12-科技爱好者周刊（第-308-期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)  
 - [2024-07-05-科技爱好者周刊（第-307-期）：不要看重-Product-Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)  
@@ -239,7 +242,7 @@
 </summary>
 
 
-- [2025-07-03-PH今日热榜-|-2025-07-03](https://decohack.com/producthunt-daily-2025-07-03/) ![](/assets/new.png)  
+- [2025-07-03-PH今日热榜-|-2025-07-03](https://decohack.com/producthunt-daily-2025-07-03/)  
 - [2025-07-02-PH今日热榜-|-2025-07-02](https://decohack.com/producthunt-daily-2025-07-02/)  
 - [2025-07-01-PH今日热榜-|-2025-07-01](https://decohack.com/producthunt-daily-2025-07-01/)  
 - [2025-06-30-PH今日热榜-|-2025-06-30](https://decohack.com/producthunt-daily-2025-06-30/)  
