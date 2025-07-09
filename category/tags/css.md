@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-08 18:50:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-09 18:50:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-07-09-The-opportunities-offered-by-CSS's-if](https://frontendfoc.us/issues/700) 
 - [2025-06-04-CSS-'if'-functions-start-to-roll-out](https://frontendfoc.us/issues/695) 
 - [2025-03-12-How-to-dynamically-generate-and-modify-color-in-CSS](https://frontendfoc.us/issues/683) 
 - [2025-03-05-An-introduction-to-functions-in-CSS](https://frontendfoc.us/issues/682) 
