@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-07-10 18:50:13，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-11 18:50:04，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2025-07-11-The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744) ![](/assets/new.png)  
 - [2025-07-04-The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743)  
 - [2025-06-27-Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742)  
 - [2025-06-20-Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)  
@@ -86,7 +87,6 @@
 - [2025-03-14-Can-you-understand-this-JavaScript?](https://javascriptweekly.com/issues/727)  
 - [2025-03-07-The-current-state-of-JavaScript-on-the-Web](https://javascriptweekly.com/issues/726)  
 - [2025-02-28-Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725)  
-- [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2025-07-10-HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/) ![](/assets/new.png)  
+- [2025-07-10-HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/)  
 - [2025-07-04-好诶，select下拉框元素支持样式完全自定义啦！](https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/)  
 - [2025-06-30-CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/)  
 - [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/)  
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-07-10-PH今日热榜-|-2025-07-10](https://decohack.com/producthunt-daily-2025-07-10/) ![](/assets/new.png)  
+- [2025-07-11-PH今日热榜-|-2025-07-11](https://decohack.com/producthunt-daily-2025-07-11/) ![](/assets/new.png)  
+- [2025-07-10-PH今日热榜-|-2025-07-10](https://decohack.com/producthunt-daily-2025-07-10/)  
 - [2025-07-09-PH今日热榜-|-2025-07-09](https://decohack.com/producthunt-daily-2025-07-09/)  
 - [2025-07-08-PH今日热榜-|-2025-07-08](https://decohack.com/producthunt-daily-2025-07-08/)  
 - [2025-07-07-PH今日热榜-|-2025-07-07](https://decohack.com/producthunt-daily-2025-07-07/)  
@@ -261,7 +262,6 @@
 - [2025-06-24-PH今日热榜-|-2025-06-24](https://decohack.com/producthunt-daily-2025-06-24/)  
 - [2025-06-23-PH今日热榜-|-2025-06-23](https://decohack.com/producthunt-daily-2025-06-23/)  
 - [2025-06-22-PH今日热榜-|-2025-06-22](https://decohack.com/producthunt-daily-2025-06-22/)  
-- [2025-06-21-PH今日热榜-|-2025-06-21](https://decohack.com/producthunt-daily-2025-06-21/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
