@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-07-16 18:52:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-23 18:52:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-07-23-What-you-need-to-know-about-SVGs](https://frontendfoc.us/issues/702) 
 - [2025-07-16-Frontend-innovation-through-constraints](https://frontendfoc.us/issues/701) 
 - [2025-07-09-The-opportunities-offered-by-CSS's-if](https://frontendfoc.us/issues/700) 
 - [2025-07-02-All-the-colors-of-the-web](https://frontendfoc.us/issues/699) 

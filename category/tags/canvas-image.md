@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-22 18:53:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-23 18:52:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-07-23-What-you-need-to-know-about-SVGs](https://frontendfoc.us/issues/702) 
 - [2023-07-05-A-beautiful-primer-on-SVG-paths](https://frontendfoc.us/issues/600) 
 - [2020-08-13-一起来玩玩WebGL--第二弹](https://fed.taobao.org/blog/taofed/do71ct/ghlebo) 
 - [2021-08-05-服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh) 
