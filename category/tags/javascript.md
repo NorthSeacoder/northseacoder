@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-31 18:54:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-01 18:53:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -10,6 +10,7 @@
 - [2025-07-29-An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588) 
 - [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585) 
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557) 
+- [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747) 
 - [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746) 
 - [2025-07-04-The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743) 
 - [2025-06-27-Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742) 
