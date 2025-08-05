@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-08-04 18:55:17，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-05 18:56:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589) ![](/assets/new.png)  
 - [2025-07-29-An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)  
 - [2025-07-22-Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587)  
 - [2025-07-15-Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586)  
@@ -55,7 +56,6 @@
 - [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572)  
 - [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571)  
 - [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570)  
-- [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,8 +191,8 @@
 </summary>
 
 
-- [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/) ![](/assets/new.png)  
-- [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/) ![](/assets/new.png)  
+- [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)  
+- [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)  
 - [2025-07-16-JS正则新特性：安全过滤RegExp.escape方法](https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/)  
 - [2025-07-10-HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/)  
 - [2025-07-04-好诶，select下拉框元素支持样式完全自定义啦！](https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/)  
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-08-04-PH今日热榜-|-2025-08-04](https://decohack.com/producthunt-daily-2025-08-04/) ![](/assets/new.png)  
+- [2025-08-05-PH今日热榜-|-2025-08-05](https://decohack.com/producthunt-daily-2025-08-05/) ![](/assets/new.png)  
+- [2025-08-04-PH今日热榜-|-2025-08-04](https://decohack.com/producthunt-daily-2025-08-04/)  
 - [2025-08-03-PH今日热榜-|-2025-08-03](https://decohack.com/producthunt-daily-2025-08-03/)  
 - [2025-08-02-PH今日热榜-|-2025-08-02](https://decohack.com/producthunt-daily-2025-08-02/)  
 - [2025-08-01-PH今日热榜-|-2025-08-01](https://decohack.com/producthunt-daily-2025-08-01/)  
@@ -261,7 +262,6 @@
 - [2025-07-19-PH今日热榜-|-2025-07-19](https://decohack.com/producthunt-daily-2025-07-19/)  
 - [2025-07-18-PH今日热榜-|-2025-07-18](https://decohack.com/producthunt-daily-2025-07-18/)  
 - [2025-07-17-PH今日热榜-|-2025-07-17](https://decohack.com/producthunt-daily-2025-07-17/)  
-- [2025-07-16-PH今日热榜-|-2025-07-16](https://decohack.com/producthunt-daily-2025-07-16/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
