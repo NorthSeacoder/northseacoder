@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-08-06 18:53:47，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-07 18:55:38，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2025-08-06-The-cascading-layers-of-importance](https://frontendfoc.us/issues/704) ![](/assets/new.png)  
+- [2025-08-06-The-cascading-layers-of-importance](https://frontendfoc.us/issues/704)  
 - [2025-07-30-Building-towards-CSS-masonry,-brick-by-brick](https://frontendfoc.us/issues/703)  
 - [2025-07-23-What-you-need-to-know-about-SVGs](https://frontendfoc.us/issues/702)  
 - [2025-07-16-Frontend-innovation-through-constraints](https://frontendfoc.us/issues/701)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2025-08-06-Jack-Herrington's-tRPC-vs-oRPC-battle](https://react.statuscode.com/issues/439) ![](/assets/new.png)  
+- [2025-08-06-Jack-Herrington's-tRPC-vs-oRPC-battle](https://react.statuscode.com/issues/439)  
 - [2025-07-30-TanStack-DB-enters-beta-with-v0.1](https://react.statuscode.com/issues/438)  
 - [2025-07-23-Figma-MCP-vs-Claude:-A-React-coding-battle](https://react.statuscode.com/issues/437)  
 - [2025-07-16-Node-API-support-in-React-Native](https://react.statuscode.com/issues/436)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/) ![](/assets/new.png)  
 - [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)  
 - [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)  
 - [2025-07-16-JS正则新特性：安全过滤RegExp.escape方法](https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/)  
@@ -210,7 +211,6 @@
 - [2025-04-06-JS-EditContext-API-简介](https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/)  
 - [2025-03-27-光速了解script-style-link元素新增的blocking属性](https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/)  
 - [2025-03-23-研究下attachInternals方法，可让普通元素有表单特性](https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/)  
-- [2025-03-16-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-08-06-PH今日热榜-|-2025-08-06](https://decohack.com/producthunt-daily-2025-08-06/) ![](/assets/new.png)  
+- [2025-08-07-PH今日热榜-|-2025-08-07](https://decohack.com/producthunt-daily-2025-08-07/) ![](/assets/new.png)  
+- [2025-08-06-PH今日热榜-|-2025-08-06](https://decohack.com/producthunt-daily-2025-08-06/)  
 - [2025-08-05-PH今日热榜-|-2025-08-05](https://decohack.com/producthunt-daily-2025-08-05/)  
 - [2025-08-04-PH今日热榜-|-2025-08-04](https://decohack.com/producthunt-daily-2025-08-04/)  
 - [2025-08-03-PH今日热榜-|-2025-08-03](https://decohack.com/producthunt-daily-2025-08-03/)  
@@ -261,7 +262,6 @@
 - [2025-07-21-PH今日热榜-|-2025-07-21](https://decohack.com/producthunt-daily-2025-07-21/)  
 - [2025-07-20-PH今日热榜-|-2025-07-20](https://decohack.com/producthunt-daily-2025-07-20/)  
 - [2025-07-19-PH今日热榜-|-2025-07-19](https://decohack.com/producthunt-daily-2025-07-19/)  
-- [2025-07-18-PH今日热榜-|-2025-07-18](https://decohack.com/producthunt-daily-2025-07-18/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
