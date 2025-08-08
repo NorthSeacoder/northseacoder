@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-08-07 18:55:38，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-08 18:50:49，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748) ![](/assets/new.png)  
 - [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
 - [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)  
 - [2025-07-18-A-tricky,-educational-quiz:-it's-about-time..](https://javascriptweekly.com/issues/745)  
@@ -86,7 +87,6 @@
 - [2025-04-11-Comparing-Tauri-and-Electron](https://javascriptweekly.com/issues/731)  
 - [2025-04-04-The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730)  
 - [2025-03-28-The-tale-of-a-bizarre-bug-encountered-in-Google-Docs](https://javascriptweekly.com/issues/729)  
-- [2025-03-21-The-Rsdoctor-will-see-you-now](https://javascriptweekly.com/issues/728)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/) ![](/assets/new.png)  
+- [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)  
 - [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)  
 - [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)  
 - [2025-07-16-JS正则新特性：安全过滤RegExp.escape方法](https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/)  
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-08-07-PH今日热榜-|-2025-08-07](https://decohack.com/producthunt-daily-2025-08-07/) ![](/assets/new.png)  
+- [2025-08-08-PH今日热榜-|-2025-08-08](https://decohack.com/producthunt-daily-2025-08-08/) ![](/assets/new.png)  
+- [2025-08-07-PH今日热榜-|-2025-08-07](https://decohack.com/producthunt-daily-2025-08-07/)  
 - [2025-08-06-PH今日热榜-|-2025-08-06](https://decohack.com/producthunt-daily-2025-08-06/)  
 - [2025-08-05-PH今日热榜-|-2025-08-05](https://decohack.com/producthunt-daily-2025-08-05/)  
 - [2025-08-04-PH今日热榜-|-2025-08-04](https://decohack.com/producthunt-daily-2025-08-04/)  
@@ -261,7 +262,6 @@
 - [2025-07-22-PH今日热榜-|-2025-07-22](https://decohack.com/producthunt-daily-2025-07-22/)  
 - [2025-07-21-PH今日热榜-|-2025-07-21](https://decohack.com/producthunt-daily-2025-07-21/)  
 - [2025-07-20-PH今日热榜-|-2025-07-20](https://decohack.com/producthunt-daily-2025-07-20/)  
-- [2025-07-19-PH今日热榜-|-2025-07-19](https://decohack.com/producthunt-daily-2025-07-19/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
