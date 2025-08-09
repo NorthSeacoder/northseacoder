@@ -15,12 +15,12 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-08-08 18:50:49，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-09 18:49:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748) ![](/assets/new.png)  
+- [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
 - [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
 - [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)  
 - [2025-07-18-A-tricky,-educational-quiz:-it's-about-time..](https://javascriptweekly.com/issues/745)  
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-08-08-PH今日热榜-|-2025-08-08](https://decohack.com/producthunt-daily-2025-08-08/) ![](/assets/new.png)  
+- [2025-08-09-PH今日热榜-|-2025-08-09](https://decohack.com/producthunt-daily-2025-08-09/) ![](/assets/new.png)  
+- [2025-08-08-PH今日热榜-|-2025-08-08](https://decohack.com/producthunt-daily-2025-08-08/)  
 - [2025-08-07-PH今日热榜-|-2025-08-07](https://decohack.com/producthunt-daily-2025-08-07/)  
 - [2025-08-06-PH今日热榜-|-2025-08-06](https://decohack.com/producthunt-daily-2025-08-06/)  
 - [2025-08-05-PH今日热榜-|-2025-08-05](https://decohack.com/producthunt-daily-2025-08-05/)  
@@ -261,7 +262,6 @@
 - [2025-07-23-PH今日热榜-|-2025-07-23](https://decohack.com/producthunt-daily-2025-07-23/)  
 - [2025-07-22-PH今日热榜-|-2025-07-22](https://decohack.com/producthunt-daily-2025-07-22/)  
 - [2025-07-21-PH今日热榜-|-2025-07-21](https://decohack.com/producthunt-daily-2025-07-21/)  
-- [2025-07-20-PH今日热榜-|-2025-07-20](https://decohack.com/producthunt-daily-2025-07-20/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
