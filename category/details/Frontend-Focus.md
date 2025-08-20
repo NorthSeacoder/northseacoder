@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-08-06 18:53:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-20 18:49:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-08-20-Is-there-no-such-thing-as-a-'CSS-reset'?](https://frontendfoc.us/issues/705) 
 - [2025-08-06-The-cascading-layers-of-importance](https://frontendfoc.us/issues/704) 
 - [2025-07-30-Building-towards-CSS-masonry,-brick-by-brick](https://frontendfoc.us/issues/703) 
 - [2025-07-23-What-you-need-to-know-about-SVGs](https://frontendfoc.us/issues/702) 

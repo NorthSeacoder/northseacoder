@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-08-19 18:47:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-20 18:49:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -61,6 +61,7 @@
 - [2023-07-06-CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646) 
 - [2023-06-29-This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645) 
 - [2023-06-15-11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643) 
+- [2025-08-20-Is-there-no-such-thing-as-a-'CSS-reset'?](https://frontendfoc.us/issues/705) 
 - [2025-08-06-The-cascading-layers-of-importance](https://frontendfoc.us/issues/704) 
 - [2025-06-25-Creating-scroll-driven-animations-with-just-CSS](https://frontendfoc.us/issues/698) 
 - [2025-05-07-An-objective-look-at-CSS-Carousels](https://frontendfoc.us/issues/691) 
