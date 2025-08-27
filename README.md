@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-08-26 18:46:54，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-27 18:44:59，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
+- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
+- [React-Status](#react-status)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591) ![](/assets/new.png)  
+- [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)  
 - [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)  
 - [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)  
 - [2025-07-29-An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)  
@@ -98,6 +98,7 @@
 </summary>
 
 
+- [2025-08-27-Rolling-the-dice-with-random-CSS](https://frontendfoc.us/issues/706) ![](/assets/new.png)  
 - [2025-08-20-Is-there-no-such-thing-as-a-'CSS-reset'?](https://frontendfoc.us/issues/705)  
 - [2025-08-06-The-cascading-layers-of-importance](https://frontendfoc.us/issues/704)  
 - [2025-07-30-Building-towards-CSS-masonry,-brick-by-brick](https://frontendfoc.us/issues/703)  
@@ -117,7 +118,6 @@
 - [2025-04-23-Chrome's-hand-stays-in-the-cookie-jar](https://frontendfoc.us/issues/689)  
 - [2025-04-16-PSA:-Default-styles-for-H1-elements-are-changing](https://frontendfoc.us/issues/688)  
 - [2025-04-09-'An-unprecedented-level-of-polish-to-web-typography'](https://frontendfoc.us/issues/687)  
-- [2025-04-02-Another-option-in-the-masonry-mix](https://frontendfoc.us/issues/686)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,6 +129,7 @@
 </summary>
 
 
+- [2025-08-27-localStorage-vs-Context,-Redux-or-Zustand](https://react.statuscode.com/issues/441) ![](/assets/new.png)  
 - [2025-08-20-Watch-three-developers-face-the-same-React-challenge](https://react.statuscode.com/issues/440)  
 - [2025-08-06-Jack-Herrington's-tRPC-vs-oRPC-battle](https://react.statuscode.com/issues/439)  
 - [2025-07-30-TanStack-DB-enters-beta-with-v0.1](https://react.statuscode.com/issues/438)  
@@ -148,7 +149,6 @@
 - [2025-04-09-How-React's-reconciliation-algorithm-works](https://react.statuscode.com/issues/424)  
 - [2025-04-02-React-19.1-released](https://react.statuscode.com/issues/423)  
 - [2025-03-26-A-bad-weekend-for-Next.js](https://react.statuscode.com/issues/422)  
-- [2025-03-19-React-trends-for-2025](https://react.statuscode.com/issues/421)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2025-08-26-抢先学习大开眼界的CSS-corner-shape属性](https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/) ![](/assets/new.png)  
+- [2025-08-26-抢先学习大开眼界的CSS-corner-shape属性](https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/)  
 - [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/)  
 - [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)  
 - [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)  
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-08-26-PH今日热榜-|-2025-08-26](https://decohack.com/producthunt-daily-2025-08-26/) ![](/assets/new.png)  
+- [2025-08-27-PH今日热榜-|-2025-08-27](https://decohack.com/producthunt-daily-2025-08-27/) ![](/assets/new.png)  
+- [2025-08-26-PH今日热榜-|-2025-08-26](https://decohack.com/producthunt-daily-2025-08-26/)  
 - [2025-08-25-PH今日热榜-|-2025-08-25](https://decohack.com/producthunt-daily-2025-08-25/)  
 - [2025-08-24-PH今日热榜-|-2025-08-24](https://decohack.com/producthunt-daily-2025-08-24/)  
 - [2025-08-23-PH今日热榜-|-2025-08-23](https://decohack.com/producthunt-daily-2025-08-23/)  
@@ -261,7 +262,6 @@
 - [2025-08-10-PH今日热榜-|-2025-08-10](https://decohack.com/producthunt-daily-2025-08-10/)  
 - [2025-08-09-PH今日热榜-|-2025-08-09](https://decohack.com/producthunt-daily-2025-08-09/)  
 - [2025-08-08-PH今日热榜-|-2025-08-08](https://decohack.com/producthunt-daily-2025-08-08/)  
-- [2025-08-07-PH今日热榜-|-2025-08-07](https://decohack.com/producthunt-daily-2025-08-07/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
