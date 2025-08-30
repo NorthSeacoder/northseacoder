@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-08-28 18:47:02。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-08-30 18:43:07。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -231,6 +231,7 @@
 - [【Node-Weekly】An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)
 - [【Node-Weekly】A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)
 - [【Node-Weekly】Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)
+- [【JavaScript-Weekly】The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)
 - [【JavaScript-Weekly】How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)
 - [【JavaScript-Weekly】Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)
 - [【JavaScript-Weekly】Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)
@@ -246,7 +247,6 @@
 - [【JavaScript-Weekly】An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)
 - [【JavaScript-Weekly】The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718)
 - [【JavaScript-Weekly】A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)
-- [【JavaScript-Weekly】Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -307,6 +307,7 @@
 - [【Frontend-Focus】An-HTML-element-reunion](https://frontendfoc.us/issues/605)
 - [【React-Status】Meta-opens-up-Facebook's-styling-solution](https://react.statuscode.com/issues/365)
 - [【React-Status】Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349)
+- [【张鑫旭-鑫空间-鑫生活】HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)
 - [【张鑫旭-鑫空间-鑫生活】光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)

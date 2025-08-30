@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-08-28 18:47:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-30 18:43:07，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750) ![](/assets/new.png)  
 - [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749)  
 - [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
 - [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
@@ -86,7 +87,6 @@
 - [2025-04-25-Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)  
 - [2025-04-18-TC39:-No-to-records-and-tuples,-yes-to-enums](https://javascriptweekly.com/issues/732)  
 - [2025-04-11-Comparing-Tauri-and-Electron](https://javascriptweekly.com/issues/731)  
-- [2025-04-04-The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2025-08-29-HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/) ![](/assets/new.png)  
 - [2025-08-26-抢先学习大开眼界的CSS-corner-shape属性](https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/)  
 - [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/)  
 - [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)  
@@ -210,7 +211,6 @@
 - [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)  
 - [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/)  
 - [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/)  
-- [2025-04-06-JS-EditContext-API-简介](https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -242,7 +242,9 @@
 </summary>
 
 
-- [2025-08-28-PH今日热榜-|-2025-08-28](https://decohack.com/producthunt-daily-2025-08-28/) ![](/assets/new.png)  
+- [2025-08-30-PH今日热榜-|-2025-08-30](https://decohack.com/producthunt-daily-2025-08-30/) ![](/assets/new.png)  
+- [2025-08-29-PH今日热榜-|-2025-08-29](https://decohack.com/producthunt-daily-2025-08-29/) ![](/assets/new.png)  
+- [2025-08-28-PH今日热榜-|-2025-08-28](https://decohack.com/producthunt-daily-2025-08-28/)  
 - [2025-08-27-PH今日热榜-|-2025-08-27](https://decohack.com/producthunt-daily-2025-08-27/)  
 - [2025-08-26-PH今日热榜-|-2025-08-26](https://decohack.com/producthunt-daily-2025-08-26/)  
 - [2025-08-25-PH今日热榜-|-2025-08-25](https://decohack.com/producthunt-daily-2025-08-25/)  
@@ -260,8 +262,6 @@
 - [2025-08-13-PH今日热榜-|-2025-08-13](https://decohack.com/producthunt-daily-2025-08-13/)  
 - [2025-08-12-PH今日热榜-|-2025-08-12](https://decohack.com/producthunt-daily-2025-08-12/)  
 - [2025-08-11-PH今日热榜-|-2025-08-11](https://decohack.com/producthunt-daily-2025-08-11/)  
-- [2025-08-10-PH今日热榜-|-2025-08-10](https://decohack.com/producthunt-daily-2025-08-10/)  
-- [2025-08-09-PH今日热榜-|-2025-08-09](https://decohack.com/producthunt-daily-2025-08-09/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

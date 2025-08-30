@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2025-08-28 18:47:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-30 18:43:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## DecoHack-独立开发者的灵感周刊
 
 
 
 
+- [2025-08-30-PH今日热榜-|-2025-08-30](https://decohack.com/producthunt-daily-2025-08-30/) 
+- [2025-08-29-PH今日热榜-|-2025-08-29](https://decohack.com/producthunt-daily-2025-08-29/) 
 - [2025-08-28-PH今日热榜-|-2025-08-28](https://decohack.com/producthunt-daily-2025-08-28/) 
 - [2025-08-27-PH今日热榜-|-2025-08-27](https://decohack.com/producthunt-daily-2025-08-27/) 
 - [2025-08-26-PH今日热榜-|-2025-08-26](https://decohack.com/producthunt-daily-2025-08-26/) 
