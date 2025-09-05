@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-09-04 18:46:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-05 18:44:20，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751) ![](/assets/new.png)  
 - [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)  
 - [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749)  
 - [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
@@ -86,7 +87,6 @@
 - [2025-05-02-Making-V8-eager-to-compile-your-JavaScript](https://javascriptweekly.com/issues/734)  
 - [2025-04-25-Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)  
 - [2025-04-18-TC39:-No-to-records-and-tuples,-yes-to-enums](https://javascriptweekly.com/issues/732)  
-- [2025-04-11-Comparing-Tauri-and-Electron](https://javascriptweekly.com/issues/731)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2025-09-05-@function自定义函数让CSS支持编程啦](https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/) ![](/assets/new.png)  
 - [2025-08-29-HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/)  
 - [2025-08-26-抢先学习大开眼界的CSS-corner-shape属性](https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/)  
 - [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/)  
@@ -210,7 +211,6 @@
 - [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/)  
 - [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)  
 - [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/)  
-- [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-09-04-PH今日热榜-|-2025-09-04](https://decohack.com/producthunt-daily-2025-09-04/) ![](/assets/new.png)  
+- [2025-09-05-PH今日热榜-|-2025-09-05](https://decohack.com/producthunt-daily-2025-09-05/) ![](/assets/new.png)  
+- [2025-09-04-PH今日热榜-|-2025-09-04](https://decohack.com/producthunt-daily-2025-09-04/)  
 - [2025-09-03-PH今日热榜-|-2025-09-03](https://decohack.com/producthunt-daily-2025-09-03/)  
 - [2025-09-02-PH今日热榜-|-2025-09-02](https://decohack.com/producthunt-daily-2025-09-02/)  
 - [2025-09-01-PH今日热榜-|-2025-09-01](https://decohack.com/producthunt-daily-2025-09-01/)  
@@ -261,7 +262,6 @@
 - [2025-08-19-PH今日热榜-|-2025-08-19](https://decohack.com/producthunt-daily-2025-08-19/)  
 - [2025-08-18-PH今日热榜-|-2025-08-18](https://decohack.com/producthunt-daily-2025-08-18/)  
 - [2025-08-17-PH今日热榜-|-2025-08-17](https://decohack.com/producthunt-daily-2025-08-17/)  
-- [2025-08-16-PH今日热榜-|-2025-08-16](https://decohack.com/producthunt-daily-2025-08-16/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

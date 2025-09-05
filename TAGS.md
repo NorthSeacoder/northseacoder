@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-09-04 18:46:05。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-09-05 18:44:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -231,6 +231,7 @@
 - [【Node-Weekly】An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)
 - [【Node-Weekly】A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)
 - [【Node-Weekly】Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)
+- [【JavaScript-Weekly】Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)
 - [【JavaScript-Weekly】The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)
 - [【JavaScript-Weekly】How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)
 - [【JavaScript-Weekly】Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)
@@ -246,7 +247,6 @@
 - [【JavaScript-Weekly】Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722)
 - [【JavaScript-Weekly】An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)
 - [【JavaScript-Weekly】The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718)
-- [【JavaScript-Weekly】A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
