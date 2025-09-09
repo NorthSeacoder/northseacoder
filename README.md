@@ -15,11 +15,11 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-09-08 18:45:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-09 18:43:12，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2025-09-09-A-big-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592) ![](/assets/new.png)  
 - [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)  
 - [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)  
 - [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)  
@@ -55,7 +56,6 @@
 - [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)  
 - [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)  
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
-- [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-09-08-PH今日热榜-|-2025-09-08](https://decohack.com/producthunt-daily-2025-09-08/) ![](/assets/new.png)  
+- [2025-09-09-PH今日热榜-|-2025-09-09](https://decohack.com/producthunt-daily-2025-09-09/) ![](/assets/new.png)  
+- [2025-09-08-PH今日热榜-|-2025-09-08](https://decohack.com/producthunt-daily-2025-09-08/)  
 - [2025-09-07-PH今日热榜-|-2025-09-07](https://decohack.com/producthunt-daily-2025-09-07/)  
 - [2025-09-06-PH今日热榜-|-2025-09-06](https://decohack.com/producthunt-daily-2025-09-06/)  
 - [2025-09-05-PH今日热榜-|-2025-09-05](https://decohack.com/producthunt-daily-2025-09-05/)  
@@ -261,7 +262,6 @@
 - [2025-08-23-PH今日热榜-|-2025-08-23](https://decohack.com/producthunt-daily-2025-08-23/)  
 - [2025-08-22-PH今日热榜-|-2025-08-22](https://decohack.com/producthunt-daily-2025-08-22/)  
 - [2025-08-21-PH今日热榜-|-2025-08-21](https://decohack.com/producthunt-daily-2025-08-21/)  
-- [2025-08-20-PH今日热榜-|-2025-08-20](https://decohack.com/producthunt-daily-2025-08-20/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

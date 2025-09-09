@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-09-08 18:45:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-09 18:43:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-09-09-A-big-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592) 
 - [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569) 
 - [2024-02-20-To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521) 
 - [2024-01-16-npm-by-the-numbers](https://nodeweekly.com/issues/517) 

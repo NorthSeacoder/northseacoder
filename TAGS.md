@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-09-08 18:45:39。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-09-09 18:43:12。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -115,6 +115,7 @@
 
 
 
+- [【Node-Weekly】A-big-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)
 - [【Node-Weekly】Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569)
 - [【Node-Weekly】To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521)
 - [【Node-Weekly】npm-by-the-numbers](https://nodeweekly.com/issues/517)
