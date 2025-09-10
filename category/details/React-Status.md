@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-09-03 18:43:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-10 18:45:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2025-09-10-Shopify's-journey-to-the-New-Architecture](https://react.statuscode.com/issues/443) 
 - [2025-09-03-React-Server-Components-sans-frameworks](https://react.statuscode.com/issues/442) 
 - [2025-08-27-localStorage-vs-Context,-Redux-or-Zustand](https://react.statuscode.com/issues/441) 
 - [2025-08-20-Watch-three-developers-face-the-same-React-challenge](https://react.statuscode.com/issues/440) 

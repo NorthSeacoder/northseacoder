@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-09-03 18:43:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-10 18:45:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-09-10-What-you-need-to-know-about-color-interpolation-and-shifting](https://frontendfoc.us/issues/708) 
 - [2025-09-03-As-Chrome-turns-17,-Google-gets-to-keep-it](https://frontendfoc.us/issues/707) 
 - [2025-08-27-Rolling-the-dice-with-random-CSS](https://frontendfoc.us/issues/706) 
 - [2025-08-20-Is-there-no-such-thing-as-a-'CSS-reset'?](https://frontendfoc.us/issues/705) 
