@@ -15,18 +15,18 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-09-11 18:43:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-12 18:41:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
+- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)  
 
 ## 文章链接
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2025-09-12-Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752) ![](/assets/new.png)  
 - [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)  
 - [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)  
 - [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749)  
@@ -86,7 +87,6 @@
 - [2025-05-09-Big-Node,-VS-Code,-and-Mantine-updates](https://javascriptweekly.com/issues/735)  
 - [2025-05-02-Making-V8-eager-to-compile-your-JavaScript](https://javascriptweekly.com/issues/734)  
 - [2025-04-25-Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)  
-- [2025-04-18-TC39:-No-to-records-and-tuples,-yes-to-enums](https://javascriptweekly.com/issues/732)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -242,7 +242,7 @@
 </summary>
 
 
-- [2025-09-11-PH今日热榜-|-2025-09-11](https://decohack.com/producthunt-daily-2025-09-11/) ![](/assets/new.png)  
+- [2025-09-11-PH今日热榜-|-2025-09-11](https://decohack.com/producthunt-daily-2025-09-11/)  
 - [2025-09-10-PH今日热榜-|-2025-09-10](https://decohack.com/producthunt-daily-2025-09-10/)  
 - [2025-09-09-PH今日热榜-|-2025-09-09](https://decohack.com/producthunt-daily-2025-09-09/)  
 - [2025-09-08-PH今日热榜-|-2025-09-08](https://decohack.com/producthunt-daily-2025-09-08/)  

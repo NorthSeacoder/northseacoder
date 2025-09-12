@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-09-11 18:43:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-09-12 18:41:57。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -399,6 +399,7 @@
 - [【Node-Weekly】Tough-cookies](https://nodeweekly.com/issues/548)
 - [【Node-Weekly】Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
+- [【JavaScript-Weekly】Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)
 - [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
 - [【Frontend-Focus】As-Chrome-turns-17,-Google-gets-to-keep-it](https://frontendfoc.us/issues/707)
 - [【Frontend-Focus】Safari-jumps-to-26](https://frontendfoc.us/issues/696)
