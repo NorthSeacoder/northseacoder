@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-09-15 18:46:05。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-09-16 18:45:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -115,6 +115,7 @@
 
 
 
+- [【Node-Weekly】pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)
 - [【Node-Weekly】A-big-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)
 - [【Node-Weekly】Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569)
 - [【Node-Weekly】To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521)
