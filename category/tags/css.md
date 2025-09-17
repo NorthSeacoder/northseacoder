@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-09-16 18:45:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-17 18:45:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-09-17-Getting-animations-done-right-and-with-purpose](https://frontendfoc.us/issues/709) 
 - [2025-07-30-Building-towards-CSS-masonry,-brick-by-brick](https://frontendfoc.us/issues/703) 
 - [2025-07-09-The-opportunities-offered-by-CSS's-if](https://frontendfoc.us/issues/700) 
 - [2025-06-04-CSS-'if'-functions-start-to-roll-out](https://frontendfoc.us/issues/695) 
