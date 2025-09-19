@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-09-18 18:46:41。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-09-19 18:44:44。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -123,6 +123,7 @@
 - [【Node-Weekly】The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)
 - [【Node-Weekly】Polyfills-gone-rogue](https://nodeweekly.com/issues/503)
 - [【Node-Weekly】You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)
+- [【JavaScript-Weekly】The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)
 - [【JavaScript-Weekly】The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)
 - [【JavaScript-Weekly】The-npm-tea-party](https://javascriptweekly.com/issues/700)
 - [【JavaScript-Weekly】Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696)
