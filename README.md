@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-09-20 18:40:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-21 18:42:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-09-20-PH今日热榜-|-2025-09-20](https://decohack.com/producthunt-daily-2025-09-20/) ![](/assets/new.png)  
+- [2025-09-21-PH今日热榜-|-2025-09-21](https://decohack.com/producthunt-daily-2025-09-21/) ![](/assets/new.png)  
+- [2025-09-20-PH今日热榜-|-2025-09-20](https://decohack.com/producthunt-daily-2025-09-20/)  
 - [2025-09-19-PH今日热榜-|-2025-09-19](https://decohack.com/producthunt-daily-2025-09-19/)  
 - [2025-09-18-PH今日热榜-|-2025-09-18](https://decohack.com/producthunt-daily-2025-09-18/)  
 - [2025-09-17-PH今日热榜-|-2025-09-17](https://decohack.com/producthunt-daily-2025-09-17/)  
@@ -261,7 +262,6 @@
 - [2025-09-03-PH今日热榜-|-2025-09-03](https://decohack.com/producthunt-daily-2025-09-03/)  
 - [2025-09-02-PH今日热榜-|-2025-09-02](https://decohack.com/producthunt-daily-2025-09-02/)  
 - [2025-09-01-PH今日热榜-|-2025-09-01](https://decohack.com/producthunt-daily-2025-09-01/)  
-- [2025-08-31-PH今日热榜-|-2025-08-31](https://decohack.com/producthunt-daily-2025-08-31/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
