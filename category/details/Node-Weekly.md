@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-09-16 18:45:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-30 18:44:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594) 
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593) 
 - [2025-09-09-A-big-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592) 
 - [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591) 
