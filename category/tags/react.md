@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-02 18:44:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-03 18:44:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755) 
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) 
 - [2025-10-01-Considering-React-state-management-options-in-2025](https://react.statuscode.com/issues/446) 
 - [2025-09-03-React-Server-Components-sans-frameworks](https://react.statuscode.com/issues/442) 

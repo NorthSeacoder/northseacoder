@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-02 18:44:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-03 18:44:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -38,6 +38,7 @@
 
 
 
+- [【JavaScript-Weekly】React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
 - [【React-Status】Considering-React-state-management-options-in-2025](https://react.statuscode.com/issues/446)
 - [【React-Status】React-Server-Components-sans-frameworks](https://react.statuscode.com/issues/442)
@@ -57,7 +58,6 @@
 - [【React-Status】React-19.1-released](https://react.statuscode.com/issues/423)
 - [【React-Status】React-trends-for-2025](https://react.statuscode.com/issues/421)
 - [【React-Status】How-the-NYT-migrated-its-React-testing-approach-in-place](https://react.statuscode.com/issues/420)
-- [【React-Status】React-libraries-for-2025](https://react.statuscode.com/issues/418)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
