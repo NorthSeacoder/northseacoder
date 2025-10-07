@@ -15,11 +15,11 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-10-06 18:46:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-07 18:47:32，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595) ![](/assets/new.png)  
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)  
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)  
 - [2025-09-09-A-big-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)  
@@ -55,7 +56,6 @@
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
 - [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577)  
 - [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576)  
-- [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-10-06-PH今日热榜-|-2025-10-06](https://decohack.com/producthunt-daily-2025-10-06/) ![](/assets/new.png)  
+- [2025-10-07-PH今日热榜-|-2025-10-07](https://decohack.com/producthunt-daily-2025-10-07/) ![](/assets/new.png)  
+- [2025-10-06-PH今日热榜-|-2025-10-06](https://decohack.com/producthunt-daily-2025-10-06/)  
 - [2025-10-05-PH今日热榜-|-2025-10-05](https://decohack.com/producthunt-daily-2025-10-05/)  
 - [2025-10-04-PH今日热榜-|-2025-10-04](https://decohack.com/producthunt-daily-2025-10-04/)  
 - [2025-10-03-PH今日热榜-|-2025-10-03](https://decohack.com/producthunt-daily-2025-10-03/)  
@@ -261,7 +262,6 @@
 - [2025-09-20-PH今日热榜-|-2025-09-20](https://decohack.com/producthunt-daily-2025-09-20/)  
 - [2025-09-19-PH今日热榜-|-2025-09-19](https://decohack.com/producthunt-daily-2025-09-19/)  
 - [2025-09-18-PH今日热榜-|-2025-09-18](https://decohack.com/producthunt-daily-2025-09-18/)  
-- [2025-09-17-PH今日热榜-|-2025-09-17](https://decohack.com/producthunt-daily-2025-09-17/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
