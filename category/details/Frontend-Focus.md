@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-10-01 18:46:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-08 18:48:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-10-08-How-Core-Web-Vitals-has-saved-us-thousands-of-years](https://frontendfoc.us/issues/712) 
 - [2025-10-01-How-much-do-you-really-know-about-media-queries?](https://frontendfoc.us/issues/711) 
 - [2025-09-24-What-you-need-to-know-about-modern-CSS](https://frontendfoc.us/issues/710) 
 - [2025-09-17-Getting-animations-done-right-and-with-purpose](https://frontendfoc.us/issues/709) 
