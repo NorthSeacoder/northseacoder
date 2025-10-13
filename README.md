@@ -15,7 +15,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-10-12 18:42:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-13 18:45:54，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2025-10-13-CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/) ![](/assets/new.png)  
 - [2025-09-30-使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/)  
 - [2025-09-19-CSS-scroll-target-group加:target-current滚动菜单自动高亮](https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/)  
 - [2025-09-15-使用CSS-linear函数实现更逼真的物理动画效果](https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/)  
@@ -210,7 +211,6 @@
 - [2025-06-04-JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/)  
 - [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/)  
 - [2025-05-22-你知道吗，输入框的value值也能直接返回数值类型](https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/)  
-- [2025-05-12-CSS-animation-composition可以让动画效果累加](https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-10-12-PH今日热榜-|-2025-10-12](https://decohack.com/producthunt-daily-2025-10-12/) ![](/assets/new.png)  
+- [2025-10-13-PH今日热榜-|-2025-10-13](https://decohack.com/producthunt-daily-2025-10-13/) ![](/assets/new.png)  
+- [2025-10-12-PH今日热榜-|-2025-10-12](https://decohack.com/producthunt-daily-2025-10-12/)  
 - [2025-10-11-PH今日热榜-|-2025-10-11](https://decohack.com/producthunt-daily-2025-10-11/)  
 - [2025-10-10-PH今日热榜-|-2025-10-10](https://decohack.com/producthunt-daily-2025-10-10/)  
 - [2025-10-09-PH今日热榜-|-2025-10-09](https://decohack.com/producthunt-daily-2025-10-09/)  
@@ -261,7 +262,6 @@
 - [2025-09-26-PH今日热榜-|-2025-09-26](https://decohack.com/producthunt-daily-2025-09-26/)  
 - [2025-09-25-PH今日热榜-|-2025-09-25](https://decohack.com/producthunt-daily-2025-09-25/)  
 - [2025-09-24-PH今日热榜-|-2025-09-24](https://decohack.com/producthunt-daily-2025-09-24/)  
-- [2025-09-23-PH今日热榜-|-2025-09-23](https://decohack.com/producthunt-daily-2025-09-23/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
