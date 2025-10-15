@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-14 18:46:38。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-15 18:48:02。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 - [【JavaScript-Weekly】React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】React-Compiler-1.0,-Bun-1.3,-and-Next.js-16-Beta](https://react.statuscode.com/issues/448)
 - [【React-Status】The-React-Foundation-and-React-19.2](https://react.statuscode.com/issues/447)
 - [【React-Status】Considering-React-state-management-options-in-2025](https://react.statuscode.com/issues/446)
 - [【React-Status】React-Server-Components-sans-frameworks](https://react.statuscode.com/issues/442)
@@ -57,7 +58,6 @@
 - [【React-Status】Advanced,-real-world-React-case-studies](https://react.statuscode.com/issues/425)
 - [【React-Status】How-React's-reconciliation-algorithm-works](https://react.statuscode.com/issues/424)
 - [【React-Status】React-19.1-released](https://react.statuscode.com/issues/423)
-- [【React-Status】React-trends-for-2025](https://react.statuscode.com/issues/421)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -268,6 +268,7 @@
 
 
 
+- [【Frontend-Focus】Firefox-finally-supports-View-Transitions](https://frontendfoc.us/issues/713)
 - [【Frontend-Focus】What-you-need-to-know-about-modern-CSS](https://frontendfoc.us/issues/710)
 - [【Frontend-Focus】Getting-animations-done-right-and-with-purpose](https://frontendfoc.us/issues/709)
 - [【Frontend-Focus】Building-towards-CSS-masonry,-brick-by-brick](https://frontendfoc.us/issues/703)
@@ -287,7 +288,6 @@
 - [【Frontend-Focus】12-modern-CSS-one-line-upgrades](https://frontendfoc.us/issues/627)
 - [【Frontend-Focus】Five-CSS-snippets-you-need-to-know](https://frontendfoc.us/issues/626)
 - [【Frontend-Focus】2023-was-kind-to-CSS-and-the-web-platform](https://frontendfoc.us/issues/622)
-- [【Frontend-Focus】An-interactive-guide-to-CSS-Grid](https://frontendfoc.us/issues/619)
 - [......【查看更多】......](/category/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

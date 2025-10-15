@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-10-08 18:48:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-15 18:48:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2025-10-15-React-Compiler-1.0,-Bun-1.3,-and-Next.js-16-Beta](https://react.statuscode.com/issues/448) 
 - [2025-10-08-The-React-Foundation-and-React-19.2](https://react.statuscode.com/issues/447) 
 - [2025-10-01-Considering-React-state-management-options-in-2025](https://react.statuscode.com/issues/446) 
 - [2025-09-24-TanStack-Start-v1-begins-to-appear](https://react.statuscode.com/issues/445) 
