@@ -15,14 +15,14 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-10-15 18:48:02，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-16 18:47:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)![](/assets/dot.png)   
-- [React-Status](#react-status)![](/assets/dot.png)   
+- [Frontend-Focus](#frontend-focus)  
+- [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2025-10-15-Firefox-finally-supports-View-Transitions](https://frontendfoc.us/issues/713) ![](/assets/new.png)  
+- [2025-10-15-Firefox-finally-supports-View-Transitions](https://frontendfoc.us/issues/713)  
 - [2025-10-08-How-Core-Web-Vitals-has-saved-us-thousands-of-years](https://frontendfoc.us/issues/712)  
 - [2025-10-01-How-much-do-you-really-know-about-media-queries?](https://frontendfoc.us/issues/711)  
 - [2025-09-24-What-you-need-to-know-about-modern-CSS](https://frontendfoc.us/issues/710)  
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2025-10-15-React-Compiler-1.0,-Bun-1.3,-and-Next.js-16-Beta](https://react.statuscode.com/issues/448) ![](/assets/new.png)  
+- [2025-10-15-React-Compiler-1.0,-Bun-1.3,-and-Next.js-16-Beta](https://react.statuscode.com/issues/448)  
 - [2025-10-08-The-React-Foundation-and-React-19.2](https://react.statuscode.com/issues/447)  
 - [2025-10-01-Considering-React-state-management-options-in-2025](https://react.statuscode.com/issues/446)  
 - [2025-09-24-TanStack-Start-v1-begins-to-appear](https://react.statuscode.com/issues/445)  
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-10-15-PH今日热榜-|-2025-10-15](https://decohack.com/producthunt-daily-2025-10-15/) ![](/assets/new.png)  
+- [2025-10-16-PH今日热榜-|-2025-10-16](https://decohack.com/producthunt-daily-2025-10-16/) ![](/assets/new.png)  
+- [2025-10-15-PH今日热榜-|-2025-10-15](https://decohack.com/producthunt-daily-2025-10-15/)  
 - [2025-10-14-PH今日热榜-|-2025-10-14](https://decohack.com/producthunt-daily-2025-10-14/)  
 - [2025-10-13-PH今日热榜-|-2025-10-13](https://decohack.com/producthunt-daily-2025-10-13/)  
 - [2025-10-12-PH今日热榜-|-2025-10-12](https://decohack.com/producthunt-daily-2025-10-12/)  
@@ -261,7 +262,6 @@
 - [2025-09-29-PH今日热榜-|-2025-09-29](https://decohack.com/producthunt-daily-2025-09-29/)  
 - [2025-09-28-PH今日热榜-|-2025-09-28](https://decohack.com/producthunt-daily-2025-09-28/)  
 - [2025-09-27-PH今日热榜-|-2025-09-27](https://decohack.com/producthunt-daily-2025-09-27/)  
-- [2025-09-26-PH今日热榜-|-2025-09-26](https://decohack.com/producthunt-daily-2025-09-26/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
