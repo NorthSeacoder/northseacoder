@@ -15,16 +15,16 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-10-20 18:49:35，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-21 18:48:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
 
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597) ![](/assets/new.png)  
 - [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596)  
 - [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)  
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)  
@@ -55,7 +56,6 @@
 - [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
 - [2025-05-27-What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)  
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
-- [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/) ![](/assets/new.png)  
+- [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/)  
 - [2025-10-13-CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/)  
 - [2025-09-30-使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/)  
 - [2025-09-19-CSS-scroll-target-group加:target-current滚动菜单自动高亮](https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/)  
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-10-20-PH今日热榜-|-2025-10-20](https://decohack.com/producthunt-daily-2025-10-20/) ![](/assets/new.png)  
+- [2025-10-21-PH今日热榜-|-2025-10-21](https://decohack.com/producthunt-daily-2025-10-21/) ![](/assets/new.png)  
+- [2025-10-20-PH今日热榜-|-2025-10-20](https://decohack.com/producthunt-daily-2025-10-20/)  
 - [2025-10-19-PH今日热榜-|-2025-10-19](https://decohack.com/producthunt-daily-2025-10-19/)  
 - [2025-10-18-PH今日热榜-|-2025-10-18](https://decohack.com/producthunt-daily-2025-10-18/)  
 - [2025-10-17-PH今日热榜-|-2025-10-17](https://decohack.com/producthunt-daily-2025-10-17/)  
@@ -261,7 +262,6 @@
 - [2025-10-04-PH今日热榜-|-2025-10-04](https://decohack.com/producthunt-daily-2025-10-04/)  
 - [2025-10-03-PH今日热榜-|-2025-10-03](https://decohack.com/producthunt-daily-2025-10-03/)  
 - [2025-10-02-PH今日热榜-|-2025-10-02](https://decohack.com/producthunt-daily-2025-10-02/)  
-- [2025-10-01-PH今日热榜-|-2025-10-01](https://decohack.com/producthunt-daily-2025-10-01/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
