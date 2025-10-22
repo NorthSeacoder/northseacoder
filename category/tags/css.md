@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-21 18:48:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-22 18:49:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-10-22-25-new-CSS-features-explained](https://frontendfoc.us/issues/714) 
 - [2025-10-15-Firefox-finally-supports-View-Transitions](https://frontendfoc.us/issues/713) 
 - [2025-09-24-What-you-need-to-know-about-modern-CSS](https://frontendfoc.us/issues/710) 
 - [2025-09-17-Getting-animations-done-right-and-with-purpose](https://frontendfoc.us/issues/709) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-10-15 18:48:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-22 18:49:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-10-22-25-new-CSS-features-explained](https://frontendfoc.us/issues/714) 
 - [2025-10-15-Firefox-finally-supports-View-Transitions](https://frontendfoc.us/issues/713) 
 - [2025-10-08-How-Core-Web-Vitals-has-saved-us-thousands-of-years](https://frontendfoc.us/issues/712) 
 - [2025-10-01-How-much-do-you-really-know-about-media-queries?](https://frontendfoc.us/issues/711) 

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-21 18:48:41。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-22 18:49:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -268,6 +268,7 @@
 
 
 
+- [【Frontend-Focus】25-new-CSS-features-explained](https://frontendfoc.us/issues/714)
 - [【Frontend-Focus】Firefox-finally-supports-View-Transitions](https://frontendfoc.us/issues/713)
 - [【Frontend-Focus】What-you-need-to-know-about-modern-CSS](https://frontendfoc.us/issues/710)
 - [【Frontend-Focus】Getting-animations-done-right-and-with-purpose](https://frontendfoc.us/issues/709)
@@ -287,7 +288,6 @@
 - [【Frontend-Focus】A-CSS-'if'-function-isn't-here-yet,-but-what-can-we-do-today?](https://frontendfoc.us/issues/649)
 - [【Frontend-Focus】12-modern-CSS-one-line-upgrades](https://frontendfoc.us/issues/627)
 - [【Frontend-Focus】Five-CSS-snippets-you-need-to-know](https://frontendfoc.us/issues/626)
-- [【Frontend-Focus】2023-was-kind-to-CSS-and-the-web-platform](https://frontendfoc.us/issues/622)
 - [......【查看更多】......](/category/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
