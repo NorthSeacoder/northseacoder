@@ -15,12 +15,12 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
 
 
-:alarm_clock: 更新时间: 2025-10-23 18:48:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-24 18:45:35，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [Frontend-Focus](#frontend-focus)  
 - [React-Status](#react-status)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2025-10-24-Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758) ![](/assets/new.png)  
 - [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)  
 - [2025-10-10-Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)  
 - [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)  
@@ -86,7 +87,6 @@
 - [2025-06-20-Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)  
 - [2025-06-13-Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740)  
 - [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)  
-- [2025-05-30-How-Remix-is-shaking-things-up](https://javascriptweekly.com/issues/738)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -242,7 +242,8 @@
 </summary>
 
 
-- [2025-10-23-PH今日热榜-|-2025-10-23](https://decohack.com/producthunt-daily-2025-10-23/) ![](/assets/new.png)  
+- [2025-10-24-PH今日热榜-|-2025-10-24](https://decohack.com/producthunt-daily-2025-10-24/) ![](/assets/new.png)  
+- [2025-10-23-PH今日热榜-|-2025-10-23](https://decohack.com/producthunt-daily-2025-10-23/)  
 - [2025-10-22-PH今日热榜-|-2025-10-22](https://decohack.com/producthunt-daily-2025-10-22/)  
 - [2025-10-21-PH今日热榜-|-2025-10-21](https://decohack.com/producthunt-daily-2025-10-21/)  
 - [2025-10-20-PH今日热榜-|-2025-10-20](https://decohack.com/producthunt-daily-2025-10-20/)  
@@ -261,7 +262,6 @@
 - [2025-10-07-PH今日热榜-|-2025-10-07](https://decohack.com/producthunt-daily-2025-10-07/)  
 - [2025-10-06-PH今日热榜-|-2025-10-06](https://decohack.com/producthunt-daily-2025-10-06/)  
 - [2025-10-05-PH今日热榜-|-2025-10-05](https://decohack.com/producthunt-daily-2025-10-05/)  
-- [2025-10-04-PH今日热榜-|-2025-10-04](https://decohack.com/producthunt-daily-2025-10-04/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
