@@ -30,6 +30,10 @@
 
 - [auto-green](https://github.com/justjavac/auto-green);
 
+## 配置说明
+- 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
+- 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
+
 ##
 
 :alarm_clock: 更新时间: <%= obj.currentDate %>，:rocket: 更新条数: +<%= obj.newData.length %>， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
