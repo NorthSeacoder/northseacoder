@@ -38,1698 +38,438 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-27 07:05:41，:rocket: 更新条数: +0， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-27 07:23:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-<ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; padding: 0; margin: 1rem 0; list-style: none;">
 
-  <li style="break-inside: avoid; padding: 0.5rem 0;">
-    <a href="#node-weekly">Node-Weekly</a>
-  </li>
+- [Node-Weekly](#node-weekly)
 
-  <li style="break-inside: avoid; padding: 0.5rem 0;">
-    <a href="#javascript-weekly">JavaScript-Weekly</a>
-  </li>
+- [JavaScript-Weekly](#javascript-weekly)
 
-  <li style="break-inside: avoid; padding: 0.5rem 0;">
-    <a href="#frontend-focus">Frontend-Focus</a>
-  </li>
+- [Frontend-Focus](#frontend-focus)
 
-  <li style="break-inside: avoid; padding: 0.5rem 0;">
-    <a href="#react-status">React-Status</a>
-  </li>
+- [React-Status](#react-status)
 
-  <li style="break-inside: avoid; padding: 0.5rem 0;">
-    <a href="#淘系前端团队">淘系前端团队</a>
-  </li>
+- [淘系前端团队](#淘系前端团队)
 
-  <li style="break-inside: avoid; padding: 0.5rem 0;">
-    <a href="#张鑫旭-鑫空间-鑫生活">张鑫旭-鑫空间-鑫生活</a>
-  </li>
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)
 
-  <li style="break-inside: avoid; padding: 0.5rem 0;">
-    <a href="#阮一峰的网络日志">阮一峰的网络日志</a>
-  </li>
+- [阮一峰的网络日志](#阮一峰的网络日志)
 
-  <li style="break-inside: avoid; padding: 0.5rem 0;">
-    <a href="#decohack-独立开发者的灵感周刊">DecoHack-独立开发者的灵感周刊</a>
-  </li>
+- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊) ![](/assets/dot.png)
 
-</ul>
 
 ## 文章链接
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.75rem; align-items: start;">
 
-  <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1rem 1.25rem; background: #f9fafb;">
-    <details open>
-      <summary id="node-weekly" style="font-weight: 600; font-size: 1.05rem; display: flex; align-items: center; gap: 0.5rem;">
-        <span>Node-Weekly</span>
-        
-      </summary>
+<details open>
+<summary id="node-weekly">
+  <strong>Node-Weekly</strong>
+</summary>
+<p></p>
 
-      <div style="margin-top: 0.75rem; display: flex; flex-direction: column; gap: 0.75rem;">
-        <ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem;">
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-21
-            </time>
-            <a href="https://nodeweekly.com/issues/597" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Node.js-25.0-arrives
-            </a>
-            
-          </li>
+- **2025-10-21** - [Node.js-25.0-arrives](https://nodeweekly.com/issues/597)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-14
-            </time>
-            <a href="https://nodeweekly.com/issues/596" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Bringing-Python-apps-into-Node
-            </a>
-            
-          </li>
+- **2025-10-14** - [Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-07
-            </time>
-            <a href="https://nodeweekly.com/issues/595" style="flex: 1; color: #0366d6; text-decoration: none;">
-              npm-security-best-practices-to-consider
-            </a>
-            
-          </li>
+- **2025-10-07** - [npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-30
-            </time>
-            <a href="https://nodeweekly.com/issues/594" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Using-Node-with-Cloudflare-Workers
-            </a>
-            
-          </li>
+- **2025-09-30** - [Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-16
-            </time>
-            <a href="https://nodeweekly.com/issues/593" style="flex: 1; color: #0366d6; text-decoration: none;">
-              pnpm-adds-support-for-delayed-dependency-updates
-            </a>
-            
-          </li>
+- **2025-09-16** - [pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-09
-            </time>
-            <a href="https://nodeweekly.com/issues/592" style="flex: 1; color: #0366d6; text-decoration: none;">
-              A-big-supply-chain-attack-on-the-npm-ecosystem
-            </a>
-            
-          </li>
+- **2025-09-09** - [A-big-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-26
-            </time>
-            <a href="https://nodeweekly.com/issues/591" style="flex: 1; color: #0366d6; text-decoration: none;">
-              The-productivity-benefits-from-type-stripping
-            </a>
-            
-          </li>
+- **2025-08-26** - [The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-19
-            </time>
-            <a href="https://nodeweekly.com/issues/590" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Express-support-coming-to-Cloudflare-Workers?
-            </a>
-            
-          </li>
+- **2025-08-19** - [Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-05
-            </time>
-            <a href="https://nodeweekly.com/issues/589" style="flex: 1; color: #0366d6; text-decoration: none;">
-              How-JSON.stringify-is-about-to-get-much-faster
-            </a>
-            
-          </li>
+- **2025-08-05** - [How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-29
-            </time>
-            <a href="https://nodeweekly.com/issues/588" style="flex: 1; color: #0366d6; text-decoration: none;">
-              An-epic-rundown-of-JavaScript-engines-and-runtimes
-            </a>
-            
-          </li>
+- **2025-07-29** - [An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-22
-            </time>
-            <a href="https://nodeweekly.com/issues/587" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Running-Laravel-apps-in-the-Node.js-world
-            </a>
-            
-          </li>
+- **2025-07-22** - [Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-15
-            </time>
-            <a href="https://nodeweekly.com/issues/586" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Should-Node-switch-to-annual-major-releases?
-            </a>
-            
-          </li>
+- **2025-07-15** - [Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-08
-            </time>
-            <a href="https://nodeweekly.com/issues/585" style="flex: 1; color: #0366d6; text-decoration: none;">
-              A-way-to-get-your-JSON-under-control
-            </a>
-            
-          </li>
+- **2025-07-08** - [A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-01
-            </time>
-            <a href="https://nodeweekly.com/issues/584" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Running-Gemma-3n-from-Node
-            </a>
-            
-          </li>
+- **2025-07-01** - [Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-24
-            </time>
-            <a href="https://nodeweekly.com/issues/583" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Adonis-picks-up-the-pace
-            </a>
-            
-          </li>
+- **2025-06-24** - [Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-17
-            </time>
-            <a href="https://nodeweekly.com/issues/582" style="flex: 1; color: #0366d6; text-decoration: none;">
-              One-step-closer-to-TypeScript
-            </a>
-            
-          </li>
+- **2025-06-17** - [One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-10
-            </time>
-            <a href="https://nodeweekly.com/issues/581" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Node-24.2,-and-some-EOL-warnings
-            </a>
-            
-          </li>
+- **2025-06-10** - [Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-03
-            </time>
-            <a href="https://nodeweekly.com/issues/580" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PHP-+-Node:-The-odd-couple-of-backend?
-            </a>
-            
-          </li>
+- **2025-06-03** - [PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-05-27
-            </time>
-            <a href="https://nodeweekly.com/issues/579" style="flex: 1; color: #0366d6; text-decoration: none;">
-              What-the-Node.js-team-has-been-discussing-lately
-            </a>
-            
-          </li>
+- **2025-05-27** - [What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)
 
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-05-13
-            </time>
-            <a href="https://nodeweekly.com/issues/578" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Making-and-parsing-RSS-and-Atom-feeds
-            </a>
-            
-          </li>
+- **2025-05-13** - [Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)
 
-        </ul>
 
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem;">
-          <a href="/category/details/Node-Weekly.md" style="color: #2563eb; text-decoration: none;">查看更多</a>
-          <a href="#文章来源" style="color: #2563eb; text-decoration: none;">⬆ &nbsp;返回顶部</a>
-        </div>
-      </div>
-    </details>
-  </div>
-
-  <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1rem 1.25rem; background: #f9fafb;">
-    <details open>
-      <summary id="javascript-weekly" style="font-weight: 600; font-size: 1.05rem; display: flex; align-items: center; gap: 0.5rem;">
-        <span>JavaScript-Weekly</span>
-        
-      </summary>
-
-      <div style="margin-top: 0.75rem; display: flex; flex-direction: column; gap: 0.75rem;">
-        <ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem;">
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-24
-            </time>
-            <a href="https://javascriptweekly.com/issues/758" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Vitest-4.0-and-Next.js-16
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-17
-            </time>
-            <a href="https://javascriptweekly.com/issues/757" style="flex: 1; color: #0366d6; text-decoration: none;">
-              A-Bun-believable-release-that-isn't-half-baked
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-10
-            </time>
-            <a href="https://javascriptweekly.com/issues/756" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Vite-gets-its-own-documentary
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-03
-            </time>
-            <a href="https://javascriptweekly.com/issues/755" style="flex: 1; color: #0366d6; text-decoration: none;">
-              React-19.2-is-in-the-building
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-26
-            </time>
-            <a href="https://javascriptweekly.com/issues/754" style="flex: 1; color: #0366d6; text-decoration: none;">
-              The-first-browser-with-JavaScript-landed-30-years-ago
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-19
-            </time>
-            <a href="https://javascriptweekly.com/issues/753" style="flex: 1; color: #0366d6; text-decoration: none;">
-              The-attack-on-the-npm-ecosystem-continues
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-12
-            </time>
-            <a href="https://javascriptweekly.com/issues/752" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Package-efficiency-and-dependency-hygiene
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-05
-            </time>
-            <a href="https://javascriptweekly.com/issues/751" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-29
-            </time>
-            <a href="https://javascriptweekly.com/issues/750" style="flex: 1; color: #0366d6; text-decoration: none;">
-              The-latest-on-Oracle's-hold-on-JavaScript
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-22
-            </time>
-            <a href="https://javascriptweekly.com/issues/749" style="flex: 1; color: #0366d6; text-decoration: none;">
-              We-still-love-jQuery
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-08
-            </time>
-            <a href="https://javascriptweekly.com/issues/748" style="flex: 1; color: #0366d6; text-decoration: none;">
-              How-JavaScript-really-evolves,-the-inside-story
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-01
-            </time>
-            <a href="https://javascriptweekly.com/issues/747" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Jumbo-sized-JavaScript-for-issue-747
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-25
-            </time>
-            <a href="https://javascriptweekly.com/issues/746" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Will-WebAssembly-ever-get-DOM-support?
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-18
-            </time>
-            <a href="https://javascriptweekly.com/issues/745" style="flex: 1; color: #0366d6; text-decoration: none;">
-              A-tricky,-educational-quiz:-it's-about-time..
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-11
-            </time>
-            <a href="https://javascriptweekly.com/issues/744" style="flex: 1; color: #0366d6; text-decoration: none;">
-              The-details-of-TC39's-last-meeting
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-04
-            </time>
-            <a href="https://javascriptweekly.com/issues/743" style="flex: 1; color: #0366d6; text-decoration: none;">
-              The-dog-days-of-JavaScript-summer
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-27
-            </time>
-            <a href="https://javascriptweekly.com/issues/742" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Say-hello-to-ECMAScript-2025
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-20
-            </time>
-            <a href="https://javascriptweekly.com/issues/741" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Dr.-Axel's-JavaScript-flashcards
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-13
-            </time>
-            <a href="https://javascriptweekly.com/issues/740" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Everybody's-gone-lintin'
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-06
-            </time>
-            <a href="https://javascriptweekly.com/issues/739" style="flex: 1; color: #0366d6; text-decoration: none;">
-              TC39-advances-numerous-proposals-at-latest-meeting
-            </a>
-            
-          </li>
-
-        </ul>
-
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem;">
-          <a href="/category/details/JavaScript-Weekly.md" style="color: #2563eb; text-decoration: none;">查看更多</a>
-          <a href="#文章来源" style="color: #2563eb; text-decoration: none;">⬆ &nbsp;返回顶部</a>
-        </div>
-      </div>
-    </details>
-  </div>
-
-  <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1rem 1.25rem; background: #f9fafb;">
-    <details open>
-      <summary id="frontend-focus" style="font-weight: 600; font-size: 1.05rem; display: flex; align-items: center; gap: 0.5rem;">
-        <span>Frontend-Focus</span>
-        
-      </summary>
-
-      <div style="margin-top: 0.75rem; display: flex; flex-direction: column; gap: 0.75rem;">
-        <ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem;">
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-22
-            </time>
-            <a href="https://frontendfoc.us/issues/714" style="flex: 1; color: #0366d6; text-decoration: none;">
-              25-new-CSS-features-explained
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-15
-            </time>
-            <a href="https://frontendfoc.us/issues/713" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Firefox-finally-supports-View-Transitions
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-08
-            </time>
-            <a href="https://frontendfoc.us/issues/712" style="flex: 1; color: #0366d6; text-decoration: none;">
-              How-Core-Web-Vitals-has-saved-us-thousands-of-years
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-01
-            </time>
-            <a href="https://frontendfoc.us/issues/711" style="flex: 1; color: #0366d6; text-decoration: none;">
-              How-much-do-you-really-know-about-media-queries?
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-24
-            </time>
-            <a href="https://frontendfoc.us/issues/710" style="flex: 1; color: #0366d6; text-decoration: none;">
-              What-you-need-to-know-about-modern-CSS
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-17
-            </time>
-            <a href="https://frontendfoc.us/issues/709" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Getting-animations-done-right-and-with-purpose
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-10
-            </time>
-            <a href="https://frontendfoc.us/issues/708" style="flex: 1; color: #0366d6; text-decoration: none;">
-              What-you-need-to-know-about-color-interpolation-and-shifting
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-03
-            </time>
-            <a href="https://frontendfoc.us/issues/707" style="flex: 1; color: #0366d6; text-decoration: none;">
-              As-Chrome-turns-17,-Google-gets-to-keep-it
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-27
-            </time>
-            <a href="https://frontendfoc.us/issues/706" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Rolling-the-dice-with-random-CSS
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-20
-            </time>
-            <a href="https://frontendfoc.us/issues/705" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Is-there-no-such-thing-as-a-'CSS-reset'?
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-06
-            </time>
-            <a href="https://frontendfoc.us/issues/704" style="flex: 1; color: #0366d6; text-decoration: none;">
-              The-cascading-layers-of-importance
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-30
-            </time>
-            <a href="https://frontendfoc.us/issues/703" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Building-towards-CSS-masonry,-brick-by-brick
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-23
-            </time>
-            <a href="https://frontendfoc.us/issues/702" style="flex: 1; color: #0366d6; text-decoration: none;">
-              What-you-need-to-know-about-SVGs
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-16
-            </time>
-            <a href="https://frontendfoc.us/issues/701" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Frontend-innovation-through-constraints
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-09
-            </time>
-            <a href="https://frontendfoc.us/issues/700" style="flex: 1; color: #0366d6; text-decoration: none;">
-              The-opportunities-offered-by-CSS's-if
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-02
-            </time>
-            <a href="https://frontendfoc.us/issues/699" style="flex: 1; color: #0366d6; text-decoration: none;">
-              All-the-colors-of-the-web
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-25
-            </time>
-            <a href="https://frontendfoc.us/issues/698" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Creating-scroll-driven-animations-with-just-CSS
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-18
-            </time>
-            <a href="https://frontendfoc.us/issues/697" style="flex: 1; color: #0366d6; text-decoration: none;">
-              You're-not-a-frontend-dev-until-you've....
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-11
-            </time>
-            <a href="https://frontendfoc.us/issues/696" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Safari-jumps-to-26
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-04
-            </time>
-            <a href="https://frontendfoc.us/issues/695" style="flex: 1; color: #0366d6; text-decoration: none;">
-              CSS-'if'-functions-start-to-roll-out
-            </a>
-            
-          </li>
-
-        </ul>
-
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem;">
-          <a href="/category/details/Frontend-Focus.md" style="color: #2563eb; text-decoration: none;">查看更多</a>
-          <a href="#文章来源" style="color: #2563eb; text-decoration: none;">⬆ &nbsp;返回顶部</a>
-        </div>
-      </div>
-    </details>
-  </div>
-
-  <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1rem 1.25rem; background: #f9fafb;">
-    <details open>
-      <summary id="react-status" style="font-weight: 600; font-size: 1.05rem; display: flex; align-items: center; gap: 0.5rem;">
-        <span>React-Status</span>
-        
-      </summary>
-
-      <div style="margin-top: 0.75rem; display: flex; flex-direction: column; gap: 0.75rem;">
-        <ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem;">
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-15
-            </time>
-            <a href="https://react.statuscode.com/issues/448" style="flex: 1; color: #0366d6; text-decoration: none;">
-              React-Compiler-1.0,-Bun-1.3,-and-Next.js-16-Beta
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-08
-            </time>
-            <a href="https://react.statuscode.com/issues/447" style="flex: 1; color: #0366d6; text-decoration: none;">
-              The-React-Foundation-and-React-19.2
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-01
-            </time>
-            <a href="https://react.statuscode.com/issues/446" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Considering-React-state-management-options-in-2025
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-24
-            </time>
-            <a href="https://react.statuscode.com/issues/445" style="flex: 1; color: #0366d6; text-decoration: none;">
-              TanStack-Start-v1-begins-to-appear
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-17
-            </time>
-            <a href="https://react.statuscode.com/issues/444" style="flex: 1; color: #0366d6; text-decoration: none;">
-              How-to-keep-your-package.json-under-control
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-10
-            </time>
-            <a href="https://react.statuscode.com/issues/443" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Shopify's-journey-to-the-New-Architecture
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-03
-            </time>
-            <a href="https://react.statuscode.com/issues/442" style="flex: 1; color: #0366d6; text-decoration: none;">
-              React-Server-Components-sans-frameworks
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-27
-            </time>
-            <a href="https://react.statuscode.com/issues/441" style="flex: 1; color: #0366d6; text-decoration: none;">
-              localStorage-vs-Context,-Redux-or-Zustand
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-20
-            </time>
-            <a href="https://react.statuscode.com/issues/440" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Watch-three-developers-face-the-same-React-challenge
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-06
-            </time>
-            <a href="https://react.statuscode.com/issues/439" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Jack-Herrington's-tRPC-vs-oRPC-battle
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-30
-            </time>
-            <a href="https://react.statuscode.com/issues/438" style="flex: 1; color: #0366d6; text-decoration: none;">
-              TanStack-DB-enters-beta-with-v0.1
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-23
-            </time>
-            <a href="https://react.statuscode.com/issues/437" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Figma-MCP-vs-Claude:-A-React-coding-battle
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-16
-            </time>
-            <a href="https://react.statuscode.com/issues/436" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Node-API-support-in-React-Native
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-09
-            </time>
-            <a href="https://react.statuscode.com/issues/435" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Getting-kinetic-with-React-Three-Fiber
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-02
-            </time>
-            <a href="https://react.statuscode.com/issues/434" style="flex: 1; color: #0366d6; text-decoration: none;">
-              The-React/Rust-full-stack-option
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-25
-            </time>
-            <a href="https://react.statuscode.com/issues/433" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Recharts-3.0
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-18
-            </time>
-            <a href="https://react.statuscode.com/issues/432" style="flex: 1; color: #0366d6; text-decoration: none;">
-              The-state-of-React-in-2025
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-11
-            </time>
-            <a href="https://react.statuscode.com/issues/431" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Dan-Abramov-continues-to-flesh-out-RSCs
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-05-28
-            </time>
-            <a href="https://react.statuscode.com/issues/430" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Core-React-concepts-explained-visually
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-05-14
-            </time>
-            <a href="https://react.statuscode.com/issues/429" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Now-React-can-make-circuit-boards-too
-            </a>
-            
-          </li>
-
-        </ul>
-
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem;">
-          <a href="/category/details/React-Status.md" style="color: #2563eb; text-decoration: none;">查看更多</a>
-          <a href="#文章来源" style="color: #2563eb; text-decoration: none;">⬆ &nbsp;返回顶部</a>
-        </div>
-      </div>
-    </details>
-  </div>
-
-  <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1rem 1.25rem; background: #f9fafb;">
-    <details open>
-      <summary id="淘系前端团队" style="font-weight: 600; font-size: 1.05rem; display: flex; align-items: center; gap: 0.5rem;">
-        <span>淘系前端团队</span>
-        
-      </summary>
-
-      <div style="margin-top: 0.75rem; display: flex; flex-direction: column; gap: 0.75rem;">
-        <ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem;">
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-08-16
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/oyf9hm" style="flex: 1; color: #0366d6; text-decoration: none;">
-              淘系运营工作台前端体系
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-08-13
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/ghlebo" style="flex: 1; color: #0366d6; text-decoration: none;">
-              一起来玩玩WebGL--第二弹
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-08-10
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/reqhle" style="flex: 1; color: #0366d6; text-decoration: none;">
-              我在阿里收获的N个成长
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-08-01
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/zbxacs" style="flex: 1; color: #0366d6; text-decoration: none;">
-              可折叠Web可能会给我们带来的变化
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-07-31
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/sz7x0q" style="flex: 1; color: #0366d6; text-decoration: none;">
-              2020年，该如何选择小程序框架
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-07-29
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/front-end-problems" style="flex: 1; color: #0366d6; text-decoration: none;">
-              业务前端如何突破困境
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-07-21
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/gwrk8n" style="flex: 1; color: #0366d6; text-decoration: none;">
-              现在开始：用你的Mac训练和部署一个图片分类模型
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-07-20
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/cia993" style="flex: 1; color: #0366d6; text-decoration: none;">
-              你可能不太熟知的布局技巧
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-07-15
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/hlxur7" style="flex: 1; color: #0366d6; text-decoration: none;">
-              基于-React-打造高自由度的-IDE-布局系统
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-07-09
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/qsv9lg" style="flex: 1; color: #0366d6; text-decoration: none;">
-              频道业务黑科技--行业魔方
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2021-09-08
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/wpsf10" style="flex: 1; color: #0366d6; text-decoration: none;">
-              VS-Code-是如何优化启动性能的？
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2021-08-05
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/fufsgh" style="flex: 1; color: #0366d6; text-decoration: none;">
-              服饰3D柔性渲染调研及实践
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2021-06-23
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/fc3cy0" style="flex: 1; color: #0366d6; text-decoration: none;">
-              业务系统的稳定性建设
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2021-05-15
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/uihagy" style="flex: 1; color: #0366d6; text-decoration: none;">
-              All-in-one：项目级-monorepo-策略最佳实践
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2021-03-09
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/mvd9lw" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Midway-Serverless-发布-2.0，一体化让前端研发再次提效
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2021-02-10
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/tfeye7" style="flex: 1; color: #0366d6; text-decoration: none;">
-              2021年前端趋势预测
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-12-31
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/ffeogu" style="flex: 1; color: #0366d6; text-decoration: none;">
-              前端智能化实践—-P2C-从需求文档生成代码
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-12-10
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/krg5m9" style="flex: 1; color: #0366d6; text-decoration: none;">
-              舒文：浅谈阿里前端的多样化
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-12-02
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/uyaxag" style="flex: 1; color: #0366d6; text-decoration: none;">
-              CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2020-11-27
-            </time>
-            <a href="https://fed.taobao.org/blog/taofed/do71ct/fiayw0" style="flex: 1; color: #0366d6; text-decoration: none;">
-              Pick-阿里巴巴前端练习生计划，成为专业前端人！
-            </a>
-            
-          </li>
-
-        </ul>
-
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem;">
-          <a href="/category/details/淘系前端团队.md" style="color: #2563eb; text-decoration: none;">查看更多</a>
-          <a href="#文章来源" style="color: #2563eb; text-decoration: none;">⬆ &nbsp;返回顶部</a>
-        </div>
-      </div>
-    </details>
-  </div>
-
-  <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1rem 1.25rem; background: #f9fafb;">
-    <details open>
-      <summary id="张鑫旭-鑫空间-鑫生活" style="font-weight: 600; font-size: 1.05rem; display: flex; align-items: center; gap: 0.5rem;">
-        <span>张鑫旭-鑫空间-鑫生活</span>
-        
-      </summary>
-
-      <div style="margin-top: 0.75rem; display: flex; flex-direction: column; gap: 0.75rem;">
-        <ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem;">
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-20
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              CSS-reading-flow和reading-order属性简介
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-13
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              CSS-field-sizing属性简介
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-30
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              使用Intl.Segmenter返回更准确的字符长度
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-19
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              CSS-scroll-target-group加:target-current滚动菜单自动高亮
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-15
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              使用CSS-linear函数实现更逼真的物理动画效果
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-09-05
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              @function自定义函数让CSS支持编程啦
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-29
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              HTML之快速了解hidden=until-found的作用
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-26
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              抢先学习大开眼界的CSS-corner-shape属性
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-15
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              这个有点屌CSS-@container-scroll-state容器滚动查询
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-08-07
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              CSS索引和数量匹配函数sibling-index-sibling-count简介
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-31
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              HTML-popover再进化-–-新增hint类型提示框
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-25
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              CSS倒反天罡居然支持if函数了
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-16
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              JS正则新特性：安全过滤RegExp.escape方法
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-10
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              HTML新search元素,h1规则要变,声明式Shadow-DOM
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-04
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              好诶，select下拉框元素支持样式完全自定义啦！
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-30
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              CSS小图标剪裁终极解决方案clip-path-shape函数
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-18
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              text-wrap进化:支持两子属性和pretty-stable新值
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-13
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-04
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              JS-PageSwap-PageReveal事件干嘛用的？
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-05-28
-            </time>
-            <a href="https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              震惊，有生之年居然看到CSS-attr全属性支持
-            </a>
-            
-          </li>
-
-        </ul>
-
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem;">
-          <a href="/category/details/张鑫旭-鑫空间-鑫生活.md" style="color: #2563eb; text-decoration: none;">查看更多</a>
-          <a href="#文章来源" style="color: #2563eb; text-decoration: none;">⬆ &nbsp;返回顶部</a>
-        </div>
-      </div>
-    </details>
-  </div>
-
-  <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1rem 1.25rem; background: #f9fafb;">
-    <details open>
-      <summary id="阮一峰的网络日志" style="font-weight: 600; font-size: 1.05rem; display: flex; align-items: center; gap: 0.5rem;">
-        <span>阮一峰的网络日志</span>
-        
-      </summary>
-
-      <div style="margin-top: 0.75rem; display: flex; flex-direction: column; gap: 0.75rem;">
-        <ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem;">
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-07-04
-            </time>
-            <a href="http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html" style="flex: 1; color: #0366d6; text-decoration: none;">
-              科技爱好者周刊（第-355-期）：两本《芯片战争》
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-27
-            </time>
-            <a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html" style="flex: 1; color: #0366d6; text-decoration: none;">
-              科技爱好者周刊（第-354-期）：8000mAh-手机电池，说明了什么？
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-06-24
-            </time>
-            <a href="http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html" style="flex: 1; color: #0366d6; text-decoration: none;">
-              国产-AI-网页开发工具：豆包-AI-编程简单测评
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2024-07-19
-            </time>
-            <a href="http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html" style="flex: 1; color: #0366d6; text-decoration: none;">
-              科技爱好者周刊（第-309-期）：无人驾驶出租车的双面刃
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2024-07-12
-            </time>
-            <a href="http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html" style="flex: 1; color: #0366d6; text-decoration: none;">
-              科技爱好者周刊（第-308-期）：工作找不到，博士能读吗？
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2024-07-05
-            </time>
-            <a href="http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html" style="flex: 1; color: #0366d6; text-decoration: none;">
-              科技爱好者周刊（第-307-期）：不要看重-Product-Hunt
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2023-07-07
-            </time>
-            <a href="http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html" style="flex: 1; color: #0366d6; text-decoration: none;">
-              科技爱好者周刊（第-261-期）：黑客马拉松的正确方式
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2023-06-30
-            </time>
-            <a href="http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html" style="flex: 1; color: #0366d6; text-decoration: none;">
-              科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2023-06-16
-            </time>
-            <a href="http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html" style="flex: 1; color: #0366d6; text-decoration: none;">
-              科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT
-            </a>
-            
-          </li>
-
-        </ul>
-
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem;">
-          <a href="/category/details/阮一峰的网络日志.md" style="color: #2563eb; text-decoration: none;">查看更多</a>
-          <a href="#文章来源" style="color: #2563eb; text-decoration: none;">⬆ &nbsp;返回顶部</a>
-        </div>
-      </div>
-    </details>
-  </div>
-
-  <div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 1rem 1.25rem; background: #f9fafb;">
-    <details open>
-      <summary id="decohack-独立开发者的灵感周刊" style="font-weight: 600; font-size: 1.05rem; display: flex; align-items: center; gap: 0.5rem;">
-        <span>DecoHack-独立开发者的灵感周刊</span>
-        
-      </summary>
-
-      <div style="margin-top: 0.75rem; display: flex; flex-direction: column; gap: 0.75rem;">
-        <ul style="list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem;">
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-26
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-26/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-26
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-25
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-25/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-25
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-24
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-24/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-24
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-23
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-23/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-23
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-22
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-22/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-22
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-21
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-21/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-21
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-20
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-20/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-20
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-19
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-19/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-19
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-18
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-18/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-18
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-17
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-17/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-17
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-16
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-16/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-16
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-15
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-15/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-15
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-14
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-14/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-14
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-13
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-13/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-13
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-12
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-12/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-12
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-11
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-11/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-11
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-10
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-10/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-10
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-09
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-09/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-09
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-08
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-08/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-08
-            </a>
-            
-          </li>
-
-          <li style="display: flex; gap: 0.75rem; align-items: baseline;">
-            <time style="font-family: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 0.82rem; color: #6b7280; min-width: 88px;">
-              2025-10-07
-            </time>
-            <a href="https://decohack.com/producthunt-daily-2025-10-07/" style="flex: 1; color: #0366d6; text-decoration: none;">
-              PH今日热榜-|-2025-10-07
-            </a>
-            
-          </li>
-
-        </ul>
-
-        <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.85rem;">
-          <a href="/category/details/DecoHack-独立开发者的灵感周刊.md" style="color: #2563eb; text-decoration: none;">查看更多</a>
-          <a href="#文章来源" style="color: #2563eb; text-decoration: none;">⬆ &nbsp;返回顶部</a>
-        </div>
-      </div>
-    </details>
-  </div>
-
+<div align="right">
+<a href="/category/details/Node-Weekly.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
 </div>
+</details>
+
+
+<details open>
+<summary id="javascript-weekly">
+  <strong>JavaScript-Weekly</strong>
+</summary>
+<p></p>
+
+
+- **2025-10-24** - [Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)
+
+- **2025-10-17** - [A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)
+
+- **2025-10-10** - [Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)
+
+- **2025-10-03** - [React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)
+
+- **2025-09-26** - [The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754)
+
+- **2025-09-19** - [The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)
+
+- **2025-09-12** - [Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)
+
+- **2025-09-05** - [Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)
+
+- **2025-08-29** - [The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)
+
+- **2025-08-22** - [We-still-love-jQuery](https://javascriptweekly.com/issues/749)
+
+- **2025-08-08** - [How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)
+
+- **2025-08-01** - [Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)
+
+- **2025-07-25** - [Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)
+
+- **2025-07-18** - [A-tricky,-educational-quiz:-it's-about-time..](https://javascriptweekly.com/issues/745)
+
+- **2025-07-11** - [The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744)
+
+- **2025-07-04** - [The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743)
+
+- **2025-06-27** - [Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742)
+
+- **2025-06-20** - [Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)
+
+- **2025-06-13** - [Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740)
+
+- **2025-06-06** - [TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)
+
+
+<div align="right">
+<a href="/category/details/JavaScript-Weekly.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+</div>
+</details>
+
+
+<details open>
+<summary id="frontend-focus">
+  <strong>Frontend-Focus</strong>
+</summary>
+<p></p>
+
+
+- **2025-10-22** - [25-new-CSS-features-explained](https://frontendfoc.us/issues/714)
+
+- **2025-10-15** - [Firefox-finally-supports-View-Transitions](https://frontendfoc.us/issues/713)
+
+- **2025-10-08** - [How-Core-Web-Vitals-has-saved-us-thousands-of-years](https://frontendfoc.us/issues/712)
+
+- **2025-10-01** - [How-much-do-you-really-know-about-media-queries?](https://frontendfoc.us/issues/711)
+
+- **2025-09-24** - [What-you-need-to-know-about-modern-CSS](https://frontendfoc.us/issues/710)
+
+- **2025-09-17** - [Getting-animations-done-right-and-with-purpose](https://frontendfoc.us/issues/709)
+
+- **2025-09-10** - [What-you-need-to-know-about-color-interpolation-and-shifting](https://frontendfoc.us/issues/708)
+
+- **2025-09-03** - [As-Chrome-turns-17,-Google-gets-to-keep-it](https://frontendfoc.us/issues/707)
+
+- **2025-08-27** - [Rolling-the-dice-with-random-CSS](https://frontendfoc.us/issues/706)
+
+- **2025-08-20** - [Is-there-no-such-thing-as-a-'CSS-reset'?](https://frontendfoc.us/issues/705)
+
+- **2025-08-06** - [The-cascading-layers-of-importance](https://frontendfoc.us/issues/704)
+
+- **2025-07-30** - [Building-towards-CSS-masonry,-brick-by-brick](https://frontendfoc.us/issues/703)
+
+- **2025-07-23** - [What-you-need-to-know-about-SVGs](https://frontendfoc.us/issues/702)
+
+- **2025-07-16** - [Frontend-innovation-through-constraints](https://frontendfoc.us/issues/701)
+
+- **2025-07-09** - [The-opportunities-offered-by-CSS's-if](https://frontendfoc.us/issues/700)
+
+- **2025-07-02** - [All-the-colors-of-the-web](https://frontendfoc.us/issues/699)
+
+- **2025-06-25** - [Creating-scroll-driven-animations-with-just-CSS](https://frontendfoc.us/issues/698)
+
+- **2025-06-18** - [You're-not-a-frontend-dev-until-you've....](https://frontendfoc.us/issues/697)
+
+- **2025-06-11** - [Safari-jumps-to-26](https://frontendfoc.us/issues/696)
+
+- **2025-06-04** - [CSS-'if'-functions-start-to-roll-out](https://frontendfoc.us/issues/695)
+
+
+<div align="right">
+<a href="/category/details/Frontend-Focus.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+</div>
+</details>
+
+
+<details open>
+<summary id="react-status">
+  <strong>React-Status</strong>
+</summary>
+<p></p>
+
+
+- **2025-10-15** - [React-Compiler-1.0,-Bun-1.3,-and-Next.js-16-Beta](https://react.statuscode.com/issues/448)
+
+- **2025-10-08** - [The-React-Foundation-and-React-19.2](https://react.statuscode.com/issues/447)
+
+- **2025-10-01** - [Considering-React-state-management-options-in-2025](https://react.statuscode.com/issues/446)
+
+- **2025-09-24** - [TanStack-Start-v1-begins-to-appear](https://react.statuscode.com/issues/445)
+
+- **2025-09-17** - [How-to-keep-your-package.json-under-control](https://react.statuscode.com/issues/444)
+
+- **2025-09-10** - [Shopify's-journey-to-the-New-Architecture](https://react.statuscode.com/issues/443)
+
+- **2025-09-03** - [React-Server-Components-sans-frameworks](https://react.statuscode.com/issues/442)
+
+- **2025-08-27** - [localStorage-vs-Context,-Redux-or-Zustand](https://react.statuscode.com/issues/441)
+
+- **2025-08-20** - [Watch-three-developers-face-the-same-React-challenge](https://react.statuscode.com/issues/440)
+
+- **2025-08-06** - [Jack-Herrington's-tRPC-vs-oRPC-battle](https://react.statuscode.com/issues/439)
+
+- **2025-07-30** - [TanStack-DB-enters-beta-with-v0.1](https://react.statuscode.com/issues/438)
+
+- **2025-07-23** - [Figma-MCP-vs-Claude:-A-React-coding-battle](https://react.statuscode.com/issues/437)
+
+- **2025-07-16** - [Node-API-support-in-React-Native](https://react.statuscode.com/issues/436)
+
+- **2025-07-09** - [Getting-kinetic-with-React-Three-Fiber](https://react.statuscode.com/issues/435)
+
+- **2025-07-02** - [The-React/Rust-full-stack-option](https://react.statuscode.com/issues/434)
+
+- **2025-06-25** - [Recharts-3.0](https://react.statuscode.com/issues/433)
+
+- **2025-06-18** - [The-state-of-React-in-2025](https://react.statuscode.com/issues/432)
+
+- **2025-06-11** - [Dan-Abramov-continues-to-flesh-out-RSCs](https://react.statuscode.com/issues/431)
+
+- **2025-05-28** - [Core-React-concepts-explained-visually](https://react.statuscode.com/issues/430)
+
+- **2025-05-14** - [Now-React-can-make-circuit-boards-too](https://react.statuscode.com/issues/429)
+
+
+<div align="right">
+<a href="/category/details/React-Status.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+</div>
+</details>
+
+
+<details open>
+<summary id="淘系前端团队">
+  <strong>淘系前端团队</strong>
+</summary>
+<p></p>
+
+
+- **2020-08-16** - [淘系运营工作台前端体系](https://fed.taobao.org/blog/taofed/do71ct/oyf9hm)
+
+- **2020-08-13** - [一起来玩玩WebGL--第二弹](https://fed.taobao.org/blog/taofed/do71ct/ghlebo)
+
+- **2020-08-10** - [我在阿里收获的N个成长](https://fed.taobao.org/blog/taofed/do71ct/reqhle)
+
+- **2020-08-01** - [可折叠Web可能会给我们带来的变化](https://fed.taobao.org/blog/taofed/do71ct/zbxacs)
+
+- **2020-07-31** - [2020年，该如何选择小程序框架](https://fed.taobao.org/blog/taofed/do71ct/sz7x0q)
+
+- **2020-07-29** - [业务前端如何突破困境](https://fed.taobao.org/blog/taofed/do71ct/front-end-problems)
+
+- **2020-07-21** - [现在开始：用你的Mac训练和部署一个图片分类模型](https://fed.taobao.org/blog/taofed/do71ct/gwrk8n)
+
+- **2020-07-20** - [你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993)
+
+- **2020-07-15** - [基于-React-打造高自由度的-IDE-布局系统](https://fed.taobao.org/blog/taofed/do71ct/hlxur7)
+
+- **2020-07-09** - [频道业务黑科技--行业魔方](https://fed.taobao.org/blog/taofed/do71ct/qsv9lg)
+
+- **2021-09-08** - [VS-Code-是如何优化启动性能的？](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
+
+- **2021-08-05** - [服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)
+
+- **2021-06-23** - [业务系统的稳定性建设](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)
+
+- **2021-05-15** - [All-in-one：项目级-monorepo-策略最佳实践](https://fed.taobao.org/blog/taofed/do71ct/uihagy)
+
+- **2021-03-09** - [Midway-Serverless-发布-2.0，一体化让前端研发再次提效](https://fed.taobao.org/blog/taofed/do71ct/mvd9lw)
+
+- **2021-02-10** - [2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7)
+
+- **2020-12-31** - [前端智能化实践—-P2C-从需求文档生成代码](https://fed.taobao.org/blog/taofed/do71ct/ffeogu)
+
+- **2020-12-10** - [舒文：浅谈阿里前端的多样化](https://fed.taobao.org/blog/taofed/do71ct/krg5m9)
+
+- **2020-12-02** - [CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag)
+
+- **2020-11-27** - [Pick-阿里巴巴前端练习生计划，成为专业前端人！](https://fed.taobao.org/blog/taofed/do71ct/fiayw0)
+
+
+<div align="right">
+<a href="/category/details/淘系前端团队.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+</div>
+</details>
+
+
+<details open>
+<summary id="张鑫旭-鑫空间-鑫生活">
+  <strong>张鑫旭-鑫空间-鑫生活</strong>
+</summary>
+<p></p>
+
+
+- **2025-10-20** - [CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/)
+
+- **2025-10-13** - [CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/)
+
+- **2025-09-30** - [使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/)
+
+- **2025-09-19** - [CSS-scroll-target-group加:target-current滚动菜单自动高亮](https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/)
+
+- **2025-09-15** - [使用CSS-linear函数实现更逼真的物理动画效果](https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/)
+
+- **2025-09-05** - [@function自定义函数让CSS支持编程啦](https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/)
+
+- **2025-08-29** - [HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/)
+
+- **2025-08-26** - [抢先学习大开眼界的CSS-corner-shape属性](https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/)
+
+- **2025-08-15** - [这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/)
+
+- **2025-08-07** - [CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)
+
+- **2025-07-31** - [HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)
+
+- **2025-07-25** - [CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)
+
+- **2025-07-16** - [JS正则新特性：安全过滤RegExp.escape方法](https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/)
+
+- **2025-07-10** - [HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/)
+
+- **2025-07-04** - [好诶，select下拉框元素支持样式完全自定义啦！](https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/)
+
+- **2025-06-30** - [CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/)
+
+- **2025-06-18** - [text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/)
+
+- **2025-06-13** - [CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)
+
+- **2025-06-04** - [JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/)
+
+- **2025-05-28** - [震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/)
+
+
+<div align="right">
+<a href="/category/details/张鑫旭-鑫空间-鑫生活.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+</div>
+</details>
+
+
+<details open>
+<summary id="阮一峰的网络日志">
+  <strong>阮一峰的网络日志</strong>
+</summary>
+<p></p>
+
+
+- **2025-07-04** - [科技爱好者周刊（第-355-期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)
+
+- **2025-06-27** - [科技爱好者周刊（第-354-期）：8000mAh-手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)
+
+- **2025-06-24** - [国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)
+
+- **2024-07-19** - [科技爱好者周刊（第-309-期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)
+
+- **2024-07-12** - [科技爱好者周刊（第-308-期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)
+
+- **2024-07-05** - [科技爱好者周刊（第-307-期）：不要看重-Product-Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)
+
+- **2023-07-07** - [科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)
+
+- **2023-06-30** - [科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)
+
+- **2023-06-16** - [科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)
+
+
+<div align="right">
+<a href="/category/details/阮一峰的网络日志.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+</div>
+</details>
+
+
+<details open>
+<summary id="decohack-独立开发者的灵感周刊">
+  <strong>DecoHack-独立开发者的灵感周刊</strong> <img src="/assets/dot.png" alt="本次有更新" />
+</summary>
+<p></p>
+
+
+- **2025-10-27** - [PH今日热榜-|-2025-10-27](https://decohack.com/producthunt-daily-2025-10-27/) <img src="/assets/new.png" alt="NEW" />
+
+- **2025-10-26** - [PH今日热榜-|-2025-10-26](https://decohack.com/producthunt-daily-2025-10-26/)
+
+- **2025-10-25** - [PH今日热榜-|-2025-10-25](https://decohack.com/producthunt-daily-2025-10-25/)
+
+- **2025-10-24** - [PH今日热榜-|-2025-10-24](https://decohack.com/producthunt-daily-2025-10-24/)
+
+- **2025-10-23** - [PH今日热榜-|-2025-10-23](https://decohack.com/producthunt-daily-2025-10-23/)
+
+- **2025-10-22** - [PH今日热榜-|-2025-10-22](https://decohack.com/producthunt-daily-2025-10-22/)
+
+- **2025-10-21** - [PH今日热榜-|-2025-10-21](https://decohack.com/producthunt-daily-2025-10-21/)
+
+- **2025-10-20** - [PH今日热榜-|-2025-10-20](https://decohack.com/producthunt-daily-2025-10-20/)
+
+- **2025-10-19** - [PH今日热榜-|-2025-10-19](https://decohack.com/producthunt-daily-2025-10-19/)
+
+- **2025-10-18** - [PH今日热榜-|-2025-10-18](https://decohack.com/producthunt-daily-2025-10-18/)
+
+- **2025-10-17** - [PH今日热榜-|-2025-10-17](https://decohack.com/producthunt-daily-2025-10-17/)
+
+- **2025-10-16** - [PH今日热榜-|-2025-10-16](https://decohack.com/producthunt-daily-2025-10-16/)
+
+- **2025-10-15** - [PH今日热榜-|-2025-10-15](https://decohack.com/producthunt-daily-2025-10-15/)
+
+- **2025-10-14** - [PH今日热榜-|-2025-10-14](https://decohack.com/producthunt-daily-2025-10-14/)
+
+- **2025-10-13** - [PH今日热榜-|-2025-10-13](https://decohack.com/producthunt-daily-2025-10-13/)
+
+- **2025-10-12** - [PH今日热榜-|-2025-10-12](https://decohack.com/producthunt-daily-2025-10-12/)
+
+- **2025-10-11** - [PH今日热榜-|-2025-10-11](https://decohack.com/producthunt-daily-2025-10-11/)
+
+- **2025-10-10** - [PH今日热榜-|-2025-10-10](https://decohack.com/producthunt-daily-2025-10-10/)
+
+- **2025-10-09** - [PH今日热榜-|-2025-10-09](https://decohack.com/producthunt-daily-2025-10-09/)
+
+- **2025-10-08** - [PH今日热榜-|-2025-10-08](https://decohack.com/producthunt-daily-2025-10-08/)
+
+
+<div align="right">
+<a href="/category/details/DecoHack-独立开发者的灵感周刊.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+</div>
+</details>
+
+
