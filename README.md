@@ -1,6 +1,26 @@
-<div align="center"><img width="100" src="https://avatars.githubusercontent.com/u/30330837?s=400&u=1cd6e7c560308a159cf25295d652e375924ddf7e&v=4" style="border-radius: 50%;" /><h1></h1>
+<div align="center"><img width="100" src="https://avatars.githubusercontent.com/u/30330837?s=400&u=1cd6e7c560308a159cf25295d652e375924ddf7e&v=4" style="border-radius: 50%;" /><h1>NorthSeaCoder</h1>
 每天定时抓取感兴趣的前端技术文章，并推送到 GitHub 方便查看
+<p>🌱 聚焦前端工程化 · ⚙️ 热衷自动化脚本 · 🧰 持续整理优质前端内容</p>
+</div>
 
+## 我的 GitHub 数据
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=northseacoder" style="height: 160px;" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=northseacoder" style="height: 160px;" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=northseacoder&locale=zh_Hans&date_format=%5BY.%5Dm.%5Dd" style="height: 160px;" />
+  </a>
+</div>
+
+<div align="center" style="margin: 1rem 0;">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=northseacoder&theme=github" />
+  </a>
 </div>
 
 ## 项目参考
@@ -9,31 +29,60 @@
 - [CaoMeiYouRen](https://github.com/CaoMeiYouRen/CaoMeiYouRen);
 
 - [auto-green](https://github.com/justjavac/auto-green);
+
+## 配置说明
+- 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
+- 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
+
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
-
-[![my github stats](https://github-readme-stats.vercel.app/api?username=northseacoder)](https://github.com/anuraghazra/github-readme-stats)
-
 
 :alarm_clock: 更新时间: 2025-10-26 18:44:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
+<ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; padding: 0; margin: 0; list-style: none;">
 
-- [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [Frontend-Focus](#frontend-focus)  
-- [React-Status](#react-status)  
-- [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
-- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊)![](/assets/dot.png)   
+  <li style="break-inside: avoid; padding: 0.35rem 0;">
+    <a href="#node-weekly">Node-Weekly</a>
+  </li>
+
+  <li style="break-inside: avoid; padding: 0.35rem 0;">
+    <a href="#javascript-weekly">JavaScript-Weekly</a>
+  </li>
+
+  <li style="break-inside: avoid; padding: 0.35rem 0;">
+    <a href="#frontend-focus">Frontend-Focus</a>
+  </li>
+
+  <li style="break-inside: avoid; padding: 0.35rem 0;">
+    <a href="#react-status">React-Status</a>
+  </li>
+
+  <li style="break-inside: avoid; padding: 0.35rem 0;">
+    <a href="#淘系前端团队">淘系前端团队</a>
+  </li>
+
+  <li style="break-inside: avoid; padding: 0.35rem 0;">
+    <a href="#张鑫旭-鑫空间-鑫生活">张鑫旭-鑫空间-鑫生活</a>
+  </li>
+
+  <li style="break-inside: avoid; padding: 0.35rem 0;">
+    <a href="#阮一峰的网络日志">阮一峰的网络日志</a>
+  </li>
+
+  <li style="break-inside: avoid; padding: 0.35rem 0;">
+    <a href="#decohack-独立开发者的灵感周刊">DecoHack-独立开发者的灵感周刊</a> ![](/assets/dot.png)
+  </li>
+
+</ul>
 
 ## 文章链接
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: stretch;">
 
-<details open>
-<summary id="node-weekly">
- Node-Weekly
-</summary>
+  <div style="flex: 1 1 320px; min-width: 280px; max-width: 420px;">
+    <details open>
+      <summary id="node-weekly">
+       Node-Weekly
+      </summary>
 
 
 - [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597)  
@@ -58,16 +107,17 @@
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
 - [......【查看更多】......](/category/details/Node-Weekly.md)
 
-<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
-</details>
+      <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+    </details>
+  </div>
 
-<details open>
-<summary id="javascript-weekly">
- JavaScript-Weekly
-</summary>
+  <div style="flex: 1 1 320px; min-width: 280px; max-width: 420px;">
+    <details open>
+      <summary id="javascript-weekly">
+       JavaScript-Weekly
+      </summary>
 
-
-- [2025-10-24-Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)  
+- [2025-10-24-Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)
 - [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)  
 - [2025-10-10-Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)  
 - [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)  
@@ -89,14 +139,15 @@
 - [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)  
 - [......【查看更多】......](/category/details/JavaScript-Weekly.md)
 
-<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
-</details>
+      <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+    </details>
+  </div>
 
-<details open>
-<summary id="frontend-focus">
- Frontend-Focus
-</summary>
-
+  <div style="flex: 1 1 320px; min-width: 280px; max-width: 420px;">
+    <details open>
+      <summary id="frontend-focus">
+       Frontend-Focus
+      </summary>
 
 - [2025-10-22-25-new-CSS-features-explained](https://frontendfoc.us/issues/714)  
 - [2025-10-15-Firefox-finally-supports-View-Transitions](https://frontendfoc.us/issues/713)  
@@ -120,14 +171,15 @@
 - [2025-06-04-CSS-'if'-functions-start-to-roll-out](https://frontendfoc.us/issues/695)  
 - [......【查看更多】......](/category/details/Frontend-Focus.md)
 
-<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
-</details>
+      <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+    </details>
+  </div>
 
-<details open>
-<summary id="react-status">
- React-Status
-</summary>
-
+  <div style="flex: 1 1 320px; min-width: 280px; max-width: 420px;">
+    <details open>
+      <summary id="react-status">
+       React-Status
+      </summary>
 
 - [2025-10-15-React-Compiler-1.0,-Bun-1.3,-and-Next.js-16-Beta](https://react.statuscode.com/issues/448)  
 - [2025-10-08-The-React-Foundation-and-React-19.2](https://react.statuscode.com/issues/447)  
@@ -151,14 +203,15 @@
 - [2025-05-14-Now-React-can-make-circuit-boards-too](https://react.statuscode.com/issues/429)  
 - [......【查看更多】......](/category/details/React-Status.md)
 
-<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
-</details>
+      <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+    </details>
+  </div>
 
-<details open>
-<summary id="淘系前端团队">
- 淘系前端团队
-</summary>
-
+  <div style="flex: 1 1 320px; min-width: 280px; max-width: 420px;">
+    <details open>
+      <summary id="淘系前端团队">
+       淘系前端团队
+      </summary>
 
 - [2020-08-16-淘系运营工作台前端体系](https://fed.taobao.org/blog/taofed/do71ct/oyf9hm)  
 - [2020-08-13-一起来玩玩WebGL--第二弹](https://fed.taobao.org/blog/taofed/do71ct/ghlebo)  
@@ -182,14 +235,15 @@
 - [2020-11-27-Pick-阿里巴巴前端练习生计划，成为专业前端人！](https://fed.taobao.org/blog/taofed/do71ct/fiayw0)  
 - [......【查看更多】......](/category/details/淘系前端团队.md)
 
-<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
-</details>
+      <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+    </details>
+  </div>
 
-<details open>
-<summary id="张鑫旭-鑫空间-鑫生活">
- 张鑫旭-鑫空间-鑫生活
-</summary>
-
+  <div style="flex: 1 1 320px; min-width: 280px; max-width: 420px;">
+    <details open>
+      <summary id="张鑫旭-鑫空间-鑫生活">
+       张鑫旭-鑫空间-鑫生活
+      </summary>
 
 - [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/)  
 - [2025-10-13-CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/)  
@@ -213,14 +267,15 @@
 - [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/)  
 - [......【查看更多】......](/category/details/张鑫旭-鑫空间-鑫生活.md)
 
-<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
-</details>
+      <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+    </details>
+  </div>
 
-<details open>
-<summary id="阮一峰的网络日志">
- 阮一峰的网络日志
-</summary>
-
+  <div style="flex: 1 1 320px; min-width: 280px; max-width: 420px;">
+    <details open>
+      <summary id="阮一峰的网络日志">
+       阮一峰的网络日志
+      </summary>
 
 - [2025-07-04-科技爱好者周刊（第-355-期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)  
 - [2025-06-27-科技爱好者周刊（第-354-期）：8000mAh-手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html)  
@@ -233,14 +288,15 @@
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html)  
 - [......【查看更多】......](/category/details/阮一峰的网络日志.md)
 
-<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
-</details>
+      <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+    </details>
+  </div>
 
-<details open>
-<summary id="decohack-独立开发者的灵感周刊">
- DecoHack-独立开发者的灵感周刊
-</summary>
-
+  <div style="flex: 1 1 320px; min-width: 280px; max-width: 420px;">
+    <details open>
+      <summary id="decohack-独立开发者的灵感周刊">
+       DecoHack-独立开发者的灵感周刊
+      </summary>
 
 - [2025-10-26-PH今日热榜-|-2025-10-26](https://decohack.com/producthunt-daily-2025-10-26/) ![](/assets/new.png)  
 - [2025-10-25-PH今日热榜-|-2025-10-25](https://decohack.com/producthunt-daily-2025-10-25/)  
@@ -264,6 +320,7 @@
 - [2025-10-07-PH今日热榜-|-2025-10-07](https://decohack.com/producthunt-daily-2025-10-07/)  
 - [......【查看更多】......](/category/details/DecoHack-独立开发者的灵感周刊.md)
 
-<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
-</details>
-
+      <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+    </details>
+  </div>
+</div>

@@ -1,4 +1,4 @@
-import {logSuccess} from './utils/log';
+import {logSuccess, log} from './utils/log';
 import {isSameLink} from './utils';
 import fs from 'fs-extra';
 import dayjs from 'dayjs';
@@ -23,7 +23,28 @@ interface LinkItem {
 const RSS_PATH = './data/rss.json';
 const LINKS_PATH = './data/links.json';
 
-const rssJson: RssItem[] = fs.readJsonSync(RSS_PATH);
+// 从环境变量或文件中加载 RSS 配置
+const loadRssConfig = (): RssItem[] => {
+    // 优先从环境变量 RSS_FEEDS 读取
+    if (process.env.RSS_FEEDS) {
+        try {
+            const rssFeeds = JSON.parse(process.env.RSS_FEEDS);
+            if (Array.isArray(rssFeeds)) {
+                log('从环境变量 RSS_FEEDS 加载配置');
+                return rssFeeds as RssItem[];
+            }
+            log('环境变量 RSS_FEEDS 格式应为数组，使用默认配置文件');
+        } catch (e) {
+            log('环境变量 RSS_FEEDS 解析失败，使用默认配置文件');
+        }
+    }
+    
+    // 如果环境变量不存在，从文件读取
+    log('从配置文件加载 RSS 配置');
+    return fs.readJsonSync(RSS_PATH);
+};
+
+const rssJson: RssItem[] = loadRssConfig();
 const linksExist: LinkItem[] = fs.readJsonSync(LINKS_PATH);
 
 const linksJson: LinkItem[] = [];
