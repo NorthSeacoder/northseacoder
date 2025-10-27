@@ -38,7 +38,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-27 07:23:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-27 18:48:00，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -53,7 +53,7 @@
 
 - [淘系前端团队](#淘系前端团队)
 
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活) ![](/assets/dot.png)
 
 - [阮一峰的网络日志](#阮一峰的网络日志)
 
@@ -335,10 +335,12 @@
 
 <details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong>
+  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2025-10-27** - [Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-10-20** - [CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/)
 
@@ -377,8 +379,6 @@
 - **2025-06-13** - [CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)
 
 - **2025-06-04** - [JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/)
-
-- **2025-05-28** - [震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/)
 
 
 <div align="right">
