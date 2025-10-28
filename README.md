@@ -38,12 +38,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-27 18:48:00，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-28 18:50:37，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 
-- [Node-Weekly](#node-weekly)
+- [Node-Weekly](#node-weekly) ![](/assets/dot.png)
 
 - [JavaScript-Weekly](#javascript-weekly)
 
@@ -53,7 +53,7 @@
 
 - [淘系前端团队](#淘系前端团队)
 
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活) ![](/assets/dot.png)
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)
 
 - [阮一峰的网络日志](#阮一峰的网络日志)
 
@@ -65,10 +65,12 @@
 
 <details open>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong>
+  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2025-10-28** - [The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-10-21** - [Node.js-25.0-arrives](https://nodeweekly.com/issues/597)
 
@@ -107,8 +109,6 @@
 - **2025-06-03** - [PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)
 
 - **2025-05-27** - [What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)
-
-- **2025-05-13** - [Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)
 
 
 <div align="right">
@@ -335,12 +335,12 @@
 
 <details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>张鑫旭-鑫空间-鑫生活</strong>
 </summary>
 <p></p>
 
 
-- **2025-10-27** - [Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/) <img src="/assets/new.png" alt="NEW" />
+- **2025-10-27** - [Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/)
 
 - **2025-10-20** - [CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/)
 
@@ -426,7 +426,9 @@
 <p></p>
 
 
-- **2025-10-27** - [PH今日热榜-|-2025-10-27](https://decohack.com/producthunt-daily-2025-10-27/) <img src="/assets/new.png" alt="NEW" />
+- **2025-10-28** - [PH今日热榜-|-2025-10-28](https://decohack.com/producthunt-daily-2025-10-28/) <img src="/assets/new.png" alt="NEW" />
+
+- **2025-10-27** - [PH今日热榜-|-2025-10-27](https://decohack.com/producthunt-daily-2025-10-27/)
 
 - **2025-10-26** - [PH今日热榜-|-2025-10-26](https://decohack.com/producthunt-daily-2025-10-26/)
 
@@ -463,8 +465,6 @@
 - **2025-10-10** - [PH今日热榜-|-2025-10-10](https://decohack.com/producthunt-daily-2025-10-10/)
 
 - **2025-10-09** - [PH今日热榜-|-2025-10-09](https://decohack.com/producthunt-daily-2025-10-09/)
-
-- **2025-10-08** - [PH今日热榜-|-2025-10-08](https://decohack.com/producthunt-daily-2025-10-08/)
 
 
 <div align="right">
