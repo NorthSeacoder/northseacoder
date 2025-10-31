@@ -38,14 +38,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-30 18:48:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-31 18:48:27，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 
 - [Node-Weekly](#node-weekly)
 
-- [JavaScript-Weekly](#javascript-weekly)
+- [JavaScript-Weekly](#javascript-weekly) ![](/assets/dot.png)
 
 - [Frontend-Focus](#frontend-focus)
 
@@ -119,10 +119,12 @@
 
 <details open>
 <summary id="javascript-weekly">
-  <strong>JavaScript-Weekly</strong>
+  <strong>JavaScript-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2025-10-31** - [TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-10-24** - [Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)
 
@@ -161,8 +163,6 @@
 - **2025-06-20** - [Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)
 
 - **2025-06-13** - [Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740)
-
-- **2025-06-06** - [TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)
 
 
 <div align="right">
@@ -426,7 +426,9 @@
 <p></p>
 
 
-- **2025-10-30** - [PH今日热榜-|-2025-10-30](https://decohack.com/producthunt-daily-2025-10-30/) <img src="/assets/new.png" alt="NEW" />
+- **2025-10-31** - [PH今日热榜-|-2025-10-31](https://decohack.com/producthunt-daily-2025-10-31/) <img src="/assets/new.png" alt="NEW" />
+
+- **2025-10-30** - [PH今日热榜-|-2025-10-30](https://decohack.com/producthunt-daily-2025-10-30/)
 
 - **2025-10-29** - [PH今日热榜-|-2025-10-29](https://decohack.com/producthunt-daily-2025-10-29/)
 
@@ -463,8 +465,6 @@
 - **2025-10-13** - [PH今日热榜-|-2025-10-13](https://decohack.com/producthunt-daily-2025-10-13/)
 
 - **2025-10-12** - [PH今日热榜-|-2025-10-12](https://decohack.com/producthunt-daily-2025-10-12/)
-
-- **2025-10-11** - [PH今日热榜-|-2025-10-11](https://decohack.com/producthunt-daily-2025-10-11/)
 
 
 <div align="right">
