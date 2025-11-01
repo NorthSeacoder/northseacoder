@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,048+</h3>
+      <h3>📚 1,046+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,7 +56,7 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +3</h3>
+      <h3>🚀 +1</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
@@ -69,14 +69,10 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>1</strong> 个来源筛选最新的 <strong>3</strong> 条内容
+> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
 
 
-- **2025-10-31** · [科技爱好者周刊（第-371-期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html) _(来自 阮一峰的网络日志)_
-
-- **2025-10-24** · [科技爱好者周刊（第-370-期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html) _(来自 阮一峰的网络日志)_
-
-- **2025-10-21** · [错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html) _(来自 阮一峰的网络日志)_
+- **2025-11-01** · [PH今日热榜-|-2025-11-01](https://decohack.com/producthunt-daily-2025-11-01/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -99,7 +95,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2025-11-01 06:29:29 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2025-11-01 18:42:51 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -130,11 +126,11 @@
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    阮一峰的网络日志 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    阮一峰的网络日志
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    DecoHack-独立开发者的灵感周刊
+    DecoHack-独立开发者的灵感周刊 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
 </div>
@@ -466,18 +462,12 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="阮一峰的网络日志">
-  <strong>阮一峰的网络日志</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>阮一峰的网络日志</strong>
 </summary>
 <p></p>
 
-
-- **2025-10-31** - [科技爱好者周刊（第-371-期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html) <img src="/assets/new.png" alt="NEW" />
-
-- **2025-10-24** - [科技爱好者周刊（第-370-期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html) <img src="/assets/new.png" alt="NEW" />
-
-- **2025-10-21** - [错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-07-04** - [科技爱好者周刊（第-355-期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)
 
@@ -504,12 +494,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="decohack-独立开发者的灵感周刊">
-  <strong>DecoHack-独立开发者的灵感周刊</strong>
+  <strong>DecoHack-独立开发者的灵感周刊</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2025-11-01** - [PH今日热榜-|-2025-11-01](https://decohack.com/producthunt-daily-2025-11-01/) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-10-31** - [PH今日热榜-|-2025-10-31](https://decohack.com/producthunt-daily-2025-10-31/)
 
@@ -548,8 +540,6 @@
 - **2025-10-14** - [PH今日热榜-|-2025-10-14](https://decohack.com/producthunt-daily-2025-10-14/)
 
 - **2025-10-13** - [PH今日热榜-|-2025-10-13](https://decohack.com/producthunt-daily-2025-10-13/)
-
-- **2025-10-12** - [PH今日热榜-|-2025-10-12](https://decohack.com/producthunt-daily-2025-10-12/)
 
 
 <div align="right">
