@@ -1,69 +1,148 @@
-<div align="center"><img width="100" src="https://avatars.githubusercontent.com/u/30330837?s=400&u=1cd6e7c560308a159cf25295d652e375924ddf7e&v=4" style="border-radius: 50%;" /><h1>NorthSeaCoder</h1>
-每天定时抓取感兴趣的前端技术文章，并推送到 GitHub 方便查看
-<p>🌱 聚焦前端工程化 · ⚙️ 热衷自动化脚本 · 🧰 持续整理优质前端内容</p>
+
+<a id="top"></a>
+<div align="center">
+  <img width="116" src="https://avatars.githubusercontent.com/u/30330837?s=400&u=1cd6e7c560308a159cf25295d652e375924ddf7e&v=4" style="border-radius: 50%;" />
+  <h1>NorthSeaCoder</h1>
+  <p>每天定时抓取感兴趣的前端技术文章，并推送到 GitHub 方便查看</p>
+  <p>🌱 聚焦前端工程化 · ⚙️ 热衷自动化脚本 · 🧰 持续整理优质前端内容</p>
+  <p>
+    <a href="./TAGS.md">📚 分类总览</a> ·
+    <a href="./RSS_CONFIG.md">⚙️ RSS 配置指南</a> ·
+    <a href="https://github.com/northseacoder">🌐 更多项目</a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Front-end%20Engineering-1f6feb?style=for-the-badge" alt="Front-end Engineering" />
+    <img src="https://img.shields.io/badge/Automation%20Scripts-0d1117?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation Scripts" />
+    <img src="https://img.shields.io/badge/Content%20Curation-182642?style=for-the-badge&logo=rss&logoColor=orange" alt="Content Curation" />
+  </p>
 </div>
 
 <br/>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin: 2rem 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.25rem; margin: 2rem 0;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=northseacoder" style="height: 160px;" />
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=northseacoder&layout=compact&theme=default&langs_count=8&hide_border=true" style="height: 170px; border-radius: 12px;" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=northseacoder" style="height: 160px;" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=northseacoder&show_icons=true&include_all_commits=true&hide_rank=false&hide_border=true" style="height: 170px; border-radius: 12px;" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=northseacoder&locale=zh_Hans&date_format=%5BY.%5Dm.%5Dd" style="height: 160px;" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=northseacoder&locale=zh_Hans&date_format=%5BY.%5Dm.%5Dd&hide_border=true" style="height: 170px; border-radius: 12px;" />
   </a>
 </div>
 
 <div align="center" style="margin: 2rem 0;">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=northseacoder&theme=github" />
+    <img alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=northseacoder&theme=github&hide_border=true" style="max-width: 920px; width: 100%; border-radius: 16px;" />
   </a>
 </div>
 
-<br/>
+<div align="center" style="margin-bottom: 2.5rem;">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=northseacoder&theme=github-compact&hide_border=true&area=true" style="max-width: 920px; width: 100%; border-radius: 16px;" />
+  </a>
+</div>
 
-## 项目参考
-- [front-end-rss](https://github.com/ChanceYu/front-end-rss);
+## ⚡ 数据快照
 
-- [CaoMeiYouRen](https://github.com/CaoMeiYouRen/CaoMeiYouRen);
+<table>
+  <tr>
+    <td align="center">
+      <h3>📚 1,048+</h3>
+      <p>累计收录前端优质文章</p>
+    </td>
+    <td align="center">
+      <h3>🛰 8</h3>
+      <p>实时监听 RSS 源</p>
+    </td>
+    <td align="center">
+      <h3>🚀 +3</h3>
+      <p>本次新增内容</p>
+    </td>
+    <td align="center">
+      <h3>🆕 1</h3>
+      <p>本轮有更新的订阅源</p>
+    </td>
+  </tr>
+</table>
 
-- [auto-green](https://github.com/justjavac/auto-green);
 
-## 配置说明
+## 🌟 最近更新亮点
+
+> 已从 <strong>1</strong> 个来源筛选最新的 <strong>3</strong> 条内容
+
+
+- **2025-10-31** · [科技爱好者周刊（第-371-期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html) _(来自 阮一峰的网络日志)_
+
+- **2025-10-24** · [科技爱好者周刊（第-370-期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html) _(来自 阮一峰的网络日志)_
+
+- **2025-10-21** · [错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html) _(来自 阮一峰的网络日志)_
+
+
+
+
+## 🧠 技术关注 & 仓库价值
+
+- 🚀 构建自动化抓取流水线，保障前端资讯高频更新
+- 🧭 关注工程化、性能优化、体验设计等核心议题
+- 🧱 借助标签体系和分类页，快速定位专项知识
+- 🛠️ 提供配置示例，方便扩展个性化信息源
+
+## 🔗 项目参考
+
+- [front-end-rss](https://github.com/ChanceYu/front-end-rss)：最初的灵感来源
+- [CaoMeiYouRen](https://github.com/CaoMeiYouRen/CaoMeiYouRen)：样式与自动化参考
+- [auto-green](https://github.com/justjavac/auto-green)：GitHub Actions 自动化实践
+
+## ⚙️ 配置说明
+
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-##
-
-:alarm_clock: 更新时间: 2025-10-31 18:48:27，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+> ⏰ 更新时间: 2025-11-01 06:29:29 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
-- [Node-Weekly](#node-weekly)
+  <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
+    Node-Weekly
+  </a>
 
-- [JavaScript-Weekly](#javascript-weekly) ![](/assets/dot.png)
+  <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
+    JavaScript-Weekly
+  </a>
 
-- [Frontend-Focus](#frontend-focus)
+  <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
+    Frontend-Focus
+  </a>
 
-- [React-Status](#react-status)
+  <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
+    React-Status
+  </a>
 
-- [淘系前端团队](#淘系前端团队)
+  <a href="#淘系前端团队" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
+    淘系前端团队
+  </a>
 
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)
+  <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
+    张鑫旭-鑫空间-鑫生活
+  </a>
 
-- [阮一峰的网络日志](#阮一峰的网络日志)
+  <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
+    阮一峰的网络日志 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+  </a>
 
-- [DecoHack-独立开发者的灵感周刊](#decohack-独立开发者的灵感周刊) ![](/assets/dot.png)
+  <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
+    DecoHack-独立开发者的灵感周刊
+  </a>
 
+</div>
 
 ## 文章链接
 
 
-<details open>
+<details>
 <summary id="node-weekly">
   <strong>Node-Weekly</strong>
 </summary>
@@ -112,19 +191,19 @@
 
 
 <div align="right">
-<a href="/category/details/Node-Weekly.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+<a href="/category/details/Node-Weekly.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
 </div>
 </details>
 
 
-<details open>
+<details>
 <summary id="javascript-weekly">
-  <strong>JavaScript-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>JavaScript-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2025-10-31** - [TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759) <img src="/assets/new.png" alt="NEW" />
+- **2025-10-31** - [TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759)
 
 - **2025-10-24** - [Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)
 
@@ -166,12 +245,12 @@
 
 
 <div align="right">
-<a href="/category/details/JavaScript-Weekly.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+<a href="/category/details/JavaScript-Weekly.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
 </div>
 </details>
 
 
-<details open>
+<details>
 <summary id="frontend-focus">
   <strong>Frontend-Focus</strong>
 </summary>
@@ -220,12 +299,12 @@
 
 
 <div align="right">
-<a href="/category/details/Frontend-Focus.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+<a href="/category/details/Frontend-Focus.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
 </div>
 </details>
 
 
-<details open>
+<details>
 <summary id="react-status">
   <strong>React-Status</strong>
 </summary>
@@ -274,12 +353,12 @@
 
 
 <div align="right">
-<a href="/category/details/React-Status.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+<a href="/category/details/React-Status.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
 </div>
 </details>
 
 
-<details open>
+<details>
 <summary id="淘系前端团队">
   <strong>淘系前端团队</strong>
 </summary>
@@ -328,12 +407,12 @@
 
 
 <div align="right">
-<a href="/category/details/淘系前端团队.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+<a href="/category/details/淘系前端团队.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
 </div>
 </details>
 
 
-<details open>
+<details>
 <summary id="张鑫旭-鑫空间-鑫生活">
   <strong>张鑫旭-鑫空间-鑫生活</strong>
 </summary>
@@ -382,17 +461,23 @@
 
 
 <div align="right">
-<a href="/category/details/张鑫旭-鑫空间-鑫生活.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+<a href="/category/details/张鑫旭-鑫空间-鑫生活.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
 </div>
 </details>
 
 
 <details open>
 <summary id="阮一峰的网络日志">
-  <strong>阮一峰的网络日志</strong>
+  <strong>阮一峰的网络日志</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2025-10-31** - [科技爱好者周刊（第-371-期）：一个乐观主义者的专访](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-371.html) <img src="/assets/new.png" alt="NEW" />
+
+- **2025-10-24** - [科技爱好者周刊（第-370-期）：正确的代码高亮](http://www.ruanyifeng.com/blog/2025/10/weekly-issue-370.html) <img src="/assets/new.png" alt="NEW" />
+
+- **2025-10-21** - [错误处理：异常好于状态码](http://www.ruanyifeng.com/blog/2025/10/exception.html) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-07-04** - [科技爱好者周刊（第-355-期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)
 
@@ -414,19 +499,19 @@
 
 
 <div align="right">
-<a href="/category/details/阮一峰的网络日志.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+<a href="/category/details/阮一峰的网络日志.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
 </div>
 </details>
 
 
-<details open>
+<details>
 <summary id="decohack-独立开发者的灵感周刊">
-  <strong>DecoHack-独立开发者的灵感周刊</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>DecoHack-独立开发者的灵感周刊</strong>
 </summary>
 <p></p>
 
 
-- **2025-10-31** - [PH今日热榜-|-2025-10-31](https://decohack.com/producthunt-daily-2025-10-31/) <img src="/assets/new.png" alt="NEW" />
+- **2025-10-31** - [PH今日热榜-|-2025-10-31](https://decohack.com/producthunt-daily-2025-10-31/)
 
 - **2025-10-30** - [PH今日热榜-|-2025-10-30](https://decohack.com/producthunt-daily-2025-10-30/)
 
@@ -468,7 +553,7 @@
 
 
 <div align="right">
-<a href="/category/details/DecoHack-独立开发者的灵感周刊.md">查看更多</a> | <a href="#文章来源">⬆ 返回顶部</a>
+<a href="/category/details/DecoHack-独立开发者的灵感周刊.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
 </div>
 </details>
 
