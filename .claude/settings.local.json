@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/yqg/personal/northseacoder -type f ( -name \".cursorrules\" -o -name \"*.cursorrules\" -o -path \"*/.cursor/rules/*\" ))"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
