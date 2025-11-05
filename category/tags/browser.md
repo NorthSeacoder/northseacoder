@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-04 18:48:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-05 18:48:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,7 @@
 - [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757) 
 - [2025-09-12-Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752) 
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656) 
+- [2025-11-05-Getting-perfect-tooltip-placement](https://frontendfoc.us/issues/716) 
 - [2025-10-01-How-much-do-you-really-know-about-media-queries?](https://frontendfoc.us/issues/711) 
 - [2025-09-03-As-Chrome-turns-17,-Google-gets-to-keep-it](https://frontendfoc.us/issues/707) 
 - [2025-06-11-Safari-jumps-to-26](https://frontendfoc.us/issues/696) 

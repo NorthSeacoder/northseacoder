@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-10-29 18:48:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-05 18:48:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2025-11-05-Bringing-Godot-Engine-into-React-Native-Apps](https://react.statuscode.com/issues/450) 
 - [2025-10-29-Are-we-getting-locked-in-by-directives?](https://react.statuscode.com/issues/449) 
 - [2025-10-15-React-Compiler-1.0,-Bun-1.3,-and-Next.js-16-Beta](https://react.statuscode.com/issues/448) 
 - [2025-10-08-The-React-Foundation-and-React-19.2](https://react.statuscode.com/issues/447) 
