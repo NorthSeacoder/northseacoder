@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-11-05 18:48:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-12 18:46:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-11-12-Those-are-some-S-tier-animation-techniques](https://frontendfoc.us/issues/717) 
 - [2025-11-05-Getting-perfect-tooltip-placement](https://frontendfoc.us/issues/716) 
 - [2025-10-29-The-future-of-progressive-image-rendering](https://frontendfoc.us/issues/715) 
 - [2025-10-22-25-new-CSS-features-explained](https://frontendfoc.us/issues/714) 
