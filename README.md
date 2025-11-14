@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,067+</h3>
+      <h3>📚 1,069+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +1</h3>
+      <h3>🚀 +2</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 1</h3>
+      <h3>🆕 2</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,10 +69,12 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
+> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2025-11-13** · [PH今日热榜-|-2025-11-13](https://decohack.com/producthunt-daily-2025-11-13/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2025-11-14** · [Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761) _(来自 JavaScript-Weekly)_
+
+- **2025-11-14** · [PH今日热榜-|-2025-11-14](https://decohack.com/producthunt-daily-2025-11-14/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -95,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2025-11-13 18:49:00 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2025-11-14 18:48:44 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -106,7 +108,7 @@
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    JavaScript-Weekly
+    JavaScript-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -192,12 +194,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="javascript-weekly">
-  <strong>JavaScript-Weekly</strong>
+  <strong>JavaScript-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2025-11-14** - [Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-11-07** - [How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)
 
@@ -236,8 +240,6 @@
 - **2025-07-04** - [The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743)
 
 - **2025-06-27** - [Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742)
-
-- **2025-06-20** - [Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)
 
 
 <div align="right">
@@ -501,7 +503,9 @@
 <p></p>
 
 
-- **2025-11-13** - [PH今日热榜-|-2025-11-13](https://decohack.com/producthunt-daily-2025-11-13/) <img src="/assets/new.png" alt="NEW" />
+- **2025-11-14** - [PH今日热榜-|-2025-11-14](https://decohack.com/producthunt-daily-2025-11-14/) <img src="/assets/new.png" alt="NEW" />
+
+- **2025-11-13** - [PH今日热榜-|-2025-11-13](https://decohack.com/producthunt-daily-2025-11-13/)
 
 - **2025-11-12** - [PH今日热榜-|-2025-11-12](https://decohack.com/producthunt-daily-2025-11-12/)
 
@@ -538,8 +542,6 @@
 - **2025-10-27** - [PH今日热榜-|-2025-10-27](https://decohack.com/producthunt-daily-2025-10-27/)
 
 - **2025-10-26** - [PH今日热榜-|-2025-10-26](https://decohack.com/producthunt-daily-2025-10-26/)
-
-- **2025-10-25** - [PH今日热榜-|-2025-10-25](https://decohack.com/producthunt-daily-2025-10-25/)
 
 
 <div align="right">
