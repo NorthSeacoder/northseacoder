@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-11-12 18:46:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-19 18:47:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2025-11-19-Time-to-take-the-State-of-React-2025-survey](https://react.statuscode.com/issues/452) 
 - [2025-11-12-Beware-the-overuse-of-useTransition](https://react.statuscode.com/issues/451) 
 - [2025-11-05-Bringing-Godot-Engine-into-React-Native-Apps](https://react.statuscode.com/issues/450) 
 - [2025-10-29-Are-we-getting-locked-in-by-directives?](https://react.statuscode.com/issues/449) 

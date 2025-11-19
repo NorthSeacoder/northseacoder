@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,075+</h3>
+      <h3>📚 1,078+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +2</h3>
+      <h3>🚀 +3</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 2</h3>
+      <h3>🆕 3</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,12 +69,14 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
+> 已从 <strong>3</strong> 个来源筛选最新的 <strong>3</strong> 条内容
 
 
-- **2025-11-18** · [Did-you-know-Node-has-a-'deprecate'-method?](https://nodeweekly.com/issues/601) _(来自 Node-Weekly)_
+- **2025-11-19** · [Tuesday-was-a-big-day-for-both-Cloudflare-and-Google](https://frontendfoc.us/issues/718) _(来自 Frontend-Focus)_
 
-- **2025-11-18** · [PH今日热榜-|-2025-11-18](https://decohack.com/producthunt-daily-2025-11-18/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2025-11-19** · [Time-to-take-the-State-of-React-2025-survey](https://react.statuscode.com/issues/452) _(来自 React-Status)_
+
+- **2025-11-19** · [PH今日热榜-|-2025-11-19](https://decohack.com/producthunt-daily-2025-11-19/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,14 +99,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2025-11-18 18:50:39 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2025-11-19 18:47:47 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Node-Weekly
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -112,11 +114,11 @@
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus
+    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    React-Status
+    React-Status <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#淘系前端团队" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -140,14 +142,14 @@
 ## 文章链接
 
 
-<details open>
+<details>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Node-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2025-11-18** - [Did-you-know-Node-has-a-'deprecate'-method?](https://nodeweekly.com/issues/601) <img src="/assets/new.png" alt="NEW" />
+- **2025-11-18** - [Did-you-know-Node-has-a-'deprecate'-method?](https://nodeweekly.com/issues/601)
 
 - **2025-11-11** - [Ten-top-web-application-security-threats](https://nodeweekly.com/issues/600)
 
@@ -248,12 +250,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong>
+  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2025-11-19** - [Tuesday-was-a-big-day-for-both-Cloudflare-and-Google](https://frontendfoc.us/issues/718) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-11-12** - [Those-are-some-S-tier-animation-techniques](https://frontendfoc.us/issues/717)
 
@@ -293,8 +297,6 @@
 
 - **2025-07-02** - [All-the-colors-of-the-web](https://frontendfoc.us/issues/699)
 
-- **2025-06-25** - [Creating-scroll-driven-animations-with-just-CSS](https://frontendfoc.us/issues/698)
-
 
 <div align="right">
 <a href="/category/details/Frontend-Focus.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
@@ -302,12 +304,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="react-status">
-  <strong>React-Status</strong>
+  <strong>React-Status</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2025-11-19** - [Time-to-take-the-State-of-React-2025-survey](https://react.statuscode.com/issues/452) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-11-12** - [Beware-the-overuse-of-useTransition](https://react.statuscode.com/issues/451)
 
@@ -346,8 +350,6 @@
 - **2025-07-02** - [The-React/Rust-full-stack-option](https://react.statuscode.com/issues/434)
 
 - **2025-06-25** - [Recharts-3.0](https://react.statuscode.com/issues/433)
-
-- **2025-06-18** - [The-state-of-React-in-2025](https://react.statuscode.com/issues/432)
 
 
 <div align="right">
@@ -503,7 +505,9 @@
 <p></p>
 
 
-- **2025-11-18** - [PH今日热榜-|-2025-11-18](https://decohack.com/producthunt-daily-2025-11-18/) <img src="/assets/new.png" alt="NEW" />
+- **2025-11-19** - [PH今日热榜-|-2025-11-19](https://decohack.com/producthunt-daily-2025-11-19/) <img src="/assets/new.png" alt="NEW" />
+
+- **2025-11-18** - [PH今日热榜-|-2025-11-18](https://decohack.com/producthunt-daily-2025-11-18/)
 
 - **2025-11-17** - [PH今日热榜-|-2025-11-17](https://decohack.com/producthunt-daily-2025-11-17/)
 
@@ -540,8 +544,6 @@
 - **2025-11-01** - [PH今日热榜-|-2025-11-01](https://decohack.com/producthunt-daily-2025-11-01/)
 
 - **2025-10-31** - [PH今日热榜-|-2025-10-31](https://decohack.com/producthunt-daily-2025-10-31/)
-
-- **2025-10-30** - [PH今日热榜-|-2025-10-30](https://decohack.com/producthunt-daily-2025-10-30/)
 
 
 <div align="right">
