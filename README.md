@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,078+</h3>
+      <h3>📚 1,079+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +3</h3>
+      <h3>🚀 +1</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 3</h3>
+      <h3>🆕 1</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,14 +69,10 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>3</strong> 个来源筛选最新的 <strong>3</strong> 条内容
+> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
 
 
-- **2025-11-19** · [Tuesday-was-a-big-day-for-both-Cloudflare-and-Google](https://frontendfoc.us/issues/718) _(来自 Frontend-Focus)_
-
-- **2025-11-19** · [Time-to-take-the-State-of-React-2025-survey](https://react.statuscode.com/issues/452) _(来自 React-Status)_
-
-- **2025-11-19** · [PH今日热榜-|-2025-11-19](https://decohack.com/producthunt-daily-2025-11-19/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2025-11-20** · [PH今日热榜-|-2025-11-20](https://decohack.com/producthunt-daily-2025-11-20/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -99,7 +95,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2025-11-19 18:47:47 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2025-11-20 18:50:03 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -114,11 +110,11 @@
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Frontend-Focus
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    React-Status <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    React-Status
   </a>
 
   <a href="#淘系前端团队" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -250,14 +246,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Frontend-Focus</strong>
 </summary>
 <p></p>
 
 
-- **2025-11-19** - [Tuesday-was-a-big-day-for-both-Cloudflare-and-Google](https://frontendfoc.us/issues/718) <img src="/assets/new.png" alt="NEW" />
+- **2025-11-19** - [Tuesday-was-a-big-day-for-both-Cloudflare-and-Google](https://frontendfoc.us/issues/718)
 
 - **2025-11-12** - [Those-are-some-S-tier-animation-techniques](https://frontendfoc.us/issues/717)
 
@@ -304,14 +300,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="react-status">
-  <strong>React-Status</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>React-Status</strong>
 </summary>
 <p></p>
 
 
-- **2025-11-19** - [Time-to-take-the-State-of-React-2025-survey](https://react.statuscode.com/issues/452) <img src="/assets/new.png" alt="NEW" />
+- **2025-11-19** - [Time-to-take-the-State-of-React-2025-survey](https://react.statuscode.com/issues/452)
 
 - **2025-11-12** - [Beware-the-overuse-of-useTransition](https://react.statuscode.com/issues/451)
 
@@ -505,7 +501,9 @@
 <p></p>
 
 
-- **2025-11-19** - [PH今日热榜-|-2025-11-19](https://decohack.com/producthunt-daily-2025-11-19/) <img src="/assets/new.png" alt="NEW" />
+- **2025-11-20** - [PH今日热榜-|-2025-11-20](https://decohack.com/producthunt-daily-2025-11-20/) <img src="/assets/new.png" alt="NEW" />
+
+- **2025-11-19** - [PH今日热榜-|-2025-11-19](https://decohack.com/producthunt-daily-2025-11-19/)
 
 - **2025-11-18** - [PH今日热榜-|-2025-11-18](https://decohack.com/producthunt-daily-2025-11-18/)
 
@@ -542,8 +540,6 @@
 - **2025-11-02** - [PH今日热榜-|-2025-11-02](https://decohack.com/producthunt-daily-2025-11-02/)
 
 - **2025-11-01** - [PH今日热榜-|-2025-11-01](https://decohack.com/producthunt-daily-2025-11-01/)
-
-- **2025-10-31** - [PH今日热榜-|-2025-10-31](https://decohack.com/producthunt-daily-2025-10-31/)
 
 
 <div align="right">
