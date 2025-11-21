@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-20 18:50:03。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-21 18:45:14。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -527,10 +527,10 @@
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】A-significant-Angular-release](https://javascriptweekly.com/issues/762)
 - [【JavaScript-Weekly】We-still-love-jQuery](https://javascriptweekly.com/issues/749)
 - [【JavaScript-Weekly】A-tricky,-educational-quiz:-it's-about-time..](https://javascriptweekly.com/issues/745)
 - [【JavaScript-Weekly】Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740)
-- [【JavaScript-Weekly】TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
