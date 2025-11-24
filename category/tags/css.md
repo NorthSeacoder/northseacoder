@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-23 18:45:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-24 18:51:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -37,6 +37,7 @@
 - [2023-06-14-The-gotchas-of-CSS-nesting](https://frontendfoc.us/issues/597) 
 - [2020-07-20-你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993) 
 - [2021-03-09-Midway-Serverless-发布-2.0，一体化让前端研发再次提效](https://fed.taobao.org/blog/taofed/do71ct/mvd9lw) 
+- [2025-11-24-巧用CSS-::details-content伪元素实现任意展开动画](https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/) 
 - [2025-11-10-CSS锚点定位实战-鼠标跟随交互效果](https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/) 
 - [2025-11-03-垃圾特性之CSS-:heading伪类和:heading函数](https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/) 
 - [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/) 
