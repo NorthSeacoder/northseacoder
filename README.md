@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,085+</h3>
+      <h3>📚 1,087+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,9 +72,9 @@
 > 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2025-11-24** · [巧用CSS-::details-content伪元素实现任意展开动画](https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/) _(来自 张鑫旭-鑫空间-鑫生活)_
+- **2025-11-25** · [Guess-who's-back,-back-again?-Shai-Hulud.](https://nodeweekly.com/issues/602) _(来自 Node-Weekly)_
 
-- **2025-11-24** · [PH今日热榜-|-2025-11-24](https://decohack.com/producthunt-daily-2025-11-24/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2025-11-25** · [PH今日热榜-|-2025-11-25](https://decohack.com/producthunt-daily-2025-11-25/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,14 +97,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2025-11-24 18:51:04 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2025-11-25 18:49:29 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly
+    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -124,7 +124,7 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    张鑫旭-鑫空间-鑫生活
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -140,12 +140,14 @@
 ## 文章链接
 
 
-<details>
+<details open>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong>
+  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2025-11-25** - [Guess-who's-back,-back-again?-Shai-Hulud.](https://nodeweekly.com/issues/602) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-11-18** - [Did-you-know-Node-has-a-'deprecate'-method?](https://nodeweekly.com/issues/601)
 
@@ -184,8 +186,6 @@
 - **2025-07-01** - [Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)
 
 - **2025-06-24** - [Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)
-
-- **2025-06-17** - [One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)
 
 
 <div align="right">
@@ -410,14 +410,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>张鑫旭-鑫空间-鑫生活</strong>
 </summary>
 <p></p>
 
 
-- **2025-11-24** - [巧用CSS-::details-content伪元素实现任意展开动画](https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/) <img src="/assets/new.png" alt="NEW" />
+- **2025-11-24** - [巧用CSS-::details-content伪元素实现任意展开动画](https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/)
 
 - **2025-11-17** - [介绍下与CSS自定义组件相关的:state函数](https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/)
 
@@ -503,7 +503,9 @@
 <p></p>
 
 
-- **2025-11-24** - [PH今日热榜-|-2025-11-24](https://decohack.com/producthunt-daily-2025-11-24/) <img src="/assets/new.png" alt="NEW" />
+- **2025-11-25** - [PH今日热榜-|-2025-11-25](https://decohack.com/producthunt-daily-2025-11-25/) <img src="/assets/new.png" alt="NEW" />
+
+- **2025-11-24** - [PH今日热榜-|-2025-11-24](https://decohack.com/producthunt-daily-2025-11-24/)
 
 - **2025-11-23** - [PH今日热榜-|-2025-11-23](https://decohack.com/producthunt-daily-2025-11-23/)
 
@@ -540,8 +542,6 @@
 - **2025-11-07** - [PH今日热榜-|-2025-11-07](https://decohack.com/producthunt-daily-2025-11-07/)
 
 - **2025-11-06** - [PH今日热榜-|-2025-11-06](https://decohack.com/producthunt-daily-2025-11-06/)
-
-- **2025-11-05** - [PH今日热榜-|-2025-11-05](https://decohack.com/producthunt-daily-2025-11-05/)
 
 
 <div align="right">
