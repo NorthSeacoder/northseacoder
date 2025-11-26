@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-25 18:49:29。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-26 18:46:18。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 - [【JavaScript-Weekly】React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】Migrating-6000-React-tests-with-agents-and-ASTs](https://react.statuscode.com/issues/453)
 - [【React-Status】Time-to-take-the-State-of-React-2025-survey](https://react.statuscode.com/issues/452)
 - [【React-Status】Bringing-Godot-Engine-into-React-Native-Apps](https://react.statuscode.com/issues/450)
 - [【React-Status】React-Compiler-1.0,-Bun-1.3,-and-Next.js-16-Beta](https://react.statuscode.com/issues/448)
@@ -57,7 +58,6 @@
 - [【React-Status】Now-React-can-make-circuit-boards-too](https://react.statuscode.com/issues/429)
 - [【React-Status】Comparing-React-Server-Components-with-Astro's-islands](https://react.statuscode.com/issues/428)
 - [【React-Status】A-mega-React-Labs-update](https://react.statuscode.com/issues/427)
-- [【React-Status】Advanced,-real-world-React-case-studies](https://react.statuscode.com/issues/425)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

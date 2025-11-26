@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-25 18:49:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-26 18:46:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -9,6 +9,7 @@
 
 - [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755) 
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) 
+- [2025-11-26-Migrating-6000-React-tests-with-agents-and-ASTs](https://react.statuscode.com/issues/453) 
 - [2025-11-19-Time-to-take-the-State-of-React-2025-survey](https://react.statuscode.com/issues/452) 
 - [2025-11-05-Bringing-Godot-Engine-into-React-Native-Apps](https://react.statuscode.com/issues/450) 
 - [2025-10-15-React-Compiler-1.0,-Bun-1.3,-and-Next.js-16-Beta](https://react.statuscode.com/issues/448) 
