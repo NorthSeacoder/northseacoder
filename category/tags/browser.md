@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-27 18:47:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-28 18:47:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -29,3 +29,4 @@
 - [2025-10-29-Are-we-getting-locked-in-by-directives?](https://react.statuscode.com/issues/449) 
 - [2023-12-13-Storybook-gets-on-board-with-RSCs](https://react.statuscode.com/issues/366) 
 - [2020-12-02-CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag) 
+- [2025-11-28-醒醒，该使用CookieStore新建和管理cookie了](https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/) 
