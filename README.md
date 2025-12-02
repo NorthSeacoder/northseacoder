@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,097+</h3>
+      <h3>📚 1,099+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +1</h3>
+      <h3>🚀 +2</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 1</h3>
+      <h3>🆕 2</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,10 +69,12 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
+> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2025-12-01** · [PH今日热榜-|-2025-12-01](https://decohack.com/producthunt-daily-2025-12-01/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2025-12-02** · [Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603) _(来自 Node-Weekly)_
+
+- **2025-12-02** · [PH今日热榜-|-2025-12-02](https://decohack.com/producthunt-daily-2025-12-02/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -95,14 +97,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2025-12-01 18:55:51 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2025-12-02 18:54:09 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly
+    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -138,12 +140,14 @@
 ## 文章链接
 
 
-<details>
+<details open>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong>
+  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2025-12-02** - [Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-11-25** - [Guess-who's-back,-back-again?-Shai-Hulud.](https://nodeweekly.com/issues/602)
 
@@ -182,8 +186,6 @@
 - **2025-07-08** - [A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)
 
 - **2025-07-01** - [Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)
-
-- **2025-06-24** - [Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)
 
 
 <div align="right">
@@ -501,7 +503,9 @@
 <p></p>
 
 
-- **2025-12-01** - [PH今日热榜-|-2025-12-01](https://decohack.com/producthunt-daily-2025-12-01/) <img src="/assets/new.png" alt="NEW" />
+- **2025-12-02** - [PH今日热榜-|-2025-12-02](https://decohack.com/producthunt-daily-2025-12-02/) <img src="/assets/new.png" alt="NEW" />
+
+- **2025-12-01** - [PH今日热榜-|-2025-12-01](https://decohack.com/producthunt-daily-2025-12-01/)
 
 - **2025-11-30** - [PH今日热榜-|-2025-11-30](https://decohack.com/producthunt-daily-2025-11-30/)
 
@@ -538,8 +542,6 @@
 - **2025-11-14** - [PH今日热榜-|-2025-11-14](https://decohack.com/producthunt-daily-2025-11-14/)
 
 - **2025-11-13** - [PH今日热榜-|-2025-11-13](https://decohack.com/producthunt-daily-2025-11-13/)
-
-- **2025-11-12** - [PH今日热榜-|-2025-11-12](https://decohack.com/producthunt-daily-2025-11-12/)
 
 
 <div align="right">
