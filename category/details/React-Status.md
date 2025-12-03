@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-11-26 18:46:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-03 18:52:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2025-12-03-React-gets-a-security-update-for-RSC-supporting-apps](https://react.statuscode.com/issues/454) 
 - [2025-11-26-Migrating-6000-React-tests-with-agents-and-ASTs](https://react.statuscode.com/issues/453) 
 - [2025-11-19-Time-to-take-the-State-of-React-2025-survey](https://react.statuscode.com/issues/452) 
 - [2025-11-12-Beware-the-overuse-of-useTransition](https://react.statuscode.com/issues/451) 
