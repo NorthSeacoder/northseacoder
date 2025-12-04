@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,102+</h3>
+      <h3>📚 1,104+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +3</h3>
+      <h3>🚀 +2</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 3</h3>
+      <h3>🆕 2</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,14 +69,12 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>3</strong> 个来源筛选最新的 <strong>3</strong> 条内容
+> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2025-12-03** · [It's-time-to-open-some-web-advent-calendars](https://frontendfoc.us/issues/720) _(来自 Frontend-Focus)_
+- **2025-12-04** · [单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/) _(来自 张鑫旭-鑫空间-鑫生活)_
 
-- **2025-12-03** · [React-gets-a-security-update-for-RSC-supporting-apps](https://react.statuscode.com/issues/454) _(来自 React-Status)_
-
-- **2025-12-03** · [PH今日热榜-|-2025-12-03](https://decohack.com/producthunt-daily-2025-12-03/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2025-12-04** · [PH今日热榜-|-2025-12-04](https://decohack.com/producthunt-daily-2025-12-04/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -99,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2025-12-03 18:52:43 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2025-12-04 18:53:57 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -114,11 +112,11 @@
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Frontend-Focus
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    React-Status <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    React-Status
   </a>
 
   <a href="#淘系前端团队" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -126,7 +124,7 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活
+    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -250,14 +248,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Frontend-Focus</strong>
 </summary>
 <p></p>
 
 
-- **2025-12-03** - [It's-time-to-open-some-web-advent-calendars](https://frontendfoc.us/issues/720) <img src="/assets/new.png" alt="NEW" />
+- **2025-12-03** - [It's-time-to-open-some-web-advent-calendars](https://frontendfoc.us/issues/720)
 
 - **2025-11-26** - [How-Wikipedia-handled-a-domain-change](https://frontendfoc.us/issues/719)
 
@@ -304,14 +302,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="react-status">
-  <strong>React-Status</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>React-Status</strong>
 </summary>
 <p></p>
 
 
-- **2025-12-03** - [React-gets-a-security-update-for-RSC-supporting-apps](https://react.statuscode.com/issues/454) <img src="/assets/new.png" alt="NEW" />
+- **2025-12-03** - [React-gets-a-security-update-for-RSC-supporting-apps](https://react.statuscode.com/issues/454)
 
 - **2025-11-26** - [Migrating-6000-React-tests-with-agents-and-ASTs](https://react.statuscode.com/issues/453)
 
@@ -412,12 +410,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong>
+  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2025-12-04** - [单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-11-28** - [醒醒，该使用CookieStore新建和管理cookie了](https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/)
 
@@ -456,8 +456,6 @@
 - **2025-07-25** - [CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)
 
 - **2025-07-16** - [JS正则新特性：安全过滤RegExp.escape方法](https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/)
-
-- **2025-07-10** - [HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/)
 
 
 <div align="right">
@@ -505,7 +503,9 @@
 <p></p>
 
 
-- **2025-12-03** - [PH今日热榜-|-2025-12-03](https://decohack.com/producthunt-daily-2025-12-03/) <img src="/assets/new.png" alt="NEW" />
+- **2025-12-04** - [PH今日热榜-|-2025-12-04](https://decohack.com/producthunt-daily-2025-12-04/) <img src="/assets/new.png" alt="NEW" />
+
+- **2025-12-03** - [PH今日热榜-|-2025-12-03](https://decohack.com/producthunt-daily-2025-12-03/)
 
 - **2025-12-02** - [PH今日热榜-|-2025-12-02](https://decohack.com/producthunt-daily-2025-12-02/)
 
@@ -542,8 +542,6 @@
 - **2025-11-16** - [PH今日热榜-|-2025-11-16](https://decohack.com/producthunt-daily-2025-11-16/)
 
 - **2025-11-15** - [PH今日热榜-|-2025-11-15](https://decohack.com/producthunt-daily-2025-11-15/)
-
-- **2025-11-14** - [PH今日热榜-|-2025-11-14](https://decohack.com/producthunt-daily-2025-11-14/)
 
 
 <div align="right">

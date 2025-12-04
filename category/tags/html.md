@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-03 18:52:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-04 18:53:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -15,6 +15,7 @@
 - [2023-08-09-An-HTML-element-reunion](https://frontendfoc.us/issues/605) 
 - [2023-12-06-Meta-opens-up-Facebook's-styling-solution](https://react.statuscode.com/issues/365) 
 - [2023-07-26-Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349) 
+- [2025-12-04-单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/) 
 - [2025-08-29-HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/) 
 - [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/) 
 - [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/) 
