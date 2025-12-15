@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,120+</h3>
+      <h3>📚 1,121+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,7 +72,7 @@
 > 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
 
 
-- **2025-12-14** · [PH今日热榜-|-2025-12-14](https://decohack.com/producthunt-daily-2025-12-14/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2025-12-15** · [PH今日热榜-|-2025-12-15](https://decohack.com/producthunt-daily-2025-12-15/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -95,7 +95,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2025-12-14 18:47:57 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2025-12-15 18:54:21 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -501,7 +501,9 @@
 <p></p>
 
 
-- **2025-12-14** - [PH今日热榜-|-2025-12-14](https://decohack.com/producthunt-daily-2025-12-14/) <img src="/assets/new.png" alt="NEW" />
+- **2025-12-15** - [PH今日热榜-|-2025-12-15](https://decohack.com/producthunt-daily-2025-12-15/) <img src="/assets/new.png" alt="NEW" />
+
+- **2025-12-14** - [PH今日热榜-|-2025-12-14](https://decohack.com/producthunt-daily-2025-12-14/)
 
 - **2025-12-13** - [PH今日热榜-|-2025-12-13](https://decohack.com/producthunt-daily-2025-12-13/)
 
@@ -538,8 +540,6 @@
 - **2025-11-27** - [PH今日热榜-|-2025-11-27](https://decohack.com/producthunt-daily-2025-11-27/)
 
 - **2025-11-26** - [PH今日热榜-|-2025-11-26](https://decohack.com/producthunt-daily-2025-11-26/)
-
-- **2025-11-25** - [PH今日热榜-|-2025-11-25](https://decohack.com/producthunt-daily-2025-11-25/)
 
 
 <div align="right">
