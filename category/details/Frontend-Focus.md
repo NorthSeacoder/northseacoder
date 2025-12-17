@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-12-10 18:51:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-17 18:54:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2025-12-17-A-Focus-on-2025](https://frontendfoc.us/issues/722) 
 - [2025-12-10-Wrapping-up-the-year-in-CSS](https://frontendfoc.us/issues/721) 
 - [2025-12-03-It's-time-to-open-some-web-advent-calendars](https://frontendfoc.us/issues/720) 
 - [2025-11-26-How-Wikipedia-handled-a-domain-change](https://frontendfoc.us/issues/719) 
