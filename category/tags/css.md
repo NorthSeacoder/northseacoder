@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-28 18:49:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-29 02:38:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -38,6 +38,7 @@
 - [2023-06-14-The-gotchas-of-CSS-nesting](https://frontendfoc.us/issues/597) 
 - [2020-07-20-你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993) 
 - [2021-03-09-Midway-Serverless-发布-2.0，一体化让前端研发再次提效](https://fed.taobao.org/blog/taofed/do71ct/mvd9lw) 
+- [2025-12-29-今日学习CSS-style样式查询及其range范围语法](https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/) 
 - [2025-12-22-补全不足，CSS锚点定位支持锚定容器回退检测了](https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/) 
 - [2025-12-12-CSS-progress函数简介](https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/) 
 - [2025-11-24-巧用CSS-::details-content伪元素实现任意展开动画](https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/) 
