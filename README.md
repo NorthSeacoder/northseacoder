@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,151+</h3>
+      <h3>📚 1,153+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,9 +72,9 @@
 > 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-01-06** · [A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767) _(来自 JavaScript-Weekly)_
+- **2026-01-07** · [The-CSS-features-you-need-to-know-this-year,-including-Grid-Lanes](https://frontendfoc.us/issues/723) _(来自 Frontend-Focus)_
 
-- **2026-01-06** · [PH今日热榜-|-2026-01-06](https://decohack.com/producthunt-daily-2026-01-06/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-01-07** · [PH今日热榜-|-2026-01-07](https://decohack.com/producthunt-daily-2026-01-07/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-01-06 18:52:12 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-01-07 18:55:06 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -108,11 +108,11 @@
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    JavaScript-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    JavaScript-Weekly
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus
+    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -194,14 +194,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="javascript-weekly">
-  <strong>JavaScript-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>JavaScript-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2026-01-06** - [A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767) <img src="/assets/new.png" alt="NEW" />
+- **2026-01-06** - [A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767)
 
 - **2025-12-19** - [The-JavaScript-Bundler-Grand-Prix](https://javascriptweekly.com/issues/766)
 
@@ -248,12 +248,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong>
+  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-01-07** - [The-CSS-features-you-need-to-know-this-year,-including-Grid-Lanes](https://frontendfoc.us/issues/723) <img src="/assets/new.png" alt="NEW" />
 
 - **2025-12-17** - [A-Focus-on-2025](https://frontendfoc.us/issues/722)
 
@@ -292,8 +294,6 @@
 - **2025-08-20** - [Is-there-no-such-thing-as-a-'CSS-reset'?](https://frontendfoc.us/issues/705)
 
 - **2025-08-06** - [The-cascading-layers-of-importance](https://frontendfoc.us/issues/704)
-
-- **2025-07-30** - [Building-towards-CSS-masonry,-brick-by-brick](https://frontendfoc.us/issues/703)
 
 
 <div align="right">
@@ -503,7 +503,9 @@
 <p></p>
 
 
-- **2026-01-06** - [PH今日热榜-|-2026-01-06](https://decohack.com/producthunt-daily-2026-01-06/) <img src="/assets/new.png" alt="NEW" />
+- **2026-01-07** - [PH今日热榜-|-2026-01-07](https://decohack.com/producthunt-daily-2026-01-07/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-01-06** - [PH今日热榜-|-2026-01-06](https://decohack.com/producthunt-daily-2026-01-06/)
 
 - **2026-01-05** - [PH今日热榜-|-2026-01-05](https://decohack.com/producthunt-daily-2026-01-05/)
 
@@ -540,8 +542,6 @@
 - **2025-12-20** - [PH今日热榜-|-2025-12-20](https://decohack.com/producthunt-daily-2025-12-20/)
 
 - **2025-12-19** - [PH今日热榜-|-2025-12-19](https://decohack.com/producthunt-daily-2025-12-19/)
-
-- **2025-12-18** - [PH今日热榜-|-2025-12-18](https://decohack.com/producthunt-daily-2025-12-18/)
 
 
 <div align="right">
