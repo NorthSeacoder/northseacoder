@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-01-07 18:55:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-08 18:52:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606) 
 - [2025-11-25-Guess-who's-back,-back-again?-Shai-Hulud.](https://nodeweekly.com/issues/602) 
 - [2025-11-11-Ten-top-web-application-security-threats](https://nodeweekly.com/issues/600) 
 - [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591) 
@@ -146,6 +147,7 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2026-01-08-PH今日热榜-|-2026-01-08](https://decohack.com/producthunt-daily-2026-01-08/) 
 - [2026-01-07-PH今日热榜-|-2026-01-07](https://decohack.com/producthunt-daily-2026-01-07/) 
 - [2026-01-06-PH今日热榜-|-2026-01-06](https://decohack.com/producthunt-daily-2026-01-06/) 
 - [2026-01-05-PH今日热榜-|-2026-01-05](https://decohack.com/producthunt-daily-2026-01-05/) 
