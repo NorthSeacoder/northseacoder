@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,157+</h3>
+      <h3>📚 1,158+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +2</h3>
+      <h3>🚀 +1</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 2</h3>
+      <h3>🆕 1</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,12 +69,10 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
+> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
 
 
-- **2026-01-09** · [The-joys-of-React-19.2's-useEffectEvent](https://react.statuscode.com/issues/457) _(来自 React-Status)_
-
-- **2026-01-09** · [PH今日热榜-|-2026-01-09](https://decohack.com/producthunt-daily-2026-01-09/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-01-10** · [PH今日热榜-|-2026-01-10](https://decohack.com/producthunt-daily-2026-01-10/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,7 +95,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-01-09 18:54:15 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-01-10 18:49:55 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -116,7 +114,7 @@
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    React-Status <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    React-Status
   </a>
 
   <a href="#淘系前端团队" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -302,14 +300,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="react-status">
-  <strong>React-Status</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>React-Status</strong>
 </summary>
 <p></p>
 
 
-- **2026-01-09** - [The-joys-of-React-19.2's-useEffectEvent](https://react.statuscode.com/issues/457) <img src="/assets/new.png" alt="NEW" />
+- **2026-01-09** - [The-joys-of-React-19.2's-useEffectEvent](https://react.statuscode.com/issues/457)
 
 - **2025-12-17** - [The-top-React-links-and-videos-of-2025](https://react.statuscode.com/issues/456)
 
@@ -503,7 +501,9 @@
 <p></p>
 
 
-- **2026-01-09** - [PH今日热榜-|-2026-01-09](https://decohack.com/producthunt-daily-2026-01-09/) <img src="/assets/new.png" alt="NEW" />
+- **2026-01-10** - [PH今日热榜-|-2026-01-10](https://decohack.com/producthunt-daily-2026-01-10/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-01-09** - [PH今日热榜-|-2026-01-09](https://decohack.com/producthunt-daily-2026-01-09/)
 
 - **2026-01-08** - [PH今日热榜-|-2026-01-08](https://decohack.com/producthunt-daily-2026-01-08/)
 
@@ -540,8 +540,6 @@
 - **2025-12-23** - [PH今日热榜-|-2025-12-23](https://decohack.com/producthunt-daily-2025-12-23/)
 
 - **2025-12-22** - [PH今日热榜-|-2025-12-22](https://decohack.com/producthunt-daily-2025-12-22/)
-
-- **2025-12-21** - [PH今日热榜-|-2025-12-21](https://decohack.com/producthunt-daily-2025-12-21/)
 
 
 <div align="right">
