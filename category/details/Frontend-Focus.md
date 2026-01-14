@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-01-07 18:55:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-14 18:55:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2026-01-14-When-is-an-API-not-an-API?](https://frontendfoc.us/issues/724) 
 - [2026-01-07-The-CSS-features-you-need-to-know-this-year,-including-Grid-Lanes](https://frontendfoc.us/issues/723) 
 - [2025-12-17-A-Focus-on-2025](https://frontendfoc.us/issues/722) 
 - [2025-12-10-Wrapping-up-the-year-in-CSS](https://frontendfoc.us/issues/721) 
