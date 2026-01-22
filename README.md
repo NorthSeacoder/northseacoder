@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,176+</h3>
+      <h3>📚 1,179+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +2</h3>
+      <h3>🚀 +3</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 2</h3>
+      <h3>🆕 3</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,12 +69,14 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
+> 已从 <strong>3</strong> 个来源筛选最新的 <strong>3</strong> 条内容
 
 
-- **2026-01-21** · [How-the-web-has-changed-in-the-past-twelve-months](https://frontendfoc.us/issues/725) _(来自 Frontend-Focus)_
+- **2026-01-22** · [requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608) _(来自 Node-Weekly)_
 
-- **2026-01-21** · [PH今日热榜-|-2026-01-21](https://decohack.com/producthunt-daily-2026-01-21/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-01-22** · [Promise.try和Promise.withResolvers作用速览](https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/) _(来自 张鑫旭-鑫空间-鑫生活)_
+
+- **2026-01-22** · [PH今日热榜-|-2026-01-22](https://decohack.com/producthunt-daily-2026-01-22/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,14 +99,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-01-21 19:04:37 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-01-22 18:59:03 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly
+    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -112,7 +114,7 @@
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Frontend-Focus
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -124,7 +126,7 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活
+    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -140,12 +142,14 @@
 ## 文章链接
 
 
-<details>
+<details open>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong>
+  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-01-22** - [requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-01-15** - [A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)
 
@@ -184,8 +188,6 @@
 - **2025-08-19** - [Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)
 
 - **2025-08-05** - [How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)
-
-- **2025-07-29** - [An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)
 
 
 <div align="right">
@@ -248,14 +250,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Frontend-Focus</strong>
 </summary>
 <p></p>
 
 
-- **2026-01-21** - [How-the-web-has-changed-in-the-past-twelve-months](https://frontendfoc.us/issues/725) <img src="/assets/new.png" alt="NEW" />
+- **2026-01-21** - [How-the-web-has-changed-in-the-past-twelve-months](https://frontendfoc.us/issues/725)
 
 - **2026-01-14** - [When-is-an-API-not-an-API?](https://frontendfoc.us/issues/724)
 
@@ -410,12 +412,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong>
+  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-01-22** - [Promise.try和Promise.withResolvers作用速览](https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-01-19** - [CSS-text-decoration-inset属性首发简介](https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/)
 
@@ -454,8 +458,6 @@
 - **2025-09-15** - [使用CSS-linear函数实现更逼真的物理动画效果](https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/)
 
 - **2025-09-05** - [@function自定义函数让CSS支持编程啦](https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/)
-
-- **2025-08-29** - [HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/)
 
 
 <div align="right">
@@ -503,7 +505,9 @@
 <p></p>
 
 
-- **2026-01-21** - [PH今日热榜-|-2026-01-21](https://decohack.com/producthunt-daily-2026-01-21/) <img src="/assets/new.png" alt="NEW" />
+- **2026-01-22** - [PH今日热榜-|-2026-01-22](https://decohack.com/producthunt-daily-2026-01-22/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-01-21** - [PH今日热榜-|-2026-01-21](https://decohack.com/producthunt-daily-2026-01-21/)
 
 - **2026-01-20** - [PH今日热榜-|-2026-01-20](https://decohack.com/producthunt-daily-2026-01-20/)
 
@@ -540,8 +544,6 @@
 - **2026-01-03** - [PH今日热榜-|-2026-01-03](https://decohack.com/producthunt-daily-2026-01-03/)
 
 - **2026-01-02** - [PH今日热榜-|-2026-01-02](https://decohack.com/producthunt-daily-2026-01-02/)
-
-- **2026-01-01** - [PH今日热榜-|-2026-01-01](https://decohack.com/producthunt-daily-2026-01-01/)
 
 
 <div align="right">
