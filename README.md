@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,186+</h3>
+      <h3>📚 1,188+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +1</h3>
+      <h3>🚀 +2</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 1</h3>
+      <h3>🆕 2</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,10 +69,12 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
+> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-01-27** · [What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770) _(来自 JavaScript-Weekly)_
+- **2026-01-28** · [When-will-'Grid-Lanes'-truly-arrive,-and-how-can-we-use-it-today?](https://frontendfoc.us/issues/726) _(来自 Frontend-Focus)_
+
+- **2026-01-28** · [PH今日热榜-|-2026-01-28](https://decohack.com/producthunt-daily-2026-01-28/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -95,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-01-28 02:35:57 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-01-28 18:59:00 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -106,11 +108,11 @@
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    JavaScript-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    JavaScript-Weekly
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus
+    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -130,7 +132,7 @@
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    DecoHack-独立开发者的灵感周刊
+    DecoHack-独立开发者的灵感周刊 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
 </div>
@@ -192,14 +194,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="javascript-weekly">
-  <strong>JavaScript-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>JavaScript-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2026-01-27** - [What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770) <img src="/assets/new.png" alt="NEW" />
+- **2026-01-27** - [What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770)
 
 - **2026-01-20** - [A-big-week-for-jQuery](https://javascriptweekly.com/issues/769)
 
@@ -246,12 +248,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong>
+  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-01-28** - [When-will-'Grid-Lanes'-truly-arrive,-and-how-can-we-use-it-today?](https://frontendfoc.us/issues/726) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-01-21** - [How-the-web-has-changed-in-the-past-twelve-months](https://frontendfoc.us/issues/725)
 
@@ -290,8 +294,6 @@
 - **2025-09-10** - [What-you-need-to-know-about-color-interpolation-and-shifting](https://frontendfoc.us/issues/708)
 
 - **2025-09-03** - [As-Chrome-turns-17,-Google-gets-to-keep-it](https://frontendfoc.us/issues/707)
-
-- **2025-08-27** - [Rolling-the-dice-with-random-CSS](https://frontendfoc.us/issues/706)
 
 
 <div align="right">
@@ -494,12 +496,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="decohack-独立开发者的灵感周刊">
-  <strong>DecoHack-独立开发者的灵感周刊</strong>
+  <strong>DecoHack-独立开发者的灵感周刊</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-01-28** - [PH今日热榜-|-2026-01-28](https://decohack.com/producthunt-daily-2026-01-28/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-01-27** - [PH今日热榜-|-2026-01-27](https://decohack.com/producthunt-daily-2026-01-27/)
 
@@ -538,8 +542,6 @@
 - **2026-01-09** - [PH今日热榜-|-2026-01-09](https://decohack.com/producthunt-daily-2026-01-09/)
 
 - **2026-01-08** - [PH今日热榜-|-2026-01-08](https://decohack.com/producthunt-daily-2026-01-08/)
-
-- **2026-01-07** - [PH今日热榜-|-2026-01-07](https://decohack.com/producthunt-daily-2026-01-07/)
 
 
 <div align="right">
