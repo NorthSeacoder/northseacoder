@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-02-10 19:36:45。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-02-11 19:32:31。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -273,6 +273,7 @@
 
 
 
+- [【Frontend-Focus】The-median-web-site-has-2,802-CSS-rules](https://frontendfoc.us/issues/728)
 - [【Frontend-Focus】Wrapping-up-the-year-in-CSS](https://frontendfoc.us/issues/721)
 - [【Frontend-Focus】Those-are-some-S-tier-animation-techniques](https://frontendfoc.us/issues/717)
 - [【Frontend-Focus】25-new-CSS-features-explained](https://frontendfoc.us/issues/714)
@@ -292,7 +293,6 @@
 - [【Frontend-Focus】CSS-nesting-is-getting-better-for-everyone](https://frontendfoc.us/issues/663)
 - [【Frontend-Focus】Should-you-'over-engineer'-your-CSS?](https://frontendfoc.us/issues/656)
 - [【Frontend-Focus】Ready-to-talk-CSS5?](https://frontendfoc.us/issues/655)
-- [【Frontend-Focus】A-CSS-'if'-function-isn't-here-yet,-but-what-can-we-do-today?](https://frontendfoc.us/issues/649)
 - [......【查看更多】......](/category/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
