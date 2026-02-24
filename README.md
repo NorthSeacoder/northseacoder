@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,231+</h3>
+      <h3>📚 1,233+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +1</h3>
+      <h3>🚀 +2</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 1</h3>
+      <h3>🆕 2</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,10 +69,12 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
+> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-02-23** · [PH今日热榜-|-2026-02-23](https://decohack.com/producthunt-daily-2026-02-23/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-02-24** · [Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774) _(来自 JavaScript-Weekly)_
+
+- **2026-02-24** · [PH今日热榜-|-2026-02-24](https://decohack.com/producthunt-daily-2026-02-24/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -95,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-02-23 19:37:24 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-02-24 19:29:41 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -106,7 +108,7 @@
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    JavaScript-Weekly
+    JavaScript-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -192,12 +194,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="javascript-weekly">
-  <strong>JavaScript-Weekly</strong>
+  <strong>JavaScript-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-02-24** - [Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-02-17** - [Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773)
 
@@ -236,8 +240,6 @@
 - **2025-10-10** - [Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)
 
 - **2025-10-03** - [React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)
-
-- **2025-09-26** - [The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754)
 
 
 <div align="right">
@@ -501,7 +503,9 @@
 <p></p>
 
 
-- **2026-02-23** - [PH今日热榜-|-2026-02-23](https://decohack.com/producthunt-daily-2026-02-23/) <img src="/assets/new.png" alt="NEW" />
+- **2026-02-24** - [PH今日热榜-|-2026-02-24](https://decohack.com/producthunt-daily-2026-02-24/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-02-23** - [PH今日热榜-|-2026-02-23](https://decohack.com/producthunt-daily-2026-02-23/)
 
 - **2026-02-22** - [PH今日热榜-|-2026-02-22](https://decohack.com/producthunt-daily-2026-02-22/)
 
@@ -538,8 +542,6 @@
 - **2026-02-06** - [PH今日热榜-|-2026-02-06](https://decohack.com/producthunt-daily-2026-02-06/)
 
 - **2026-02-05** - [PH今日热榜-|-2026-02-05](https://decohack.com/producthunt-daily-2026-02-05/)
-
-- **2026-02-04** - [PH今日热榜-|-2026-02-04](https://decohack.com/producthunt-daily-2026-02-04/)
 
 
 <div align="right">
