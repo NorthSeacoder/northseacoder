@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-04 19:10:46。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-05 19:41:04。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -152,6 +152,7 @@
 
 
 
+- [【Node-Weekly】Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)
 - [【Node-Weekly】Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)
 - [【Node-Weekly】An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611)
 - [【Node-Weekly】Hono-tops-developer-satisfaction,-but-Express-still-leads](https://nodeweekly.com/issues/610)
@@ -171,7 +172,6 @@
 - [【Node-Weekly】Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586)
 - [【Node-Weekly】Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)
 - [【Node-Weekly】Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)
-- [【Node-Weekly】PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)
 - [......【查看更多】......](/category/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
