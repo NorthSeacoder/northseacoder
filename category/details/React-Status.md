@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-02-27 19:08:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-06 19:07:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2026-03-06-How-React’s-Activity-component-helps-keep-state-alive](https://react.statuscode.com/issues/465) 
 - [2026-02-27-Cloudflare-makes-its-own-Vite-powered-Next.js](https://react.statuscode.com/issues/464) 
 - [2026-02-20-TanStack-Hotkeys,-a-new-cross-platform-keyboard-toolkit](https://react.statuscode.com/issues/463) 
 - [2026-02-13-Building-bulletproof-React-components-and-handling-billion-row-tables](https://react.statuscode.com/issues/462) 
