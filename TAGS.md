@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-09 19:14:42。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-10 03:10:16。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -318,6 +318,7 @@
 - [【Frontend-Focus】An-HTML-element-reunion](https://frontendfoc.us/issues/605)
 - [【React-Status】Meta-opens-up-Facebook's-styling-solution](https://react.statuscode.com/issues/365)
 - [【React-Status】Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349)
+- [【张鑫旭-鑫空间-鑫生活】HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)
 - [【张鑫旭-鑫空间-鑫生活】单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/)
 - [【张鑫旭-鑫空间-鑫生活】HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/)
@@ -329,7 +330,6 @@
 - [【张鑫旭-鑫空间-鑫生活】HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/)
 - [【张鑫旭-鑫空间-鑫生活】查漏补缺，我仍未知道的HTML-nonce和popover属性](https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/)
-- [【张鑫旭-鑫空间-鑫生活】HTML-kbd、var、samp元素你使用过没？](https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/)
 - [......【查看更多】......](/category/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
