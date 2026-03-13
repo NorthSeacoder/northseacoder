@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-03-12 19:23:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-13 19:06:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -25,5 +25,6 @@
 - [2024-09-12-The-heaviest-npm-packages](https://javascriptweekly.com/issues/704) 
 - [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700) 
 - [2024-07-11-Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696) 
+- [2026-03-13-What-a-week:-Vite-8.0,-RedwoodSDK-1.0,-shadcn/cli-v4...](https://react.statuscode.com/issues/466) 
 - [2026-02-27-Cloudflare-makes-its-own-Vite-powered-Next.js](https://react.statuscode.com/issues/464) 
 - [2021-05-15-All-in-one：项目级-monorepo-策略最佳实践](https://fed.taobao.org/blog/taofed/do71ct/uihagy) 

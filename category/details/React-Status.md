@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-03-06 19:07:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-13 19:06:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2026-03-13-What-a-week:-Vite-8.0,-RedwoodSDK-1.0,-shadcn/cli-v4...](https://react.statuscode.com/issues/466) 
 - [2026-03-06-How-React’s-Activity-component-helps-keep-state-alive](https://react.statuscode.com/issues/465) 
 - [2026-02-27-Cloudflare-makes-its-own-Vite-powered-Next.js](https://react.statuscode.com/issues/464) 
 - [2026-02-20-TanStack-Hotkeys,-a-new-cross-platform-keyboard-toolkit](https://react.statuscode.com/issues/463) 

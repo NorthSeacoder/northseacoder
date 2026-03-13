@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,262+</h3>
+      <h3>📚 1,264+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,9 +72,9 @@
 > 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-03-12** · [Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615) _(来自 Node-Weekly)_
+- **2026-03-13** · [What-a-week:-Vite-8.0,-RedwoodSDK-1.0,-shadcn/cli-v4...](https://react.statuscode.com/issues/466) _(来自 React-Status)_
 
-- **2026-03-12** · [PH今日热榜-|-2026-03-12](https://decohack.com/producthunt-daily-2026-03-12/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-03-13** · [PH今日热榜-|-2026-03-13](https://decohack.com/producthunt-daily-2026-03-13/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,14 +97,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-03-12 19:23:01 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-03-13 19:06:33 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Node-Weekly
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -116,7 +116,7 @@
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    React-Status
+    React-Status <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#淘系前端团队" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -140,14 +140,14 @@
 ## 文章链接
 
 
-<details open>
+<details>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Node-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2026-03-12** - [Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615) <img src="/assets/new.png" alt="NEW" />
+- **2026-03-12** - [Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)
 
 - **2026-03-05** - [Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)
 
@@ -302,12 +302,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="react-status">
-  <strong>React-Status</strong>
+  <strong>React-Status</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-03-13** - [What-a-week:-Vite-8.0,-RedwoodSDK-1.0,-shadcn/cli-v4...](https://react.statuscode.com/issues/466) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-03-06** - [How-React’s-Activity-component-helps-keep-state-alive](https://react.statuscode.com/issues/465)
 
@@ -346,8 +348,6 @@
 - **2025-10-15** - [React-Compiler-1.0,-Bun-1.3,-and-Next.js-16-Beta](https://react.statuscode.com/issues/448)
 
 - **2025-10-08** - [The-React-Foundation-and-React-19.2](https://react.statuscode.com/issues/447)
-
-- **2025-10-01** - [Considering-React-state-management-options-in-2025](https://react.statuscode.com/issues/446)
 
 
 <div align="right">
@@ -503,7 +503,9 @@
 <p></p>
 
 
-- **2026-03-12** - [PH今日热榜-|-2026-03-12](https://decohack.com/producthunt-daily-2026-03-12/) <img src="/assets/new.png" alt="NEW" />
+- **2026-03-13** - [PH今日热榜-|-2026-03-13](https://decohack.com/producthunt-daily-2026-03-13/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-03-12** - [PH今日热榜-|-2026-03-12](https://decohack.com/producthunt-daily-2026-03-12/)
 
 - **2026-03-11** - [PH今日热榜-|-2026-03-11](https://decohack.com/producthunt-daily-2026-03-11/)
 
@@ -540,8 +542,6 @@
 - **2026-02-23** - [PH今日热榜-|-2026-02-23](https://decohack.com/producthunt-daily-2026-02-23/)
 
 - **2026-02-22** - [PH今日热榜-|-2026-02-22](https://decohack.com/producthunt-daily-2026-02-22/)
-
-- **2026-02-21** - [PH今日热榜-|-2026-02-21](https://decohack.com/producthunt-daily-2026-02-21/)
 
 
 <div align="right">
