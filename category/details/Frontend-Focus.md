@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-03-11 19:14:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-18 19:28:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2026-03-18-A-new-tool-to-improve-load-performance](https://frontendfoc.us/issues/733) 
 - [2026-03-11-11ty-goes-Awesome,-but-not-everyone-is-feeling-the-awe...](https://frontendfoc.us/issues/732) 
 - [2026-03-04-Is-this-the-most-seen-UI-on-the-web?](https://frontendfoc.us/issues/731) 
 - [2026-02-25-Someone-built-an-x86-emulator-in-pure-CSS](https://frontendfoc.us/issues/730) 
