@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-18 19:28:19。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-19 19:26:40。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -153,6 +153,7 @@
 
 
 
+- [【Node-Weekly】Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)
 - [【Node-Weekly】Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)
 - [【Node-Weekly】Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)
 - [【Node-Weekly】Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)
@@ -172,7 +173,6 @@
 - [【Node-Weekly】Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)
 - [【Node-Weekly】Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587)
 - [【Node-Weekly】Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586)
-- [【Node-Weekly】Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)
 - [......【查看更多】......](/category/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
