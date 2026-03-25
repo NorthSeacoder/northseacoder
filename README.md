@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,281+</h3>
+      <h3>📚 1,283+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,9 +72,9 @@
 > 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-03-24** · [TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778) _(来自 JavaScript-Weekly)_
+- **2026-03-25** · [The-Great-CSS-Expansion:-Replacing-JS-with-native-features](https://frontendfoc.us/issues/734) _(来自 Frontend-Focus)_
 
-- **2026-03-24** · [PH今日热榜-|-2026-03-24](https://decohack.com/producthunt-daily-2026-03-24/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-03-25** · [PH今日热榜-|-2026-03-25](https://decohack.com/producthunt-daily-2026-03-25/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-03-24 19:32:58 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-03-25 19:23:33 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -108,11 +108,11 @@
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    JavaScript-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    JavaScript-Weekly
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus
+    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -194,14 +194,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="javascript-weekly">
-  <strong>JavaScript-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>JavaScript-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2026-03-24** - [TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778) <img src="/assets/new.png" alt="NEW" />
+- **2026-03-24** - [TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)
 
 - **2026-03-17** - [It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
 
@@ -248,12 +248,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong>
+  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-03-25** - [The-Great-CSS-Expansion:-Replacing-JS-with-native-features](https://frontendfoc.us/issues/734) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-03-18** - [A-new-tool-to-improve-load-performance](https://frontendfoc.us/issues/733)
 
@@ -292,8 +294,6 @@
 - **2025-11-05** - [Getting-perfect-tooltip-placement](https://frontendfoc.us/issues/716)
 
 - **2025-10-29** - [The-future-of-progressive-image-rendering](https://frontendfoc.us/issues/715)
-
-- **2025-10-22** - [25-new-CSS-features-explained](https://frontendfoc.us/issues/714)
 
 
 <div align="right">
@@ -503,7 +503,9 @@
 <p></p>
 
 
-- **2026-03-24** - [PH今日热榜-|-2026-03-24](https://decohack.com/producthunt-daily-2026-03-24/) <img src="/assets/new.png" alt="NEW" />
+- **2026-03-25** - [PH今日热榜-|-2026-03-25](https://decohack.com/producthunt-daily-2026-03-25/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-03-24** - [PH今日热榜-|-2026-03-24](https://decohack.com/producthunt-daily-2026-03-24/)
 
 - **2026-03-23** - [PH今日热榜-|-2026-03-23](https://decohack.com/producthunt-daily-2026-03-23/)
 
@@ -540,8 +542,6 @@
 - **2026-03-07** - [PH今日热榜-|-2026-03-07](https://decohack.com/producthunt-daily-2026-03-07/)
 
 - **2026-03-06** - [PH今日热榜-|-2026-03-06](https://decohack.com/producthunt-daily-2026-03-06/)
-
-- **2026-03-05** - [PH今日热榜-|-2026-03-05](https://decohack.com/producthunt-daily-2026-03-05/)
 
 
 <div align="right">
