@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-03-22 19:00:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-27 19:22:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2026-03-27-Why-test-IDs-are-an-accessibility-code-smell](https://react.statuscode.com/issues/468) 
 - [2026-03-20-How-to-roll-your-own-server-side-React-framework](https://react.statuscode.com/issues/467) 
 - [2026-03-13-What-a-week:-Vite-8.0,-RedwoodSDK-1.0,-shadcn/cli-v4...](https://react.statuscode.com/issues/466) 
 - [2026-03-06-How-React’s-Activity-component-helps-keep-state-alive](https://react.statuscode.com/issues/465) 
