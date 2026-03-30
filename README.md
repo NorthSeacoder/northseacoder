@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,289+</h3>
+      <h3>📚 1,291+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +1</h3>
+      <h3>🚀 +2</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 1</h3>
+      <h3>🆕 2</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,10 +69,12 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
+> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-03-29** · [PH今日热榜-|-2026-03-29](https://decohack.com/producthunt-daily-2026-03-29/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-03-30** · [CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/) _(来自 张鑫旭-鑫空间-鑫生活)_
+
+- **2026-03-30** · [PH今日热榜-|-2026-03-30](https://decohack.com/producthunt-daily-2026-03-30/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -95,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-03-29 19:07:39 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-03-30 19:32:45 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -122,7 +124,7 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活
+    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -408,12 +410,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong>
+  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-03-30** - [CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-03-17** - [浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)
 
@@ -452,8 +456,6 @@
 - **2025-11-17** - [介绍下与CSS自定义组件相关的:state函数](https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/)
 
 - **2025-11-10** - [CSS锚点定位实战-鼠标跟随交互效果](https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/)
-
-- **2025-11-03** - [垃圾特性之CSS-:heading伪类和:heading函数](https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/)
 
 
 <div align="right">
@@ -501,7 +503,9 @@
 <p></p>
 
 
-- **2026-03-29** - [PH今日热榜-|-2026-03-29](https://decohack.com/producthunt-daily-2026-03-29/) <img src="/assets/new.png" alt="NEW" />
+- **2026-03-30** - [PH今日热榜-|-2026-03-30](https://decohack.com/producthunt-daily-2026-03-30/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-03-29** - [PH今日热榜-|-2026-03-29](https://decohack.com/producthunt-daily-2026-03-29/)
 
 - **2026-03-28** - [PH今日热榜-|-2026-03-28](https://decohack.com/producthunt-daily-2026-03-28/)
 
@@ -538,8 +542,6 @@
 - **2026-03-12** - [PH今日热榜-|-2026-03-12](https://decohack.com/producthunt-daily-2026-03-12/)
 
 - **2026-03-11** - [PH今日热榜-|-2026-03-11](https://decohack.com/producthunt-daily-2026-03-11/)
-
-- **2026-03-10** - [PH今日热榜-|-2026-03-10](https://decohack.com/producthunt-daily-2026-03-10/)
 
 
 <div align="right">
