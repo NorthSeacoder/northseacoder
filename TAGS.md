@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-30 19:32:45。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-31 19:32:10。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -129,6 +129,7 @@
 - [【Node-Weekly】The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)
 - [【Node-Weekly】Polyfills-gone-rogue](https://nodeweekly.com/issues/503)
 - [【Node-Weekly】You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)
+- [【JavaScript-Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [【JavaScript-Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
 - [【JavaScript-Weekly】A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772)
 - [【JavaScript-Weekly】Babel-8-RC-Arrives,-Gatsby-Lives,-Lodash-Resets](https://javascriptweekly.com/issues/771)
@@ -138,7 +139,6 @@
 - [【JavaScript-Weekly】The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)
 - [【JavaScript-Weekly】The-npm-tea-party](https://javascriptweekly.com/issues/700)
 - [【JavaScript-Weekly】Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696)
-- [【React-Status】What-a-week:-Vite-8.0,-RedwoodSDK-1.0,-shadcn/cli-v4...](https://react.statuscode.com/issues/466)
 - [......【查看更多】......](/category/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
