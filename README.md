@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,298+</h3>
+      <h3>📚 1,299+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,7 +72,7 @@
 > 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
 
 
-- **2026-04-03** · [PH今日热榜-|-2026-04-03](https://decohack.com/producthunt-daily-2026-04-03/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-04-04** · [PH今日热榜-|-2026-04-04](https://decohack.com/producthunt-daily-2026-04-04/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -95,7 +95,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-04-03 19:10:08 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-04-04 19:07:20 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -501,7 +501,9 @@
 <p></p>
 
 
-- **2026-04-03** - [PH今日热榜-|-2026-04-03](https://decohack.com/producthunt-daily-2026-04-03/) <img src="/assets/new.png" alt="NEW" />
+- **2026-04-04** - [PH今日热榜-|-2026-04-04](https://decohack.com/producthunt-daily-2026-04-04/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-04-03** - [PH今日热榜-|-2026-04-03](https://decohack.com/producthunt-daily-2026-04-03/)
 
 - **2026-04-02** - [PH今日热榜-|-2026-04-02](https://decohack.com/producthunt-daily-2026-04-02/)
 
@@ -538,8 +540,6 @@
 - **2026-03-17** - [PH今日热榜-|-2026-03-17](https://decohack.com/producthunt-daily-2026-03-17/)
 
 - **2026-03-16** - [PH今日热榜-|-2026-03-16](https://decohack.com/producthunt-daily-2026-03-16/)
-
-- **2026-03-15** - [PH今日热榜-|-2026-03-15](https://decohack.com/producthunt-daily-2026-03-15/)
 
 
 <div align="right">
