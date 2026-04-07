@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,301+</h3>
+      <h3>📚 1,304+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +1</h3>
+      <h3>🚀 +3</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 1</h3>
+      <h3>🆕 3</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,10 +69,14 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
+> 已从 <strong>3</strong> 个来源筛选最新的 <strong>3</strong> 条内容
 
 
-- **2026-04-06** · [PH今日热榜-|-2026-04-06](https://decohack.com/producthunt-daily-2026-04-06/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-04-07** · [What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780) _(来自 JavaScript-Weekly)_
+
+- **2026-04-07** · [CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/) _(来自 张鑫旭-鑫空间-鑫生活)_
+
+- **2026-04-07** · [PH今日热榜-|-2026-04-07](https://decohack.com/producthunt-daily-2026-04-07/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -95,7 +99,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-04-06 19:34:48 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-04-07 19:35:31 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -106,7 +110,7 @@
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    JavaScript-Weekly
+    JavaScript-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -122,7 +126,7 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活
+    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -192,12 +196,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="javascript-weekly">
-  <strong>JavaScript-Weekly</strong>
+  <strong>JavaScript-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-04-07** - [What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-03-31** - [A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 
@@ -236,8 +242,6 @@
 - **2025-11-21** - [A-significant-Angular-release](https://javascriptweekly.com/issues/762)
 
 - **2025-11-14** - [Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)
-
-- **2025-11-07** - [How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)
 
 
 <div align="right">
@@ -408,12 +412,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong>
+  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-04-07** - [CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-03-30** - [CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/)
 
@@ -452,8 +458,6 @@
 - **2025-11-24** - [巧用CSS-::details-content伪元素实现任意展开动画](https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/)
 
 - **2025-11-17** - [介绍下与CSS自定义组件相关的:state函数](https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/)
-
-- **2025-11-10** - [CSS锚点定位实战-鼠标跟随交互效果](https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/)
 
 
 <div align="right">
@@ -501,7 +505,9 @@
 <p></p>
 
 
-- **2026-04-06** - [PH今日热榜-|-2026-04-06](https://decohack.com/producthunt-daily-2026-04-06/) <img src="/assets/new.png" alt="NEW" />
+- **2026-04-07** - [PH今日热榜-|-2026-04-07](https://decohack.com/producthunt-daily-2026-04-07/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-04-06** - [PH今日热榜-|-2026-04-06](https://decohack.com/producthunt-daily-2026-04-06/)
 
 - **2026-04-05** - [PH今日热榜-|-2026-04-05](https://decohack.com/producthunt-daily-2026-04-05/)
 
@@ -538,8 +544,6 @@
 - **2026-03-20** - [PH今日热榜-|-2026-03-20](https://decohack.com/producthunt-daily-2026-03-20/)
 
 - **2026-03-19** - [PH今日热榜-|-2026-03-19](https://decohack.com/producthunt-daily-2026-03-19/)
-
-- **2026-03-18** - [PH今日热榜-|-2026-03-18](https://decohack.com/producthunt-daily-2026-03-18/)
 
 
 <div align="right">
