@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-04-01 19:35:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-08 19:45:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2026-04-08-HTML-video/audio-lazy-loading-now-a-web-standard](https://frontendfoc.us/issues/736) 
 - [2026-04-01-Rendering-Doom-in-3D-with-CSS](https://frontendfoc.us/issues/735) 
 - [2026-03-25-The-Great-CSS-Expansion:-Replacing-JS-with-native-features](https://frontendfoc.us/issues/734) 
 - [2026-03-18-A-new-tool-to-improve-load-performance](https://frontendfoc.us/issues/733) 

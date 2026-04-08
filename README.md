@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,304+</h3>
+      <h3>📚 1,306+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +3</h3>
+      <h3>🚀 +2</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 3</h3>
+      <h3>🆕 2</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,14 +69,12 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>3</strong> 个来源筛选最新的 <strong>3</strong> 条内容
+> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-04-07** · [What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780) _(来自 JavaScript-Weekly)_
+- **2026-04-08** · [HTML-video/audio-lazy-loading-now-a-web-standard](https://frontendfoc.us/issues/736) _(来自 Frontend-Focus)_
 
-- **2026-04-07** · [CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/) _(来自 张鑫旭-鑫空间-鑫生活)_
-
-- **2026-04-07** · [PH今日热榜-|-2026-04-07](https://decohack.com/producthunt-daily-2026-04-07/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-04-08** · [PH今日热榜-|-2026-04-08](https://decohack.com/producthunt-daily-2026-04-08/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -99,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-04-07 19:35:31 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-04-08 19:45:01 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -110,11 +108,11 @@
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    JavaScript-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    JavaScript-Weekly
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus
+    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -126,7 +124,7 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    张鑫旭-鑫空间-鑫生活
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -196,14 +194,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="javascript-weekly">
-  <strong>JavaScript-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>JavaScript-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2026-04-07** - [What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780) <img src="/assets/new.png" alt="NEW" />
+- **2026-04-07** - [What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)
 
 - **2026-03-31** - [A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 
@@ -250,12 +248,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong>
+  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-04-08** - [HTML-video/audio-lazy-loading-now-a-web-standard](https://frontendfoc.us/issues/736) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-04-01** - [Rendering-Doom-in-3D-with-CSS](https://frontendfoc.us/issues/735)
 
@@ -294,8 +294,6 @@
 - **2025-11-19** - [Tuesday-was-a-big-day-for-both-Cloudflare-and-Google](https://frontendfoc.us/issues/718)
 
 - **2025-11-12** - [Those-are-some-S-tier-animation-techniques](https://frontendfoc.us/issues/717)
-
-- **2025-11-05** - [Getting-perfect-tooltip-placement](https://frontendfoc.us/issues/716)
 
 
 <div align="right">
@@ -412,14 +410,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>张鑫旭-鑫空间-鑫生活</strong>
 </summary>
 <p></p>
 
 
-- **2026-04-07** - [CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/) <img src="/assets/new.png" alt="NEW" />
+- **2026-04-07** - [CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)
 
 - **2026-03-30** - [CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/)
 
@@ -505,7 +503,9 @@
 <p></p>
 
 
-- **2026-04-07** - [PH今日热榜-|-2026-04-07](https://decohack.com/producthunt-daily-2026-04-07/) <img src="/assets/new.png" alt="NEW" />
+- **2026-04-08** - [PH今日热榜-|-2026-04-08](https://decohack.com/producthunt-daily-2026-04-08/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-04-07** - [PH今日热榜-|-2026-04-07](https://decohack.com/producthunt-daily-2026-04-07/)
 
 - **2026-04-06** - [PH今日热榜-|-2026-04-06](https://decohack.com/producthunt-daily-2026-04-06/)
 
@@ -542,8 +542,6 @@
 - **2026-03-21** - [PH今日热榜-|-2026-03-21](https://decohack.com/producthunt-daily-2026-03-21/)
 
 - **2026-03-20** - [PH今日热榜-|-2026-03-20](https://decohack.com/producthunt-daily-2026-03-20/)
-
-- **2026-03-19** - [PH今日热榜-|-2026-03-19](https://decohack.com/producthunt-daily-2026-03-19/)
 
 
 <div align="right">
