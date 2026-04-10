@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-09 19:44:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 19:25:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -9,6 +9,7 @@
 
 - [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755) 
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) 
+- [2026-04-10-A-React-optimization-case-study-from-GitHub](https://react.statuscode.com/issues/469) 
 - [2026-03-20-How-to-roll-your-own-server-side-React-framework](https://react.statuscode.com/issues/467) 
 - [2026-03-06-How-React’s-Activity-component-helps-keep-state-alive](https://react.statuscode.com/issues/465) 
 - [2026-02-13-Building-bulletproof-React-components-and-handling-billion-row-tables](https://react.statuscode.com/issues/462) 
