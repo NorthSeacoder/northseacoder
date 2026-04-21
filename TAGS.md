@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-20 19:39:19。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-21 19:43:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -246,6 +246,7 @@
 - [【Node-Weekly】An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)
 - [【Node-Weekly】A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)
 - [【Node-Weekly】Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)
+- [【JavaScript-Weekly】Create-videos-with-HTML-and-JavaScript-via-HyperFrames](https://javascriptweekly.com/issues/782)
 - [【JavaScript-Weekly】What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)
 - [【JavaScript-Weekly】What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770)
 - [【JavaScript-Weekly】A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767)
@@ -260,7 +261,6 @@
 - [【JavaScript-Weekly】The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)
 - [【JavaScript-Weekly】How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)
 - [【JavaScript-Weekly】Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)
-- [【JavaScript-Weekly】Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
