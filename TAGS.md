@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-22 19:45:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-23 19:48:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -448,6 +448,7 @@
 
 
 
+- [【Node-Weekly】Playwright's-exciting-new-page.screencast-API](https://nodeweekly.com/issues/621)
 - [【Node-Weekly】Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)
 - [【JavaScript-Weekly】The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744)
 - [【JavaScript-Weekly】A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721)
