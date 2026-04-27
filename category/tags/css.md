@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-26 19:26:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-27 19:53:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -41,6 +41,7 @@
 - [2023-06-14-The-gotchas-of-CSS-nesting](https://frontendfoc.us/issues/597) 
 - [2020-07-20-你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993) 
 - [2021-03-09-Midway-Serverless-发布-2.0，一体化让前端研发再次提效](https://fed.taobao.org/blog/taofed/do71ct/mvd9lw) 
+- [2026-04-27-如何使用CSS判断鼠标从哪个方向进入元素？](https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/) 
 - [2026-04-07-CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/) 
 - [2026-03-30-CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/) 
 - [2026-02-06-CSS-text-box属性又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/) 
