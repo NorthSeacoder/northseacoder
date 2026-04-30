@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,341+</h3>
+      <h3>📚 1,343+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,9 +72,9 @@
 > 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-04-29** · [The-end-of-srcset/sizes-headaches-is-here](https://frontendfoc.us/issues/739) _(来自 Frontend-Focus)_
+- **2026-04-30** · [pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622) _(来自 Node-Weekly)_
 
-- **2026-04-29** · [PH今日热榜-|-2026-04-29](https://decohack.com/producthunt-daily-2026-04-29/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-04-30** · [PH今日热榜-|-2026-04-30](https://decohack.com/producthunt-daily-2026-04-30/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,14 +97,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-04-29 19:58:43 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-04-30 19:55:19 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly
+    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -112,7 +112,7 @@
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Frontend-Focus
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -140,12 +140,14 @@
 ## 文章链接
 
 
-<details>
+<details open>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong>
+  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-04-30** - [pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-04-23** - [Playwright's-exciting-new-page.screencast-API](https://nodeweekly.com/issues/621)
 
@@ -184,8 +186,6 @@
 - **2025-12-09** - [How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)
 
 - **2025-12-02** - [Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603)
-
-- **2025-11-25** - [Guess-who's-back,-back-again?-Shai-Hulud.](https://nodeweekly.com/issues/602)
 
 
 <div align="right">
@@ -248,14 +248,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Frontend-Focus</strong>
 </summary>
 <p></p>
 
 
-- **2026-04-29** - [The-end-of-srcset/sizes-headaches-is-here](https://frontendfoc.us/issues/739) <img src="/assets/new.png" alt="NEW" />
+- **2026-04-29** - [The-end-of-srcset/sizes-headaches-is-here](https://frontendfoc.us/issues/739)
 
 - **2026-04-22** - [font-family-doesn't-fall-back-the-way-you-think-it-does](https://frontendfoc.us/issues/738)
 
@@ -503,7 +503,9 @@
 <p></p>
 
 
-- **2026-04-29** - [PH今日热榜-|-2026-04-29](https://decohack.com/producthunt-daily-2026-04-29/) <img src="/assets/new.png" alt="NEW" />
+- **2026-04-30** - [PH今日热榜-|-2026-04-30](https://decohack.com/producthunt-daily-2026-04-30/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-04-29** - [PH今日热榜-|-2026-04-29](https://decohack.com/producthunt-daily-2026-04-29/)
 
 - **2026-04-28** - [PH今日热榜-|-2026-04-28](https://decohack.com/producthunt-daily-2026-04-28/)
 
@@ -540,8 +542,6 @@
 - **2026-04-11** - [PH今日热榜-|-2026-04-11](https://decohack.com/producthunt-daily-2026-04-11/)
 
 - **2026-04-10** - [PH今日热榜-|-2026-04-10](https://decohack.com/producthunt-daily-2026-04-10/)
-
-- **2026-04-09** - [PH今日热榜-|-2026-04-09](https://decohack.com/producthunt-daily-2026-04-09/)
 
 
 <div align="right">

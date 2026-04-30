@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-04-29 19:58:43。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-04-30 19:55:19。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -119,6 +119,7 @@
 
 
 
+- [【Node-Weekly】pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622)
 - [【Node-Weekly】How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)
 - [【Node-Weekly】npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)
 - [【Node-Weekly】pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)
@@ -138,7 +139,6 @@
 - [【JavaScript-Weekly】The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)
 - [【JavaScript-Weekly】The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)
 - [【JavaScript-Weekly】The-npm-tea-party](https://javascriptweekly.com/issues/700)
-- [【JavaScript-Weekly】Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696)
 - [......【查看更多】......](/category/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
