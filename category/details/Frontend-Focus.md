@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-04-29 19:58:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-06 20:08:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2026-05-06-CSS,-but-make-it-random](https://frontendfoc.us/issues/740) 
 - [2026-04-29-The-end-of-srcset/sizes-headaches-is-here](https://frontendfoc.us/issues/739) 
 - [2026-04-22-font-family-doesn't-fall-back-the-way-you-think-it-does](https://frontendfoc.us/issues/738) 
 - [2026-04-15-Google's-crackdown-on-back-button-'hijacking'](https://frontendfoc.us/issues/737) 
