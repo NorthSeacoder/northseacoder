@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-10 19:39:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-11 04:42:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -138,6 +138,7 @@
 - [2020-08-27-入职一年多的一些思考](https://fed.taobao.org/blog/taofed/do71ct/sxz5ap) 
 - [2020-08-21-阿里实习-90-天：从实习生的视角谈谈个人成长](https://fed.taobao.org/blog/taofed/do71ct/acbnym) 
 - [2020-08-20-什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc) 
+- [2026-05-11-pretext与文字四面环绕效果的实现](https://www.zhangxinxu.com/wordpress/2026/05/pretext-text-around/) 
 - [2026-03-17-浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/) 
 - [2026-02-25-点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/) 
 - [2025-09-30-使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/) 
