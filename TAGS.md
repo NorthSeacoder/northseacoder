@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-12 20:13:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-13 20:16:00。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -313,6 +313,7 @@
 
 
 
+- [【Frontend-Focus】A-new-HTML-element-for-installing-web-apps](https://frontendfoc.us/issues/741)
 - [【Frontend-Focus】HTML-video/audio-lazy-loading-now-a-web-standard](https://frontendfoc.us/issues/736)
 - [【Frontend-Focus】Frontend-and-HTML-features-to-be-aware-of-in-2025](https://frontendfoc.us/issues/674)
 - [【Frontend-Focus】HTML-hacks-that-shaped-the-Web](https://frontendfoc.us/issues/620)
@@ -332,7 +333,6 @@
 - [【张鑫旭-鑫空间-鑫生活】HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/)
 - [【张鑫旭-鑫空间-鑫生活】关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/)
-- [【张鑫旭-鑫空间-鑫生活】HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/)
 - [......【查看更多】......](/category/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-12 20:13:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-13 20:16:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-05-13-A-new-HTML-element-for-installing-web-apps](https://frontendfoc.us/issues/741) 
 - [2026-04-08-HTML-video/audio-lazy-loading-now-a-web-standard](https://frontendfoc.us/issues/736) 
 - [2025-01-08-Frontend-and-HTML-features-to-be-aware-of-in-2025](https://frontendfoc.us/issues/674) 
 - [2023-11-29-HTML-hacks-that-shaped-the-Web](https://frontendfoc.us/issues/620) 
