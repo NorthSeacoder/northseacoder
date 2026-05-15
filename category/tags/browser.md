@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-05-14 20:12:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-15 19:58:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -27,6 +27,7 @@
 - [2024-07-24-How-to-build-complex-Chrome-extensions](https://frontendfoc.us/issues/653) 
 - [2023-09-20-Safari-17-is-here](https://frontendfoc.us/issues/610) 
 - [2023-08-30-Here's-why-you-shouldn't-make-viewport-assumptions](https://frontendfoc.us/issues/607) 
+- [2026-05-15-A-candid-interview-with-Tanner-Linsley](https://react.statuscode.com/issues/474) 
 - [2025-10-29-Are-we-getting-locked-in-by-directives?](https://react.statuscode.com/issues/449) 
 - [2023-12-13-Storybook-gets-on-board-with-RSCs](https://react.statuscode.com/issues/366) 
 - [2020-12-02-CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag) 
