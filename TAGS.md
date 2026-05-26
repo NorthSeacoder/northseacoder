@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-05-25 20:07:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-05-26 20:28:24。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -130,6 +130,7 @@
 - [【Node-Weekly】The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)
 - [【Node-Weekly】Polyfills-gone-rogue](https://nodeweekly.com/issues/503)
 - [【Node-Weekly】You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)
+- [【JavaScript-Weekly】npm-and-pnpm-introduce-staged-publishing](https://javascriptweekly.com/issues/787)
 - [【JavaScript-Weekly】Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)
 - [【JavaScript-Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [【JavaScript-Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
@@ -138,7 +139,6 @@
 - [【JavaScript-Weekly】Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)
 - [【JavaScript-Weekly】Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)
 - [【JavaScript-Weekly】The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)
-- [【JavaScript-Weekly】The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)
 - [......【查看更多】......](/category/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
