@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-05-20 20:32:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-05-27 20:31:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2026-05-27-What's-still-missing-from-CSS](https://frontendfoc.us/issues/743) 
 - [2026-05-20-Google-I/O-and-the-'era-of-the-agentic-web'.](https://frontendfoc.us/issues/742) 
 - [2026-05-13-A-new-HTML-element-for-installing-web-apps](https://frontendfoc.us/issues/741) 
 - [2026-05-06-CSS,-but-make-it-random](https://frontendfoc.us/issues/740) 
