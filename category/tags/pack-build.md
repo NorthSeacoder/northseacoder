@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-03 21:34:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-04 20:30:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-06-04-Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627) 
 - [2026-04-30-pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622) 
 - [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604) 
 - [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595) 

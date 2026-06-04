@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-03 21:34:02。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-04 20:30:25。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -119,6 +119,7 @@
 
 
 
+- [【Node-Weekly】Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)
 - [【Node-Weekly】pnpm-11.0,-AVA-8.0,-and-a-Node-26-delay](https://nodeweekly.com/issues/622)
 - [【Node-Weekly】How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)
 - [【Node-Weekly】npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)
@@ -138,7 +139,6 @@
 - [【JavaScript-Weekly】A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772)
 - [【JavaScript-Weekly】Babel-8-RC-Arrives,-Gatsby-Lives,-Lodash-Resets](https://javascriptweekly.com/issues/771)
 - [【JavaScript-Weekly】Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)
-- [【JavaScript-Weekly】Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)
 - [......【查看更多】......](/category/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
