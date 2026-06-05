@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,403+</h3>
+      <h3>📚 1,405+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,9 +72,9 @@
 > 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-06-04** · [Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627) _(来自 Node-Weekly)_
+- **2026-06-05** · [Every-TanStack-project-all-at-once](https://react.statuscode.com/issues/477) _(来自 React-Status)_
 
-- **2026-06-04** · [PH今日热榜-|-2026-06-04](https://decohack.com/producthunt-daily-2026-06-04/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-06-05** · [PH今日热榜-|-2026-06-05](https://decohack.com/producthunt-daily-2026-06-05/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,14 +97,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-06-04 20:30:25 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-06-05 20:22:49 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Node-Weekly
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -116,7 +116,7 @@
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    React-Status
+    React-Status <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#淘系前端团队" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -140,14 +140,14 @@
 ## 文章链接
 
 
-<details open>
+<details>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Node-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2026-06-04** - [Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627) <img src="/assets/new.png" alt="NEW" />
+- **2026-06-04** - [Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)
 
 - **2026-05-28** - [Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)
 
@@ -302,12 +302,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="react-status">
-  <strong>React-Status</strong>
+  <strong>React-Status</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-06-05** - [Every-TanStack-project-all-at-once](https://react.statuscode.com/issues/477) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-05-29** - [🎉-React-turns-13-years-old-today](https://react.statuscode.com/issues/476)
 
@@ -346,8 +348,6 @@
 - **2026-01-23** - [Remotion-is-having-the-week-of-its-life](https://react.statuscode.com/issues/459)
 
 - **2026-01-16** - [React-best-practices-for-AI-agents](https://react.statuscode.com/issues/458)
-
-- **2026-01-09** - [The-joys-of-React-19.2's-useEffectEvent](https://react.statuscode.com/issues/457)
 
 
 <div align="right">
@@ -503,7 +503,9 @@
 <p></p>
 
 
-- **2026-06-04** - [PH今日热榜-|-2026-06-04](https://decohack.com/producthunt-daily-2026-06-04/) <img src="/assets/new.png" alt="NEW" />
+- **2026-06-05** - [PH今日热榜-|-2026-06-05](https://decohack.com/producthunt-daily-2026-06-05/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-06-04** - [PH今日热榜-|-2026-06-04](https://decohack.com/producthunt-daily-2026-06-04/)
 
 - **2026-06-03** - [PH今日热榜-|-2026-06-03](https://decohack.com/producthunt-daily-2026-06-03/)
 
@@ -540,8 +542,6 @@
 - **2026-05-17** - [PH今日热榜-|-2026-05-17](https://decohack.com/producthunt-daily-2026-05-17/)
 
 - **2026-05-16** - [PH今日热榜-|-2026-05-16](https://decohack.com/producthunt-daily-2026-05-16/)
-
-- **2026-05-15** - [PH今日热榜-|-2026-05-15](https://decohack.com/producthunt-daily-2026-05-15/)
 
 
 <div align="right">
