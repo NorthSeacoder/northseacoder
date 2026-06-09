@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-08 20:38:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-09 20:25:08。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -540,8 +540,8 @@
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】VoidZero-→-Cloudflare,-and-Angular-22-lands](https://javascriptweekly.com/issues/789)
 - [【JavaScript-Weekly】Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786)
-- [【JavaScript-Weekly】Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-08 20:38:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-09 20:25:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -23,6 +23,7 @@
 - [2023-08-08-Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498) 
 - [2023-07-18-Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495) 
 - [2023-07-11-Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494) 
+- [2026-06-09-VoidZero-→-Cloudflare,-and-Angular-22-lands](https://javascriptweekly.com/issues/789) 
 - [2026-05-19-Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786) 
 - [2026-02-17-Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773) 
 - [2026-01-20-A-big-week-for-jQuery](https://javascriptweekly.com/issues/769) 
@@ -160,6 +161,9 @@
 - [2023-07-25-5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/) 
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/) 
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/) 
+- [2026-06-05-科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) 
+- [2026-05-29-科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) 
+- [2026-05-21-科技爱好者周刊（第-397-期）：财富正在向-AI-集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) 
 - [2025-07-04-科技爱好者周刊（第-355-期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) 
 - [2025-06-27-科技爱好者周刊（第-354-期）：8000mAh-手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) 
 - [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) 
@@ -169,6 +173,7 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2026-06-09-PH今日热榜-|-2026-06-09](https://decohack.com/producthunt-daily-2026-06-09/) 
 - [2026-06-08-PH今日热榜-|-2026-06-08](https://decohack.com/producthunt-daily-2026-06-08/) 
 - [2026-06-07-PH今日热榜-|-2026-06-07](https://decohack.com/producthunt-daily-2026-06-07/) 
 - [2026-06-06-PH今日热榜-|-2026-06-06](https://decohack.com/producthunt-daily-2026-06-06/) 
