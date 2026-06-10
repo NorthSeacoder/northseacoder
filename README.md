@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,413+</h3>
+      <h3>📚 1,414+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +5</h3>
+      <h3>🚀 +1</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 3</h3>
+      <h3>🆕 1</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,18 +69,10 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>3</strong> 个来源筛选最新的 <strong>5</strong> 条内容
+> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
 
 
-- **2026-06-09** · [VoidZero-→-Cloudflare,-and-Angular-22-lands](https://javascriptweekly.com/issues/789) _(来自 JavaScript-Weekly)_
-
-- **2026-06-09** · [PH今日热榜-|-2026-06-09](https://decohack.com/producthunt-daily-2026-06-09/) _(来自 DecoHack-独立开发者的灵感周刊)_
-
-- **2026-06-05** · [科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) _(来自 阮一峰的网络日志)_
-
-- **2026-05-29** · [科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) _(来自 阮一峰的网络日志)_
-
-- **2026-05-21** · [科技爱好者周刊（第-397-期）：财富正在向-AI-集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) _(来自 阮一峰的网络日志)_
+- **2026-06-10** · [全新的CSS-border-shape属性简介](https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/) _(来自 张鑫旭-鑫空间-鑫生活)_
 
 
 
@@ -103,7 +95,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-06-09 20:25:08 · 🚀 本次新增: +5 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-06-10 04:55:31 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -114,7 +106,7 @@
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    JavaScript-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    JavaScript-Weekly
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -130,15 +122,15 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活
+    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    阮一峰的网络日志 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    阮一峰的网络日志
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    DecoHack-独立开发者的灵感周刊 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    DecoHack-独立开发者的灵感周刊
   </a>
 
 </div>
@@ -200,14 +192,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="javascript-weekly">
-  <strong>JavaScript-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>JavaScript-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2026-06-09** - [VoidZero-→-Cloudflare,-and-Angular-22-lands](https://javascriptweekly.com/issues/789) <img src="/assets/new.png" alt="NEW" />
+- **2026-06-09** - [VoidZero-→-Cloudflare,-and-Angular-22-lands](https://javascriptweekly.com/issues/789)
 
 - **2026-06-02** - [How-to-vet-an-npm-package-in-2026](https://javascriptweekly.com/issues/788)
 
@@ -416,12 +408,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong>
+  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-06-10** - [全新的CSS-border-shape属性简介](https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-06-01** - [CSS-contrast-color函数简介](https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/)
 
@@ -461,8 +455,6 @@
 
 - **2026-01-22** - [Promise.try和Promise.withResolvers作用速览](https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/)
 
-- **2026-01-19** - [CSS-text-decoration-inset属性首发简介](https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/)
-
 
 <div align="right">
 <a href="/category/details/张鑫旭-鑫空间-鑫生活.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
@@ -470,18 +462,18 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="阮一峰的网络日志">
-  <strong>阮一峰的网络日志</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>阮一峰的网络日志</strong>
 </summary>
 <p></p>
 
 
-- **2026-06-05** - [科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) <img src="/assets/new.png" alt="NEW" />
+- **2026-06-05** - [科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)
 
-- **2026-05-29** - [科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) <img src="/assets/new.png" alt="NEW" />
+- **2026-05-29** - [科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)
 
-- **2026-05-21** - [科技爱好者周刊（第-397-期）：财富正在向-AI-集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) <img src="/assets/new.png" alt="NEW" />
+- **2026-05-21** - [科技爱好者周刊（第-397-期）：财富正在向-AI-集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html)
 
 - **2025-07-04** - [科技爱好者周刊（第-355-期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html)
 
@@ -508,14 +500,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="decohack-独立开发者的灵感周刊">
-  <strong>DecoHack-独立开发者的灵感周刊</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>DecoHack-独立开发者的灵感周刊</strong>
 </summary>
 <p></p>
 
 
-- **2026-06-09** - [PH今日热榜-|-2026-06-09](https://decohack.com/producthunt-daily-2026-06-09/) <img src="/assets/new.png" alt="NEW" />
+- **2026-06-09** - [PH今日热榜-|-2026-06-09](https://decohack.com/producthunt-daily-2026-06-09/)
 
 - **2026-06-08** - [PH今日热榜-|-2026-06-08](https://decohack.com/producthunt-daily-2026-06-08/)
 
