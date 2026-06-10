@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-10 04:55:31。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-10 21:05:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -419,6 +419,7 @@
 - [【JavaScript-Weekly】A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)
 - [【JavaScript-Weekly】Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)
 - [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
+- [【Frontend-Focus】Safari's-58-new-features](https://frontendfoc.us/issues/745)
 - [【Frontend-Focus】Getting-perfect-tooltip-placement](https://frontendfoc.us/issues/716)
 - [【Frontend-Focus】How-much-do-you-really-know-about-media-queries?](https://frontendfoc.us/issues/711)
 - [【Frontend-Focus】As-Chrome-turns-17,-Google-gets-to-keep-it](https://frontendfoc.us/issues/707)
@@ -431,7 +432,6 @@
 - [【Frontend-Focus】W3C-doubles-down:-'Third-party-cookies-have-to-go'](https://frontendfoc.us/issues/654)
 - [【Frontend-Focus】How-to-build-complex-Chrome-extensions](https://frontendfoc.us/issues/653)
 - [【Frontend-Focus】Safari-17-is-here](https://frontendfoc.us/issues/610)
-- [【Frontend-Focus】Here's-why-you-shouldn't-make-viewport-assumptions](https://frontendfoc.us/issues/607)
 - [......【查看更多】......](/category/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
