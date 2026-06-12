@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-06-05 20:22:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-12 20:33:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2026-06-12-facebook/react-is-out,-react/react-is-in](https://react.statuscode.com/issues/478) 
 - [2026-06-05-Every-TanStack-project-all-at-once](https://react.statuscode.com/issues/477) 
 - [2026-05-29-🎉-React-turns-13-years-old-today](https://react.statuscode.com/issues/476) 
 - [2026-05-22-RSCs-in-TanStack:-better-than-Next.js?](https://react.statuscode.com/issues/475) 

@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,419+</h3>
+      <h3>📚 1,421+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +1</h3>
+      <h3>🚀 +2</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 1</h3>
+      <h3>🆕 2</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,10 +69,12 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
+> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-06-11** · [科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) _(来自 阮一峰的网络日志)_
+- **2026-06-12** · [facebook/react-is-out,-react/react-is-in](https://react.statuscode.com/issues/478) _(来自 React-Status)_
+
+- **2026-06-12** · [PH今日热榜-|-2026-06-12](https://decohack.com/producthunt-daily-2026-06-12/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -95,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-06-12 05:12:35 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-06-12 20:33:42 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -114,7 +116,7 @@
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    React-Status
+    React-Status <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#淘系前端团队" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -126,11 +128,11 @@
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    阮一峰的网络日志 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    阮一峰的网络日志
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    DecoHack-独立开发者的灵感周刊
+    DecoHack-独立开发者的灵感周刊 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
 </div>
@@ -300,12 +302,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="react-status">
-  <strong>React-Status</strong>
+  <strong>React-Status</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-06-12** - [facebook/react-is-out,-react/react-is-in](https://react.statuscode.com/issues/478) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-06-05** - [Every-TanStack-project-all-at-once](https://react.statuscode.com/issues/477)
 
@@ -344,8 +348,6 @@
 - **2026-01-30** - [Animating-ASCII-in-the-terminal-with-React-and-Ink](https://react.statuscode.com/issues/460)
 
 - **2026-01-23** - [Remotion-is-having-the-week-of-its-life](https://react.statuscode.com/issues/459)
-
-- **2026-01-16** - [React-best-practices-for-AI-agents](https://react.statuscode.com/issues/458)
 
 
 <div align="right">
@@ -462,14 +464,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="阮一峰的网络日志">
-  <strong>阮一峰的网络日志</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>阮一峰的网络日志</strong>
 </summary>
 <p></p>
 
 
-- **2026-06-11** - [科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html) <img src="/assets/new.png" alt="NEW" />
+- **2026-06-11** - [科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)
 
 - **2026-06-05** - [科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)
 
@@ -502,12 +504,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="decohack-独立开发者的灵感周刊">
-  <strong>DecoHack-独立开发者的灵感周刊</strong>
+  <strong>DecoHack-独立开发者的灵感周刊</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-06-12** - [PH今日热榜-|-2026-06-12](https://decohack.com/producthunt-daily-2026-06-12/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-06-11** - [PH今日热榜-|-2026-06-11](https://decohack.com/producthunt-daily-2026-06-11/)
 
@@ -546,8 +550,6 @@
 - **2026-05-24** - [PH今日热榜-|-2026-05-24](https://decohack.com/producthunt-daily-2026-05-24/)
 
 - **2026-05-23** - [PH今日热榜-|-2026-05-23](https://decohack.com/producthunt-daily-2026-05-23/)
-
-- **2026-05-22** - [PH今日热榜-|-2026-05-22](https://decohack.com/producthunt-daily-2026-05-22/)
 
 
 <div align="right">
