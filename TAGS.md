@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-11 20:41:28。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-12 05:12:35。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -476,6 +476,7 @@
 
 - [【React-Status】Server-Actions-fly-the-nest](https://react.statuscode.com/issues/359)
 - [【张鑫旭-鑫空间-鑫生活】狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/)
+- [【阮一峰的网络日志】科技爱好者周刊（第-400-期）：rsync-的争论](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-400.html)
 - [......【查看更多】......](/category/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
