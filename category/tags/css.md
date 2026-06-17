@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-16 21:24:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-17 20:33:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-06-17-The-scope-superpower-hiding-in-CSS-@function](https://frontendfoc.us/issues/746) 
 - [2026-05-27-What's-still-missing-from-CSS](https://frontendfoc.us/issues/743) 
 - [2026-04-01-Rendering-Doom-in-3D-with-CSS](https://frontendfoc.us/issues/735) 
 - [2026-02-25-Someone-built-an-x86-emulator-in-pure-CSS](https://frontendfoc.us/issues/730) 

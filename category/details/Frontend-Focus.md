@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-06-10 21:05:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-17 20:33:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2026-06-17-The-scope-superpower-hiding-in-CSS-@function](https://frontendfoc.us/issues/746) 
 - [2026-06-10-Safari's-58-new-features](https://frontendfoc.us/issues/745) 
 - [2026-06-03-Rendering-3D-meshes-in-the-DOM-with-CSS](https://frontendfoc.us/issues/744) 
 - [2026-05-27-What's-still-missing-from-CSS](https://frontendfoc.us/issues/743) 
