@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-17 20:33:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-18 20:42:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-06-18-Extending-Node-instead-of-replacing-it](https://nodeweekly.com/issues/629) 
 - [2026-05-28-Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626) 
 - [2026-05-21-Should-we-rewrite-Node.js-in-Rust?](https://nodeweekly.com/issues/625) 
 - [2026-05-14-Let's-go-deep-into-Node's-internals](https://nodeweekly.com/issues/624) 
