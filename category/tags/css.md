@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-24 04:45:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-24 20:16:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-06-24-CSS-that-picks-its-own-readable-text-color](https://frontendfoc.us/issues/747) 
 - [2026-06-17-The-scope-superpower-hiding-in-CSS-@function](https://frontendfoc.us/issues/746) 
 - [2026-05-27-What's-still-missing-from-CSS](https://frontendfoc.us/issues/743) 
 - [2026-04-01-Rendering-Doom-in-3D-with-CSS](https://frontendfoc.us/issues/735) 
@@ -43,6 +44,7 @@
 - [2023-06-14-The-gotchas-of-CSS-nesting](https://frontendfoc.us/issues/597) 
 - [2020-07-20-你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993) 
 - [2021-03-09-Midway-Serverless-发布-2.0，一体化让前端研发再次提效](https://fed.taobao.org/blog/taofed/do71ct/mvd9lw) 
+- [2026-06-24-CSS-color-scheme属性与light-dark颜色函数](https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/) 
 - [2026-06-10-全新的CSS-border-shape属性简介](https://www.zhangxinxu.com/wordpress/2026/06/css-border-shape/) 
 - [2026-06-01-CSS-contrast-color函数简介](https://www.zhangxinxu.com/wordpress/2026/06/css-contrast-color/) 
 - [2026-05-18-光标的形状也能设置了，就是CSS-caret-shape属性](https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/) 
