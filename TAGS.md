@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-06-24 20:16:03。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-06-25 20:29:25。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -157,6 +157,7 @@
 
 
 
+- [【Node-Weekly】Node.js-26.4-lands-package-maps](https://nodeweekly.com/issues/630)
 - [【Node-Weekly】Extending-Node-instead-of-replacing-it](https://nodeweekly.com/issues/629)
 - [【Node-Weekly】Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)
 - [【Node-Weekly】Should-we-rewrite-Node.js-in-Rust?](https://nodeweekly.com/issues/625)
@@ -176,7 +177,6 @@
 - [【Node-Weekly】A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)
 - [【Node-Weekly】'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)
 - [【Node-Weekly】Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603)
-- [【Node-Weekly】Did-you-know-Node-has-a-'deprecate'-method?](https://nodeweekly.com/issues/601)
 - [......【查看更多】......](/category/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
