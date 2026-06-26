@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-06-19 20:12:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-26 20:16:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2026-06-26-Dan-Abramov-joins-the-Next.js-team](https://react.statuscode.com/issues/480) 
 - [2026-06-19-React-Router-v8-is-boring-but-good](https://react.statuscode.com/issues/479) 
 - [2026-06-12-facebook/react-is-out,-react/react-is-in](https://react.statuscode.com/issues/478) 
 - [2026-06-05-Every-TanStack-project-all-at-once](https://react.statuscode.com/issues/477) 
