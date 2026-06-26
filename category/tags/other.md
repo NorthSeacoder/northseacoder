@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-06-25 20:29:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-06-26 04:48:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -161,6 +161,7 @@
 - [2023-07-25-5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/) 
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/) 
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/) 
+- [2026-06-26-科技爱好者周刊（第-401-期）：如何赚到10亿美元](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-401.html) 
 - [2026-06-05-科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html) 
 - [2026-05-29-科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html) 
 - [2026-05-21-科技爱好者周刊（第-397-期）：财富正在向-AI-集中](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-397.html) 
