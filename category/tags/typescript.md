@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-09 04:28:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-09 20:16:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-07-09-npm-v12-and-TypeScript-7-released](https://nodeweekly.com/issues/632) 
 - [2026-03-26-How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617) 
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582) 
 - [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568) 
