@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-07-10 19:57:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-17 19:39:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2026-07-17-Pete-Hunt-is-back-to-lead-Next.js](https://react.statuscode.com/issues/483) 
 - [2026-07-10-A-look-into-ChatGPT's-React-stack](https://react.statuscode.com/issues/482) 
 - [2026-07-03-Meta-releases-its-React-design-system](https://react.statuscode.com/issues/481) 
 - [2026-06-26-Dan-Abramov-joins-the-Next.js-team](https://react.statuscode.com/issues/480) 
