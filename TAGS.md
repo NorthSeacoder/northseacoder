@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-07-20 20:05:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-07-21 19:58:32。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -545,8 +545,8 @@
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】The-coding-challenge-you-don't-want-to-pass](https://javascriptweekly.com/issues/795)
 - [【JavaScript-Weekly】VoidZero-→-Cloudflare,-and-Angular-22-lands](https://javascriptweekly.com/issues/789)
-- [【JavaScript-Weekly】Dr.-Axel's-blog-is-gone-for-now](https://javascriptweekly.com/issues/786)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
