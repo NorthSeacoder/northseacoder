@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,493+</h3>
+      <h3>📚 1,496+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +2</h3>
+      <h3>🚀 +3</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 2</h3>
+      <h3>🆕 3</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,12 +69,14 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
+> 已从 <strong>3</strong> 个来源筛选最新的 <strong>3</strong> 条内容
 
 
-- **2026-07-22** · [Rebuilding-the-World-Cup-table-with-CSS-Subgrid](https://frontendfoc.us/issues/751) _(来自 Frontend-Focus)_
+- **2026-07-23** · [Domenic-Denicola's-modern-dev-setup](https://nodeweekly.com/issues/634) _(来自 Node-Weekly)_
 
-- **2026-07-22** · [PH今日热榜-|-2026-07-22](https://decohack.com/producthunt-daily-2026-07-22/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-07-23** · [纯CSS实现repeat–n,-anything循环展示或相加功能](https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/) _(来自 张鑫旭-鑫空间-鑫生活)_
+
+- **2026-07-23** · [PH今日热榜-|-2026-07-23](https://decohack.com/producthunt-daily-2026-07-23/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,14 +99,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-07-22 19:51:28 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-07-23 19:53:55 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly
+    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -112,7 +114,7 @@
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Frontend-Focus
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -124,7 +126,7 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活
+    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -140,12 +142,14 @@
 ## 文章链接
 
 
-<details>
+<details open>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong>
+  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-07-23** - [Domenic-Denicola's-modern-dev-setup](https://nodeweekly.com/issues/634) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-07-16** - [The-life-of-a-~200ms-HTTP-request-to-a-Node-app](https://nodeweekly.com/issues/633)
 
@@ -184,8 +188,6 @@
 - **2026-03-19** - [Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)
 
 - **2026-03-12** - [Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)
-
-- **2026-03-05** - [Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)
 
 
 <div align="right">
@@ -248,14 +250,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Frontend-Focus</strong>
 </summary>
 <p></p>
 
 
-- **2026-07-22** - [Rebuilding-the-World-Cup-table-with-CSS-Subgrid](https://frontendfoc.us/issues/751) <img src="/assets/new.png" alt="NEW" />
+- **2026-07-22** - [Rebuilding-the-World-Cup-table-with-CSS-Subgrid](https://frontendfoc.us/issues/751)
 
 - **2026-07-15** - [Does-the-frontend-still-need-build-tools?](https://frontendfoc.us/issues/750)
 
@@ -410,12 +412,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong>
+  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-07-23** - [纯CSS实现repeat–n,-anything循环展示或相加功能](https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-07-17** - [CSS新单位dvh、lvmin、vi、cqb等初解](https://www.zhangxinxu.com/wordpress/2026/07/css-dvh-vi-cqi/)
 
@@ -454,8 +458,6 @@
 - **2026-03-30** - [CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/)
 
 - **2026-03-17** - [浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)
-
-- **2026-03-09** - [HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)
 
 
 <div align="right">
@@ -521,7 +523,9 @@
 <p></p>
 
 
-- **2026-07-22** - [PH今日热榜-|-2026-07-22](https://decohack.com/producthunt-daily-2026-07-22/) <img src="/assets/new.png" alt="NEW" />
+- **2026-07-23** - [PH今日热榜-|-2026-07-23](https://decohack.com/producthunt-daily-2026-07-23/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-07-22** - [PH今日热榜-|-2026-07-22](https://decohack.com/producthunt-daily-2026-07-22/)
 
 - **2026-07-21** - [PH今日热榜-|-2026-07-21](https://decohack.com/producthunt-daily-2026-07-21/)
 
@@ -558,8 +562,6 @@
 - **2026-07-04** - [PH今日热榜-|-2026-07-04](https://decohack.com/producthunt-daily-2026-07-04/)
 
 - **2026-07-03** - [PH今日热榜-|-2026-07-03](https://decohack.com/producthunt-daily-2026-07-03/)
-
-- **2026-07-02** - [PH今日热榜-|-2026-07-02](https://decohack.com/producthunt-daily-2026-07-02/)
 
 
 <div align="right">
