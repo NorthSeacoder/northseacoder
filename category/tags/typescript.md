@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-07-27 20:03:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-07-28 19:59:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -15,6 +15,7 @@
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561) 
 - [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545) 
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542) 
+- [2026-07-28-Anders-Hejlsberg-demos-TypeScript-7's-10x-speedup](https://javascriptweekly.com/issues/796) 
 - [2026-07-14-npm-12,-TypeScript-7,-and-Bun-in-Rust](https://javascriptweekly.com/issues/794) 
 - [2026-06-23-Babel-8.0,-Vite-8.1,-and-TypeScript-7.0-RC](https://javascriptweekly.com/issues/791) 
 - [2026-06-16-Flow-vs-TypeScript-in-2026](https://javascriptweekly.com/issues/790) 
