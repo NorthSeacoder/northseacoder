@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-04 20:07:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-05 20:06:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-08-05-The-new-CSS-feature-devs-love-most-but-can't-rely-on-yet](https://frontendfoc.us/issues/753) 
 - [2026-07-22-Rebuilding-the-World-Cup-table-with-CSS-Subgrid](https://frontendfoc.us/issues/751) 
 - [2026-07-08-Edge-gets-started-on-CSS-mixins](https://frontendfoc.us/issues/749) 
 - [2026-06-24-CSS-that-picks-its-own-readable-text-color](https://frontendfoc.us/issues/747) 
