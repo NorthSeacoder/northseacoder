@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-08-05 20:06:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-12 19:35:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2026-08-12-Five-CSS-properties-for-eye-catching-text-designs](https://frontendfoc.us/issues/754) 
 - [2026-08-05-The-new-CSS-feature-devs-love-most-but-can't-rely-on-yet](https://frontendfoc.us/issues/753) 
 - [2026-07-29-The-amazingly-versatile-conic-gradient](https://frontendfoc.us/issues/752) 
 - [2026-07-22-Rebuilding-the-World-Cup-table-with-CSS-Subgrid](https://frontendfoc.us/issues/751) 
