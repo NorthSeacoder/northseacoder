@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-08-07 19:27:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-14 19:27:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2026-08-14-The-Next.js-team-is-doing-a-Reddit-AMA](https://react.statuscode.com/issues/487) 
 - [2026-08-07-TanStack-Table-v9-and-Next.js-16.3](https://react.statuscode.com/issues/486) 
 - [2026-07-31-TanStack's-new-look,-and-life-without-RSC](https://react.statuscode.com/issues/485) 
 - [2026-07-24-The-absolute-state-of-'state-management'](https://react.statuscode.com/issues/484) 

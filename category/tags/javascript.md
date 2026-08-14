@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-14 03:05:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-14 19:27:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -95,6 +95,7 @@
 - [2024-10-30-Content-aware-components,-and-blazing-fast-tools](https://frontendfoc.us/issues/666) 
 - [2024-10-02-The-Web-Components-debate](https://frontendfoc.us/issues/662) 
 - [2023-08-02-Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604) 
+- [2026-08-14-The-Next.js-team-is-doing-a-Reddit-AMA](https://react.statuscode.com/issues/487) 
 - [2026-08-07-TanStack-Table-v9-and-Next.js-16.3](https://react.statuscode.com/issues/486) 
 - [2026-07-17-Pete-Hunt-is-back-to-lead-Next.js](https://react.statuscode.com/issues/483) 
 - [2026-06-26-Dan-Abramov-joins-the-Next.js-team](https://react.statuscode.com/issues/480) 
@@ -118,6 +119,7 @@
 - [2023-06-14-A-Million.js-to-one](https://react.statuscode.com/issues/343) 
 - [2020-09-11-淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el) 
 - [2020-09-01-JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la) 
+- [2026-08-14-还在reduce求和吗？该使用Math.sumPrecise方法啦](https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/) 
 - [2026-07-09-前端快讯：setHTML和Element.startViewTransition已支持](https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/) 
 - [2026-06-29-浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/) 
 - [2026-06-22-全是好东西！HTML-command属性和JS-toggle事件](https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/) 
