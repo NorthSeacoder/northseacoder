@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,545+</h3>
+      <h3>📚 1,547+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +1</h3>
+      <h3>🚀 +2</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 1</h3>
+      <h3>🆕 2</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,10 +69,12 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
+> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-08-20** · [科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html) _(来自 阮一峰的网络日志)_
+- **2026-08-21** · [卧靠，这是好东西，CSS-text-fit属性简介](https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/) _(来自 张鑫旭-鑫空间-鑫生活)_
+
+- **2026-08-21** · [PH今日热榜-|-2026-08-21](https://decohack.com/producthunt-daily-2026-08-21/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -95,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-08-21 02:06:24 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-08-21 19:05:22 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -122,15 +124,15 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活
+    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    阮一峰的网络日志 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    阮一峰的网络日志
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    DecoHack-独立开发者的灵感周刊
+    DecoHack-独立开发者的灵感周刊 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
 </div>
@@ -408,12 +410,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong>
+  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-08-21** - [卧靠，这是好东西，CSS-text-fit属性简介](https://www.zhangxinxu.com/wordpress/2026/08/css-text-fit/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-08-14** - [还在reduce求和吗？该使用Math.sumPrecise方法啦](https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/)
 
@@ -453,8 +457,6 @@
 
 - **2026-04-27** - [如何使用CSS判断鼠标从哪个方向进入元素？](https://www.zhangxinxu.com/wordpress/2026/04/css-hover-direction/)
 
-- **2026-04-17** - [借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)
-
 
 <div align="right">
 <a href="/category/details/张鑫旭-鑫空间-鑫生活.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
@@ -462,14 +464,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="阮一峰的网络日志">
-  <strong>阮一峰的网络日志</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>阮一峰的网络日志</strong>
 </summary>
 <p></p>
 
 
-- **2026-08-20** - [科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html) <img src="/assets/new.png" alt="NEW" />
+- **2026-08-20** - [科技爱好者周刊（第-409-期）：程序员的职业未来](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html)
 
 - **2026-08-13** - [科技爱好者周刊（第-408-期）：你需要知道的-AI-缓存知识](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html)
 
@@ -516,12 +518,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="decohack-独立开发者的灵感周刊">
-  <strong>DecoHack-独立开发者的灵感周刊</strong>
+  <strong>DecoHack-独立开发者的灵感周刊</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-08-21** - [PH今日热榜-|-2026-08-21](https://decohack.com/producthunt-daily-2026-08-21/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-08-20** - [PH今日热榜-|-2026-08-20](https://decohack.com/producthunt-daily-2026-08-20/)
 
@@ -560,8 +564,6 @@
 - **2026-08-03** - [PH今日热榜-|-2026-08-03](https://decohack.com/producthunt-daily-2026-08-03/)
 
 - **2026-08-02** - [PH今日热榜-|-2026-08-02](https://decohack.com/producthunt-daily-2026-08-02/)
-
-- **2026-08-01** - [PH今日热榜-|-2026-08-01](https://decohack.com/producthunt-daily-2026-08-01/)
 
 
 <div align="right">
