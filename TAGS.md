@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-08-28 02:15:42。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-08-29 01:49:28。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -328,6 +328,7 @@
 - [【Frontend-Focus】An-HTML-element-reunion](https://frontendfoc.us/issues/605)
 - [【React-Status】Meta-opens-up-Facebook's-styling-solution](https://react.statuscode.com/issues/365)
 - [【React-Status】Dan-Abramov-to-depart-Meta](https://react.statuscode.com/issues/349)
+- [【张鑫旭-鑫空间-鑫生活】超级Web特性HTML-in-Canvas初体验](https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)
 - [【张鑫旭-鑫空间-鑫生活】单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/)
@@ -337,7 +338,6 @@
 - [【张鑫旭-鑫空间-鑫生活】HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/)
 - [【张鑫旭-鑫空间-鑫生活】关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/)
-- [【张鑫旭-鑫空间-鑫生活】HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/)
 - [......【查看更多】......](/category/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

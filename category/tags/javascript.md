@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-08-28 02:15:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-08-29 01:49:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -95,6 +95,7 @@
 - [2024-10-30-Content-aware-components,-and-blazing-fast-tools](https://frontendfoc.us/issues/666) 
 - [2024-10-02-The-Web-Components-debate](https://frontendfoc.us/issues/662) 
 - [2023-08-02-Are-you-using-Web-Components-yet?](https://frontendfoc.us/issues/604) 
+- [2026-08-28-Moving-a-400-route-app-from-Next.js-to-TanStack-Start](https://react.statuscode.com/issues/488) 
 - [2026-08-14-The-Next.js-team-is-doing-a-Reddit-AMA](https://react.statuscode.com/issues/487) 
 - [2026-08-07-TanStack-Table-v9-and-Next.js-16.3](https://react.statuscode.com/issues/486) 
 - [2026-07-17-Pete-Hunt-is-back-to-lead-Next.js](https://react.statuscode.com/issues/483) 
