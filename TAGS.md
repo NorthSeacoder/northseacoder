@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-01 21:11:28。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-02 21:11:08。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -318,6 +318,7 @@
 
 
 
+- [【Frontend-Focus】htmx-4.0-takes-HTML-driven-apps-further](https://frontendfoc.us/issues/756)
 - [【Frontend-Focus】A-new-HTML-element-for-installing-web-apps](https://frontendfoc.us/issues/741)
 - [【Frontend-Focus】HTML-video/audio-lazy-loading-now-a-web-standard](https://frontendfoc.us/issues/736)
 - [【Frontend-Focus】Frontend-and-HTML-features-to-be-aware-of-in-2025](https://frontendfoc.us/issues/674)
@@ -337,7 +338,6 @@
 - [【张鑫旭-鑫空间-鑫生活】光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/)
-- [【张鑫旭-鑫空间-鑫生活】关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/)
 - [......【查看更多】......](/category/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
