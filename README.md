@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,570+</h3>
+      <h3>📚 1,571+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +3</h3>
+      <h3>🚀 +1</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 3</h3>
+      <h3>🆕 1</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,14 +69,10 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>3</strong> 个来源筛选最新的 <strong>3</strong> 条内容
+> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
 
 
-- **2026-09-03** · [Bun-now-passes-80.5%-of-Node's-test-suite](https://nodeweekly.com/issues/639) _(来自 Node-Weekly)_
-
-- **2026-09-03** · [别再使用IndexedDB，大文件读写就用OPFS](https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/) _(来自 张鑫旭-鑫空间-鑫生活)_
-
-- **2026-09-03** · [PH今日热榜-|-2026-09-03](https://decohack.com/producthunt-daily-2026-09-03/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-09-03** · [科技爱好者周刊（第-411-期）：OpenClaw-2.0-是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html) _(来自 阮一峰的网络日志)_
 
 
 
@@ -99,14 +95,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-09-03 21:11:53 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-09-04 04:53:14 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Node-Weekly
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -126,15 +122,15 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    张鑫旭-鑫空间-鑫生活
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    阮一峰的网络日志
+    阮一峰的网络日志 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    DecoHack-独立开发者的灵感周刊 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    DecoHack-独立开发者的灵感周刊
   </a>
 
 </div>
@@ -142,14 +138,14 @@
 ## 文章链接
 
 
-<details open>
+<details>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Node-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2026-09-03** - [Bun-now-passes-80.5%-of-Node's-test-suite](https://nodeweekly.com/issues/639) <img src="/assets/new.png" alt="NEW" />
+- **2026-09-03** - [Bun-now-passes-80.5%-of-Node's-test-suite](https://nodeweekly.com/issues/639)
 
 - **2026-08-27** - [Node-26.8-reads-and-writes-ZIP-files](https://nodeweekly.com/issues/638)
 
@@ -412,14 +408,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>张鑫旭-鑫空间-鑫生活</strong>
 </summary>
 <p></p>
 
 
-- **2026-09-03** - [别再使用IndexedDB，大文件读写就用OPFS](https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/) <img src="/assets/new.png" alt="NEW" />
+- **2026-09-03** - [别再使用IndexedDB，大文件读写就用OPFS](https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/)
 
 - **2026-08-28** - [超级Web特性HTML-in-Canvas初体验](https://www.zhangxinxu.com/wordpress/2026/08/html-in-canvas/)
 
@@ -466,12 +462,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="阮一峰的网络日志">
-  <strong>阮一峰的网络日志</strong>
+  <strong>阮一峰的网络日志</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-09-03** - [科技爱好者周刊（第-411-期）：OpenClaw-2.0-是一个缩影](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-08-27** - [科技爱好者周刊（第-410-期）：你需要知道的-AI-三种机制](http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html)
 
@@ -511,8 +509,6 @@
 
 - **2024-07-19** - [科技爱好者周刊（第-309-期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)
 
-- **2024-07-12** - [科技爱好者周刊（第-308-期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)
-
 
 <div align="right">
 <a href="/category/details/阮一峰的网络日志.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
@@ -520,14 +516,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="decohack-独立开发者的灵感周刊">
-  <strong>DecoHack-独立开发者的灵感周刊</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>DecoHack-独立开发者的灵感周刊</strong>
 </summary>
 <p></p>
 
 
-- **2026-09-03** - [PH今日热榜-|-2026-09-03](https://decohack.com/producthunt-daily-2026-09-03/) <img src="/assets/new.png" alt="NEW" />
+- **2026-09-03** - [PH今日热榜-|-2026-09-03](https://decohack.com/producthunt-daily-2026-09-03/)
 
 - **2026-09-02** - [PH今日热榜-|-2026-09-02](https://decohack.com/producthunt-daily-2026-09-02/)
 
