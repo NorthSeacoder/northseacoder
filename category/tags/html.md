@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-08 21:18:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-09 21:03:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-09-09-What's-new-in-HTML-for-2026](https://frontendfoc.us/issues/757) 
 - [2026-09-02-htmx-4.0-takes-HTML-driven-apps-further](https://frontendfoc.us/issues/756) 
 - [2026-05-13-A-new-HTML-element-for-installing-web-apps](https://frontendfoc.us/issues/741) 
 - [2026-04-08-HTML-video/audio-lazy-loading-now-a-web-standard](https://frontendfoc.us/issues/736) 
