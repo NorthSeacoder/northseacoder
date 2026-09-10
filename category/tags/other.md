@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-09 21:03:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-10 21:02:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -152,6 +152,7 @@
 - [2020-08-27-入职一年多的一些思考](https://fed.taobao.org/blog/taofed/do71ct/sxz5ap) 
 - [2020-08-21-阿里实习-90-天：从实习生的视角谈谈个人成长](https://fed.taobao.org/blog/taofed/do71ct/acbnym) 
 - [2020-08-20-什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc) 
+- [2026-09-10-关键时刻可以救命的Web-Locks-API](https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/) 
 - [2026-09-03-别再使用IndexedDB，大文件读写就用OPFS](https://www.zhangxinxu.com/wordpress/2026/09/indexdb-navigator-storage-getdirectory/) 
 - [2026-07-07-AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/) 
 - [2026-05-29-新特性速递：focus行为新增focusVisible控制](https://www.zhangxinxu.com/wordpress/2026/05/js-focus-focusvisible/) 
@@ -196,6 +197,7 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2026-09-10-PH今日热榜-|-2026-09-10](https://decohack.com/producthunt-daily-2026-09-10/) 
 - [2026-09-09-PH今日热榜-|-2026-09-09](https://decohack.com/producthunt-daily-2026-09-09/) 
 - [2026-09-08-PH今日热榜-|-2026-09-08](https://decohack.com/producthunt-daily-2026-09-08/) 
 - [2026-09-07-PH今日热榜-|-2026-09-07](https://decohack.com/producthunt-daily-2026-09-07/) 
