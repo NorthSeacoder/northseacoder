@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-17 21:35:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-18 04:58:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -94,3 +94,4 @@
 - [2023-07-12-Demystifying-React-Server-Components](https://react.statuscode.com/issues/347) 
 - [2023-07-05-Creating-videos-with-React-gets-even-better](https://react.statuscode.com/issues/346) 
 - [2020-07-15-基于-React-打造高自由度的-IDE-布局系统](https://fed.taobao.org/blog/taofed/do71ct/hlxur7) 
+- [2026-09-18-科技爱好者周刊（第-413-期）：再见了，React-Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html) 
