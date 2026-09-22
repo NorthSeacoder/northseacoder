@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-21 22:05:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-22 21:32:31。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -252,6 +252,7 @@
 - [【Node-Weekly】An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)
 - [【Node-Weekly】A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)
 - [【Node-Weekly】Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)
+- [【JavaScript-Weekly】JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)
 - [【JavaScript-Weekly】Functional-programming-jargon,-mapped-out](https://javascriptweekly.com/issues/802)
 - [【JavaScript-Weekly】Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)
 - [【JavaScript-Weekly】What's-new-in-ECMAScript-2026-and-usable-today](https://javascriptweekly.com/issues/793)
@@ -265,7 +266,6 @@
 - [【JavaScript-Weekly】What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764)
 - [【JavaScript-Weekly】Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763)
 - [【JavaScript-Weekly】Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)
-- [【JavaScript-Weekly】How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
