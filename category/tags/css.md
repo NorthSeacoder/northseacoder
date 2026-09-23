@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-22 21:32:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-23 21:38:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -8,6 +8,7 @@
 
 
 - [2026-08-13-Building-terminal-UIs-with-HTML-and-CSS](https://nodeweekly.com/issues/637) 
+- [2026-09-23-12-CSS-features-that-can-retire-your-dependencies](https://frontendfoc.us/issues/759) 
 - [2026-08-05-The-new-CSS-feature-devs-love-most-but-can't-rely-on-yet](https://frontendfoc.us/issues/753) 
 - [2026-07-22-Rebuilding-the-World-Cup-table-with-CSS-Subgrid](https://frontendfoc.us/issues/751) 
 - [2026-07-08-Edge-gets-started-on-CSS-mixins](https://frontendfoc.us/issues/749) 

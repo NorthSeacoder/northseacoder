@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-22 21:32:31。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-23 21:38:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -283,6 +283,7 @@
 
 
 - [【Node-Weekly】Building-terminal-UIs-with-HTML-and-CSS](https://nodeweekly.com/issues/637)
+- [【Frontend-Focus】12-CSS-features-that-can-retire-your-dependencies](https://frontendfoc.us/issues/759)
 - [【Frontend-Focus】The-new-CSS-feature-devs-love-most-but-can't-rely-on-yet](https://frontendfoc.us/issues/753)
 - [【Frontend-Focus】Rebuilding-the-World-Cup-table-with-CSS-Subgrid](https://frontendfoc.us/issues/751)
 - [【Frontend-Focus】Edge-gets-started-on-CSS-mixins](https://frontendfoc.us/issues/749)
@@ -301,7 +302,6 @@
 - [【Frontend-Focus】Building-towards-CSS-masonry,-brick-by-brick](https://frontendfoc.us/issues/703)
 - [【Frontend-Focus】The-opportunities-offered-by-CSS's-if](https://frontendfoc.us/issues/700)
 - [【Frontend-Focus】CSS-'if'-functions-start-to-roll-out](https://frontendfoc.us/issues/695)
-- [【Frontend-Focus】How-to-dynamically-generate-and-modify-color-in-CSS](https://frontendfoc.us/issues/683)
 - [......【查看更多】......](/category/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

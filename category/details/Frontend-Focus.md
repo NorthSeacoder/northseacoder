@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-09-16 21:30:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-23 21:38:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2026-09-23-12-CSS-features-that-can-retire-your-dependencies](https://frontendfoc.us/issues/759) 
 - [2026-09-16-When-CSS-could-run-JavaScript](https://frontendfoc.us/issues/758) 
 - [2026-09-09-What's-new-in-HTML-for-2026](https://frontendfoc.us/issues/757) 
 - [2026-09-02-htmx-4.0-takes-HTML-driven-apps-further](https://frontendfoc.us/issues/756) 
