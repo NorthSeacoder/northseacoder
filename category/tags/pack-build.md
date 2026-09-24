@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-09-23 21:38:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-09-24 21:39:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-09-24-12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642) 
 - [2026-07-30-npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635) 
 - [2026-06-11-npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628) 
 - [2026-06-04-Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627) 

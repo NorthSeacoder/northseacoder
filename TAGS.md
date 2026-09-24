@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-23 21:38:20。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-24 21:39:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -124,6 +124,7 @@
 
 
 
+- [【Node-Weekly】12-Node-built-ins-that-replace-npm-packages](https://nodeweekly.com/issues/642)
 - [【Node-Weekly】npm-to-scan-packages-for-malware-at-publish-time](https://nodeweekly.com/issues/635)
 - [【Node-Weekly】npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)
 - [【Node-Weekly】Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)
@@ -143,7 +144,6 @@
 - [【JavaScript-Weekly】npm-and-pnpm-introduce-staged-publishing](https://javascriptweekly.com/issues/787)
 - [【JavaScript-Weekly】Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)
 - [【JavaScript-Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
-- [【JavaScript-Weekly】It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)
 - [......【查看更多】......](/category/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
