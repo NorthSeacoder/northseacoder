@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-09-29 05:58:23。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-09-29 22:29:37。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -252,6 +252,7 @@
 - [【Node-Weekly】An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)
 - [【Node-Weekly】A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)
 - [【Node-Weekly】Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)
+- [【JavaScript-Weekly】A-ha's-Take-on-Me,-recreated-in-pure-JavaScript](https://javascriptweekly.com/issues/804)
 - [【JavaScript-Weekly】JavaScript-desktop-apps-in-under-10MB](https://javascriptweekly.com/issues/803)
 - [【JavaScript-Weekly】Functional-programming-jargon,-mapped-out](https://javascriptweekly.com/issues/802)
 - [【JavaScript-Weekly】Shipping-less-JavaScript-with-Baseline](https://javascriptweekly.com/issues/798)
@@ -265,7 +266,6 @@
 - [【JavaScript-Weekly】Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)
 - [【JavaScript-Weekly】What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764)
 - [【JavaScript-Weekly】Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763)
-- [【JavaScript-Weekly】Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)
 - [......【查看更多】......](/category/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
