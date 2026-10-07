@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-06 22:43:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-07 23:14:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -14,6 +14,7 @@
 - [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757) 
 - [2025-09-12-Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752) 
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656) 
+- [2026-10-07-JPEG-XL-finally-ships-in-Chrome](https://frontendfoc.us/issues/761) 
 - [2026-07-29-The-amazingly-versatile-conic-gradient](https://frontendfoc.us/issues/752) 
 - [2026-06-10-Safari's-58-new-features](https://frontendfoc.us/issues/745) 
 - [2025-11-05-Getting-perfect-tooltip-placement](https://frontendfoc.us/issues/716) 

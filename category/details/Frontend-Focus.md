@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-09-30 22:27:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-07 23:14:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2026-10-07-JPEG-XL-finally-ships-in-Chrome](https://frontendfoc.us/issues/761) 
 - [2026-09-30-Why-GitHub-now-ships-more-CSS,-not-less](https://frontendfoc.us/issues/760) 
 - [2026-09-23-12-CSS-features-that-can-retire-your-dependencies](https://frontendfoc.us/issues/759) 
 - [2026-09-16-When-CSS-could-run-JavaScript](https://frontendfoc.us/issues/758) 
