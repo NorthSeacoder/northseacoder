@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-10-08 23:29:22。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-10-09 22:47:14。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -42,6 +42,7 @@
 - [【JavaScript-Weekly】MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781)
 - [【JavaScript-Weekly】React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】Next.js-16.4,-and-a-new-way-to-visualize-React-apps](https://react.statuscode.com/issues/493)
 - [【React-Status】Signals-come-to-React-Redux](https://react.statuscode.com/issues/492)
 - [【React-Status】Why-Shopify-is-moving-off-React-Native](https://react.statuscode.com/issues/490)
 - [【React-Status】A-look-into-ChatGPT's-React-stack](https://react.statuscode.com/issues/482)
@@ -57,7 +58,6 @@
 - [【React-Status】How-to-roll-your-own-server-side-React-framework](https://react.statuscode.com/issues/467)
 - [【React-Status】How-React’s-Activity-component-helps-keep-state-alive](https://react.statuscode.com/issues/465)
 - [【React-Status】Building-bulletproof-React-components-and-handling-billion-row-tables](https://react.statuscode.com/issues/462)
-- [【React-Status】Animating-ASCII-in-the-terminal-with-React-and-Ink](https://react.statuscode.com/issues/460)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

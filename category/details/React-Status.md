@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-09-25 21:44:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-09 22:47:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2026-10-09-Next.js-16.4,-and-a-new-way-to-visualize-React-apps](https://react.statuscode.com/issues/493) 
 - [2026-09-25-Signals-come-to-React-Redux](https://react.statuscode.com/issues/492) 
 - [2026-09-18-Why-Lovable-built-a-Vite-compatible-dev-server-in-Rust](https://react.statuscode.com/issues/491) 
 - [2026-09-11-Why-Shopify-is-moving-off-React-Native](https://react.statuscode.com/issues/490) 

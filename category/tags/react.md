@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-08 23:29:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-09 22:47:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -11,6 +11,7 @@
 - [2026-04-14-MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781) 
 - [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755) 
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) 
+- [2026-10-09-Next.js-16.4,-and-a-new-way-to-visualize-React-apps](https://react.statuscode.com/issues/493) 
 - [2026-09-25-Signals-come-to-React-Redux](https://react.statuscode.com/issues/492) 
 - [2026-09-11-Why-Shopify-is-moving-off-React-Native](https://react.statuscode.com/issues/490) 
 - [2026-07-10-A-look-into-ChatGPT's-React-stack](https://react.statuscode.com/issues/482) 
