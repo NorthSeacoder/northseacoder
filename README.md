@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,642+</h3>
+      <h3>📚 1,644+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +3</h3>
+      <h3>🚀 +2</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 3</h3>
+      <h3>🆕 2</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,14 +69,12 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>3</strong> 个来源筛选最新的 <strong>3</strong> 条内容
+> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-10-14** · [The-best-way-to-use-icons-in-Web-UIs](https://frontendfoc.us/issues/762) _(来自 Frontend-Focus)_
+- **2026-10-15** · [The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644) _(来自 Node-Weekly)_
 
-- **2026-10-14** · [Nice！继text-wrap之后，Flex布局也支持balance排版了](https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/) _(来自 张鑫旭-鑫空间-鑫生活)_
-
-- **2026-10-14** · [PH今日热榜-|-2026-10-14](https://decohack.com/producthunt-daily-2026-10-14/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-10-15** · [PH今日热榜-|-2026-10-15](https://decohack.com/producthunt-daily-2026-10-15/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -99,14 +97,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-10-14 21:51:15 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-10-15 21:35:32 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly
+    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -114,7 +112,7 @@
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Frontend-Focus
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -126,7 +124,7 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    张鑫旭-鑫空间-鑫生活
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -142,12 +140,14 @@
 ## 文章链接
 
 
-<details>
+<details open>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong>
+  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-10-15** - [The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-10-08** - [When-worker-threads-beat-processes-for-Node-efficiency](https://nodeweekly.com/issues/643)
 
@@ -186,8 +186,6 @@
 - **2026-05-28** - [Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)
 
 - **2026-05-21** - [Should-we-rewrite-Node.js-in-Rust?](https://nodeweekly.com/issues/625)
-
-- **2026-05-14** - [Let's-go-deep-into-Node's-internals](https://nodeweekly.com/issues/624)
 
 
 <div align="right">
@@ -250,14 +248,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Frontend-Focus</strong>
 </summary>
 <p></p>
 
 
-- **2026-10-14** - [The-best-way-to-use-icons-in-Web-UIs](https://frontendfoc.us/issues/762) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-14** - [The-best-way-to-use-icons-in-Web-UIs](https://frontendfoc.us/issues/762)
 
 - **2026-10-07** - [JPEG-XL-finally-ships-in-Chrome](https://frontendfoc.us/issues/761)
 
@@ -412,14 +410,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>张鑫旭-鑫空间-鑫生活</strong>
 </summary>
 <p></p>
 
 
-- **2026-10-14** - [Nice！继text-wrap之后，Flex布局也支持balance排版了](https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-14** - [Nice！继text-wrap之后，Flex布局也支持balance排版了](https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/)
 
 - **2026-10-08** - [Document-Picture-in-Picture-API与任意元素画中画实现](https://www.zhangxinxu.com/wordpress/2026/10/document-picture-in-picture-api/)
 
@@ -527,7 +525,9 @@
 <p></p>
 
 
-- **2026-10-14** - [PH今日热榜-|-2026-10-14](https://decohack.com/producthunt-daily-2026-10-14/) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-15** - [PH今日热榜-|-2026-10-15](https://decohack.com/producthunt-daily-2026-10-15/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-10-14** - [PH今日热榜-|-2026-10-14](https://decohack.com/producthunt-daily-2026-10-14/)
 
 - **2026-10-13** - [PH今日热榜-|-2026-10-13](https://decohack.com/producthunt-daily-2026-10-13/)
 
@@ -564,8 +564,6 @@
 - **2026-09-27** - [PH今日热榜-|-2026-09-27](https://decohack.com/producthunt-daily-2026-09-27/)
 
 - **2026-09-26** - [PH今日热榜-|-2026-09-26](https://decohack.com/producthunt-daily-2026-09-26/)
-
-- **2026-09-25** - [PH今日热榜-|-2026-09-25](https://decohack.com/producthunt-daily-2026-09-25/)
 
 
 <div align="right">

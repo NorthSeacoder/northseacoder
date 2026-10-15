@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-14 21:51:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-15 21:35:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-10-15-The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644) 
 - [2026-10-08-When-worker-threads-beat-processes-for-Node-efficiency](https://nodeweekly.com/issues/643) 
 - [2026-09-17-Node-26.9-turns-on-FFI-by-default](https://nodeweekly.com/issues/641) 
 - [2026-09-10-Node-is-getting-a-built-in-benchmark-runner](https://nodeweekly.com/issues/640) 
