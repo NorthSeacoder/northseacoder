@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,650+</h3>
+      <h3>📚 1,652+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,9 +72,9 @@
 > 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-10-20** · [The-up-to-8x-faster-Rust-port-of-TypeScript](https://javascriptweekly.com/issues/807) _(来自 JavaScript-Weekly)_
+- **2026-10-21** · [Ten-CSS-features-worth-voting-for](https://frontendfoc.us/issues/763) _(来自 Frontend-Focus)_
 
-- **2026-10-20** · [PH今日热榜-|-2026-10-20](https://decohack.com/producthunt-daily-2026-10-20/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-10-21** · [PH今日热榜-|-2026-10-21](https://decohack.com/producthunt-daily-2026-10-21/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-10-20 21:46:40 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-10-21 21:52:20 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -108,11 +108,11 @@
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    JavaScript-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    JavaScript-Weekly
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus
+    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -194,14 +194,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="javascript-weekly">
-  <strong>JavaScript-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>JavaScript-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2026-10-20** - [The-up-to-8x-faster-Rust-port-of-TypeScript](https://javascriptweekly.com/issues/807) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-20** - [The-up-to-8x-faster-Rust-port-of-TypeScript](https://javascriptweekly.com/issues/807)
 
 - **2026-10-13** - [Ryan-Dahl:-'Why-reimplement-Node?-It-works.'](https://javascriptweekly.com/issues/806)
 
@@ -248,12 +248,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong>
+  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-10-21** - [Ten-CSS-features-worth-voting-for](https://frontendfoc.us/issues/763) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-10-14** - [The-best-way-to-use-icons-in-Web-UIs](https://frontendfoc.us/issues/762)
 
@@ -292,8 +294,6 @@
 - **2026-06-10** - [Safari's-58-new-features](https://frontendfoc.us/issues/745)
 
 - **2026-06-03** - [Rendering-3D-meshes-in-the-DOM-with-CSS](https://frontendfoc.us/issues/744)
-
-- **2026-05-27** - [What's-still-missing-from-CSS](https://frontendfoc.us/issues/743)
 
 
 <div align="right">
@@ -525,7 +525,9 @@
 <p></p>
 
 
-- **2026-10-20** - [PH今日热榜-|-2026-10-20](https://decohack.com/producthunt-daily-2026-10-20/) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-21** - [PH今日热榜-|-2026-10-21](https://decohack.com/producthunt-daily-2026-10-21/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-10-20** - [PH今日热榜-|-2026-10-20](https://decohack.com/producthunt-daily-2026-10-20/)
 
 - **2026-10-19** - [PH今日热榜-|-2026-10-19](https://decohack.com/producthunt-daily-2026-10-19/)
 
@@ -562,8 +564,6 @@
 - **2026-10-03** - [PH今日热榜-|-2026-10-03](https://decohack.com/producthunt-daily-2026-10-03/)
 
 - **2026-10-02** - [PH今日热榜-|-2026-10-02](https://decohack.com/producthunt-daily-2026-10-02/)
-
-- **2026-10-01** - [PH今日热榜-|-2026-10-01](https://decohack.com/producthunt-daily-2026-10-01/)
 
 
 <div align="right">
