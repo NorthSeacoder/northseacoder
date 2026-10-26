@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,657+</h3>
+      <h3>📚 1,658+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,7 +72,7 @@
 > 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
 
 
-- **2026-10-25** · [PH今日热榜-|-2026-10-25](https://decohack.com/producthunt-daily-2026-10-25/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-10-26** · [算了，还是讲下named-feature-@supports规则检测吧](https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/) _(来自 张鑫旭-鑫空间-鑫生活)_
 
 
 
@@ -95,7 +95,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-10-25 21:02:05 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-10-26 22:48:34 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -122,7 +122,7 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活
+    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -130,7 +130,7 @@
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    DecoHack-独立开发者的灵感周刊 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    DecoHack-独立开发者的灵感周刊
   </a>
 
 </div>
@@ -408,12 +408,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong>
+  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-10-26** - [算了，还是讲下named-feature-@supports规则检测吧](https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-10-14** - [Nice！继text-wrap之后，Flex布局也支持balance排版了](https://www.zhangxinxu.com/wordpress/2026/10/flex-wrap-balance/)
 
@@ -452,8 +454,6 @@
 - **2026-07-07** - [AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/)
 
 - **2026-06-29** - [浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)
-
-- **2026-06-24** - [CSS-color-scheme属性与light-dark颜色函数](https://www.zhangxinxu.com/wordpress/2026/06/css-color-theme-light-dark-function/)
 
 
 <div align="right">
@@ -516,14 +516,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="decohack-独立开发者的灵感周刊">
-  <strong>DecoHack-独立开发者的灵感周刊</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>DecoHack-独立开发者的灵感周刊</strong>
 </summary>
 <p></p>
 
 
-- **2026-10-25** - [PH今日热榜-|-2026-10-25](https://decohack.com/producthunt-daily-2026-10-25/) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-25** - [PH今日热榜-|-2026-10-25](https://decohack.com/producthunt-daily-2026-10-25/)
 
 - **2026-10-24** - [PH今日热榜-|-2026-10-24](https://decohack.com/producthunt-daily-2026-10-24/)
 
