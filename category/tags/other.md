@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-28 22:44:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-29 22:53:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -204,6 +204,10 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2026-10-29-PH今日热榜-|-2026-10-29](https://decohack.com/producthunt-daily-2026-10-29/) 
+- [2026-10-28-PH今日热榜-|-2026-10-28](https://decohack.com/producthunt-daily-2026-10-28/) 
+- [2026-10-27-PH今日热榜-|-2026-10-27](https://decohack.com/producthunt-daily-2026-10-27/) 
+- [2026-10-26-PH今日热榜-|-2026-10-26](https://decohack.com/producthunt-daily-2026-10-26/) 
 - [2026-10-25-PH今日热榜-|-2026-10-25](https://decohack.com/producthunt-daily-2026-10-25/) 
 - [2026-10-24-PH今日热榜-|-2026-10-24](https://decohack.com/producthunt-daily-2026-10-24/) 
 - [2026-10-23-PH今日热榜-|-2026-10-23](https://decohack.com/producthunt-daily-2026-10-23/) 

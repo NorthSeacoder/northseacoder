@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,660+</h3>
+      <h3>📚 1,665+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +1</h3>
+      <h3>🚀 +5</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 1</h3>
+      <h3>🆕 2</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,10 +69,18 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>1</strong> 个来源筛选最新的 <strong>1</strong> 条内容
+> 已从 <strong>2</strong> 个来源筛选最新的 <strong>5</strong> 条内容
 
 
-- **2026-10-28** · [The-spyware-hiding-in-old-script-tags](https://frontendfoc.us/issues/764) _(来自 Frontend-Focus)_
+- **2026-10-29** · [Node-security-releases-to-fix-a-Brotli-flaw](https://nodeweekly.com/issues/645) _(来自 Node-Weekly)_
+
+- **2026-10-29** · [PH今日热榜-|-2026-10-29](https://decohack.com/producthunt-daily-2026-10-29/) _(来自 DecoHack-独立开发者的灵感周刊)_
+
+- **2026-10-28** · [PH今日热榜-|-2026-10-28](https://decohack.com/producthunt-daily-2026-10-28/) _(来自 DecoHack-独立开发者的灵感周刊)_
+
+- **2026-10-27** · [PH今日热榜-|-2026-10-27](https://decohack.com/producthunt-daily-2026-10-27/) _(来自 DecoHack-独立开发者的灵感周刊)_
+
+- **2026-10-26** · [PH今日热榜-|-2026-10-26](https://decohack.com/producthunt-daily-2026-10-26/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -95,14 +103,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-10-28 22:44:21 · 🚀 本次新增: +1 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-10-29 22:53:37 · 🚀 本次新增: +5 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly
+    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -110,7 +118,7 @@
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Frontend-Focus
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -130,7 +138,7 @@
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    DecoHack-独立开发者的灵感周刊
+    DecoHack-独立开发者的灵感周刊 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
 </div>
@@ -138,12 +146,14 @@
 ## 文章链接
 
 
-<details>
+<details open>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong>
+  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-10-29** - [Node-security-releases-to-fix-a-Brotli-flaw](https://nodeweekly.com/issues/645) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-10-15** - [The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644)
 
@@ -182,8 +192,6 @@
 - **2026-06-04** - [Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)
 
 - **2026-05-28** - [Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)
-
-- **2026-05-21** - [Should-we-rewrite-Node.js-in-Rust?](https://nodeweekly.com/issues/625)
 
 
 <div align="right">
@@ -246,14 +254,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Frontend-Focus</strong>
 </summary>
 <p></p>
 
 
-- **2026-10-28** - [The-spyware-hiding-in-old-script-tags](https://frontendfoc.us/issues/764) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-28** - [The-spyware-hiding-in-old-script-tags](https://frontendfoc.us/issues/764)
 
 - **2026-10-21** - [Ten-CSS-features-worth-voting-for](https://frontendfoc.us/issues/763)
 
@@ -516,12 +524,20 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="decohack-独立开发者的灵感周刊">
-  <strong>DecoHack-独立开发者的灵感周刊</strong>
+  <strong>DecoHack-独立开发者的灵感周刊</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-10-29** - [PH今日热榜-|-2026-10-29](https://decohack.com/producthunt-daily-2026-10-29/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-10-28** - [PH今日热榜-|-2026-10-28](https://decohack.com/producthunt-daily-2026-10-28/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-10-27** - [PH今日热榜-|-2026-10-27](https://decohack.com/producthunt-daily-2026-10-27/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-10-26** - [PH今日热榜-|-2026-10-26](https://decohack.com/producthunt-daily-2026-10-26/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-10-25** - [PH今日热榜-|-2026-10-25](https://decohack.com/producthunt-daily-2026-10-25/)
 
@@ -554,14 +570,6 @@
 - **2026-10-11** - [PH今日热榜-|-2026-10-11](https://decohack.com/producthunt-daily-2026-10-11/)
 
 - **2026-10-10** - [PH今日热榜-|-2026-10-10](https://decohack.com/producthunt-daily-2026-10-10/)
-
-- **2026-10-09** - [PH今日热榜-|-2026-10-09](https://decohack.com/producthunt-daily-2026-10-09/)
-
-- **2026-10-08** - [PH今日热榜-|-2026-10-08](https://decohack.com/producthunt-daily-2026-10-08/)
-
-- **2026-10-07** - [PH今日热榜-|-2026-10-07](https://decohack.com/producthunt-daily-2026-10-07/)
-
-- **2026-10-06** - [PH今日热榜-|-2026-10-06](https://decohack.com/producthunt-daily-2026-10-06/)
 
 
 <div align="right">
