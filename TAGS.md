@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-10-29 22:53:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-10-30 22:32:45。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -42,6 +42,7 @@
 - [【JavaScript-Weekly】MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781)
 - [【JavaScript-Weekly】React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】TanStack's-smaller-React-for-the-browser](https://react.statuscode.com/issues/495)
 - [【React-Status】Next.js-16.4,-and-a-new-way-to-visualize-React-apps](https://react.statuscode.com/issues/493)
 - [【React-Status】Signals-come-to-React-Redux](https://react.statuscode.com/issues/492)
 - [【React-Status】Why-Shopify-is-moving-off-React-Native](https://react.statuscode.com/issues/490)
@@ -57,7 +58,6 @@
 - [【React-Status】A-React-optimization-case-study-from-GitHub](https://react.statuscode.com/issues/469)
 - [【React-Status】How-to-roll-your-own-server-side-React-framework](https://react.statuscode.com/issues/467)
 - [【React-Status】How-React’s-Activity-component-helps-keep-state-alive](https://react.statuscode.com/issues/465)
-- [【React-Status】Building-bulletproof-React-components-and-handling-billion-row-tables](https://react.statuscode.com/issues/462)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -401,6 +401,7 @@
 
 - [【Frontend-Focus】Writing-for-AI,-the-new-SEO?](https://frontendfoc.us/issues/694)
 - [【淘系前端团队】VS-Code-是如何优化启动性能的？](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)
+- [【张鑫旭-鑫空间-鑫生活】懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/)
 - [【张鑫旭-鑫空间-鑫生活】聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/)
 - [......【查看更多】......](/category/tags/optimization.md)
 

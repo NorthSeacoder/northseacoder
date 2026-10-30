@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,665+</h3>
+      <h3>📚 1,667+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,7 +56,7 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +5</h3>
+      <h3>🚀 +2</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
@@ -69,18 +69,12 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>2</strong> 个来源筛选最新的 <strong>5</strong> 条内容
+> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-10-29** · [Node-security-releases-to-fix-a-Brotli-flaw](https://nodeweekly.com/issues/645) _(来自 Node-Weekly)_
+- **2026-10-30** · [TanStack's-smaller-React-for-the-browser](https://react.statuscode.com/issues/495) _(来自 React-Status)_
 
-- **2026-10-29** · [PH今日热榜-|-2026-10-29](https://decohack.com/producthunt-daily-2026-10-29/) _(来自 DecoHack-独立开发者的灵感周刊)_
-
-- **2026-10-28** · [PH今日热榜-|-2026-10-28](https://decohack.com/producthunt-daily-2026-10-28/) _(来自 DecoHack-独立开发者的灵感周刊)_
-
-- **2026-10-27** · [PH今日热榜-|-2026-10-27](https://decohack.com/producthunt-daily-2026-10-27/) _(来自 DecoHack-独立开发者的灵感周刊)_
-
-- **2026-10-26** · [PH今日热榜-|-2026-10-26](https://decohack.com/producthunt-daily-2026-10-26/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-10-30** · [懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/) _(来自 张鑫旭-鑫空间-鑫生活)_
 
 
 
@@ -103,14 +97,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-10-29 22:53:37 · 🚀 本次新增: +5 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-10-30 22:32:45 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Node-Weekly
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -122,7 +116,7 @@
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    React-Status
+    React-Status <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#淘系前端团队" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -130,7 +124,7 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活
+    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -138,7 +132,7 @@
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    DecoHack-独立开发者的灵感周刊 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    DecoHack-独立开发者的灵感周刊
   </a>
 
 </div>
@@ -146,14 +140,14 @@
 ## 文章链接
 
 
-<details open>
+<details>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Node-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2026-10-29** - [Node-security-releases-to-fix-a-Brotli-flaw](https://nodeweekly.com/issues/645) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-29** - [Node-security-releases-to-fix-a-Brotli-flaw](https://nodeweekly.com/issues/645)
 
 - **2026-10-15** - [The-NodeConf-EU-2026-talks-are-online](https://nodeweekly.com/issues/644)
 
@@ -308,12 +302,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="react-status">
-  <strong>React-Status</strong>
+  <strong>React-Status</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-10-30** - [TanStack's-smaller-React-for-the-browser](https://react.statuscode.com/issues/495) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-10-23** - [TanStack-Start-is-finally-stable](https://react.statuscode.com/issues/494)
 
@@ -352,8 +348,6 @@
 - **2026-06-05** - [Every-TanStack-project-all-at-once](https://react.statuscode.com/issues/477)
 
 - **2026-05-29** - [🎉-React-turns-13-years-old-today](https://react.statuscode.com/issues/476)
-
-- **2026-05-22** - [RSCs-in-TanStack:-better-than-Next.js?](https://react.statuscode.com/issues/475)
 
 
 <div align="right">
@@ -416,12 +410,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong>
+  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-10-30** - [懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-10-26** - [算了，还是讲下named-feature-@supports规则检测吧](https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/)
 
@@ -460,8 +456,6 @@
 - **2026-07-09** - [前端快讯：setHTML和Element.startViewTransition已支持](https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/)
 
 - **2026-07-07** - [AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/)
-
-- **2026-06-29** - [浏览器原生支持JSON模块导入与开发啦！](https://www.zhangxinxu.com/wordpress/2026/06/native-json-module-import/)
 
 
 <div align="right">
@@ -524,20 +518,20 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="decohack-独立开发者的灵感周刊">
-  <strong>DecoHack-独立开发者的灵感周刊</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>DecoHack-独立开发者的灵感周刊</strong>
 </summary>
 <p></p>
 
 
-- **2026-10-29** - [PH今日热榜-|-2026-10-29](https://decohack.com/producthunt-daily-2026-10-29/) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-29** - [PH今日热榜-|-2026-10-29](https://decohack.com/producthunt-daily-2026-10-29/)
 
-- **2026-10-28** - [PH今日热榜-|-2026-10-28](https://decohack.com/producthunt-daily-2026-10-28/) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-28** - [PH今日热榜-|-2026-10-28](https://decohack.com/producthunt-daily-2026-10-28/)
 
-- **2026-10-27** - [PH今日热榜-|-2026-10-27](https://decohack.com/producthunt-daily-2026-10-27/) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-27** - [PH今日热榜-|-2026-10-27](https://decohack.com/producthunt-daily-2026-10-27/)
 
-- **2026-10-26** - [PH今日热榜-|-2026-10-26](https://decohack.com/producthunt-daily-2026-10-26/) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-26** - [PH今日热榜-|-2026-10-26](https://decohack.com/producthunt-daily-2026-10-26/)
 
 - **2026-10-25** - [PH今日热榜-|-2026-10-25](https://decohack.com/producthunt-daily-2026-10-25/)
 
