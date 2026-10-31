@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-10-30 22:32:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-10-31 21:46:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -17,3 +17,4 @@
 - [2024-11-10-趁热打铁，SVG-feColorMatrix滤镜gogogo!](https://www.zhangxinxu.com/wordpress/2024/11/svg-fecolormatrix-filter/) 
 - [2024-09-08-搞懂SVG中各种Light相关的光源滤镜](https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/) 
 - [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/) 
+- [2026-10-16-科技爱好者周刊（第-415-期）：3D-版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) 

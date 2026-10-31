@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-10-30 22:32:45。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-10-31 21:46:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -365,6 +365,7 @@
 - [【张鑫旭-鑫空间-鑫生活】趁热打铁，SVG-feColorMatrix滤镜gogogo!](https://www.zhangxinxu.com/wordpress/2024/11/svg-fecolormatrix-filter/)
 - [【张鑫旭-鑫空间-鑫生活】搞懂SVG中各种Light相关的光源滤镜](https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/)
 - [【张鑫旭-鑫空间-鑫生活】做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/)
+- [【阮一峰的网络日志】科技爱好者周刊（第-415-期）：3D-版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html)
 - [......【查看更多】......](/category/tags/canvas-image.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
