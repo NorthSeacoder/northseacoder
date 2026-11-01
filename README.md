@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,670+</h3>
+      <h3>📚 1,672+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,7 +56,7 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +3</h3>
+      <h3>🚀 +2</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
@@ -69,14 +69,12 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>1</strong> 个来源筛选最新的 <strong>3</strong> 条内容
+> 已从 <strong>1</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-10-30** · [科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) _(来自 阮一峰的网络日志)_
+- **2026-10-31** · [PH今日热榜-|-2026-10-31](https://decohack.com/producthunt-daily-2026-10-31/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
-- **2026-10-23** · [科技爱好者周刊（第-416-期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) _(来自 阮一峰的网络日志)_
-
-- **2026-10-16** · [科技爱好者周刊（第-415-期）：3D-版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) _(来自 阮一峰的网络日志)_
+- **2026-10-30** · [PH今日热榜-|-2026-10-30](https://decohack.com/producthunt-daily-2026-10-30/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -99,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-10-31 21:46:27 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-11-01 06:34:01 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -130,11 +128,11 @@
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    阮一峰的网络日志 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    阮一峰的网络日志
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    DecoHack-独立开发者的灵感周刊
+    DecoHack-独立开发者的灵感周刊 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
 </div>
@@ -466,18 +464,18 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="阮一峰的网络日志">
-  <strong>阮一峰的网络日志</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>阮一峰的网络日志</strong>
 </summary>
 <p></p>
 
 
-- **2026-10-30** - [科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-30** - [科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)
 
-- **2026-10-23** - [科技爱好者周刊（第-416-期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-23** - [科技爱好者周刊（第-416-期）：编程已经面目全非](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-416.html)
 
-- **2026-10-16** - [科技爱好者周刊（第-415-期）：3D-版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html) <img src="/assets/new.png" alt="NEW" />
+- **2026-10-16** - [科技爱好者周刊（第-415-期）：3D-版《看不见的城市》](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-415.html)
 
 - **2026-09-18** - [科技爱好者周刊（第-413-期）：再见了，React-Native](http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html)
 
@@ -520,12 +518,16 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="decohack-独立开发者的灵感周刊">
-  <strong>DecoHack-独立开发者的灵感周刊</strong>
+  <strong>DecoHack-独立开发者的灵感周刊</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-10-31** - [PH今日热榜-|-2026-10-31](https://decohack.com/producthunt-daily-2026-10-31/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-10-30** - [PH今日热榜-|-2026-10-30](https://decohack.com/producthunt-daily-2026-10-30/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-10-29** - [PH今日热榜-|-2026-10-29](https://decohack.com/producthunt-daily-2026-10-29/)
 
@@ -562,10 +564,6 @@
 - **2026-10-13** - [PH今日热榜-|-2026-10-13](https://decohack.com/producthunt-daily-2026-10-13/)
 
 - **2026-10-12** - [PH今日热榜-|-2026-10-12](https://decohack.com/producthunt-daily-2026-10-12/)
-
-- **2026-10-11** - [PH今日热榜-|-2026-10-11](https://decohack.com/producthunt-daily-2026-10-11/)
-
-- **2026-10-10** - [PH今日热榜-|-2026-10-10](https://decohack.com/producthunt-daily-2026-10-10/)
 
 
 <div align="right">
