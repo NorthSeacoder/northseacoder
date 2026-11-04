@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-03 23:32:38。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-11-04 23:50:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -427,6 +427,7 @@
 - [【JavaScript-Weekly】A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)
 - [【JavaScript-Weekly】Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)
 - [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
+- [【Frontend-Focus】Safari-will-'dark-mode'-your-site-for-you](https://frontendfoc.us/issues/765)
 - [【Frontend-Focus】JPEG-XL-finally-ships-in-Chrome](https://frontendfoc.us/issues/761)
 - [【Frontend-Focus】The-amazingly-versatile-conic-gradient](https://frontendfoc.us/issues/752)
 - [【Frontend-Focus】Safari's-58-new-features](https://frontendfoc.us/issues/745)
@@ -439,7 +440,6 @@
 - [【Frontend-Focus】Might-Google-be-forced-to-sell-Chrome?](https://frontendfoc.us/issues/669)
 - [【Frontend-Focus】Are-you-using-container-queries-yet?](https://frontendfoc.us/issues/667)
 - [【Frontend-Focus】New-iOS,-new-macOS,-so-there's-a-new-Safari,-too.](https://frontendfoc.us/issues/660)
-- [【Frontend-Focus】W3C-doubles-down:-'Third-party-cookies-have-to-go'](https://frontendfoc.us/issues/654)
 - [......【查看更多】......](/category/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
