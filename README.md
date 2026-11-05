@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,678+</h3>
+      <h3>📚 1,681+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -56,11 +56,11 @@
       <p>实时监听 RSS 源</p>
     </td>
     <td align="center">
-      <h3>🚀 +2</h3>
+      <h3>🚀 +3</h3>
       <p>本次新增内容</p>
     </td>
     <td align="center">
-      <h3>🆕 2</h3>
+      <h3>🆕 3</h3>
       <p>本轮有更新的订阅源</p>
     </td>
   </tr>
@@ -69,12 +69,14 @@
 
 ## 🌟 最近更新亮点
 
-> 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
+> 已从 <strong>3</strong> 个来源筛选最新的 <strong>3</strong> 条内容
 
 
-- **2026-11-04** · [Safari-will-'dark-mode'-your-site-for-you](https://frontendfoc.us/issues/765) _(来自 Frontend-Focus)_
+- **2026-11-05** · [Node-27's-first-alpha-brings-breaking-changes](https://nodeweekly.com/issues/646) _(来自 Node-Weekly)_
 
-- **2026-11-04** · [PH今日热榜-|-2026-11-04](https://decohack.com/producthunt-daily-2026-11-04/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-11-05** · [科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) _(来自 阮一峰的网络日志)_
+
+- **2026-11-05** · [PH今日热榜-|-2026-11-05](https://decohack.com/producthunt-daily-2026-11-05/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,14 +99,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-11-04 23:50:53 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-11-05 23:45:25 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly
+    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -112,7 +114,7 @@
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Frontend-Focus <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Frontend-Focus
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -128,7 +130,7 @@
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    阮一峰的网络日志
+    阮一峰的网络日志 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -140,12 +142,14 @@
 ## 文章链接
 
 
-<details>
+<details open>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong>
+  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-11-05** - [Node-27's-first-alpha-brings-breaking-changes](https://nodeweekly.com/issues/646) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-10-29** - [Node-security-releases-to-fix-a-Brotli-flaw](https://nodeweekly.com/issues/645)
 
@@ -184,8 +188,6 @@
 - **2026-06-11** - [npm-install-is-finally-getting-safer](https://nodeweekly.com/issues/628)
 
 - **2026-06-04** - [Find-better-alternatives-to-npm-packages](https://nodeweekly.com/issues/627)
-
-- **2026-05-28** - [Deno-hits-76%-Node.js-compatibility](https://nodeweekly.com/issues/626)
 
 
 <div align="right">
@@ -248,14 +250,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="frontend-focus">
-  <strong>Frontend-Focus</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Frontend-Focus</strong>
 </summary>
 <p></p>
 
 
-- **2026-11-04** - [Safari-will-'dark-mode'-your-site-for-you](https://frontendfoc.us/issues/765) <img src="/assets/new.png" alt="NEW" />
+- **2026-11-04** - [Safari-will-'dark-mode'-your-site-for-you](https://frontendfoc.us/issues/765)
 
 - **2026-10-28** - [The-spyware-hiding-in-old-script-tags](https://frontendfoc.us/issues/764)
 
@@ -464,12 +466,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="阮一峰的网络日志">
-  <strong>阮一峰的网络日志</strong>
+  <strong>阮一峰的网络日志</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-11-05** - [科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-10-30** - [科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)
 
@@ -509,8 +513,6 @@
 
 - **2026-06-05** - [科技爱好者周刊（第-399-期）：中国-AI-大厂访问记](http://www.ruanyifeng.com/blog/2026/06/weekly-issue-399.html)
 
-- **2026-05-29** - [科技爱好者周刊（第-398-期）：Token-费用难以负担](http://www.ruanyifeng.com/blog/2026/05/weekly-issue-398.html)
-
 
 <div align="right">
 <a href="/category/details/阮一峰的网络日志.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
@@ -525,7 +527,9 @@
 <p></p>
 
 
-- **2026-11-04** - [PH今日热榜-|-2026-11-04](https://decohack.com/producthunt-daily-2026-11-04/) <img src="/assets/new.png" alt="NEW" />
+- **2026-11-05** - [PH今日热榜-|-2026-11-05](https://decohack.com/producthunt-daily-2026-11-05/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-11-04** - [PH今日热榜-|-2026-11-04](https://decohack.com/producthunt-daily-2026-11-04/)
 
 - **2026-11-03** - [PH今日热榜-|-2026-11-03](https://decohack.com/producthunt-daily-2026-11-03/)
 
@@ -562,8 +566,6 @@
 - **2026-10-18** - [PH今日热榜-|-2026-10-18](https://decohack.com/producthunt-daily-2026-10-18/)
 
 - **2026-10-17** - [PH今日热榜-|-2026-10-17](https://decohack.com/producthunt-daily-2026-10-17/)
-
-- **2026-10-16** - [PH今日热榜-|-2026-10-16](https://decohack.com/producthunt-daily-2026-10-16/)
 
 
 <div align="right">
