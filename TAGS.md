@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-05 23:45:25。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-11-06 23:22:07。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -42,6 +42,7 @@
 - [【JavaScript-Weekly】MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781)
 - [【JavaScript-Weekly】React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)
 - [【JavaScript-Weekly】A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)
+- [【React-Status】Redux-Toolkit's-road-to-3.0](https://react.statuscode.com/issues/496)
 - [【React-Status】TanStack's-smaller-React-for-the-browser](https://react.statuscode.com/issues/495)
 - [【React-Status】Next.js-16.4,-and-a-new-way-to-visualize-React-apps](https://react.statuscode.com/issues/493)
 - [【React-Status】Signals-come-to-React-Redux](https://react.statuscode.com/issues/492)
@@ -57,7 +58,6 @@
 - [【React-Status】TanStack-Start-rethinks-React-Server-Components](https://react.statuscode.com/issues/470)
 - [【React-Status】A-React-optimization-case-study-from-GitHub](https://react.statuscode.com/issues/469)
 - [【React-Status】How-to-roll-your-own-server-side-React-framework](https://react.statuscode.com/issues/467)
-- [【React-Status】How-React’s-Activity-component-helps-keep-state-alive](https://react.statuscode.com/issues/465)
 - [......【查看更多】......](/category/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

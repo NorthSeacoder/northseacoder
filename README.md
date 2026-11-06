@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,681+</h3>
+      <h3>📚 1,684+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,11 +72,11 @@
 > 已从 <strong>3</strong> 个来源筛选最新的 <strong>3</strong> 条内容
 
 
-- **2026-11-05** · [Node-27's-first-alpha-brings-breaking-changes](https://nodeweekly.com/issues/646) _(来自 Node-Weekly)_
+- **2026-11-06** · [Redux-Toolkit's-road-to-3.0](https://react.statuscode.com/issues/496) _(来自 React-Status)_
 
-- **2026-11-05** · [科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) _(来自 阮一峰的网络日志)_
+- **2026-11-06** · [JS拖拽交互必用setPointerCapture方法](https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/) _(来自 张鑫旭-鑫空间-鑫生活)_
 
-- **2026-11-05** · [PH今日热榜-|-2026-11-05](https://decohack.com/producthunt-daily-2026-11-05/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-11-06** · [PH今日热榜-|-2026-11-06](https://decohack.com/producthunt-daily-2026-11-06/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -99,14 +99,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-11-05 23:45:25 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-11-06 23:22:07 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Node-Weekly
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -118,7 +118,7 @@
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    React-Status
+    React-Status <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#淘系前端团队" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -126,11 +126,11 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活
+    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    阮一峰的网络日志 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    阮一峰的网络日志
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -142,14 +142,14 @@
 ## 文章链接
 
 
-<details open>
+<details>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Node-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2026-11-05** - [Node-27's-first-alpha-brings-breaking-changes](https://nodeweekly.com/issues/646) <img src="/assets/new.png" alt="NEW" />
+- **2026-11-05** - [Node-27's-first-alpha-brings-breaking-changes](https://nodeweekly.com/issues/646)
 
 - **2026-10-29** - [Node-security-releases-to-fix-a-Brotli-flaw](https://nodeweekly.com/issues/645)
 
@@ -304,12 +304,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="react-status">
-  <strong>React-Status</strong>
+  <strong>React-Status</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-11-06** - [Redux-Toolkit's-road-to-3.0](https://react.statuscode.com/issues/496) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-10-30** - [TanStack's-smaller-React-for-the-browser](https://react.statuscode.com/issues/495)
 
@@ -348,8 +350,6 @@
 - **2026-06-12** - [facebook/react-is-out,-react/react-is-in](https://react.statuscode.com/issues/478)
 
 - **2026-06-05** - [Every-TanStack-project-all-at-once](https://react.statuscode.com/issues/477)
-
-- **2026-05-29** - [🎉-React-turns-13-years-old-today](https://react.statuscode.com/issues/476)
 
 
 <div align="right">
@@ -412,12 +412,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong>
+  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-11-06** - [JS拖拽交互必用setPointerCapture方法](https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-10-30** - [懒加载图片新支持了sizes=”auto”属性，其作用是？](https://www.zhangxinxu.com/wordpress/2026/10/loading-lazy-img-sizes-auto/)
 
@@ -457,8 +459,6 @@
 
 - **2026-07-09** - [前端快讯：setHTML和Element.startViewTransition已支持](https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/)
 
-- **2026-07-07** - [AI时代网站智能体无障碍访问开发指南](https://www.zhangxinxu.com/wordpress/2026/07/ai-agent-accessible-guide/)
-
 
 <div align="right">
 <a href="/category/details/张鑫旭-鑫空间-鑫生活.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
@@ -466,14 +466,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="阮一峰的网络日志">
-  <strong>阮一峰的网络日志</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>阮一峰的网络日志</strong>
 </summary>
 <p></p>
 
 
-- **2026-11-05** - [科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) <img src="/assets/new.png" alt="NEW" />
+- **2026-11-05** - [科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html)
 
 - **2026-10-30** - [科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html)
 
@@ -527,7 +527,9 @@
 <p></p>
 
 
-- **2026-11-05** - [PH今日热榜-|-2026-11-05](https://decohack.com/producthunt-daily-2026-11-05/) <img src="/assets/new.png" alt="NEW" />
+- **2026-11-06** - [PH今日热榜-|-2026-11-06](https://decohack.com/producthunt-daily-2026-11-06/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-11-05** - [PH今日热榜-|-2026-11-05](https://decohack.com/producthunt-daily-2026-11-05/)
 
 - **2026-11-04** - [PH今日热榜-|-2026-11-04](https://decohack.com/producthunt-daily-2026-11-04/)
 
@@ -564,8 +566,6 @@
 - **2026-10-19** - [PH今日热榜-|-2026-10-19](https://decohack.com/producthunt-daily-2026-10-19/)
 
 - **2026-10-18** - [PH今日热榜-|-2026-10-18](https://decohack.com/producthunt-daily-2026-10-18/)
-
-- **2026-10-17** - [PH今日热榜-|-2026-10-17](https://decohack.com/producthunt-daily-2026-10-17/)
 
 
 <div align="right">
