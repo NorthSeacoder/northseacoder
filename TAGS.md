@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-08 22:19:11。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-11-10 23:37:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -550,8 +550,8 @@
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
+- [【JavaScript-Weekly】How-X-Twitter-is-rebuilding-its-web-app](https://javascriptweekly.com/issues/810)
 - [【JavaScript-Weekly】Why-don't-more-developers-'use-the-platform'?](https://javascriptweekly.com/issues/805)
-- [【JavaScript-Weekly】When-8-chunks-weigh-more-than-355](https://javascriptweekly.com/issues/801)
 - [......【查看更多】......](/category/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
