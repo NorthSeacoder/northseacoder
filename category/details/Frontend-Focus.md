@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-11-04 23:50:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-12 00:54:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Frontend-Focus
 
 
 
 
+- [2026-11-11-Responsive-design-is-more-than-resizing-a-window](https://frontendfoc.us/issues/766) 
 - [2026-11-04-Safari-will-'dark-mode'-your-site-for-you](https://frontendfoc.us/issues/765) 
 - [2026-10-28-The-spyware-hiding-in-old-script-tags](https://frontendfoc.us/issues/764) 
 - [2026-10-21-Ten-CSS-features-worth-voting-for](https://frontendfoc.us/issues/763) 
