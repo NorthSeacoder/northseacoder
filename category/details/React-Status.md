@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-11-06 23:22:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-13 23:45:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React-Status
 
 
 
 
+- [2026-11-13-shadcn's-next-thing:-UI-SDK](https://react.statuscode.com/issues/497) 
 - [2026-11-06-Redux-Toolkit's-road-to-3.0](https://react.statuscode.com/issues/496) 
 - [2026-10-30-TanStack's-smaller-React-for-the-browser](https://react.statuscode.com/issues/495) 
 - [2026-10-23-TanStack-Start-is-finally-stable](https://react.statuscode.com/issues/494) 
