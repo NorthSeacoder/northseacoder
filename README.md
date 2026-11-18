@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,699+</h3>
+      <h3>📚 1,701+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,9 +72,9 @@
 > 已从 <strong>2</strong> 个来源筛选最新的 <strong>2</strong> 条内容
 
 
-- **2026-11-16** · [CSS终于支持random随机函数了，等死老子了](https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/) _(来自 张鑫旭-鑫空间-鑫生活)_
+- **2026-11-17** · [The-top-10-things-AI-gets-wrong-in-web-development](https://javascriptweekly.com/issues/811) _(来自 JavaScript-Weekly)_
 
-- **2026-11-16** · [PH今日热榜-|-2026-11-16](https://decohack.com/producthunt-daily-2026-11-16/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-11-17** · [PH今日热榜-|-2026-11-17](https://decohack.com/producthunt-daily-2026-11-17/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -97,7 +97,7 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-11-17 01:56:01 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-11-18 01:06:44 · 🚀 本次新增: +2 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
@@ -108,7 +108,7 @@
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    JavaScript-Weekly
+    JavaScript-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#frontend-focus" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -124,7 +124,7 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    张鑫旭-鑫空间-鑫生活
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -194,12 +194,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="javascript-weekly">
-  <strong>JavaScript-Weekly</strong>
+  <strong>JavaScript-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-11-17** - [The-top-10-things-AI-gets-wrong-in-web-development](https://javascriptweekly.com/issues/811) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-11-10** - [How-X-Twitter-is-rebuilding-its-web-app](https://javascriptweekly.com/issues/810)
 
@@ -238,8 +240,6 @@
 - **2026-07-07** - [What's-new-in-ECMAScript-2026-and-usable-today](https://javascriptweekly.com/issues/793)
 
 - **2026-06-30** - [Will-npm-v12-reject-your-.npmrc?](https://javascriptweekly.com/issues/792)
-
-- **2026-06-23** - [Babel-8.0,-Vite-8.1,-and-TypeScript-7.0-RC](https://javascriptweekly.com/issues/791)
 
 
 <div align="right">
@@ -410,14 +410,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>张鑫旭-鑫空间-鑫生活</strong>
 </summary>
 <p></p>
 
 
-- **2026-11-16** - [CSS终于支持random随机函数了，等死老子了](https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/) <img src="/assets/new.png" alt="NEW" />
+- **2026-11-16** - [CSS终于支持random随机函数了，等死老子了](https://www.zhangxinxu.com/wordpress/2026/11/css-math-random/)
 
 - **2026-11-06** - [JS拖拽交互必用setPointerCapture方法](https://www.zhangxinxu.com/wordpress/2026/11/js-drag-set-pointer-capture/)
 
@@ -525,7 +525,9 @@
 <p></p>
 
 
-- **2026-11-16** - [PH今日热榜-|-2026-11-16](https://decohack.com/producthunt-daily-2026-11-16/) <img src="/assets/new.png" alt="NEW" />
+- **2026-11-17** - [PH今日热榜-|-2026-11-17](https://decohack.com/producthunt-daily-2026-11-17/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-11-16** - [PH今日热榜-|-2026-11-16](https://decohack.com/producthunt-daily-2026-11-16/)
 
 - **2026-11-15** - [PH今日热榜-|-2026-11-15](https://decohack.com/producthunt-daily-2026-11-15/)
 
@@ -562,8 +564,6 @@
 - **2026-10-29** - [PH今日热榜-|-2026-10-29](https://decohack.com/producthunt-daily-2026-10-29/)
 
 - **2026-10-28** - [PH今日热榜-|-2026-10-28](https://decohack.com/producthunt-daily-2026-10-28/)
-
-- **2026-10-27** - [PH今日热榜-|-2026-10-27](https://decohack.com/producthunt-daily-2026-10-27/)
 
 
 <div align="right">

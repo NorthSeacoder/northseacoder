@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-17 01:56:01。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-11-18 01:06:44。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -423,6 +423,7 @@
 - [【Node-Weekly】Tough-cookies](https://nodeweekly.com/issues/548)
 - [【Node-Weekly】Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
+- [【JavaScript-Weekly】The-top-10-things-AI-gets-wrong-in-web-development](https://javascriptweekly.com/issues/811)
 - [【JavaScript-Weekly】Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774)
 - [【JavaScript-Weekly】A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)
 - [【JavaScript-Weekly】Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)
@@ -439,7 +440,6 @@
 - [【Frontend-Focus】19-Web-features-getting-broader-support-in-2025](https://frontendfoc.us/issues/680)
 - [【Frontend-Focus】Might-Google-be-forced-to-sell-Chrome?](https://frontendfoc.us/issues/669)
 - [【Frontend-Focus】Are-you-using-container-queries-yet?](https://frontendfoc.us/issues/667)
-- [【Frontend-Focus】New-iOS,-new-macOS,-so-there's-a-new-Safari,-too.](https://frontendfoc.us/issues/660)
 - [......【查看更多】......](/category/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
