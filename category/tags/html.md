@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-18 01:06:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-19 00:37:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,6 +7,7 @@
 
 
 
+- [2026-11-18-What-developers-think-of-HTML-right-now](https://frontendfoc.us/issues/767) 
 - [2026-09-09-What's-new-in-HTML-for-2026](https://frontendfoc.us/issues/757) 
 - [2026-09-02-htmx-4.0-takes-HTML-driven-apps-further](https://frontendfoc.us/issues/756) 
 - [2026-05-13-A-new-HTML-element-for-installing-web-apps](https://frontendfoc.us/issues/741) 

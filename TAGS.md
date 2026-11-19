@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-18 01:06:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-11-19 00:37:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -319,6 +319,7 @@
 
 
 
+- [【Frontend-Focus】What-developers-think-of-HTML-right-now](https://frontendfoc.us/issues/767)
 - [【Frontend-Focus】What's-new-in-HTML-for-2026](https://frontendfoc.us/issues/757)
 - [【Frontend-Focus】htmx-4.0-takes-HTML-driven-apps-further](https://frontendfoc.us/issues/756)
 - [【Frontend-Focus】A-new-HTML-element-for-installing-web-apps](https://frontendfoc.us/issues/741)
@@ -338,7 +339,6 @@
 - [【张鑫旭-鑫空间-鑫生活】HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)
 - [【张鑫旭-鑫空间-鑫生活】光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)
-- [【张鑫旭-鑫空间-鑫生活】HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)
 - [......【查看更多】......](/category/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
