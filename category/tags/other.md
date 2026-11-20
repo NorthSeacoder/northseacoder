@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-19 00:37:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-20 00:45:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -183,6 +183,7 @@
 - [2023-07-25-5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/) 
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/) 
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/) 
+- [2026-11-20-科技爱好者周刊（第-420-期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html) 
 - [2026-11-13-科技爱好者周刊（第-419-期）：机房来了，写字楼走了](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html) 
 - [2026-11-05-科技爱好者周刊（第-418-期）：如果科技停止在21世纪初](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html) 
 - [2026-10-30-科技爱好者周刊（第-417-期）：不要让-AI-代表你](http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html) 
@@ -211,6 +212,7 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2026-11-19-PH今日热榜-|-2026-11-19](https://decohack.com/producthunt-daily-2026-11-19/) 
 - [2026-11-18-PH今日热榜-|-2026-11-18](https://decohack.com/producthunt-daily-2026-11-18/) 
 - [2026-11-17-PH今日热榜-|-2026-11-17](https://decohack.com/producthunt-daily-2026-11-17/) 
 - [2026-11-16-PH今日热榜-|-2026-11-16](https://decohack.com/producthunt-daily-2026-11-16/) 
