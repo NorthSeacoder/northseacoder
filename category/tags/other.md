@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-11-20 00:45:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-11-21 00:05:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -159,6 +159,7 @@
 - [2020-08-27-入职一年多的一些思考](https://fed.taobao.org/blog/taofed/do71ct/sxz5ap) 
 - [2020-08-21-阿里实习-90-天：从实习生的视角谈谈个人成长](https://fed.taobao.org/blog/taofed/do71ct/acbnym) 
 - [2020-08-20-什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc) 
+- [2026-11-20-继textarea之后，iframe也自适应大小啦！](https://www.zhangxinxu.com/wordpress/2026/11/ifmame-sizing-content/) 
 - [2026-10-26-算了，还是讲下named-feature-@supports规则检测吧](https://www.zhangxinxu.com/wordpress/2026/10/css-supports-named-feature/) 
 - [2026-09-15-新时代下的tooltip提示效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/09/best-tooltip-effect/) 
 - [2026-09-10-关键时刻可以救命的Web-Locks-API](https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/) 
@@ -212,6 +213,7 @@
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) 
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) 
 - [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) 
+- [2026-11-20-PH今日热榜-|-2026-11-20](https://decohack.com/producthunt-daily-2026-11-20/) 
 - [2026-11-19-PH今日热榜-|-2026-11-19](https://decohack.com/producthunt-daily-2026-11-19/) 
 - [2026-11-18-PH今日热榜-|-2026-11-18](https://decohack.com/producthunt-daily-2026-11-18/) 
 - [2026-11-17-PH今日热榜-|-2026-11-17](https://decohack.com/producthunt-daily-2026-11-17/) 
