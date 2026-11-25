@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-11-24 04:00:33。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-11-25 02:41:10。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -140,11 +140,11 @@
 - [【Node-Weekly】The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)
 - [【Node-Weekly】Polyfills-gone-rogue](https://nodeweekly.com/issues/503)
 - [【Node-Weekly】You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)
+- [【JavaScript-Weekly】Bundler-free-npm-imports-in-the-browser](https://javascriptweekly.com/issues/812)
 - [【JavaScript-Weekly】Will-npm-v12-reject-your-.npmrc?](https://javascriptweekly.com/issues/792)
 - [【JavaScript-Weekly】How-to-vet-an-npm-package-in-2026](https://javascriptweekly.com/issues/788)
 - [【JavaScript-Weekly】npm-and-pnpm-introduce-staged-publishing](https://javascriptweekly.com/issues/787)
 - [【JavaScript-Weekly】Cryptographically-valid-malware-hits-npm](https://javascriptweekly.com/issues/785)
-- [【JavaScript-Weekly】A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)
 - [......【查看更多】......](/category/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
