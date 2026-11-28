@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <h3>📚 1,719+</h3>
+      <h3>📚 1,722+</h3>
       <p>累计收录前端优质文章</p>
     </td>
     <td align="center">
@@ -72,11 +72,11 @@
 > 已从 <strong>3</strong> 个来源筛选最新的 <strong>3</strong> 条内容
 
 
-- **2026-11-27** · [科技爱好者周刊（第-421-期）：AI-的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html) _(来自 阮一峰的网络日志)_
+- **2026-11-27** · [Ricky-Hanlon-leaves-Meta-but-not-React](https://react.statuscode.com/issues/499) _(来自 React-Status)_
 
-- **2026-11-26** · [node:sqlite-marked-stable](https://nodeweekly.com/issues/649) _(来自 Node-Weekly)_
+- **2026-11-27** · [第一次使用AI-+-Figma-MCP开发网页小结](https://www.zhangxinxu.com/wordpress/2026/11/ai-figma-mcp/) _(来自 张鑫旭-鑫空间-鑫生活)_
 
-- **2026-11-26** · [PH今日热榜-|-2026-11-26](https://decohack.com/producthunt-daily-2026-11-26/) _(来自 DecoHack-独立开发者的灵感周刊)_
+- **2026-11-27** · [PH今日热榜-|-2026-11-27](https://decohack.com/producthunt-daily-2026-11-27/) _(来自 DecoHack-独立开发者的灵感周刊)_
 
 
 
@@ -99,14 +99,14 @@
 - 默认从 [`data/rss.json`](./data/rss.json) 读取 RSS 订阅配置
 - 支持通过环境变量 `RSS_FEEDS` / `RSS_CONFIG` 覆盖，详见 [RSS 配置说明](./RSS_CONFIG.md)
 
-> ⏰ 更新时间: 2026-11-27 01:50:59 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
+> ⏰ 更新时间: 2026-11-28 01:33:08 · 🚀 本次新增: +3 · ![](/assets/dot.png) 表示有更新 · [文章分类](./TAGS.md)
 
 ## 文章来源
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin: 1.25rem 0 2rem;">
 
   <a href="#node-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    Node-Weekly <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    Node-Weekly
   </a>
 
   <a href="#javascript-weekly" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -118,7 +118,7 @@
   </a>
 
   <a href="#react-status" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    React-Status
+    React-Status <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#淘系前端团队" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -126,11 +126,11 @@
   </a>
 
   <a href="#张鑫旭-鑫空间-鑫生活" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    张鑫旭-鑫空间-鑫生活
+    张鑫旭-鑫空间-鑫生活 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
   </a>
 
   <a href="#阮一峰的网络日志" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
-    阮一峰的网络日志 <img src="/assets/dot.png" alt="本次有更新" style="vertical-align: middle; margin-left: 0.25rem; width: 12px; height: 12px;" />
+    阮一峰的网络日志
   </a>
 
   <a href="#decohack-独立开发者的灵感周刊" style="padding: 0.45rem 0.9rem; border: 1px solid #d0d7de; border-radius: 999px; text-decoration: none; color: inherit; font-weight: 500; background: #f6f8fa;">
@@ -142,14 +142,14 @@
 ## 文章链接
 
 
-<details open>
+<details>
 <summary id="node-weekly">
-  <strong>Node-Weekly</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>Node-Weekly</strong>
 </summary>
 <p></p>
 
 
-- **2026-11-26** - [node:sqlite-marked-stable](https://nodeweekly.com/issues/649) <img src="/assets/new.png" alt="NEW" />
+- **2026-11-26** - [node:sqlite-marked-stable](https://nodeweekly.com/issues/649)
 
 - **2026-11-19** - [Time-travel-debugging-for-Node](https://nodeweekly.com/issues/648)
 
@@ -304,12 +304,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="react-status">
-  <strong>React-Status</strong>
+  <strong>React-Status</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-11-27** - [Ricky-Hanlon-leaves-Meta-but-not-React](https://react.statuscode.com/issues/499) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-11-20** - [Why-Next.js-has-had-so-many-security-advisories](https://react.statuscode.com/issues/498)
 
@@ -348,8 +350,6 @@
 - **2026-07-03** - [Meta-releases-its-React-design-system](https://react.statuscode.com/issues/481)
 
 - **2026-06-26** - [Dan-Abramov-joins-the-Next.js-team](https://react.statuscode.com/issues/480)
-
-- **2026-06-19** - [React-Router-v8-is-boring-but-good](https://react.statuscode.com/issues/479)
 
 
 <div align="right">
@@ -412,12 +412,14 @@
 </details>
 
 
-<details>
+<details open>
 <summary id="张鑫旭-鑫空间-鑫生活">
-  <strong>张鑫旭-鑫空间-鑫生活</strong>
+  <strong>张鑫旭-鑫空间-鑫生活</strong> <img src="/assets/dot.png" alt="本次有更新" />
 </summary>
 <p></p>
 
+
+- **2026-11-27** - [第一次使用AI-+-Figma-MCP开发网页小结](https://www.zhangxinxu.com/wordpress/2026/11/ai-figma-mcp/) <img src="/assets/new.png" alt="NEW" />
 
 - **2026-11-20** - [继textarea之后，iframe也自适应大小啦！](https://www.zhangxinxu.com/wordpress/2026/11/ifmame-sizing-content/)
 
@@ -457,8 +459,6 @@
 
 - **2026-07-29** - [Screen.isExtended、getScreenDetails与多显示器开发](https://www.zhangxinxu.com/wordpress/2026/07/windows-getscreendetails-isextended/)
 
-- **2026-07-23** - [纯CSS实现repeat–n,-anything循环展示或相加功能](https://www.zhangxinxu.com/wordpress/2026/07/css-custom-repeat-function/)
-
 
 <div align="right">
 <a href="/category/details/张鑫旭-鑫空间-鑫生活.md">查看更多</a> | <a href="#top">⬆ 返回顶部</a>
@@ -466,14 +466,14 @@
 </details>
 
 
-<details open>
+<details>
 <summary id="阮一峰的网络日志">
-  <strong>阮一峰的网络日志</strong> <img src="/assets/dot.png" alt="本次有更新" />
+  <strong>阮一峰的网络日志</strong>
 </summary>
 <p></p>
 
 
-- **2026-11-27** - [科技爱好者周刊（第-421-期）：AI-的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html) <img src="/assets/new.png" alt="NEW" />
+- **2026-11-27** - [科技爱好者周刊（第-421-期）：AI-的疯狂造富](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html)
 
 - **2026-11-20** - [科技爱好者周刊（第-420-期）：最分心的一年](http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html)
 
@@ -527,7 +527,9 @@
 <p></p>
 
 
-- **2026-11-26** - [PH今日热榜-|-2026-11-26](https://decohack.com/producthunt-daily-2026-11-26/) <img src="/assets/new.png" alt="NEW" />
+- **2026-11-27** - [PH今日热榜-|-2026-11-27](https://decohack.com/producthunt-daily-2026-11-27/) <img src="/assets/new.png" alt="NEW" />
+
+- **2026-11-26** - [PH今日热榜-|-2026-11-26](https://decohack.com/producthunt-daily-2026-11-26/)
 
 - **2026-11-25** - [PH今日热榜-|-2026-11-25](https://decohack.com/producthunt-daily-2026-11-25/)
 
@@ -564,8 +566,6 @@
 - **2026-11-08** - [PH今日热榜-|-2026-11-08](https://decohack.com/producthunt-daily-2026-11-08/)
 
 - **2026-11-07** - [PH今日热榜-|-2026-11-07](https://decohack.com/producthunt-daily-2026-11-07/)
-
-- **2026-11-06** - [PH今日热榜-|-2026-11-06](https://decohack.com/producthunt-daily-2026-11-06/)
 
 
 <div align="right">
